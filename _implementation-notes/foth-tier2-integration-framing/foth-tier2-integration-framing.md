@@ -1,6 +1,8 @@
 # FotH Tier 2 — Integration framing additions
 
-**Status:** brainstorm; not yet committed. Lives in `_implementation-notes/` so it stays out of `docs/` and doesn't break the strict build. Establishes the same `_implementation-notes/` convention FotH inherits from IJH (see [[reference-ijh-implementation-notes-convention]] in the parallel IJH repo).
+**Status (updated 2026-05-25 after both passes landed):** **Implemented.** Pass 1 (GD handbook Companion levels) landed in FotH dev `af0c371` / prod `3999e51`. Pass 2 (GO Section 4 Leadership Taxonomy + GS handbook AT cohort goals + GD handbook Appendix C Three Taxonomies note) landed in FotH dev `380ae07` / prod `e180acb`. The user's resolutions of the five open design questions: bold-lead paragraph not standalone header (chosen); opening framing note + closing Integration check sub-section for GO Section 4 (chosen); keep "Pharisee" vocabulary (chosen — "Continue with bashing the Pharisees"); include IJH §4e cross-reference (chosen); include Three Taxonomies note in Pass 2 (chosen). This document is preserved as a historical record of the design conversation.
+
+**Original status:** brainstorm; not yet committed. Lives in `_implementation-notes/` so it stays out of `docs/` and doesn't break the strict build. Establishes the same `_implementation-notes/` convention FotH inherits from IJH (see [[reference-ijh-implementation-notes-convention]] in the parallel IJH repo).
 
 **Date:** 2026-05-25 (draft 1)
 
