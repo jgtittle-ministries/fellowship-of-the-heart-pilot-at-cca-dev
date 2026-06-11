@@ -245,9 +245,9 @@ This is the largest teaching block of Going Deeper so far. Stand at the whiteboa
 
 **FEAR KNOTS**
 
-*Mechanism: the nervous system is in threat-response. Cognitive and spiritual approaches cannot reach the root until the somatic is calmed.*
+*Mechanism: the nervous system is in threat-response. Often a frightened body needs to settle before cognitive or spiritual work can reach the root — and frequently the Spirit Himself brings that quiet (Phil. 4:7).*
 
-*Entry point: somatic. Breath, body awareness, progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 was a somatic-entry exercise; that is why it worked. Once the somatic is calmed, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted,’ ‘I am alone’ — is named; the Spirit speaks specific truth.*
+*Entry point: somatic. Breath, body awareness, progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 is first an encounter with Jesus; that some find it also quiets the body is a gift, not its mechanism. Once the somatic is calmed, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted,’ ‘I am alone’ — is named; the Spirit speaks specific truth.*
 
 **ANGER KNOTS**
 
@@ -521,9 +521,9 @@ Four handouts for Wk 3.
 
 ## Mechanism and entry point
 
-**MECHANISM: the nervous system is in threat-response. The body is on guard against something. Cognitive and spiritual approaches cannot reach the root until the body is calmed.**
+**MECHANISM: the nervous system is in threat-response. The body is on guard against something. Often a frightened body needs to settle before cognitive or spiritual work can reach the root — and frequently the Spirit Himself brings that quiet (Phil. 4:7).**
 
-**ENTRY POINT: somatic. Breath. Body awareness. Progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 was a somatic-entry exercise; that is why it worked.**
+**ENTRY POINT: somatic. Breath. Body awareness. Progressive relaxation. The Garden of Your Heart from Getting Started Wk 7 is first an encounter with Jesus; that some find it also quiets the body is a gift, not its mechanism.**
 
 **SPIRITUAL COMPLETION: after somatic calm, the fear emotion leads to the originating memory; the lie there — ‘I am not safe,’ ‘God cannot be trusted with this,’ ‘I am alone’ — is named; the Spirit speaks specific truth.**
 
@@ -597,7 +597,7 @@ Grief: naming and completing. Are you ready to name what was lost and what was u
 
 Shame: gold and shadow. Are you ready to look at the part you have been hiding?
 
-Fear: somatic entry first. Are you ready to begin with breath and body before the cognitive work?
+Fear: the body often needs to settle first. Are you ready to begin with breath and body, trusting the Spirit to bring His quiet (Phil. 4:7)? And if your body will not calm, that is not a failure — He meets the frightened too (Mark 4:39; 2 Tim. 1:7).
 
 Anger: full naming before release. Are you ready to name the injustice fully before trying to forgive? *(Forgiving means releasing the wrong to God — not reconciling or trusting the person again, and never going back to where you are being harmed.)*
 
