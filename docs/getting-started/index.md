@@ -77,7 +77,7 @@ By Week 10 you will not need the page. By the end of *Going Out* you may be writ
 
 ## Status
 
-**Curriculum draft v1, May 2026.** Pilot edition for the first Covenant Christian Academy cycle (Fall 2026). These materials will change as the cohort teaches us where they are right, where they bend, and where they break. See [`CHANGELOG.md`](CHANGELOG.md) for what shifts between versions.
+**Curriculum draft v1, May 2026.** Pilot edition for the first Covenant Christian Academy cycle. The starting series is designed to launch in any term — fall, spring, or summer — with Going Deeper and Going Out following on the venue's calendar, back-to-back or after a gap; CCA is the current pilot venue, and the model is not CCA-specific. These materials will change as the cohort teaches us where they are right, where they bend, and where they break. See [`CHANGELOG.md`](CHANGELOG.md) for what shifts between versions.
 
 ---
 
