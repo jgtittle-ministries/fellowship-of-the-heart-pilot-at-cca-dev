@@ -1,6 +1,6 @@
 <svg viewBox="0 0 920 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
 <title id="t">The Four Connects</title>
-<desc id="d">The four Connects as a left-to-right sequence — 1. Self (knowing what is inside me: story, heart, questions), 2. Others (being known by one person and knowing them), 3. God (hearing Him in Scripture), and 4. Mission (the works He prepared, Ephesians 2:10). Arrows run from each to the next, because each connection makes the next one real. Rooted in the two great commandments — love God and love neighbor (Matthew 22:37–40).</desc>
+<desc id="d">The four Connects as a left-to-right sequence — 1. Self (knowing what is inside me: story, heart, questions), 2. Others (being known by one person and knowing them), 3. God (hearing and connecting with Him), and 4. Mission (the works He prepared, Ephesians 2:10). Arrows run from each to the next, because each connection makes the next one real. Rooted in the two great commandments — love God and love neighbor (Matthew 22:37–40).</desc>
 <defs>
 <marker id="ag" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#C9851F"/></marker>
 </defs>
@@ -31,8 +31,8 @@
   <!-- 3 God -->
   <rect x="480" y="120" width="185" height="92" rx="12" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.8"/>
   <text x="572" y="150" fill="#C9851F" font-size="16" font-weight="700">3 &#183; God</text>
-  <text x="572" y="172" fill="#6B7280" font-size="10.5">hearing Him</text>
-  <text x="572" y="187" fill="#6B7280" font-size="10.5">in Scripture</text>
+  <text x="572" y="172" fill="#6B7280" font-size="10.5">hearing and</text>
+  <text x="572" y="187" fill="#6B7280" font-size="10.5">connecting with Him</text>
 
   <!-- 4 Mission -->
   <rect x="705" y="120" width="185" height="92" rx="12" fill="#C9851F" fill-opacity="0.10" stroke="#C9851F" stroke-width="2.2"/>
