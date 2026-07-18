@@ -14,35 +14,45 @@ Companions who want the academic backbone of this series will find it in the IJH
 
 ---
 
-## The ten weeks
+## The fifteen weeks
 
 | # | Title | Connect focus | Anchor scripture |
 |---|---|---|---|
 | 1 | [Welcome to the Journey](week-01-welcome.md) | All four (introductory) | John 10:10b |
 | 2 | [The Soil of Your Heart](week-02-soil.md) | Self | Mark 4:1–20 |
-| 3 | [Telling Your Story](week-03-story.md) | Self → Others | Psalm 139:23–24 |
-| 4 | [Knowing and Being Known](week-04-known.md) | Others | Ecclesiastes 4:9–12 |
-| 5 | [Safe and Brave Together](week-05-brave.md) | Others (deepening) | James 5:16; 1 John 1:9 |
-| 6 | [Hearing God in Scripture](week-06-proapt.md) | God | Romans 10:17; Mark 1:14–20 |
-| 7 | [The Garden of Your Heart](week-07-garden.md) | God | John 15:1–11; Psalm 23 |
-| 8 | [Any Doubts?](week-08-doubts.md) | God | Mark 9:24 |
-| 9 | [What Was Prepared for You](week-09-mission.md) | Mission | Ephesians 2:10 |
-| 10 | [Sending and Blessing](week-10-sending.md) | All four (integration) | Numbers 6:24–26; Philippians 1:6 |
+| 3 | [Telling Your Story I](week-03-story.md) | Self → Others | Psalm 139:23–24 |
+| 4 | Telling Your Story II *(second running — teen-led; uses the Week 3 plan)* | Self → Others | Psalm 139:23–24 |
+| 5 | [Knowing and Being Known](week-04-known.md) | Others | Ecclesiastes 4:9–12 |
+| 6 | [Safe and Brave Together](week-05-brave.md) | Others (deepening) | James 5:16; 1 John 1:9 |
+| 7 | [Hearing God in Scripture — PROAPT I](week-06-proapt.md) | God | Romans 10:17; Mark 1:14–20 |
+| 8 | Hearing God — PROAPT II *(second running — teen-led; uses the Week 7 plan)* | God | Romans 10:17 |
+| 9 | [The Garden of Your Heart I](week-07-garden.md) | God | John 15:1–11; Psalm 23 |
+| 10 | The Garden of Your Heart II *(second running — teen-led walk-through; uses the Week 9 plan)* | God | John 15:1–11 |
+| 11 | [Any Doubts?](week-08-doubts.md) | God | Mark 9:24 |
+| 12 | [What Was Prepared for You](week-09-mission.md) | Mission | Ephesians 2:10 |
+| 13 | The Rhythm and the Dry Season *(lesson plan in development — sketch in Handbook §9)* | All four (sustaining) | Galatians 6:9; Psalm 42:1–5 |
+| 14 | [Sending and Blessing](week-10-sending.md) | All four (integration) | Numbers 6:24–26; Philippians 1:6 |
+| 15 | Commissioning the Companions *(lesson plan in development — sketch in Handbook §9)* | All four | 2 Timothy 2:2; 1 Timothy 4:12 |
+
+*A note on the lesson-plan files: the series expanded from ten sessions to fifteen (see the [Companion Handbook](handbook.md) for the full map and rationale). The existing lesson plans still carry their original week numbering in their page headers; the handbook's fifteen-week map is authoritative, and the plans are being renumbered and extended in the next curriculum batch. Second-running weeks (4, 8, 10) deliberately reuse the first running's plan — nothing new is taught; a Companion-in-Formation leads.*
 
 ---
 
 ## The arc
 
-The ten weeks are not ten independent lessons. They are one walk through the Four Connects in sequence:
+The fifteen weeks are not fifteen independent lessons. They are one walk through the Four Connects in sequence:
 
 - **Week 1** opens the container. The whole cohort meets the form for the first time.
-- **Weeks 2–3** are **Connecting with Self** — the Heart Soil diagnostic from Mark 4, then the practice of telling your story to a small circle.
-- **Weeks 4–5** are **Connecting with Others** — naming the four conditions of a real container (Safe, Present, Clear, Intentional), then practicing confession-and-restoration together.
-- **Weeks 6–8** are **Connecting with God** — PROAPT as a hearing practice in scripture, the Garden of Your Heart as a relational encounter, the Any Doubts? practice for the gap between what we say and what we trust.
-- **Week 9** opens **Connecting with Mission** — uphill mission and downhill mission, gifts and passions, *the works prepared beforehand*.
-- **Week 10** integrates all four through a family commissioning and a sending into the interlude before *Going Deeper*.
+- **Weeks 2–4** are **Connecting with Self** — the Heart Soil diagnostic from Mark 4, then the practice of telling your story to a small circle, completed across two runnings.
+- **Weeks 5–6** are **Connecting with Others** — naming the four conditions of a real container (Safe, Present, Clear, Intentional), then practicing confession-and-restoration together.
+- **Weeks 7–11** are **Connecting with God** — PROAPT as a hearing practice in scripture (two runnings), the Garden of Your Heart as a relational encounter (two runnings), the Any Doubts? practice for the gap between what we say and what we trust.
+- **Week 12** opens **Connecting with Mission** — uphill mission and downhill mission, gifts and passions, *the works prepared beforehand*.
+- **Week 13** installs the long walk — the Rhythm Card built personally, and the two mercy cards (Signs, Path Home) taught before the dry season rather than improvised inside it.
+- **Weeks 14–15** close in two movements — the whole cohort sent through a family commissioning, then the Companions-in-Formation commissioned as FC1 in a witnessed rite of their own.
 
-Weeks **3**, **5**, **7**, and **8** are the sessions where the Companion team holds the most weight. Each lesson plan flags its specific risks under **WATCH FOR** and, where applicable, **Crisis Contingencies**. Read those before walking into the room.
+The second-running weeks (4, 8, 10) are where willing senior teens lead — see the Handbook's Section 11 (the Companion-in-Formation track) for the bright line between what a teen leads and what an adult always holds.
+
+Weeks **3–4**, **6**, **9–10**, and **11** are the sessions where the Companion team holds the most weight. Each lesson plan flags its specific risks under **WATCH FOR** and, where applicable, **Crisis Contingencies**. Read those before walking into the room.
 
 ---
 

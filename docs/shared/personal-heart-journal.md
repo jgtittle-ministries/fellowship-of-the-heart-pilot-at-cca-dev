@@ -6,7 +6,7 @@
 
 **Journal**
 
-*A ten-week companion for the journey*
+*A companion for the fifteen-week journey*
 
 This journal belongs to:
 
@@ -18,13 +18,13 @@ This journal belongs to:
 
 # A Note Before You Begin
 
-This journal is a companion for the ten weeks of the Fellowship of the Heart Getting Started series. It is the small, private place where the work each Tuesday continues into your week. Some of what we do in the room only finds its language between sessions — in the quiet of the morning, in the noticing of the day, in a sentence written down at night that surprises you when you read it back.
+This journal is a companion for the fifteen weeks of the Fellowship of the Heart Getting Started series. It is the small, private place where the work each Tuesday continues into your week. Some of what we do in the room only finds its language between sessions — in the quiet of the morning, in the noticing of the day, in a sentence written down at night that surprises you when you read it back.
 
 This journal is yours. The team will not collect it. Your cohort will not see it unless you choose. Nothing in it is required.
 
 ## How the journal is set up
 
-Each of the ten weeks has its own section. Inside a week you will find:
+Each practice has its own weekly section. Because the fifteen-week series runs several practices across two sessions (the second running completes what the first began), the journal's sections map to the series like this: Journal Weeks 1–2 walk with series Weeks 1–2; Journal Week 3 carries series Weeks 3–4 (Telling Your Story, both runnings); Journal Weeks 4–5 carry series Weeks 5–6; Journal Week 6 carries series Weeks 7–8 (PROAPT, both runnings); Journal Week 7 carries series Weeks 9–10 (the Garden, both runnings); Journal Weeks 8–9 carry series Weeks 11–12; and Journal Week 10 carries series Weeks 13–15 (the Rhythm, the Sending, and the Commissioning — the Week 13 session builds your Rhythm Card directly into these pages). A dedicated Week 13–15 section is coming in the journal's next printing; until then the mapping above is printed inside the front cover. Inside a week you will find:
 
 - An opening page with the week’s scripture and a brief framing for what we are about to practice.
 - A daily practice page with prompts for each day of the week.
@@ -1946,7 +1946,7 @@ Monthly — a clearing time. When? Doing what?
 
 ## End-of-Getting-Started reflection
 
-What changed in you in these ten weeks that you did not expect?
+What changed in you in these fifteen weeks that you did not expect?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1966,7 +1966,7 @@ What is the place where the work has only just begun?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Who walked beside you in these ten weeks that you want to thank? Have you told them?
+Who walked beside you in these fifteen weeks that you want to thank? Have you told them?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
