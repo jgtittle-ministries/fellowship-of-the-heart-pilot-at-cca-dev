@@ -61,9 +61,10 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 2. **Lead PROAPT end-to-end.** Each senior walks the six steps — Pray, Read, Observe, Apply, Pray again, Tell — for the lab group. Debrief.
 3. **Teach the Four Connects back.** Each senior teaches the diagram in their own words. If you can teach *why* each connection makes the next one real, you can lead it anywhere.
 4. **Why the order.** Self before Others; Self and Others before a God-connection that goes past performance; all three before Mission. Understanding the *why* is what lets you flex the *how* without breaking it.
-5. **Close.**
+5. **Learn the Three Vital Signs.** Walk the [Three Vital Signs card](../docs/shared/three-vital-signs.md) together, then re-run one senior's PROAPT segment with the rest of the lab group watching *the room* instead of the leader: who told something costly and what happened next; what the room did in the first ten seconds when something went sideways; who went quiet. Debrief with the card's three questions. A leader who can run the process but cannot read the room has learned half the job — this is where the other half starts.
+6. **Close.**
 
-**Take-home.** You'll lead PROAPT II in the cohort (Wk 8). Prepare it.
+**Take-home.** You'll lead PROAPT II in the cohort (Wk 8). Prepare it — and bring one vital-signs observation from your own cohort's next session (no names needed) to Lab 4.
 
 ## Lab 4 — Scope, Referral, and Covering *(alongside Wks 8–9)* — the dorm-safety session
 
