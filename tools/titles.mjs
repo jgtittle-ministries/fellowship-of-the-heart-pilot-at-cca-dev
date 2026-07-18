@@ -35,7 +35,8 @@ export const TITLE_OVERRIDES = {
   'shared/interrogating-reality-card.md': 'Interrogating Reality Card',
   'shared/signs-card.md': 'Signs Card',
   'shared/path-home-card.md': 'Path Home Card',
-  'shared/measurement-covenant.md': 'Measurement Covenant'
+  'shared/measurement-covenant.md': 'Measurement Covenant',
+  'shared/three-vital-signs.md': 'Three Vital Signs'
 };
 
 const SMALL = new Set(['a','an','and','the','of','to','in','on','for','at','by','or','as','is','it']);

@@ -21,20 +21,18 @@ Companions who want the academic backbone of this series will find it in the IJH
 | 1 | [Welcome to the Journey](week-01-welcome.md) | All four (introductory) | John 10:10b |
 | 2 | [The Soil of Your Heart](week-02-soil.md) | Self | Mark 4:1–20 |
 | 3 | [Telling Your Story I](week-03-story.md) | Self → Others | Psalm 139:23–24 |
-| 4 | Telling Your Story II *(second running — teen-led; uses the Week 3 plan)* | Self → Others | Psalm 139:23–24 |
-| 5 | [Knowing and Being Known](week-04-known.md) | Others | Ecclesiastes 4:9–12 |
-| 6 | [Safe and Brave Together](week-05-brave.md) | Others (deepening) | James 5:16; 1 John 1:9 |
-| 7 | [Hearing God in Scripture — PROAPT I](week-06-proapt.md) | God | Romans 10:17; Mark 1:14–20 |
-| 8 | Hearing God — PROAPT II *(second running — teen-led; uses the Week 7 plan)* | God | Romans 10:17 |
-| 9 | [The Garden of Your Heart I](week-07-garden.md) | God | John 15:1–11; Psalm 23 |
-| 10 | The Garden of Your Heart II *(second running — teen-led walk-through; uses the Week 9 plan)* | God | John 15:1–11 |
-| 11 | [Any Doubts?](week-08-doubts.md) | God | Mark 9:24 |
-| 12 | [What Was Prepared for You](week-09-mission.md) | Mission | Ephesians 2:10 |
-| 13 | The Rhythm and the Dry Season *(lesson plan in development — sketch in Handbook §9)* | All four (sustaining) | Galatians 6:9; Psalm 42:1–5 |
-| 14 | [Sending and Blessing](week-10-sending.md) | All four (integration) | Numbers 6:24–26; Philippians 1:6 |
-| 15 | Commissioning the Companions *(lesson plan in development — sketch in Handbook §9)* | All four | 2 Timothy 2:2; 1 Timothy 4:12 |
-
-*A note on the lesson-plan files: the series expanded from ten sessions to fifteen (see the [Companion Handbook](handbook.md) for the full map and rationale). The existing lesson plans still carry their original week numbering in their page headers; the handbook's fifteen-week map is authoritative, and the plans are being renumbered and extended in the next curriculum batch. Second-running weeks (4, 8, 10) deliberately reuse the first running's plan — nothing new is taught; a Companion-in-Formation leads.*
+| 4 | [Telling Your Story II](week-04-story-2.md) *(second running — teen-led)* | Self → Others | Psalm 139:23–24 |
+| 5 | [Knowing and Being Known](week-05-known.md) | Others | Ecclesiastes 4:9–12 |
+| 6 | [Safe and Brave Together](week-06-brave.md) | Others (deepening) | James 5:16; 1 John 1:9 |
+| 7 | [Hearing God in Scripture — PROAPT I](week-07-proapt.md) | God | Romans 10:17; Mark 1:14–20 |
+| 8 | [Hearing God — PROAPT II](week-08-proapt-2.md) *(second running — teen-led; Mid-Series Pulse)* | God | Romans 10:17 |
+| 9 | [The Garden of Your Heart I](week-09-garden.md) | God | John 15:1–11; Psalm 23 |
+| 10 | [The Garden of Your Heart II](week-10-garden-2.md) *(second running — teen-led walk-through)* | God | John 15:1–11 |
+| 11 | [Any Doubts?](week-11-doubts.md) | God | Mark 9:24 |
+| 12 | [What Was Prepared for You](week-12-mission.md) | Mission | Ephesians 2:10 |
+| 13 | [The Rhythm and the Dry Season](week-13-rhythm.md) *(teen-led marquee)* | All four (sustaining) | Galatians 6:9; Psalm 42:1–5 |
+| 14 | [Sending and Blessing](week-14-sending.md) | All four (integration) | Numbers 6:24–26; Philippians 1:6 |
+| 15 | [Commissioning the Companions](week-15-commissioning.md) | All four | 2 Timothy 2:2; 1 Timothy 4:12 |
 
 ---
 

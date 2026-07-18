@@ -105,7 +105,7 @@ Now the Companion names what Getting Started is, in a specific architectural way
 
 ## ONE — The four Connects as the spine.
 
-‘Getting Started’s ten weeks walk through what the Intentional Journey of the Heart calls the four Connects: Self, Others, God, and Mission. Each Connect is one or two weeks, and by Wk 10 we’ve touched all four together. The four Connects aren’t a checklist — they’re the architecture of how Scripture says formation actually happens.’
+‘Getting Started’s fifteen weeks walk through what the Intentional Journey of the Heart calls the four Connects: Self, Others, God, and Mission. Each Connect gets its own stretch of weeks, and by the closing sessions we’ve touched all four together. The four Connects aren’t a checklist — they’re the architecture of how Scripture says formation actually happens.’
 
 Brief enough; do not over-explain. The applicant doesn’t need to understand the four Connects fully tonight; they need to know that the cohort has a spine.
 

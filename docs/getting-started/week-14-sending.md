@@ -2,7 +2,7 @@
 
 *Getting Started series — The Four Connects*
 
-Week 10
+Week 14
 
 **Sending and Blessing**
 
@@ -22,9 +22,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Print this page on cardstock. THREE copies tonight — Lead Companion, Co-Companion, and a designated time-keeper. Tonight is the most logistically complex session of Getting Started. Read this card and the run sheet thoroughly before walking in.*
 
-## WEEK 10 — SENDING AND BLESSING (120 minutes — EXTENDED)
+## WEEK 14 — SENDING AND BLESSING (120 minutes — EXTENDED)
 
-**Aim.** Integration of all four Connects (Self, Others, God, Mission) through a family commissioning. Each parent-and-teen dyad stands in the center of the room; each speaks a specific blessing over the other; the whole community speaks the Aaronic blessing over each family. Getting Started closes with a sending into the interlude and a clear bridge into the Going Deeper series.
+**Aim.** Integration of all four Connects (Self, Others, God, Mission) through a family commissioning. Each parent-and-teen dyad stands in the center of the room; each speaks a specific blessing over the other; the whole community speaks the Aaronic blessing over each family. The family commissioning sends the cohort into the interlude with a clear bridge into the Going Deeper series; the series' one remaining gathering, Week 15, commissions the Companions-in-Formation.
 
 **Anchor scripture.** Numbers 6:24–26 (the Aaronic blessing); Philippians 1:6 (“He who began a good work in you will bring it to completion”).
 
@@ -38,7 +38,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **IJH source.** Vol 2 weekly practice closing (specific witnessed blessing over each man); Acts 13:1–3 communal sending paradigm; A24 Blessing Receiving Protocol (Vol 5) for the commissioning shape.
 
-## WATCH FOR (Week 10 specific risks)
+## WATCH FOR (Week 14 specific risks)
 
 - Logistics overwhelm. Tonight has more moving parts than any prior session: extended start time, family members new to the room, food, blessing rehearsals, the commissioning itself, the survey, the bridge to Going Deeper. The team must not let logistics consume what should be a sacred close.
 - Emotional flooding. Tears tonight are common, appropriate, and welcome — from teens, from parents, from Companions. Plan for this; do not be surprised by it.
@@ -49,9 +49,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Going Deeper drift. Some families will be ready; some will be ambivalent; some will not continue. Tonight is a sending, not a recruiting pitch. Frame the bridge to Going Deeper briefly and clearly; let participants decide on their own time.
 - The tendency to overrun. The session is already extended to 120 minutes. Do not let it run to 150. The Lead Companion and the time-keeper hold the schedule.
 
-## CRISIS CONTINGENCIES (Week 10)
+## CRISIS CONTINGENCIES (Week 14)
 
-**Week 10 is moderate-risk, mainly for emotional flooding rather than acute crisis. The ten weeks have built up texture; the commissioning often lances something that has been quietly held.**
+**Week 14 is moderate-risk, mainly for emotional flooding rather than acute crisis. The ten weeks have built up texture; the commissioning often lances something that has been quietly held.**
 
 **If a teen breaks down during their blessing of their parent.** Stop. Sit them down. The Cohort Companion goes with them. Do not push them through the blessing. The community can speak the blessing in their place. Follow up offline within 48 hours.
 
@@ -80,7 +80,7 @@ This is also the bridge to Going Deeper. The Going Deeper series builds on what 
 ## From prior sessions
 
 - Weeks 1–9: every prior session has fed into tonight. The Aaronic blessing has been spoken at every closing; tonight it is the central action of the night.
-- Week 9: the gifts inventory and downhill mission are part of tonight’s blessing material. Each parent’s blessing of their teen draws on what they have specifically witnessed across Getting Started; each teen’s blessing of their parent draws on what they have noticed.
+- Week 12: the gifts inventory and downhill mission are part of tonight’s blessing material. Each parent’s blessing of their teen draws on what they have specifically witnessed across Getting Started; each teen’s blessing of their parent draws on what they have noticed.
 - Joint Footprints (Wk 3): the parent-and-teen dyad has done at least one cross-generational practice together. Tonight is the public form of what they began privately.
 
 ## **Connect focus**
@@ -99,10 +99,10 @@ The point is not to rehearse a tool. The point is to let the form get into your 
 
 This week is the most complex pre-work week of Getting Started. Plan two team meetings.
 
-### **Meeting 1 — Five days before Week 10 (90 minutes)**
+### **Meeting 1 — Five days before Week 14 (90 minutes)**
 
 1. Walk through the run sheet in detail. Every block. Time-keeper assigned. Who calls each transition.
-2. Family review. Each family pre-considered: are both parents coming? Is the teen safe? Has anything from Wk 7–9 surfaced that needs care tonight? For families with absent parents (divorce, deployment, bereavement, estrangement), pre-plan the commissioning for that family specifically.
+2. Family review. Each family pre-considered: are both parents coming? Is the teen safe? Has anything from Wks 9–13 surfaced that needs care tonight? For families with absent parents (divorce, deployment, bereavement, estrangement), pre-plan the commissioning for that family specifically.
 3. Blessing rehearsal. Each Cohort Companion pairs with another Companion and speaks an actual blessing over them — the form, brief, specific, witnessed. The team must have done it themselves before they ask families to do it.
 4. Going Deeper bridging language reviewed. The Lead Companion presents the bridge in 90 seconds. The team reviews it; the goal is sending, not recruiting.
 5. Pastoral / clinical backup confirmed for the night and the 48 hours after.
@@ -115,19 +115,19 @@ This week is the most complex pre-work week of Getting Started. Plan two team me
 3. Each Companion names one specific thing they are bringing into tonight — a prayer, a hope, a worry.
 4. Pray together as a team for the commissioning.
 
-## **Family pre-work — sent to families one week before Week 10**
+## **Family pre-work — sent to families one week before Week 14**
 
-The team sends an email to all families one week before Week 10 with the following content:
+The team sends an email to all families one week before Week 14 with the following content:
 
 ## Email content (template)
 
-*“Dear families: Next Tuesday is Week 10. Getting Started closes with a Family Commissioning. Please plan as follows.”*
+*“Dear families: Next Tuesday is Week 14 — the Family Commissioning. (One gathering follows it: the Week 15 commissioning of our Companions-in-Formation.) Please plan as follows.”*
 
 *“Time: 6:00 PM — light food. 6:30 PM — session begins. 8:30 PM — close.”*
 
 *“Who to bring: every member of your immediate family who is willing and able. Spouses who haven’t been here, siblings who haven’t been here, grandparents who can drive in. The room can hold them.”*
 
-*“Your pre-work: each parent-and-teen dyad in the program prepares one specific witnessed blessing for the other. Three sentences. (1) What I have specifically seen God doing in you across Getting Started. (2) What I am specifically blessing in you tonight. (3) What I am specifically committing to in our relationship moving forward. The Cohort Companion will email a worksheet (Handout H10.1) by Friday — use it.”*
+*“Your pre-work: each parent-and-teen dyad in the program prepares one specific witnessed blessing for the other. Three sentences. (1) What I have specifically seen God doing in you across Getting Started. (2) What I am specifically blessing in you tonight. (3) What I am specifically committing to in our relationship moving forward. The Cohort Companion will email a worksheet (Handout H14.1) by Friday — use it.”*
 
 *“One note: tonight is sacred. We will speak blessings out loud, in front of each other. If you have not done this before, that is fine — most haven’t. The form is short and specific; the worksheet helps. We will rehearse briefly together at the start of the session.”*
 
@@ -135,11 +135,11 @@ The team sends an email to all families one week before Week 10 with the followi
 
 ## **Logistics pre-work**
 
-1. Print the Family Commissioning Worksheet (H10.1) — one per parent-and-teen dyad, mailed/emailed Friday.
-2. Print the Aaronic Blessing card (H10.2) — one per family present, distributed at the door.
-3. Print the Daily / Weekly / Monthly Rhythm Card (H10.3).
-4. Print the Going Deeper Bridge sheet (H10.4).
-5. Print the Post-Series Survey (H10.5) — distributed at the close.
+1. Print the Family Commissioning Worksheet (H14.1) — one per parent-and-teen dyad, mailed/emailed Friday.
+2. Print the Aaronic Blessing card (H14.2) — one per family present, distributed at the door.
+3. Print the Daily / Weekly / Monthly Rhythm Card (H14.3).
+4. Print the Going Deeper Bridge sheet (H14.4).
+5. Print the Post-Series Survey (H14.5) — distributed at the close.
 6. Set up light food (water, fruit, simple snacks) for 6:00 PM arrival window.
 7. Set up the room: chairs in a wide single circle large enough for the whole community plus visiting family. Open central space for the commissioning. No table in the middle.
 8. Identify the order of family commissioning — alphabetical or by request. Communicate the order before the night.
@@ -153,8 +153,8 @@ The team sends an email to all families one week before Week 10 with the followi
 - Phone-box at the door.
 - Personal Heart Journals.
 - Light food: water, fruit, simple snacks for 6:00 PM.
-- Handouts H10.1 (already distributed by Friday) brought back tonight by each family.
-- Handouts H10.2, H10.3, H10.4, H10.5 stacked at each chair.
+- Handouts H14.1 (already distributed by Friday) brought back tonight by each family.
+- Handouts H14.2, H14.3, H14.4, H14.5 stacked at each chair.
 - Tissues distributed throughout the circle, not in one corner.
 - Large-print Bible (ESV) in the center of the circle.
 - A clock or visible timer for the Lead Companion and the time-keeper only.
@@ -166,7 +166,7 @@ The team sends an email to all families one week before Week 10 with the followi
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| 1 week before | Email families with Week 10 logistics. Send H10.1 worksheet by Friday. | Lead Comp |
+| 1 week before | Email families with Week 14 logistics. Send H14.1 worksheet by Friday. | Lead Comp |
 | 5 days before | Team meeting 1: run sheet, family review, blessing rehearsal, Going Deeper language. | All Companions |
 | Day before | Team meeting 2: final logistics, family updates, prayer. | All Companions |
 | T-90 min | Team gathers in the room. Final pre-prayer. | All Companions |
@@ -187,7 +187,7 @@ The team sends an email to all families one week before Week 10 with the followi
 | 6:55–7:05 | Block 3: Reading and prayer | Shared circle | Lead Comp | Read Numbers 6 and Philippians 1:6. Pray over the commissioning to come. |
 | 7:05–8:00 | Block 4: Family commissionings | Shared circle, central space | Lead Companion + Co-Comp | Each family in turn. Parent and teen stand center. Each speaks blessing. Community speaks Aaronic over family. ~5–7 min per family. |
 | 8:00–8:15 | Block 5: Final reflection circle | Shared circle | Lead Comp | Each person, going around: one takeaway, one next commitment. ~30 sec each. |
-| 8:15–8:25 | Block 6: Rhythm Card and Going Deeper bridge | Shared circle | Co-Comp (Parent) | Walk H10.3 and H10.4. Distribute Post-Series Survey (H10.5). |
+| 8:15–8:25 | Block 6: Rhythm Card and Going Deeper bridge | Shared circle | Co-Comp (Parent) | Walk H14.3 and H14.4. Distribute Post-Series Survey (H14.5). |
 | 8:25–8:30 | Block 7: Final blessing and sending | Shared circle | Lead Comp | Whole community speaks Aaronic blessing over the whole community. Sending. End. |
 | 8:30+ | After: lingering, gratitude, food | Open | All Companions | Stay. People will need to talk. Some will not leave for an hour. |
 
@@ -205,7 +205,7 @@ The room is fuller than it has been all of Getting Started. Visiting family memb
 
 *“Let me speak this blessing first — the same one we have spoken every week. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 10. We have walked together through ten Tuesdays — each one with a piece of work to do. The work was the four Connects: Connecting with Self, Others, God, and Mission. We did the soil of the heart. We told our stories. We named the four conditions of a real container and looked at our friendships. We practiced confession and restoration. We learned to hear God in scripture. We walked into the gardens of our hearts and met Jesus there. We named our quiet doubts. We turned outward to ask what was prepared for us.”*
+*“Tonight is Week 14. We have walked together through fourteen Tuesdays — each one with a piece of work to do. The work was the four Connects: Connecting with Self, Others, God, and Mission. We did the soil of the heart. We told our stories. We named the four conditions of a real container and looked at our friendships. We practiced confession and restoration. We learned to hear God in scripture. We walked into the gardens of our hearts and met Jesus there. We named our quiet doubts. We turned outward to ask what was prepared for us.”*
 
 *“Tonight is the integration. The four Connects are not separate disciplines. They are a sequence — each one creates the conditions for the next. Self, Others, God, Mission. They are also a way of life, lived in family and witnessed in community.”*
 
@@ -219,7 +219,7 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 ## Script (the form)
 
-*“For parents and teens: your blessing for each other tonight has three sentences. Just three. The worksheet you got Friday — H10.1 — has the form.”*
+*“For parents and teens: your blessing for each other tonight has three sentences. Just three. The worksheet you got Friday — H14.1 — has the form.”*
 
 *“One: ‘What I have specifically seen God doing in you across Getting Started is \_\_\_\_\_.’ Specific. Something you actually noticed.”*
 
@@ -322,15 +322,15 @@ After the reflection, walk the long-term practice and bridge to Going Deeper. Br
 
 *“Three practical things before we close. They’re on handouts in your folder.”*
 
-*“One: the Daily / Weekly / Monthly Rhythm Card. H10.3. This is what your between-session practice has been pointing toward all of Getting Started. Daily — the morning question and an evening journal note. Weekly — a brother or sister or family member who knows what you are working on. Monthly — a clearing time. The card has the practice in writing. Stick it on your bathroom mirror or your dashboard.”*
+*“One: the Daily / Weekly / Monthly Rhythm Card — the one you built for yourself last week, in the Rhythm session. H14.3 is a fresh copy if yours is already worn. Daily — the morning question and an evening journal note. Weekly — a brother or sister or family member who knows what you are working on. Monthly — a clearing time. It is your card now, in your handwriting. Stick it on your bathroom mirror or your dashboard.”*
 
-*“Two: the Going Deeper bridge. H10.4. The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these ten weeks. Most of you will continue; some will not, and that is also fine. The bridge sheet has details and the registration link. Decide on your own time. Tonight is not a recruiting pitch.”*
+*“Two: the Going Deeper bridge. H14.4. The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these fifteen weeks. Most of you will continue; some will not, and that is also fine. The bridge sheet has details and the registration link. Decide on your own time. Tonight is not a recruiting pitch.”*
 
-*“Three: the Post-Series Survey. H10.5. We need your honest read on what worked and what didn’t. Complete it this week and email it back. The next group of families benefits from your honesty. Five questions; take fifteen minutes.”*
+*“Three: the Post-Series Survey. H14.5. We need your honest read on what worked and what didn’t. Complete it this week and email it back. The next group of families benefits from your honesty. Five questions; take fifteen minutes.”*
 
 ## **Block 7 — Final Blessing and Sending (8:25–8:30, 5 min)**
 
-The last five minutes. The whole community speaks the Aaronic blessing over the whole community. Getting Started closes with a sending.
+The last five minutes. The whole community speaks the Aaronic blessing over the whole community. The families are sent; Week 15's commissioning of the Companions remains.
 
 ## Script
 
@@ -342,7 +342,7 @@ The last five minutes. The whole community speaks the Aaronic blessing over the 
 
 *(Pause. Let the silence land.)*
 
-*“You are sent. Walk gently into the interlude. He who began this work in you will bring it to completion. Go.”*
+*“You are sent. Walk gently. He who began this work in you will bring it to completion. One more gathering remains: next Tuesday we commission our Companions-in-Formation — the seniors who led us this year. It is their night, and you are all wanted in the room for it. Go.”*
 
 *After the sending, do not pack up. Some people will not leave for an hour. Stay. The work after the closing is sometimes the work.*
 
@@ -398,14 +398,14 @@ Same three-layer pattern, expanded for the family-level commissioning. The commu
 
 ## What we are practicing through the interlude
 
-- The Daily / Weekly / Monthly Rhythm Card (H10.3). This is the long-term practice the series has been building toward.
+- The Daily / Weekly / Monthly Rhythm Card (H14.3). This is the long-term practice the series has been building toward.
 - Daily: morning question and evening journal note. Five minutes plus one to two minutes.
 - Weekly: one specific person who knows what you are working on. Could be your spouse, your cohort co-participant, your Companion, a friend from Getting Started. Coffee, walk, phone call — once a week.
 - Monthly: a clearing time. PROAPT a hard passage; a garden visit; a TPM or confession session if needed. Sustained, not rushed.
 
 # **Companion Debrief Prompts**
 
-Companion team meets the day after Week 10 for a 60-minute debrief. This is the longest debrief of Getting Started.
+Companion team meets the day after Week 14 for a 60-minute debrief. This is the longest debrief of Getting Started.
 
 ### **Signs the session worked**
 
@@ -443,17 +443,17 @@ Companion team meets the day after Week 10 for a 60-minute debrief. This is the 
 
 # **Handouts**
 
-Five handouts for Week 10. H10.1 is distributed to families one week before; the rest are distributed at the door.
+Five handouts for Week 14. H14.1 is distributed to families one week before; the rest are distributed at the door.
 
-- H10.1 — Family Commissioning Worksheet (sent to families the Friday before)
-- H10.2 — Aaronic Blessing Card (one per family present)
-- H10.3 — Daily / Weekly / Monthly Rhythm Card
-- H10.4 — Going Deeper Bridge
-- H10.5 — Post-Series Survey
+- H14.1 — Family Commissioning Worksheet (sent to families the Friday before)
+- H14.2 — Aaronic Blessing Card (one per family present)
+- H14.3 — Daily / Weekly / Monthly Rhythm Card
+- H14.4 — Going Deeper Bridge
+- H14.5 — Post-Series Survey
 
-**Handout H10.1 — Family Commissioning Worksheet**
+**Handout H14.1 — Family Commissioning Worksheet**
 
-*Sent to families the Friday before Week 10*
+*Sent to families the Friday before Week 14*
 
 *Each parent and each teen prepares a three-sentence blessing for the other before Tuesday. Use this worksheet. Bring it back Tuesday — you may read from it during the commissioning.*
 
@@ -513,7 +513,7 @@ Teen: write your sentences below.
 - If you cry, that is fine. Take your time. The room can wait.
 - If you freeze and cannot speak — ask the other person to read your worksheet for you, or ask the Lead Companion to. Nothing about the night requires public oratory; it requires honest specificity.
 
-**Handout H10.2 — The Aaronic Blessing**
+**Handout H14.2 — The Aaronic Blessing**
 
 ## Numbers 6:24–26 (ESV)
 
@@ -537,7 +537,7 @@ The Aaronic blessing is the words God specifically gave Aaron and his sons to sp
 - Speak it over a friend who needs it. Specifically. By name.
 - Watch what happens in the rooms that hear this blessing spoken regularly.
 
-**Handout H10.3 — Daily / Weekly / Monthly Rhythm Card**
+**Handout H14.3 — Daily / Weekly / Monthly Rhythm Card**
 
 *This is what Getting Started’s practices were building toward. A rhythm of life that holds the four Connects in real time. Print this card; put it on your bathroom mirror or your dashboard.*
 
@@ -571,13 +571,13 @@ The Aaronic blessing is the words God specifically gave Aaron and his sons to sp
 - If the weekly partner falls away — the team can help you find another. Email us.
 - If the monthly clearing time gets crowded out — protect it on the calendar like a meeting. Most months, that is what it takes.
 
-**Handout H10.4 — Going Deeper Bridge**
+**Handout H14.4 — Going Deeper Bridge**
 
-*The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these ten weeks. Decide on your own time.*
+*The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these fifteen weeks. Decide on your own time.*
 
 ### **What Going Deeper is**
 
-The Getting Started was an introduction to the four Connects — each one introduced briefly, with one or two practices per week. Going Deeper takes each of the four Connects and works it slowly, with the practices that go deeper than these ten weeks could go.
+The Getting Started was an introduction to the four Connects — each one introduced briefly, with one or two practices per week. Going Deeper takes each of the four Connects and works it slowly, with the practices that go deeper than these fifteen weeks could go.
 
 Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-the-root, and the specific tools that release them. Others deepens into a real Band of Sisters / Band of Brothers structure with adult facilitation. God deepens through extended PROAPT, contemplative practices, and listening prayer in community. Mission deepens through specific gifts inventories, callings work, and individual mentoring.
 
@@ -607,7 +607,7 @@ Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-t
 
 Talk to a team member this week, or email us. There is no recruiting pressure here. Some families will continue; some will not; both are good. The Spirit who began the work of Getting Started will continue it in whatever shape He chooses.
 
-**Handout H10.5 — Post-Series Survey**
+**Handout H14.5 — Post-Series Survey**
 
 *Five questions, fifteen minutes, this week*
 
