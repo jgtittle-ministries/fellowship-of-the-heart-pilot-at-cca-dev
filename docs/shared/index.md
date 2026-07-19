@@ -24,6 +24,8 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Three Vital Signs**](three-vital-signs.md) — *team-facing*: the Companion team's weekly lens. Three readings taken in ordinary sessions with no form in anyone's hand — Costly Telling, Response to Load, the Sought Stray — and the discipline for reading them. The companion card to the covenant: the covenant governs what is held; this card is most of what is watched.
 
+- [**Keeping the Flame**](keeping-the-flame.md) — *team-facing*: for every Companion, adult or FC1 — how a calling survives its own success. The Ephesus drift (works commended, first love left), the leader's self-check, the five defenses, and the recovery protocol. A mirror, never a lever; walked at the first Leader Lab of every serving cycle.
+
 ---
 
 ## How they fit together

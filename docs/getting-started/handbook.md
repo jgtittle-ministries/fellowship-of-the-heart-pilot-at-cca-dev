@@ -249,6 +249,8 @@ The eight weeks before Week 1, every Companion works the following rhythm. This 
 | Wk -2 to -1 | PROAPT one passage daily; rehearse Week 1 lesson plan with Co-Companion. | Run a dress rehearsal of Week 1 with one or two trusted families; debrief; refine. |
 | Wk 1 | Begin. | Begin. |
 
+And for every cycle after the first: the long-arc hazard for a Companion is not burnout but quiet satisfaction — the drift that never misses a session. The [Keeping the Flame card](../shared/keeping-the-flame.md) is the team's standing defense (a personal self-check once a cycle, and the first Leader Lab of every serving cycle); it applies to the adult team exactly as much as to the FC1s.
+
 # Section 4 — Theological and Institutional Posture
 
 ## Faithful to IJH
@@ -1001,7 +1003,7 @@ So the readiness that matters most for the dorm is not whether they can run the 
 | The invite and gather skill | Can make the ask: gather a handful of peers, frame the covenant, set the container expectation. | Overlaps Inviting Others |
 | Knowing what to hold back | Holds the "what we hold back" discipline with no supervisor watching. | The Lab + the handbook |
 
-*Honest timeline: this is a one-to-two-year formation across the whole arc plus real reps, not a fifteen-week output. Getting Started starts FC1 and lights the fire; Going Out and Inviting Others, and the reps, complete the dorm-ready leader.*
+*Honest timeline: this is a one-to-two-year formation across the whole arc plus real reps, not a fifteen-week output. Getting Started starts FC1 and lights the fire; Going Out and Inviting Others, and the reps, complete the dorm-ready leader. And across that whole arc, the fire itself is tended deliberately: the [Keeping the Flame card](../shared/keeping-the-flame.md) and the standing serving-cycle Lab exist because the long road's hazard is not failure but satisfaction — a leader can drift with every session still running beautifully, and the defense is rhythm, not vigilance.*
 
 ## 11.9 Consent and the legal gate
 
@@ -1369,6 +1371,23 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 5. **Close.**
 
 **Take-home.** Keep your own four-Connects rhythm going. You cannot lead from an empty well.
+
+## The Serving Cycle — Keeping the Flame *(the first Lab of every serving cycle, standing)*
+
+**Aim.** Commissioning is the start of the long road, and the long road's hazard is not failure but satisfaction — the drift that never misses a session (Rev. 2:4: works commended, first love left). This Lab is the standing rekindling rhythm: it opens every serving cycle, for FC1s and adult Companions alike, built on the [Keeping the Flame card](../shared/keeping-the-flame.md).
+
+**What it builds.** A leadership culture where tending your own flame is ordinary maintenance, not a crisis response — and where no Companion, however seasoned, is ever without an unmastered assignment, a sheep-room, and a fresh Rhythm Card.
+
+**The session.**
+1. **Open.**
+2. **Calling stories retold.** Each Companion, two minutes: why you said yes, and what the room felt like the first time you led and God showed up. Ephesus's first step — remember — as fuel, not nostalgia.
+3. **Rhythm Cards rebuilt.** Fresh cards, own handwriting, honest — *what am I actually practicing now?* Same discipline the cohort learns in Week 13; leaders go first.
+4. **The unmastered assignment.** Each Companion names, and the Lab confirms, one assignment for this cycle they have not yet mastered — a new block, an adaptation, forming the next Companion. Nobody leaves carrying only what they have already mastered.
+5. **The sheep-room confirmed.** Each Companion names where they are only a member — the standing room where they tell costly things. Anyone without one makes finding it their first assignment, ahead of everything else.
+6. **The vital signs, first person.** The card's self-check walked quietly, alone, in the room — not shared unless someone chooses to. The card is a mirror, never a lever.
+7. **Close.**
+
+**Take-home.** The Keeping the Flame card goes in every Companion's folder. The self-check is personal, once a cycle. The three recovery steps (remember, repent, do the first works) are ordinary maintenance — use them early, not late.
 
 ---
 

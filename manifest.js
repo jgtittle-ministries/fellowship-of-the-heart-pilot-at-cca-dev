@@ -274,6 +274,10 @@ window.SERIES = [
         "title": "Interrogating Reality Card"
       },
       {
+        "path": "docs/shared/keeping-the-flame.md",
+        "title": "Keeping the Flame"
+      },
+      {
         "path": "docs/shared/measurement-covenant.md",
         "title": "Measurement Covenant"
       },
@@ -787,6 +791,14 @@ window.PATH_TO_INFO = {
     "title": "Interrogating Reality Card",
     "indexPath": "docs/shared/index.md",
     "prev": "docs/shared/family-conversation-cards.md",
+    "next": "docs/shared/keeping-the-flame.md"
+  },
+  "docs/shared/keeping-the-flame.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "Keeping the Flame",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/interrogating-reality-card.md",
     "next": "docs/shared/measurement-covenant.md"
   },
   "docs/shared/measurement-covenant.md": {
@@ -794,7 +806,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Measurement Covenant",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/interrogating-reality-card.md",
+    "prev": "docs/shared/keeping-the-flame.md",
     "next": "docs/shared/path-home-card.md"
   },
   "docs/shared/path-home-card.md": {

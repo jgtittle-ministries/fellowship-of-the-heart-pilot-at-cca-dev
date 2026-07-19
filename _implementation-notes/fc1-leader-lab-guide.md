@@ -107,10 +107,27 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 1. **Open** — a senior leads it now.
 2. **The mock session.** Each senior leads a full leadable sequence for the lab group — open → a process of their choice → close — with the Leader Feedback Round after.
 3. **The road ahead.** FC1 is the floor. Going Deeper, Going Out, and Inviting Others are where it grows; the dorm is where it may one day stand on its own. Name honestly that this is a few years, not a finish line.
-4. **Commissioning.** Pray over each senior. They are commissioned as FC1 at the cohort's Week-13 Sending, in front of everyone — the same night the families are commissioned.
+4. **Commissioning.** Pray over each senior. They are commissioned as FC1 at the cohort's Week 15 session — Commissioning the Companions — as a witnessed rite of its own: the final container rep from memory, the three rules read to the room, the covering named, and the first Lab of the serving cycle scheduled before anyone leaves.
 5. **Close.**
 
 **Take-home.** Keep your own four-Connects rhythm going. You cannot lead from an empty well.
+
+## The Serving Cycle — Keeping the Flame *(the first Lab of every serving cycle, standing)*
+
+**Aim.** Commissioning is the start of the long road, and the long road's hazard is not failure but satisfaction — the drift that never misses a session (Rev. 2:4: works commended, first love left). This Lab is the standing rekindling rhythm: it opens every serving cycle, for FC1s and adult Companions alike, built on the [Keeping the Flame card](../docs/shared/keeping-the-flame.md).
+
+**What it builds.** A leadership culture where tending your own flame is ordinary maintenance, not a crisis response — and where no Companion, however seasoned, is ever without an unmastered assignment, a sheep-room, and a fresh Rhythm Card.
+
+**The session.**
+1. **Open.**
+2. **Calling stories retold.** Each Companion, two minutes: why you said yes, and what the room felt like the first time you led and God showed up. Ephesus's first step — remember — as fuel, not nostalgia.
+3. **Rhythm Cards rebuilt.** Fresh cards, own handwriting, honest — *what am I actually practicing now?* Same discipline the cohort learns in Week 13; leaders go first.
+4. **The unmastered assignment.** Each Companion names, and the Lab confirms, one assignment for this cycle they have not yet mastered — a new block, an adaptation, forming the next Companion. Nobody leaves carrying only what they have already mastered.
+5. **The sheep-room confirmed.** Each Companion names where they are only a member — the standing room where they tell costly things. Anyone without one makes finding it their first assignment, ahead of everything else.
+6. **The vital signs, first person.** The card's self-check walked quietly, alone, in the room — not shared unless someone chooses to. The card is a mirror, never a lever.
+7. **Close.**
+
+**Take-home.** The Keeping the Flame card goes in every Companion's folder. The self-check is personal, once a cycle. The three recovery steps (remember, repent, do the first works) are ordinary maintenance — use them early, not late.
 
 ---
 
