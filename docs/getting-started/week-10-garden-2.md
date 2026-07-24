@@ -80,7 +80,7 @@ One more thing tonight teaches without a word of teaching: a week has passed. Mo
 - Week 9: the garden was opened, adult-led. Every participant has been there once; most have returned during the week. Tonight assumes the place is known and goes deeper into it.
 - Week 8: PROAPT II — the cohort has already watched one second running, senior-led. The shape of tonight is familiar even though the depth is not.
 - Week 6: confession-and-restoration. The second garden visit often walks toward what the first visit only saw at a distance. Honor the resonance.
-- The container is nine weeks old. Tonight leans on it harder than any session so far.
+- The container is ten weeks old. Tonight leans on it harder than any session so far.
 
 ## Connect focus
 

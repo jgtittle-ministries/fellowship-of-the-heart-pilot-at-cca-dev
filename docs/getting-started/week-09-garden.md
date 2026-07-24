@@ -28,7 +28,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Anchor scripture.** John 15:1–11 (the vine and the branches) and Psalm 23 (the Shepherd in the green pastures).
 
-**Connect focus.** God. This is the second of two consecutive Connect-with-God sessions. Week 7 taught a hearing posture (PROAPT). Tonight invites a relational encounter.
+**Connect focus.** God. The third of the Connect-with-God sessions. Weeks 7–8 taught a hearing posture (PROAPT, received and then led); tonight invites a relational encounter.
 
 **Mode.** Shared teaching framing; SPLIT into cohort circles for the guided exercise; MERGE for sharing (by invitation only) and closing.
 
@@ -75,7 +75,7 @@ The Garden of Your Heart is not allegory and not visualization-as-self-help. It 
 
 - Week 7: PROAPT was introduced. Participants now have a learnable hearing practice. Tonight is hearing in a different mode — not in words but in image-and-encounter.
 - Week 6: confession-and-restoration. Tonight’s exercise often surfaces the place that work was already opening. Honor the resonance.
-- The container is now seven weeks old. By design, the cohort circles tonight require the most settled container of Getting Started.
+- The container is now nine weeks old. By design, the cohort circles tonight require the most settled container of Getting Started.
 
 ## Connect focus
 
