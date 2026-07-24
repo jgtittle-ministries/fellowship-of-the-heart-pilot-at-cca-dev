@@ -622,6 +622,6 @@ If the week gets away from you and you don’t do this, that is data, not failur
 
 ### If it goes well
 
-If it goes well, you may want to do it again. Resist the urge to make it a weekly thing right away. Twenty minutes once is the practice. Build slowly. The series has ten weeks; it doesn’t have to all happen tonight.
+If it goes well, you may want to do it again. Resist the urge to make it a weekly thing right away. Twenty minutes once is the practice. Build slowly. The series has fifteen weeks; it doesn’t have to all happen tonight.
 
 *Bring this handout back to Week 5 if you want, or keep it. The questions don’t expire.*
