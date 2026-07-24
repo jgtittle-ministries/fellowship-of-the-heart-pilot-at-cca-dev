@@ -89,7 +89,7 @@ The IJH framework calls this addressing the Sin Knot — the type of blockage th
 
 ## Connect focus
 
-Others, deepened. The Self work of Weeks 2–3 was foundation. The Others work of Week 5 was structural. Tonight is operational — the first time the cohort uses what they have built to do something most Christian communities never actually do.
+Others, deepened. The Self work of Weeks 2–4 was foundation. The Others work of Week 5 was structural. Tonight is operational — the first time the cohort uses what they have built to do something most Christian communities never actually do.
 
 # Pre-Work for the Companion Team
 

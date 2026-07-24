@@ -28,7 +28,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Anchor scripture.** Ephesians 2:10 — “For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.”
 
-**Connect focus.** Mission, primary. The first three connects (Self, Others, God) have been the work of Weeks 2–8. Tonight begins the fourth.
+**Connect focus.** Mission, primary. The first three connects (Self, Others, God) have been the work of Weeks 2–11. Tonight begins the fourth.
 
 **Mode.** Shared teaching of the uphill/downhill distinction; SPLIT into cohort circles for two paired exercises (Gifts and Passions inventory; Downhill Mission question); MERGE for closing.
 
@@ -64,19 +64,19 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## **Why this session, this week**
 
-Week 1 named the four Connects. Weeks 2–3 were Self. Weeks 5–5 were Others. Weeks 7–8 were God. Tonight is Mission. The sequence matters — Vol 2 names Self→Others→God→Mission as a causal sequence with directional dependencies. Mission asked of someone who has not done the first three connects produces activity without fruit. Mission asked of someone who has done the first three connects produces walking-in-what-was-prepared.
+Week 1 named the four Connects. Weeks 2–4 were Self. Weeks 5–6 were Others. Weeks 7–11 were God. Tonight is Mission. The sequence matters — Vol 2 names Self→Others→God→Mission as a causal sequence with directional dependencies. Mission asked of someone who has not done the first three connects produces activity without fruit. Mission asked of someone who has done the first three connects produces walking-in-what-was-prepared.
 
 Ephesians 2:10 is the architecture: the works are prepared. We do not invent them; we walk into them. The uphill mission is what we do with goal and plan. The downhill mission is what we are when we are most ourselves and most aligned with the Spirit. The downhill question is often the more formative — because the downhill is where the gifts already flow without effort, which is where what was prepared for us is most likely already operating.
 
-This is also the night before the night that closes Getting Started. Tonight we open the question; next Tuesday we send. The architecture is intentional.
+This is also the beginning of the series’ close. Tonight we open the question; next Tuesday the Rhythm week grounds what was opened and builds the long walk; then the sending, and the commissioning. The architecture is intentional.
 
 ## **Dependencies**
 
 ## From prior sessions
 
-- Weeks 2–3: Self — the soil and the story. Tonight’s gifts inventory rests on what each participant has already named about themselves.
-- Weeks 5–5: Others — the four conditions and confession. Tonight asks: where in this circle have we already seen each other’s gifts? The cohort can speak now in ways they could not have in Week 1.
-- Weeks 7–8: God — PROAPT, the garden, the doubts. Tonight’s downhill question requires a participant who can listen for what God says about them, not just what they say about themselves. Without that, the exercise becomes self-help.
+- Weeks 2–4: Self — the soil and the story. Tonight’s gifts inventory rests on what each participant has already named about themselves.
+- Weeks 5–6: Others — the four conditions and confession. Tonight asks: where in this circle have we already seen each other’s gifts? The cohort can speak now in ways they could not have in Week 1.
+- Weeks 7–11: God — PROAPT, the garden, the doubts. Tonight’s downhill question requires a participant who can listen for what God says about them, not just what they say about themselves. Without that, the exercise becomes self-help.
 - All three Connects feed into tonight. If any participant is still stuck in Self-work, the Cohort Companion may need to pace them gently — the Mission question lands differently when Self is unfinished.
 
 ## **Connect focus**

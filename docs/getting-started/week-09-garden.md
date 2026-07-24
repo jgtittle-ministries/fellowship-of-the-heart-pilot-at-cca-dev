@@ -79,7 +79,7 @@ The Garden of Your Heart is not allegory and not visualization-as-self-help. It 
 
 ## Connect focus
 
-God, primary. Self is the lens (your interior). Others (the cohort) provides the holding container in which the encounter takes place. Mission is implicit — what is offered tonight will be carried into Weeks 12–10 as the foundation of the participant’s sense of calling.
+God, primary. Self is the lens (your interior). Others (the cohort) provides the holding container in which the encounter takes place. Mission is implicit — what is offered tonight will be carried into Weeks 12–15 as the foundation of the participant’s sense of calling.
 
 # Pre-Work for the Companion Team (this week)
 

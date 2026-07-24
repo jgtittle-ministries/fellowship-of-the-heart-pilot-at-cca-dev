@@ -83,7 +83,7 @@ Six steps. The acronym matters because the order matters.
 ## From prior sessions
 
 - Week 1: Container holds. PROAPT will be practiced in pairs in cohort circles.
-- Weeks 2–3: Self work. Each participant knows themselves well enough to hear what the Spirit is saying to them specifically.
+- Weeks 2–4: Self work. Each participant knows themselves well enough to hear what the Spirit is saying to them specifically.
 - Week 5: Container conditions are explicit. Tonight’s pair work uses them in miniature.
 - Week 6: Confession opened a channel that PROAPT continues. Apply and Pray again steps build on the same architecture.
 
