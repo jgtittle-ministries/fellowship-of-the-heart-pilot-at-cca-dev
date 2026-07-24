@@ -430,7 +430,7 @@ Each handout is on its own page below. Print as needed.
 
 *Fellowship of the Heart — Getting Started series*
 
-Welcome to the journey. Over the next ten Tuesday evenings, we will walk together through the four Connects — the spine of the Intentional Journey of the Heart.
+Welcome to the journey. Over the next fifteen Tuesday evenings, we will walk together through the four Connects — the spine of the Intentional Journey of the Heart.
 
 ### The Four Connects
 

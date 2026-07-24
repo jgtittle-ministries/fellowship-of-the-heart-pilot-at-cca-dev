@@ -202,7 +202,7 @@ Stand near the whiteboard. Read the scripture. Walk both columns. Demo with your
 
 • (DOWNHILL column.) Downhill mission is what I am. It is the effect I have on the people around me when I am most aligned with the Spirit and most genuinely myself. When I am not performing, not managing my image, just present and open — what do people around me get to be? What does the room feel like? That is the downhill mission. It flows; you don’t have to push it.
 
-• The works were prepared. Walking-in-what-was-prepared sounds a lot more like downhill than uphill. The uphill work is real, but most of it is clearing the blockages so that the downhill becomes possible. We have spent eight weeks on the uphill clearing. Tonight we ask the downhill question.
+• The works were prepared. Walking-in-what-was-prepared sounds a lot more like downhill than uphill. The uphill work is real, but most of it is clearing the blockages so that the downhill becomes possible. We have spent eleven weeks on the uphill clearing. Tonight we ask the downhill question.
 
 • Here is the test, from Vol 2. When I am at my most genuinely myself — not performing, not managing, just present and open — what do the people around me get to be? Answer that, and you are closer to your downhill mission than any mission statement you have labored over.
 

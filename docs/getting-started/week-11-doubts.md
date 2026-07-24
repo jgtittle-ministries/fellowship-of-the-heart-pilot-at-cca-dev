@@ -76,7 +76,7 @@ From Vol 2: of all the IJH formation practices, Any Doubts? and Garden of Your H
 
 - Week 7: PROAPT introduced the Word→Hearing→Faith chain (Romans 10:17). Tonight names what blocks the chain.
 - Week 9: Garden of Your Heart established that the heart has interior places worth visiting on purpose. Tonight visits one specific kind of place — the place where a scripture has not yet landed.
-- The container is now eight weeks old. Tonight’s pair work requires the container be holding well. If Week 9 surfaced unfinished material for any participant, the Lead Companion should know before the session.
+- The container is now ten weeks old. Tonight’s pair work requires the container be holding well. If Week 9 surfaced unfinished material for any participant, the Lead Companion should know before the session.
 
 ## **Connect focus**
 
