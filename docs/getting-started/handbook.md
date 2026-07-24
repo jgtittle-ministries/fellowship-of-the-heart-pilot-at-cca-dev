@@ -1027,25 +1027,25 @@ This form must be completed and signed by every participating parent or guardian
 
 ### About the program
 
-The Fellowship of the Heart Getting Started series is a 10-week formation program for teens (ages 12–18) and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Each session is 90 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
+The Fellowship of the Heart Getting Started series is a 15-week formation program for teens (ages 12–18) and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the Week 14 family-commissioning session extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
 
 ### Practices used in the series
 
 The following practices will be used in the series. Each practice is briefly described, with the option for a parent to opt their teen out of any specific practice while still participating in the rest of the program.
 
-**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (Week 3).
+**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (Weeks 3–4).
 
 **Heart Soil diagnostic.** A reflective exercise based on the parable of the Sower (Mark 4) for honest self-knowledge (Week 2).
 
 **Confession-and-restoration practice.** An age-adapted James 5:16 practice in which participants name a place they want to walk in greater honesty and receive a spoken blessing. Specific sins are not required to be disclosed (Week 6).
 
-**PROAPT scripture engagement.** A six-step practice for personal scripture engagement: Pray, Read, Observe, Apply, Pray again, Tell (Week 6).
+**PROAPT scripture engagement.** A six-step practice for personal scripture engagement: Pray, Read, Observe, Apply, Pray again, Tell (Weeks 7–8).
 
-**Garden of Your Heart.** A guided imaginative prayer in which each participant pictures their heart as a garden, invites Jesus in, and notices what He does. Adapted for this age group with shorter duration and less personal disclosure expectation (Week 7).
+**Garden of Your Heart.** A guided imaginative prayer in which each participant pictures their heart as a garden, invites Jesus in, and notices what He does. Adapted for this age group with shorter duration and less personal disclosure expectation (Weeks 9–10).
 
-**Any Doubts? practice.** An exercise for naming honest doubts about scripture and bringing them to God in the spirit of Mark 9:24 (“I believe; help my unbelief”) (Week 8).
+**Any Doubts? practice.** An exercise for naming honest doubts about scripture and bringing them to God in the spirit of Mark 9:24 (“I believe; help my unbelief”) (Week 11).
 
-**Gifts and Mission inventory.** A reflective exercise on personal gifts, passions, and what each participant offers when they are at their best (Week 9).
+**Gifts and Mission inventory.** A reflective exercise on personal gifts, passions, and what each participant offers when they are at their best (Week 12).
 
 ### Acknowledgments and consent
 
@@ -1262,18 +1262,18 @@ Sunday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 # Appendix G — The FC1 Leader Lab (Facilitator Guide)
 
 
-The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the 13-week map). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
+The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the fifteen-week map in Section 1). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
 
-**Six sessions, run alongside the 13-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
+**Six sessions, run alongside the fifteen-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
 
 | Lab | Alongside cohort | Focus |
 |-----|------------------|-------|
 | 1 | Wks 1–2 | The call, the bright line, the container from the inside |
 | 2 | Wks 3–4 | Receiving feedback; leading yourself; the referral reflex |
 | 3 | Wks 5–7 | Leading a process; why the Connect order matters |
-| 4 | Wks 8–9 | **Scope, referral, covering — the dorm-safety session** |
-| 5 | Wks 10–11 | Adapting it to a peer-only world; making the ask |
-| 6 | Wks 12–13 | Mock full session + commissioning |
+| 4 | Wks 8–10 | **Scope, referral, covering — the dorm-safety session** |
+| 5 | Wks 11–13 | Adapting it to a peer-only world; making the ask |
+| 6 | Wks 14–15 | Mock full session + commissioning |
 
 ---
 

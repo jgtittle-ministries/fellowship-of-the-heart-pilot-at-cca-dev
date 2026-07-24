@@ -12,7 +12,7 @@ The participant-facing artifacts used across all three Fellowship of the Heart s
 
 - [**Rhythm Card**](rhythm-card.md) — the daily / weekly / monthly practice card. The long-term rhythm a cohort carries beyond Getting Started, sustained across Going Deeper and Going Out and beyond.
 
-- [**PROAPT Card**](proapt-card.md) — the six-step hearing-in-scripture practice (Pray, Read, Observe, Apply, Pray again, Tell). Introduced in Getting Started Week 6 and carried daily through the rest of the curriculum.
+- [**PROAPT Card**](proapt-card.md) — the six-step hearing-in-scripture practice (Pray, Read, Observe, Apply, Pray again, Tell). Introduced in Getting Started Week 7 and carried daily through the rest of the curriculum.
 
 - [**Reading List**](reading-list.md) — an annotated guide for parents, teens, and the curious. Curated from the IJH Volume 5 References for the Fellowship of the Heart audience.
 

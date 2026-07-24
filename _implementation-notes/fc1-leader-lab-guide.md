@@ -2,18 +2,18 @@
 
 *Companion to the Companion-in-Formation Track. Draft for John's review, dev-only.*
 
-The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the 13-week map). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
+The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the fifteen-week map in Handbook Section 1). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
 
-**Six sessions, run alongside the 13-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
+**Six sessions, run alongside the fifteen-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
 
 | Lab | Alongside cohort | Focus |
 |-----|------------------|-------|
 | 1 | Wks 1–2 | The call, the bright line, the container from the inside |
 | 2 | Wks 3–4 | Receiving feedback; leading yourself; the referral reflex |
 | 3 | Wks 5–7 | Leading a process; why the Connect order matters |
-| 4 | Wks 8–9 | **Scope, referral, covering — the dorm-safety session** |
-| 5 | Wks 10–11 | Adapting it to a peer-only world; making the ask |
-| 6 | Wks 12–13 | Mock full session + commissioning |
+| 4 | Wks 8–10 | **Scope, referral, covering — the dorm-safety session** |
+| 5 | Wks 11–13 | Adapting it to a peer-only world; making the ask |
+| 6 | Wks 14–15 | Mock full session + commissioning |
 
 ---
 
@@ -66,7 +66,7 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **Take-home.** You'll lead PROAPT II in the cohort (Wk 8). Prepare it — and bring one vital-signs observation from your own cohort's next session (no names needed) to Lab 4.
 
-## Lab 4 — Scope, Referral, and Covering *(alongside Wks 8–9)* — the dorm-safety session
+## Lab 4 — Scope, Referral, and Covering *(alongside Wks 8–10)* — the dorm-safety session
 
 **Aim.** Build the two competencies that will one day replace the adults in the room. **This is the most important Lab.**
 
@@ -82,7 +82,7 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **Take-home.** Complete the referral card and have the covering conversation before the series ends.
 
-## Lab 5 — Adapting It to Your World; Making the Ask *(alongside Wks 10–11)*
+## Lab 5 — Adapting It to Your World; Making the Ask *(alongside Wks 11–13)*
 
 **Aim.** Prepare for the peer-only reality and the skill of gathering a group.
 
@@ -97,7 +97,7 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **Take-home.** Draft your own invitation, in your own words.
 
-## Lab 6 — Mock Full Session and Commissioning *(alongside Wks 12–13)*
+## Lab 6 — Mock Full Session and Commissioning *(alongside Wks 14–15)*
 
 **Aim.** Integrate everything; run a full leadable sequence; and be sent.
 
