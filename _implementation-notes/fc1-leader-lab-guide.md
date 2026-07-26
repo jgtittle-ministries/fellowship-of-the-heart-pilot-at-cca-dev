@@ -78,7 +78,8 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 3. **Build your referral map.** Each senior fills in a real card for wherever they are or will be: campus counseling, 988, a trusted pastor, an RA, the parents they can still call. *The blank card is not ready; the filled card is.*
 4. **Name your covering.** Each senior names the person they will call when they are over their head — a youth pastor, a mentor, a parent with the posture. Before you ever lead alone, that relationship is set up, not hoped for.
 5. **The "route it" drill, for the dorm.** No adult in the room. A friend discloses. Walk it out loud: pause the process, be present without probing, route to your map, follow up with your covering.
-6. **Close.**
+6. **The settle drill.** A friend goes under mid-practice — shaking, frozen, gone behind their own eyes. Walk the five moves out loud until they are reflex: stop with plain words; bring them back to the room; breathe and anchor; do not resume; stay until they are settled. Then it becomes the drill you already know: route it to your map, tell your covering. You hold the container; the care goes to someone with more shoulders.
+7. **Close.**
 
 **Take-home.** Complete the referral card and have the covering conversation before the series ends.
 
