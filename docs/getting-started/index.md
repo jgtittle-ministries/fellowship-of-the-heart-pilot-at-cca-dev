@@ -1,10 +1,10 @@
 # Getting Started
 
-*The Four Connects, walked over ten Tuesday evenings.*
+*The Four Connects, walked over fifteen Tuesday evenings.*
 
 ![A table set, before the cohort arrives.](images/landing-table.jpg)
 
-The first of the three Fellowship of the Heart series. Ten ninety-minute sessions — Week 10 runs to two hours — that introduce the **Four Connects** (connecting with **Self**, with **Others**, with **God**, and with **Mission**) and settle them into a daily rhythm a cohort can sustain on its own.
+The first of the three Fellowship of the Heart series. Fifteen ninety-minute sessions — Week 14 runs to two hours — that introduce the **Four Connects** (connecting with **Self**, with **Others**, with **God**, and with **Mission**) and settle them into a daily rhythm a cohort can sustain on its own.
 
 A cohort that completes Getting Started can stop here and not go further. That ending is honored. *Going Deeper* and *Going Out* are for those the Spirit prepares to keep walking.
 

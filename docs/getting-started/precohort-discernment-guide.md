@@ -133,7 +133,7 @@ After naming the three things, the Companion names three things Getting Started 
 
 Before closing Block 2, the Companion names the practical commitments:
 
-- Ten Tuesday evenings, 90 minutes each (Wk 10 is 120 minutes — the Family Commissioning).
+- Fifteen Tuesday evenings, 90 minutes each (Wk 14 is 120 minutes — the Family Commissioning). Thirteen run in the fall term; the final two land in January, after the Christmas break.
 - About 15 minutes a day between sessions for a journal practice.
 - One pre-cohort conversation — this one. One Family Pre-Cohort Conversation Worksheet to complete with your pair partner the week before Wk 1.
 - After Getting Started, Going Deeper in the next series cycle is invited but not assumed. Many participants do Getting Started and stop there; that is honest and good. The architecture honors both continuing and not.

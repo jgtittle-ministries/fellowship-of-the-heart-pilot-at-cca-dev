@@ -1181,7 +1181,7 @@ The series is based on the Intentional Journey of the Heart project (IJH), a bod
 
 Specifically:
 
-- Ten 90-minute sessions, [day of week], [start time], at CCA.
+- Fifteen 90-minute sessions, [day of week], [start time], at CCA — thirteen in the fall term, with the final two after the Christmas break.
 - Open to teens age 12–18. At least one parent (or grandparent, or guardian) attends every session as a participant.
 - Limited to about fifteen to twenty families. First-come, first-served.
 - Free.
