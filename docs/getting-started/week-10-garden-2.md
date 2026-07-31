@@ -408,7 +408,7 @@ Companion team meets the day after Week 10 for a 45-minute debrief. Two subjects
 
 - How did the pacing hold? Where specifically did it rush, and was it the silences, the reading, or the handoff?
 - If the feedback round moved to this meeting because the debrief ran heavy: run it now, same order — the senior's two answers first, the adult's second, then the team's — and confirm the senior heard why it moved — protecting the room is the lesson, and it should be said to them in exactly those words.
-- What is the one coaching thread to carry to their next lead? Week 13 — the Rhythm and the Dry Season — is a teaching lift, not an experiential one: scripted content, low disclosure, a different muscle. Whatever tonight showed about their pace and presence, translate it into that register now, while it is fresh, so the coaching between now and Week 13 has a target.
+- What is the one coaching thread to carry to their next lead? Week 13 — the Rhythm and the Four Questions — is a teaching lift, not an experiential one: scripted content, low disclosure, a different muscle. Whatever tonight showed about their pace and presence, translate it into that register now, while it is fresh, so the coaching between now and Week 13 has a target.
 
 ### People to follow up with this week
 

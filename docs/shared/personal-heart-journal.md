@@ -2168,13 +2168,13 @@ What is one thing you want to carry into the final weeks — the rhythm, the sen
 
 Week 13
 
-**The Rhythm and the Dry Season**
+**The Rhythm and the Four Questions**
 
-*“As a deer pants for flowing streams, so pants my soul for you, O God. My soul thirsts for God, for the living God.”*
+*“Search me, O God, and know my heart! Try me and know my thoughts! And see if there be any grievous way in me, and lead me in the way everlasting!”*
 
-— Psalm 42:1–2 (ESV)
+— Psalm 139:23–24 (ESV)
 
-*This week we built the rhythm we will actually keep — daily, weekly, monthly — and we talked plainly about the dry season, because it comes to every life of faith and it is not a verdict when it does. The pages below hold your Rhythm Card as you built it, a week of running it for real, and the one question to keep for the dry years.*
+*This week we built the rhythm we will actually keep — daily, weekly, monthly — and the parents were given four questions to ask at home, if willing: what has it been like to live with me all these years? What have been my messages to you? How have I wounded you? What would you like from me going forward? The verse above is the one we prayed in Week 3, turned outward: the parent inviting their own family to search them. The pages below hold your Rhythm Card as you built it and a week of running it for real. Whatever the four questions opened at your house belongs to your house — these pages will not ask you to report it.*
 
 ## My Rhythm Card — as I actually built it
 
@@ -2286,9 +2286,15 @@ Where it slipped:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Two cards in your folder
+## If the questions were asked at your house
 
-*Two cards came home with you this week. The Signs Card is for the season when the practices go gray — so you never misread a dry season as a verdict. The Path Home Card is the door that never locks. Put them where you can find them; you may not need them for years. That is exactly what they are for.*
+*No lines to fill here, on purpose. If your parent asked you the four questions — or you asked them — and something in you is still turning it over, this corner of the page is yours: a word, a prayer, or nothing at all. What was said belongs to your family. What it stirred belongs to you and God.*
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*(The two mercy cards — the Signs Card for the season when practices go gray, the Path Home Card, the door that never locks — come home with you at The Long Walk, near the series' end.)*
 
 ## End-of-week reflection — Week 13
 

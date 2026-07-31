@@ -118,7 +118,7 @@ The full fifteen-session map — one map for the whole series, with the Companio
 | 10 | The Garden of Your Heart II | God | John 15:1–11 | Garden — second guided run | Teen leads the guided walk-through; adult holds the debrief and anything that surfaces |
 | 11 | Any Doubts? Bringing the Real Question | God | Mark 9:24 | Any Doubts? practice, age-adapted | Adult-held center; teen may lead the container scaffolding only |
 | 12 | What Was Prepared for You | Mission | Ephesians 2:10 | Gifts inventory; downhill mission | Teen co-leads; name leading-as-mission here |
-| 13 | The Rhythm and the Dry Season | All four (sustaining) | Gal. 6:9; Ps. 42:1–5 | Rhythm Card installed; Signs Card + Path Home Card taught; mission work completes | Teen-led marquee — the fourth clean senior-led block |
+| 13 | The Rhythm and the Four Questions | All four (sustaining) | Gal. 6:9; Ps. 139:23–24 | Rhythm Card installed; the Four Questions presented (parent asks teen at home, if willing); mission work completes | Teen-led marquee for the rhythm build; the Lead Companion presents the questions |
 | 14 | Sending and Blessing | All four (integration) | Numbers 6:24–26 | Family commissioning; Post-Series Survey; reflection circle | Adult-led; teens co-lead pieces |
 | 15 | Commissioning the Companions | All four | The FC1 exit gate as a witnessed rite; commissioning; first Leader Lab of the serving cycle scheduled | The seniors lead; the cohort witnesses |
 
@@ -139,7 +139,7 @@ For Companions who want to trace each session back to the IJH source. The claim 
 | 9–10 | Vol 2 Exp 7 (Garden of Your Heart) | V2.E7-O2 (Garden as encounter) |
 | 11 | Vol 2 Exp 7 (Any Doubts?) | V2.E7-O1 (Any Doubts? as faith development) |
 | 12 | Vol 2 Exp 5 (Connecting with Mission) | V2.E5-S2 (Uphill/downhill mission) |
-| 13 | Vol 2 Exp 10 (Training Plan); the Signs Card's IJH grounding (desolation dynamics, Vol 2 Exp 7) | V2.E10-D1 (Sustainable training rhythm) |
+| 13 | Vol 2 Exp 10 (Training Plan); Vol 1 FL.XLVI (Interrogating Reality — honest speech in love) | V2.E10-D1 (Sustainable training rhythm) |
 | 14 | Integration; Vol 2 Exp 10 | V2.E10-D1 |
 | 15 | Vol 5 The Formation Companion (FC1 level definition); Section 11 | V2.E8-S1 (container fluency as FC1's spine) |
 
@@ -829,21 +829,21 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Between-session practice.** Take one specific small action this week aligned with what you heard in your downhill mission. Journal what happens.
 
-## Week 13 — The Rhythm and the Dry Season
+## Week 13 — The Rhythm and the Four Questions
 
-**Aim.** Install the long walk before the sending. The series' practices only matter if they survive the series — this session gives the cohort the rhythm that carries them, and the two mercy cards learned *before* the dry season rather than improvised inside it.
+**Aim.** Install the long walk, and open the family's deepest conversation. The rhythm gives the cohort the practices that carry them; the Four Questions give each parent a way to ask their own teen for the truth about living with them — and to receive it the way this room has received feedback all year.
 
 **Primary Connect.** All four (sustaining)
 
-**Anchor scripture.** Galatians 6:9 ("let us not grow weary of doing good") and Psalm 42:1–5 (the downcast soul that still hopes).
+**Anchor scripture.** Galatians 6:9 ("let us not grow weary of doing good") and Psalm 139:23–24 — the verse the room prayed vertically in Weeks 3–4 (*Search me, O God*), now asked horizontally: the parent inviting their family to search them.
 
-**Circle mode.** Shared teaching; family clusters for the rhythm-building exercise; merge for closing.
+**Circle mode.** Shared teaching; family clusters for the rhythm-building exercise; merge for the Four Questions presentation and closing.
 
-**Experiential center.** Three movements. (1) The [Rhythm Card](../shared/rhythm-card.md) is built out personally — each participant marks the daily, weekly, and monthly practices they are actually taking with them, not an idealized list. (2) The [Signs Card](../shared/signs-card.md) is taught: the four kinds of dry, and the one question that sorts them — *which way does the desire point?* Every participant should leave able to say why a dry season is not a verdict. (3) The [Path Home Card](../shared/path-home-card.md) is shown and placed in every folder: the door that never locks, explained while everyone is still in the room to hear it. Any unfinished gifts-and-mission work from Week 12 completes here.
+**Experiential center.** Two movements. (1) The [Rhythm Card](../shared/rhythm-card.md) is built out personally — each participant marks the daily, weekly, and monthly practices they are actually taking with them, not an idealized list. Any unfinished gifts-and-mission work from Week 12 completes here. (2) The Lead Companion presents **the Four Questions** — asked by the parent, to their teen (and, where married, to their spouse), at home, if willing: *What has it been like to live with me all these years? What have been my messages to you? How have I wounded you? What would you like from me going forward?* — tells their own story of asking them, and commissions the at-home practice under its guards (willing-only both directions; receive without defending; invisible by default; a letter counts; the Section 6 boundary). The Leader Feedback Round has been the rehearsal for this posture since Week 1. *(In the CCA club year, the dry-season teaching — the Signs and Path Home cards — moves to The Long Walk, taught by the Companions-in-Formation; a straight fifteen-week run teaches it tonight per the plan's appendix.)*
 
-**Who leads.** Teen-led marquee — the fourth clean senior-led block. The mercy-card teaching is scripted and low-disclosure; the adult holds anything a card conversation surfaces.
+**Who leads.** Teen-led marquee for the rhythm build — the fourth clean senior-led block. The Lead Companion presents the Four Questions; the adult holds anything the presentation surfaces.
 
-**Between-session practice.** Run the Rhythm Card as built, for real, this week. Note in the journal where it held and where it slipped — no fixing, just noticing.
+**Between-session practice.** Run the Rhythm Card as built, for real, this week — and, if willing, the parent asks the Four Questions at home. Note in the journal where the rhythm held and where it slipped — no fixing, just noticing.
 
 ## Week 14 — Sending and Blessing
 
@@ -982,7 +982,7 @@ So we run them twice. The first running is adult-led, and the teen is a particip
 The full fifteen-week map, with the who-leads column, lives in [Section 1](#session-map) — one map for the whole series, because the second runnings serve everyone: the cohort completes practices that never finish in one session, and the seniors get their marquee slots. The shape, for this section's purposes:
 
 - **The three second-runnings** — Telling Your Story II (Week 4), PROAPT II (Week 8), Garden of Your Heart II (Week 10) — teach nothing new. They complete a process the cohort has already begun, and they are the slots a senior leads. Heart Soil (Week 2) and the container-conditions exercise (Week 5) finish in one session and do not get a second running.
-- **Week 13 (The Rhythm and the Dry Season)** is the fourth teen-led marquee: scripted, low-disclosure teaching of the Rhythm Card and the two mercy cards — and the most important pastoral equipment an FC1 will ever carry, since misreading a dry season is the first hazard of peer leadership.
+- **Week 13 (The Rhythm and the Four Questions)** is the fourth teen-led marquee: scripted, low-disclosure teaching of the Rhythm Card and the two mercy cards — and the most important pastoral equipment an FC1 will ever carry, since misreading a dry season is the first hazard of peer leadership.
 - **Week 14** sends the whole cohort; **Week 15** commissions the Companions — the FC1 exit gate as a witnessed rite (final container rep from memory, the three rules read publicly, the covering named, the first Leader Lab scheduled). A senior leaves Week 15 having *begun* FC1, not merely completed a series.
 - The four-Connect sequence and its dependencies are preserved: Self through Weeks 2–4, Others through 5–6, God through 7–11, Mission at 12, sustaining at 13, integration at 14, commissioning at 15.
 

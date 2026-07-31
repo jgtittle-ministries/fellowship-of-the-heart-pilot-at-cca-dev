@@ -30,7 +30,7 @@ Companions who want the academic backbone of this series will find it in the IJH
 | 10 | [The Garden of Your Heart II](week-10-garden-2.md) *(second running — teen-led walk-through)* | God | John 15:1–11 |
 | 11 | [Any Doubts?](week-11-doubts.md) | God | Mark 9:24 |
 | 12 | [What Was Prepared for You](week-12-mission.md) | Mission | Ephesians 2:10 |
-| 13 | [The Rhythm and the Dry Season](week-13-rhythm.md) *(teen-led marquee)* | All four (sustaining) | Galatians 6:9; Psalm 42:1–5 |
+| 13 | [The Rhythm and the Four Questions](week-13-rhythm.md) *(teen-led marquee)* | All four (sustaining) | Galatians 6:9; Psalm 139:23–24 |
 | 14 | [Sending and Blessing](week-14-sending.md) | All four (integration) | Numbers 6:24–26; Philippians 1:6 |
 | 15 | [Commissioning the Companions](week-15-commissioning.md) | All four | 2 Timothy 2:2; 1 Timothy 4:12 |
 
@@ -45,7 +45,7 @@ The fifteen weeks are not fifteen independent lessons. They are one walk through
 - **Weeks 5–6** are **Connecting with Others** — naming the four conditions of a real container (Safe, Present, Clear, Intentional), then practicing confession-and-restoration together.
 - **Weeks 7–11** are **Connecting with God** — PROAPT as a hearing practice in scripture (two runnings), the Garden of Your Heart as a relational encounter (two runnings), the Any Doubts? practice for the gap between what we say and what we trust.
 - **Week 12** opens **Connecting with Mission** — uphill mission and downhill mission, gifts and passions, *the works prepared beforehand*.
-- **Week 13** installs the long walk — the Rhythm Card built personally, and the two mercy cards (Signs, Path Home) taught before the dry season rather than improvised inside it.
+- **Week 13** installs the long walk and opens the family's deepest conversation — the Rhythm Card built personally, and the Four Questions presented: the parent asks their own teen, at home, if willing, *what has it been like to live with me?* (In the CCA year, the two mercy cards — Signs, Path Home — are taught at The Long Walk, by the Companions-in-Formation.)
 - **Weeks 14–15** close in two movements — the whole cohort sent through a family commissioning, then the Companions-in-Formation commissioned as FC1 in a witnessed rite of their own.
 
 The second-running weeks (4, 8, 10) are where willing senior teens lead — see the Handbook's Section 11 (the Companion-in-Formation track) for the bright line between what a teen leads and what an adult always holds.

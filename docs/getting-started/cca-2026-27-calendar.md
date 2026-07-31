@@ -46,7 +46,7 @@ All sessions run per the v1.3 pilot edition: high-school teens and parents in fa
 | 12 | [insert] | **The Return** *(overlay)* — full re-entry after Christmas: rhythm-card survival, Path Home Card in action, the container rebuilt |
 | 13 | [insert] | **Week 12 — What Was Prepared for You** |
 | 14 | [insert] | **Second-Running Block A** *(overlay)* — an additional teen-led running (PROAPT in pairs, or container + Family Conversation Cards), so more than one teen gets a full rep |
-| 15 | [insert] | **Week 13 — The Rhythm and the Dry Season** (teen-led marquee) |
+| 15 | [insert] | **Week 13 — The Rhythm and the Four Questions** (teen-led rhythm marquee; the Lead Companion presents the Four Questions and commissions the at-home asking) |
 | 16 | [insert] | **Family Conversation Night** *(overlay)* — cards and a shared meal; low content, high warmth + Pulse 3 |
 | 17 | [insert] | **Float** *(overlay)* — absorbs the snow day or assembly conflict; if unused, a live walk of the Rhythm Card together |
 
@@ -56,7 +56,7 @@ All sessions run per the v1.3 pilot edition: high-school teens and parents in fa
 |---|---|---|
 | 18 | [insert] | **The Return II** *(overlay)* — lighter re-entry + rhythm check |
 | 19 | [insert] | **Second-Running Block B** *(overlay)* — Signs Card and Path Home Card taught back by the Companions-in-Formation: final reps before the gate |
-| 20 | [insert] | **The Long Walk** *(overlay)* — journal arc review, testimony gathering; Post-Series Survey distributed |
+| 20 | [insert] | **The Long Walk** *(overlay)* — the Companions-in-Formation teach the Signs Card and Path Home Card to the room (the dry-season teaching, landed where its question is live); journal arc review, testimony gathering; Post-Series Survey distributed |
 | 21 | [insert] | **Week 14 — Sending & Blessing** (family commissioning, 120 minutes) |
 | 22 | [insert] | **Week 15 — Commissioning the Companions** — the FC1 exit gate as a witnessed rite, at year's end |
 
