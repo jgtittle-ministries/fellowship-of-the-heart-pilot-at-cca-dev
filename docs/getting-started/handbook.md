@@ -1229,20 +1229,22 @@ Sent to CCA families approximately eight weeks before Week 1. Customize the brac
 
 Dear [CCA family name],
 
-Beginning [date range], CCA is hosting a new club for teens and their parents called Fellowship of the Heart. It is a fifteen-week journey — once a week for ninety minutes — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
+Beginning [date range], CCA is hosting a new club for high-school teens and their parents called Fellowship of the Heart. It is a year-long journey — Wednesday evenings across the school's four club quarters, ninety minutes a week — into what we are calling the four Connects: Connecting with Self, with Others, with God, and with Mission.
 
-This is not a youth group with parent permission. It is a family formation series. Each week, your teen will do real work alongside you — sometimes in the same circle, sometimes in their own circle while you are in your own — in a setting designed to help all of you begin a journey of the heart that, if the Lord wills, will not stop when the series ends.
+This is not a youth group with parent permission. It is a family formation series, and this year's shape is its heart: parents and teens share the same circle, families stay together, and on the sharing practices the parents go first. Your teen will hear you name real things — and you will hear your teen — in a setting designed to help all of you begin a journey of the heart that, if the Lord wills, will not stop when the series ends.
 
 The series is based on the Intentional Journey of the Heart project (IJH), a body of work I have been developing with practitioners over more than twenty years. The kitchen-table version is this: Jesus invited his disciples into a life with God that most of us experience only in flashes — hearing God clearly, walking in real love, doing the works He prepared for us. There is a discoverable structure underneath that life. The Four Connects are the spine.
 
 Specifically:
 
-- Fifteen 90-minute sessions, [day of week], [start time], at CCA — thirteen in the fall term, with the final two after the Christmas break.
-- Open to teens age 12–18. At least one parent (or grandparent, or guardian) attends every session as a participant.
-- Limited to about fifteen to twenty families. First-come, first-served.
+- Twenty-two Wednesday-evening sessions across the club year (September through spring), 90 minutes each, at CCA.
+- Open to high-school teens. At least one parent (or grandparent, or guardian) attends every session as a participant.
+- Limited to about six families. First-come, first-served.
 - Free.
 
-If you and your teen are willing to do real work together in these fifteen weeks — not just to attend, but to engage — we would love to have you. There is an information meeting at CCA on [date] at [time]. Please RSVP at [contact information] by [date] if you are interested.
+And one more thing, because we believe formation should happen in daylight: **the entire curriculum is published openly** at jgtittle-ministries.github.io/fellowship-of-the-heart-pilot-at-cca — every session, every practice, every safety protocol. If you want a feel for the journey before the information meeting, start with the club calendar, the Personal Heart Journal, and the Family Conversation Cards. The team handbook and session plans are the open kitchen: you are welcome in, nothing is hidden, and none of it is homework. This first year is a pilot — we will learn as we go, adapt as we learn, and the site's change log will show you anything that shifts.
+
+If you and your teen are willing to do real work together this year — not just to attend, but to engage — we would love to have you. There is an information meeting at CCA on [date] at [time]. Please RSVP at [contact information] by [date] if you are interested.
 
 Blessings,
 
