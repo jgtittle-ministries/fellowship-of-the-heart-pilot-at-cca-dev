@@ -6,7 +6,7 @@ Week 3
 
 **Telling Your Story I**
 
-*Four questions, one circle, and the practice of being known — the parents tell first; the teens’ night is Week 4*
+*One question, one circle, and the practice of being known — the parents tell first; the teens’ night is Week 4*
 
 ![An open page, waiting for your story.](images/wk03-story.jpg)
 
@@ -24,7 +24,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WEEK 3 — TELLING YOUR STORY I (90 minutes)
 
-**Aim.** Each parent — plus any Companion-in-Formation, who tells before they lead — tells a portion of their personal story to their family cluster using the four-question frame, and each receives a spoken blessing from the circle. Teens witness and bless this week; their telling night is Week 4. The session moves Connecting with Self into Connecting with Others.
+**Aim.** Each parent — plus any Companion-in-Formation, who tells before they lead — tells a portion of their personal story to their family cluster in answer to a single open question, and each receives a spoken blessing from the circle. Teens witness and bless this week; their telling night is Week 4. The session moves Connecting with Self into Connecting with Others.
 
 **Anchor scripture.** Psalm 139:23–24 — “Search me, O God, and know my heart”.
 
@@ -32,7 +32,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Mode.** Shared opening and teaching; FAMILY CLUSTERS for the storytelling — two or three whole families with a Cluster Companion, own family always together; MERGE for closing. If the room is about ten or fewer, the whole room stays as one circle.
 
-**Center.** Each parent (and any Companion-in-Formation) tells a 5–7 minute story shaped by four questions: footprints, wounds, battles, and victories. After each story, the circle — teens included — blesses the teller in 1–2 sentences. No fixing, no comparing, no advice.
+**Center.** Each parent (and any Companion-in-Formation) tells a 5–7 minute story in answer to one open question: *tell the story of how you got here — today, as you are. What has shaped you into who you are today?* After each story, the circle — teens included — blesses the teller in 1–2 sentences. No fixing, no comparing, no advice.
 
 **Between-session practice.** The Joint Footprints exercise: each parent and teen pair sits together once this week and walks each other through the footprints question. Twenty minutes total.
 
@@ -68,7 +68,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## Why this session, this week
 
-Week 1 built the container. Week 2 introduced honest self-knowledge through the Heart Soil diagnostic. Week 3 takes the next step — and in this pilot, the parents go first. Each parent speaks themselves into the room while their family listens. We are not asking anyone to tell their hardest story; we are asking each parent to walk a small circle through four questions about who they are and how they got here. The teens tell in Week 4. Tonight the parents show them the way, for the same reason a parent opens every sharing round in this series: the adults set the depth and the safety before the teens are asked to step in.
+Week 1 built the container. Week 2 introduced honest self-knowledge through the Heart Soil diagnostic. Week 3 takes the next step — and in this pilot, the parents go first. Each parent speaks themselves into the room while their family listens. We are not asking anyone to tell their hardest story; we are asking each parent to answer one open question in a small circle: tell the story of how you got here — today, as you are. What has shaped you into who you are today? The single question lets every teller choose their own depth. Nothing in it demands a wound or a battle; a teller who goes deep does so freely. The teens tell in Week 4. Tonight the parents show them the way, for the same reason a parent opens every sharing round in this series: the adults set the depth and the safety before the teens are asked to step in.
 
 The work of Week 3 is double. First, that each parent practices being known by a few specific people — including their own teen — a thing many of them have never done. Second, that everyone else, teens above all, practices being a listener who blesses rather than fixes — a thing all of them have to learn. Both halves are the practice, and the teens’ listening this week is the apprenticeship for their telling next week.
 
@@ -84,15 +84,15 @@ This is the first session in which the family clusters run independently of the 
 
 ## Connect focus
 
-Self leads, Others arrives. The four questions are about Self — footprints, wounds, battles, victories. The parents work that half aloud tonight; the circle that hears each story — teens especially — practices Others. Both Connects are at the center of this session, and the move from one to the other is the design.
+Self leads, Others arrives. The story question is about Self — how you got here, and what has shaped you. The parents work that half aloud tonight; the circle that hears each story — teens especially — practices Others. Both Connects are at the center of this session, and the move from one to the other is the design.
 
 # Pre-Work for the Companion Team (this week)
 
 ## Personal pre-work — you tell your own story first
 
-Before this session, the Lead Companion, every Cluster Companion, and any Companion-in-Formation writes out their own four-question story. Not to read aloud — to know it. The room will know within thirty seconds whether their Companion has done this work. (A Companion-in-Formation who will help lead Week 4 tells their own story in their cluster this week — telling comes before leading.)
+Before this session, the Lead Companion, every Cluster Companion, and any Companion-in-Formation writes out their own answer to the story question — how you got here, and what has shaped you. Not to read aloud — to know it. The room will know within thirty seconds whether their Companion has done this work. (A Companion-in-Formation who will help lead Week 4 tells their own story in their cluster this week — telling comes before leading.)
 
-Set aside ninety minutes this week for your own four-question writing. Use the Personal Heart Journal pages for Week 3. Be specific. Where you would normally generalize — “my parents’ divorce was hard” — keep going. “The sound of my mother crying in the bathroom in 1994.” That is the depth at which you write to yourself. You will not share that depth in the circle. But you will not tell a true story unless you have first told a true story to yourself.
+Set aside ninety minutes this week for your own story writing. Use the Personal Heart Journal pages for Week 3. Be specific. Where you would normally generalize — “my parents’ divorce was hard” — keep going. “The sound of my mother crying in the bathroom in 1994.” That is the depth at which you write to yourself. You will not share that depth in the circle. But you will not tell a true story unless you have first told a true story to yourself.
 
 ## Team pre-work
 
@@ -156,7 +156,7 @@ In each cluster space, chairs are in a tight circle, knees almost touching. The 
 | 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Restate the container. Frame Week 3. |
 | 7:10–7:15 | Block 2: Week 2 check-in | Shared circle | Lead Comp | Brief check-in on Heart Soil journaling. One sentence each, optional. |
 | 7:15–7:25 | Block 3: Psalm 139 — being known | Shared circle | Lead Comp | Read Psalm 139:1–6 and 23–24. Short teaching. |
-| 7:25–7:30 | Block 4: Companion demo story | Shared circle | Lead Comp | Lead Companion tells their own four-question story in five minutes. Models the form. |
+| 7:25–7:30 | Block 4: Companion demo story | Shared circle | Lead Comp | Lead Companion tells their own story — the single question — in five minutes. Models the form. |
 | 7:30–7:32 | Block 5: Bridge to the clusters | Shared circle | Lead Comp | Walk through the storytelling card. Walk through the listener’s role card. Pray. Move to clusters. |
 | 7:32–8:07 | Block 6: Stories in family clusters | Family clusters | Cluster Comps | Each parent (and any Companion-in-Formation): 5–7 min story, 1–2 min blessing, brief silence. Cluster Companion goes first; the arranged parent follows. |
 | 8:07–8:15 | Block 7: Merge and shared closing | Shared circle | Lead Comp | Reconvene in main room. One word each. Aaronic blessing. |
@@ -221,19 +221,23 @@ Read aloud from the physical Bible. Slow. The teaching is short — the goal is 
 
 • We cannot live this prayer in front of God if we cannot live a smaller version of it in front of one or two trusted people. The opposite of being known is being hidden. The opposite of being hidden is not being exposed — it is being seen and being safe at the same time. That is what the circle is.
 
-• Tonight is a small practice of Psalm 139. Our parents will answer four questions with what they are willing to say. Not everything. What they are willing to say. And the people in the circle — teens included — are going to look at them and bless them, not fix them. That is what being known and being safe at the same time looks like, in practice.
+• Tonight is a small practice of Psalm 139. Our parents will each answer one question — the story of how they got here, and what has shaped them — with what they are willing to say. Not everything. What they are willing to say. And the people in the circle — teens included — are going to look at them and bless them, not fix them. That is what being known and being safe at the same time looks like, in practice.
 
 ## Block 4 — Companion Demo Story (7:25–7:30, 5 min)
 
-The Lead Companion now tells their own four-question story in five minutes. This is the most important five minutes of the night. The parents — and the teens watching for their own night next week — will calibrate everything against what they just saw modeled.
+The Lead Companion now answers the story question in five minutes — *tell the story of how you got here — today, as you are. What has shaped you into who you are today?* This is the most important five minutes of the night. The parents — and the teens watching for their own night next week — will calibrate everything against what they just saw modeled.
 
 ## How to do this well
 
 - Be specific. “My parents fought” is not specific. “I grew up in a house where I learned to read a slammed cabinet door” is specific.
 - Be honest about hard places. Not graphic, but honest. If you say “oh, life had its bumps” you are giving the cohort permission to be evasive. If you name one real hard place specifically, you are giving them permission to do the same.
-- Do not center yourself as the hero. Do not center yourself as the victim either. Tell what happened, name the work in progress, name a victory.
+- Do not center yourself as the hero. Do not center yourself as the victim either. Tell what happened, and where you see God in it now, looking back.
 - Time it. Five minutes. Practice this with your spouse or Co-Companion first. Five minutes is shorter than you think and longer than you fear.
 - Close with: “That is the form. Parents, you’ll do this in your cluster tonight. Teens, this is yours next week. Yours doesn’t have to look like mine.”
+
+*What a story at the right depth sounds like — the founder’s own opening story, as told in the pilot. Real, unhurried, no forensics; a spoken telling breathes and runs longer:*
+
+> I grew up in church — Sunday school every Sunday, gold stars for attendance — until I was fifteen, and I walked away from the Lord. I spent many years wandering dark hallways: atheism, agnosticism, humanism. When my daughter was born, I told my wife I’d like to have her raised up in church, to get that good moral teaching like I did — and when she was a teenager, she could make her own choice. So we started attending church every now and then, but I couldn’t settle on one, because every time I heard a preacher I wanted to argue with the points being made. Eventually I found a TV evangelist who talked about a personal walk and relationship with Jesus in a way that didn’t raise any yeah-buts from inside me. And one night at the kitchen table I heard Jesus ask me: “Well, John — when are you going to make a decision?” I realized this was a pivotal point. And I knew who it was. So at that kitchen table I asked Jesus into my life, and it has been an unfolding miracle ever since.
 
 ## Block 5 — Bridge to the Clusters (7:30–7:32, 2 min)
 
@@ -243,7 +247,7 @@ Two minutes. Move quickly through the cards, pray, and move to the clusters. Do 
 
 *“Okay. (Hold up the card.) Parents, you have the storytelling card; everyone has the listener’s card. Teens, your own storytelling card goes home with you tonight — next Tuesday is your night. Three things to remember.”*
 
-*“First: take what helps from the questions. You don’t have to use all four. You don’t have to answer them in order. The questions are scaffolding, not a quiz. The card has a starter for you in case you need it.”*
+*“First: the question is one question — tell the story of how you got here, and what has shaped you. There’s no list to get through, and the depth is yours to choose. The card has a few starting places in case you need one — use any of them, or none.”*
 
 *“Second: when you’re listening — do not fix. Do not advise. Do not say ‘that happened to me too.’ You are listening to receive. After each story, the circle will offer one or two sentences of blessing. The listener card has examples. Read them. Use them.”*
 
@@ -318,7 +322,7 @@ This is the first session in which the practice is explicitly relational and exp
 
 *“Here’s what it is. Sometime between now and Tuesday, each parent and teen pair sits together for twenty minutes — not in the car, not at dinner, not while the TV is on. At a table or on a porch. Phones away.”*
 
-*“One of you walks the other through the first question on the storytelling card — the footprints question. Just that one. Where did you grow up, who shaped you, what places and people made you who you are. Five minutes telling. The other person listens, asks one or two follow-up questions, and at the end says one sentence: ‘What I love about your footprints is...’”*
+*“One of you walks the other through the footprints question. Just that one. Where did you grow up, who shaped you, what places and people made you who you are. Five minutes telling. The other person listens, asks one or two follow-up questions, and at the end says one sentence: ‘What I love about your footprints is...’”*
 
 *“Then swap. The other person tells their footprints, the first person listens and blesses.”*
 
@@ -366,7 +370,7 @@ Teens do not tell tonight; Week 4 is theirs. Tonight their whole assignment is t
 - Watch each teen’s face during their parent’s telling. A teen receiving more weight than they can hold is a Settle Protocol matter (Handbook §6) — quiet check-in at the next pause, and nobody leaves activated.
 - Watch for the teen who wants to comfort or rescue their parent mid-story. Gentle, afterward: “Your stillness was the gift. She didn’t need rescuing; she needed you to hear it.”
 - Watch for the teen who goes quiet after a hard telling. Note it for follow-up; do not process it in the circle.
-- Some teens will start measuring their own Week 4 telling against what they heard tonight (“mine has to be that deep?”). Name it before dismissal if you sense it: depth is chosen, not required. The four questions are scaffolding, not a bar to clear.
+- Some teens will start measuring their own Week 4 telling against what they heard tonight (“mine has to be that deep?”). Name it before dismissal if you sense it: depth is chosen, not required. The question asks for your story, not a bar to clear.
 
 ## Parents (tellers this week)
 
@@ -374,7 +378,7 @@ Parents have the hardest task tonight. They have to tell true stories with their
 
 ## Adjustments
 
-- Storytelling card uses adult IJH language: footprints, wounds, battles, victories (see Handout H3.3). Story turns are 5–7 minutes.
+- Storytelling card carries the single story question (see Handout H3.3). Story turns are 5–7 minutes.
 - Frame at the start: “Your teen is in the circle with you. The most generous thing you can do for them tonight is be honest at a depth they can receive. They will know if you are tidying — and next Tuesday, when it is their turn, they will tell at the depth you told tonight.”
 - Any parent whose story names family events their teen has not yet been handed talks with the Lead Companion before tonight. Some weight belongs in a different room first. This was planned in pre-work; hold the plan.
 - Watch for the over-disclosing parent — the one who turns the circle into a confession. Affirm what they said and gently time-bound. “Thank you for trusting us. Let’s pause and let your circle bless you, and we’ll honor what you said by not pulling more out tonight.”
@@ -460,31 +464,22 @@ Four handouts for Week 3. Each is on its own page below. Print as needed for you
 
 **Handout H3.2 — Story-Telling Card (Teen)**
 
-*Your telling night is Week 4 — next Tuesday you’ll have about six or seven minutes to tell a piece of your story to your cluster. Tonight you watched the form; this card goes home with you so you can begin. The four questions below are a frame, not a script. Use what helps. Skip what doesn’t. Be specific where you would normally generalize.*
+*Your telling night is Week 4 — next Tuesday you’ll have about six or seven minutes to tell a piece of your story to your cluster. Tonight you watched the form; this card goes home with you so you can begin. The question below is a frame, not a script. You choose the depth. Be specific where you would normally generalize.*
 
-## 1. Footprints — the places and people that shaped you
+## The question
 
-**Where did you grow up? What were the formative places — a particular house, school, town, church, friendship? Who shaped your sense of who you are? Be specific. The grandfather who sat with you in his shed. The friend you met at fifth grade camp. The teacher who saw you. The neighborhood you moved away from.**
+**Tell the story of how you got here — today, as you are. What has shaped you into who you are today?**
 
-*Footprints are the soil you grew up in. They aren’t destiny, but they are real. Naming them is part of being honest about who you are.*
+*That is the whole frame. Nothing in it demands a hard thing, and nothing in it forbids one. You decide what belongs in your telling; what you choose to say freely is worth more in this circle than anything pulled out of you.*
 
-## 2. Wounds — the hard places
+## If you’re not sure where to start
 
-**Where in your story did real damage happen? A loss. A betrayal. A long season of feeling unseen, or invisible, or compared. A wound from a parent, a sibling, a friend group, a coach. A thing you carried for a long time before you had words for it.**
+*A few optional stepping stones — use any of these, or none:*
 
-*You decide how specific. You can name a wound without describing every detail. The work in this circle is not full disclosure; it is honesty about the existence and shape of the thing.*
-
-## 3. Battles — what you are fighting now
-
-**What is actually contested ground in your life right now? Anxiety. Comparison. The voice in your head when you look at Instagram. Performance and the cost of it. Faith doubts you don’t feel safe naming. A pattern you keep falling into. The pull of something you know is unhealthy.**
-
-*Battles are not finished. The point isn’t to report a victory; it’s to name what you are actually fighting. The naming is part of how the fighting changes.*
-
-## 4. Victories — where the story is bearing fruit
-
-**Where in your life is real fruit appearing that you didn’t produce on your own? A friendship that has been a refuge. A capacity you didn’t have at fourteen. A piece of character that grew through something hard. A way you respond to your family now that surprises you.**
-
-*Do not skip this. Your story is not just the wounds and the battles. God has been at work. Name one piece of fruit.*
+- The places and people that shaped you. The grandfather who sat with you in his shed. The friend you met at fifth grade camp. The teacher who saw you. The neighborhood you moved away from.
+- A turning point — a moment after which things were different.
+- A hard season you’re willing to name. You can name that a season was hard without describing every detail.
+- Where you see God in it now, looking back.
 
 ## Specificity is the door
 
@@ -496,25 +491,20 @@ Four handouts for Week 3. Each is on its own page below. Print as needed for you
 
 *Tonight you have about six or seven minutes to tell a piece of your own story to your family cluster — other parents, other teens, and your own teen, listening. The most generous thing you can do for them tonight is to be honest at a depth they can receive, because the depth they tell at next Tuesday will be the depth you tell at tonight.*
 
-## 1. Footprints — the places and people that made you
+## The question
 
-**Where did you grow up? What kind of family? What was the texture of your parents’ marriage, your church, your town? Who saw you and named what was inside you? Who didn’t? What did you bring out of that childhood that you are still carrying — for good and for ill?**
+**Tell the story of how you got here — today, as you are. What has shaped you into who you are today?**
 
-## 2. Wounds — the hard places
+*That is the whole frame. You choose the depth. You can name that a season was hard without giving details you don’t want in this room — honor your own boundaries; honor the other parents in the circle. And tell it true at whatever depth you choose. Your kids will know if you are tidying.*
 
-**Where did real damage happen in your story? A parent’s absence or anger. A loss in young adulthood. A betrayal in marriage or friendship or church. A season of depression. A wound you didn’t name for years.**
+## If you’re not sure where to start
 
-*You can name the existence of a wound without giving details that you don’t want in this room. Honor your own boundaries; honor the other parents in the circle.*
+*A few optional stepping stones — use any of these, or none:*
 
-## 3. Battles — what you are fighting now
-
-**Not abstract. What are you actually fighting in midlife? The marriage you have versus the one you imagined. The work pressure. Aging parents. The shape of your own faith now versus the certainty you used to feel. The question of whether you have given your kids what they actually need. Quiet despair. The deceitfulness of comfort.**
-
-*Tell what is actually contested. Your kids will know if you are tidying.*
-
-## 4. Victories — where the fruit is real
-
-**Where has there been actual fruit in your life that you didn’t produce yourself? A character change. A repaired relationship. An overcome pattern. A capacity that was not there at twenty-five. A way you parent that you didn’t inherit and had to learn.**
+- The places and people that made you — your family, your town, your church; who saw you and named what was inside you, and who didn’t.
+- A turning point — a decision, a loss, a door that opened or closed.
+- A hard season you’re willing to name.
+- Where you see God in it now, looking back.
 
 ## A note for parents
 
@@ -554,7 +544,7 @@ After each story, the circle offers one or two sentences each. Use one of these 
 - “The thing I am taking from your story is \_\_\_\_\_.”
 - “What I see in you that you may not see is \_\_\_\_\_.”
 
-Specific is better than generic. “Your courage to name that wound” is better than “thanks for sharing.”
+Specific is better than generic. “Your courage to name that hard season” is better than “thanks for sharing.”
 
 Brief is better than long. One or two sentences each. The teller needs to receive five blessings, not five mini-sermons.
 
@@ -562,7 +552,7 @@ Brief is better than long. One or two sentences each. The teller needs to receiv
 
 *Between-session practice for parent-and-teen pairs*
 
-*Once between now and next Tuesday, each parent and teen pair sits together for twenty minutes and walks each other through the footprints question — the first of the four questions from tonight’s circle.*
+*Once between now and next Tuesday, each parent and teen pair sits together for twenty minutes and walks each other through the footprints question — the places and people that shaped you.*
 
 ### How it works
 

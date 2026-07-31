@@ -237,7 +237,7 @@ The eight weeks before Week 1, every Companion works the following rhythm. This 
 | **Wks before Wk 1** | **Personal work** | **Team work** |
 | --- | --- | --- |
 | Wk -8 to -7 | Read Vol 2 in full; complete personal Footprints exercise. | Team forms; commit to weekly meetings. |
-| Wk -6 to -5 | Tell your own story (4-question version) to your Co-Companion; do the Heart Soil diagnostic on yourself. | Team Bible study together; do the container together; one team member tells their story each week. |
+| Wk -6 to -5 | Tell your own story to your Co-Companion (the open question: what has shaped you into who you are today?); do the Heart Soil diagnostic on yourself. | Team Bible study together; do the container together; one team member tells their story each week. |
 | Wk -4 to -3 | Run through Garden of Your Heart on yourself; identify your own current Mission question. | Recruitment and parent informed consent finalized; orientation session date set. |
 | Wk -2 to -1 | PROAPT one passage daily; rehearse Week 1 lesson plan with Co-Companion. | Run a dress rehearsal of Week 1 with one or two trusted families; debrief; refine. |
 | Wk 1 | Begin. | Begin. |
@@ -671,7 +671,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 ## Week 3 — Telling Your Story I
 
-**Aim.** The first batch of participants tells a piece of their story to a small circle, using the four-question version (footprints, wounds, battles, victories) age-adapted. The adult Companions model listening and blessing.
+**Aim.** The first batch of participants tells a piece of their story to a small circle, opened by a single question: *tell the story of how you got here — today, as you are. What has shaped you into who you are today?* Each teller chooses their own depth. The adult Companions model listening and blessing.
 
 **Primary Connect.** Self
 
@@ -1066,7 +1066,7 @@ The following practices will be used in the series. Each practice is briefly des
 
 Any participant may pause or step out of any practice at any time, without explanation and without penalty. Companions are trained to stop a practice for any participant who appears overwhelmed, and a stopped practice is never resumed with that participant the same evening.
 
-**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, framed by four questions about formative experiences (first quarter).
+**Story-telling exercises.** Each participant shares a portion of their personal story in a small circle, opened by a single question — what has shaped you into who you are today? — with each person choosing their own depth (first quarter).
 
 **Heart Soil diagnostic.** A reflective exercise based on the parable of the Sower (Mark 4) for honest self-knowledge (first quarter).
 

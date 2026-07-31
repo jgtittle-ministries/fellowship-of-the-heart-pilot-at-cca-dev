@@ -24,7 +24,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WEEK 4 — TELLING YOUR STORY II (90 minutes)
 
-**Aim.** The teens tell — every teen tells their four-question story to their family cluster and receives a spoken blessing, with their parents, who told a week ago, now in the listener's seat. Nothing new is taught. The completion is the point. And it is the first marquee slot led by a Companion-in-Formation: a senior teen leads the container open and close, the story facilitation, and the blessing round, protocol card in hand, with the adult Cluster Companion in the room.
+**Aim.** The teens tell — every teen tells their story to their family cluster, answering the same single question the parents answered, and receives a spoken blessing, with their parents, who told a week ago, now in the listener's seat. Nothing new is taught. The completion is the point. And it is the first marquee slot led by a Companion-in-Formation: a senior teen leads the container open and close, the story facilitation, and the blessing round, protocol card in hand, with the adult Cluster Companion in the room.
 
 **Anchor scripture.** Psalm 139:23–24 — “Search me, O God, and know my heart”.
 
@@ -36,7 +36,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Parents first.** On every sharing round tonight — the check-in, the blessing rounds, the one-word landing — a parent opens, arranged with that parent before the session. Never a cold call on a teen. Teens choose their own depth after; pass-anytime holds.
 
-**Center.** Each teen tells a 5–7 minute story shaped by the same four questions: footprints, hard places, what I am working on, and victories. After each story, the cluster blesses the teller in 1–2 sentences — the arranged parent first, then the circle. No fixing, no comparing, no advice. Same form, same rules, second running.
+**Center.** Each teen tells a 5–7 minute story in answer to the same single question: *tell the story of how you got here — today, as you are. What has shaped you into who you are today?* After each story, the cluster blesses the teller in 1–2 sentences — the arranged parent first, then the circle. No fixing, no comparing, no advice. Same form, same rules, second running.
 
 **Between-session practice.** Every family that has not yet done the Joint Footprints exercise from Week 3 does it this week. Everyone continues the morning question and the evening journal note.
 
@@ -75,7 +75,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## Why this session, this week
 
-Week 3 taught the shape: four questions, one circle, a story received and blessed — and the parents told first. That order was the design. The teens have now watched their own mother or father sit in the teller’s chair, say true things, and be blessed for it. They know what the practice costs, and they know their family survived it. Week 4 exists to complete the round: the teens tell. Nothing new is taught, and that is the design too — the completion is the point. A practice half the room has done is a demonstration; a practice the whole room has done is a culture.
+Week 3 taught the shape: one question, one circle, a story received and blessed — and the parents told first. That order was the design. The teens have now watched their own mother or father sit in the teller’s chair, say true things, and be blessed for it. They know what the practice costs, and they know their family survived it. Week 4 exists to complete the round: the teens tell. Nothing new is taught, and that is the design too — the completion is the point. A practice half the room has done is a demonstration; a practice the whole room has done is a culture.
 
 Week 4 is also the first marquee slot of the Companion-in-Formation track. A willing senior teen — one who has walked the protocol in the Leader Lab, whose parent told last week in front of them, and whose parent and the Lead Companion both agreed is ready — leads the container open and close, the story facilitation in their cluster, and the blessing round. Protocol card in hand. Adult in the room. This is the second-running mechanism from Handbook Section 11.3: see one, do one, in the same series, in front of the room.
 
@@ -86,7 +86,7 @@ The bright line from Section 11.2 governs everything in this plan. The senior le
 ## From prior sessions
 
 - Week 3: the parents have told; the whole room has seen the form, the timing, the blessing round, and the listener discipline — and every teen has watched their own parent go first. If Week 3’s clusters struggled with fixing or advice, the re-frame lands in this week’s opening — the second running is exactly where it belongs.
-- The Companion-in-Formation has completed Lab 2 (Receiving Feedback, Leading Yourself), has walked their own four-question story aloud in the Lab, and tells first tonight before facilitating anyone else’s — rule three: lead only a block you have first received — and has done the coaching session described in pre-work below.
+- The Companion-in-Formation has completed Lab 2 (Receiving Feedback, Leading Yourself), has walked their own story aloud in the Lab, and tells first tonight before facilitating anyone else’s — rule three: lead only a block you have first received — and has done the coaching session described in pre-work below.
 - The FC1 consent and legal gate (Handbook 11.9) has cleared. If it has not, the adult Companions lead this session exactly as they led Week 3, this plan still runs, and the teen-led elements wait for the next cycle.
 - Each family attempted the Joint Footprints exercise. Some did, some did not. Both are data, not grades.
 
@@ -98,7 +98,7 @@ Same as Week 3: Self leads, Others arrives. The one addition is quiet but real �
 
 ## Personal pre-work
 
-The Companions modeled the form alongside the parents in Week 3. This week the personal pre-work is smaller but real: re-read your own four-question writing from Week 3 and ask one question of it — what did telling it, or nearly telling it, cost you? The teens telling tonight have been sitting with that cost for a week — and they watched their own parent pay it first. Walk in remembering what a week of waiting feels like.
+The Companions modeled the form alongside the parents in Week 3. This week the personal pre-work is smaller but real: re-read your own story writing from Week 3 and ask one question of it — what did telling it, or nearly telling it, cost you? The teens telling tonight have been sitting with that cost for a week — and they watched their own parent pay it first. Walk in remembering what a week of waiting feels like.
 
 ## Coaching the Companion-in-Formation
 
@@ -194,7 +194,7 @@ The Companion-in-Formation opens the night. The script below is on their Facilit
 
 *“Let me speak this blessing over us first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 4 — the second half of what we started last week. Last Tuesday our parents told their stories. Tonight the teens tell, in the same clusters, with the same four questions and the same blessing at the end. Nothing new tonight. We’re completing the round.”*
+*“Tonight is Week 4 — the second half of what we started last week. Last Tuesday our parents told their stories. Tonight the teens tell, in the same clusters, with the same single question and the same blessing at the end. Nothing new tonight. We’re completing the round.”*
 
 *“The container is the same as it has been since Week 1. Safe, Present, Clear, Intentional. What gets said in the room stays in the room. What you choose to share is yours; nothing is required. We are not performing for each other and we are not fixing each other. We are listening, and we are blessing.”*
 
@@ -238,7 +238,7 @@ The Companion-in-Formation takes the bridge — the same three reminders and pra
 
 *“Okay. (Hold up the card.) Tonight’s tellers — that’s us, the teens — you have the storytelling card. Everyone has the listener’s card. Three things to remember.”*
 
-*“First: take what helps from the questions. You don’t have to use all four, and you don’t have to go in order. They’re scaffolding, not a quiz.”*
+*“First: it’s one question — tell the story of how you got here, and what has shaped you. There’s no list to get through, and the depth is yours to choose. The card has a few starting places if you need one — use any of them, or none.”*
 
 *“Second: when you’re listening — don’t fix, don’t advise, don’t relate back. Receive, and after each story, bless. One or two sentences. The listener card has starters.”*
 
@@ -262,7 +262,7 @@ The heart of the night. The other clusters run exactly as they did in Week 3, ad
 
 ### The senior’s own telling — first, by design
 
-The teens tell tonight, and the senior is a teen: they tell first. The order is deliberate. Rule three — lead only a block you have first received — holds because the senior received this practice watching their parent tell last week, walked their own four-question story aloud in the Lab, and completes their own telling before facilitating anyone else’s. For the senior’s turn only, the adult Cluster Companion steers the blessing round so the senior can simply receive. Then the senior takes the process back for the remaining tellers.
+The teens tell tonight, and the senior is a teen: they tell first. The order is deliberate. Rule three — lead only a block you have first received — holds because the senior received this practice watching their parent tell last week, walked their own story aloud in the Lab, and completes their own telling before facilitating anyone else’s. For the senior’s turn only, the adult Cluster Companion steers the blessing round so the senior can simply receive. Then the senior takes the process back for the remaining tellers.
 
 ### Opening the circle (Companion-in-Formation, 90 seconds)
 
@@ -367,7 +367,7 @@ One band of teens in the pilot, telling tonight; their parents beside them, list
 
 ## The teens (the tellers)
 
-Full IJH language (H3.2), 5–7 minute turns.
+The teen storytelling card (H3.2) — the single story question — with 5–7 minute turns.
 
 - The peer-facilitation dynamic in the senior’s cluster cuts both ways. Some tellers will find it easier to be honest in front of a peer than an adult; some will find it harder — the facilitator goes to their school. The pre-work teller list should flag anyone for whom the peer dynamic is likely to close them down; if the concern is serious, the adult and the senior can agree in advance that the adult takes that teller’s turn.
 - Watch for the teen who spent the week rehearsing. A memorized story is still their story; receive it. But if it sounds like a recital, one warm question opens the door: “What’s the part you didn’t put in?” Ask it once, gently, and accept whatever comes.
@@ -472,16 +472,15 @@ One new handout for Week 4, plus reprints.
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 4 — the teens tell. Our parents told last week. Same clusters, same four questions, same blessing. Nothing new; we’re completing the round.”*
+*“Tonight is Week 4 — the teens tell. Our parents told last week. Same clusters, same question, same blessing. Nothing new; we’re completing the round.”*
 
 *“The container: Safe, Present, Clear, Intentional. What’s said here stays here. What you share is yours; nothing is required. We don’t fix each other; we listen, and we bless.”*
 
-### The four questions (the frame every teller is using)
+### The question (the frame every teller is using)
 
-1. **Footprints** — the places and people that made you.
-2. **Hard places / wounds** — something that wasn’t easy; where real damage happened.
-3. **What I am working on / battles** — what is actually contested right now.
-4. **Victories** — where something good is growing that you didn’t produce alone.
+**Tell the story of how you got here — today, as you are. What has shaped you into who you are today?**
+
+*If a teller isn’t sure where to start, offer the stepping stones from the card, lightly: the places and people that shaped you; a turning point; a hard season you’re willing to name; where you see God in it now, looking back. Any of these, or none. The depth is always the teller’s to choose.*
 
 *Each teller: 5–7 minutes. You tell first — nobody else has to be first. Timer is yours, privately. At six minutes, gentle eye contact. At seven: “Let’s land it together.”*
 
