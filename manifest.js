@@ -93,7 +93,7 @@ window.SERIES = [
       },
       {
         "path": "docs/getting-started/week-13-rhythm.md",
-        "title": "Week 13 — The Rhythm and the Dry Season"
+        "title": "Week 13 — The Rhythm and the Four Questions"
       },
       {
         "path": "docs/getting-started/week-14-sending.md",
@@ -472,7 +472,7 @@ window.PATH_TO_INFO = {
     "seriesId": "getting-started",
     "seriesName": "Getting Started",
     "edition": "v3",
-    "title": "Week 13 — The Rhythm and the Dry Season",
+    "title": "Week 13 — The Rhythm and the Four Questions",
     "indexPath": "docs/getting-started/index.md",
     "prev": "docs/getting-started/week-12-mission.md",
     "next": "docs/getting-started/week-14-sending.md"
