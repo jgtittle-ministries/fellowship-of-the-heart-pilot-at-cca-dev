@@ -14,7 +14,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, July 2026*
+*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
 
 # **Quick Reference Card**
 
@@ -43,7 +43,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Parents' pride overwhelming the teen. This is a good problem. A father who chokes up watching his daughter open the container from memory is the night working. Give it its moment; do not manage it away. But keep the rite moving — the pride gets its fullest expression in the blessing block, where it belongs.
 - Any senior whose sign-off did not confirm. This must have been handled privately, in Week 13's week, in the discernment conversation between parent and Lead Companion — **never discovered tonight.** If it happened: that senior is honored tonight, by name, for what they led across the series, and their commissioning waits for the next cycle with a clear, hopeful path. The contingency script is in Block 6. If the team walks into Week 15 without this settled, stop and settle it before the session — even at the cost of a delay.
 - The rite going long. Ninety minutes is enough if the team holds the blocks. The blessings are where nights like this run away; the form (specific, witnessed, brief) is the discipline, exactly as it was in Week 14.
-- The younger teens watching with hunger. Some junior teens will watch tonight and want this. That is not a risk — that is the pipeline forming. But do not promise anything from the front; note the names and bring them to the debrief.
+- The younger teens watching with hunger. Some of the younger teens will watch tonight and want this. That is not a risk — that is the pipeline forming. But do not promise anything from the front; note the names and bring them to the debrief.
 
 ## CRISIS CONTINGENCIES (Week 15)
 
@@ -86,7 +86,7 @@ All four. Self: the seniors' own formation is real and named — you cannot lead
 
 ## **Personal pre-work**
 
-Each Companion writes, this week, a specific witnessed blessing for each Companion-in-Formation being commissioned — one to three sentences per senior, drawn from what that Companion actually saw them lead across the fifteen weeks. Not "you did great." What, specifically. The Tuesday she re-established the container when the junior circle got loud. The way he handed the heavy moment to the adult in Week 10 without hesitation and without drama — the rule working in the wild. Write it down; you will speak it in Block 6.
+Each Companion writes, this week, a specific witnessed blessing for each Companion-in-Formation being commissioned — one to three sentences per senior, drawn from what that Companion actually saw them lead across the fifteen weeks. Not "you did great." What, specifically. The Tuesday she re-established the container when her cluster got loud. The way he handed the heavy moment to the adult in Week 10 without hesitation and without drama — the rule working in the wild. Write it down; you will speak it in Block 6.
 
 And each Companion sits with 2 Timothy 2:2 once through, slowly. Tonight you are Timothy in that verse. Know it before you say it.
 
@@ -146,21 +146,22 @@ Email to each Companion-in-Formation (individually): their final-rep slot (open,
 
 | **Time** | **Block** | **Movement** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:30–6:40 | Block 1: Welcome and framing | — | Lead Comp | Why tonight is a gate, not a graduation. The four movements named. |
-| 6:40–6:55 | Block 2: The final rep — the container opened | Movement 1 | The seniors | One senior opens from memory; the others each speak a condition from memory with a story. No scripts, no cards. |
-| 6:55–7:05 | Block 3: The word over the night | — | Lead Comp | 2 Timothy 2:2 and 1 Timothy 4:12. The four generations. Prayer. |
-| 7:05–7:15 | Block 4: The three rules read aloud | Movement 2 | Lead Comp + seniors | Verbatim from the handbook, to the whole room. The bright line made public. |
-| 7:15–7:25 | Block 5: The covering named | Movement 3 | Each senior | Each new FC1 names their adult aloud. Parent + Lead Companion sign-off confirmed publicly. |
-| 7:25–7:45 | Block 6: The commissioning | Movement 4 | Team, parents, cohort | Specific witnessed blessing over each FC1; the charge; the cohort speaks the Aaronic over them. |
-| 7:45–7:50 | Block 7: The first Lab scheduled | Movement 4 | Lead Comp | The date announced aloud, held up, written down. The exit is an entrance. |
-| 7:50–8:00 | Block 8: The final rep — the container closed | Movement 1 | A senior | A senior closes from memory. Sending. End. |
+| 6:30–6:35 | Block 1: Welcome and framing | — | Lead Comp | Why tonight is a gate, not a graduation. The four movements named. Brief on purpose — the night belongs to the seniors. |
+| 6:35–6:50 | Block 2: The final rep — the container opened | Movement 1 | The seniors | One senior opens from memory; the others each speak a condition from memory with a story. No scripts, no cards. |
+| 6:50–7:00 | Block 3: The word over the night | — | Lead Comp | 2 Timothy 2:2 and 1 Timothy 4:12. The four generations. Prayer. |
+| 7:00–7:10 | Block 4: The three rules read aloud | Movement 2 | Lead Comp + seniors | Verbatim from the handbook, to the whole room. The bright line made public. |
+| 7:10–7:20 | Block 5: The covering named | Movement 3 | Each senior | Each new FC1 names their adult aloud. Parent + Lead Companion sign-off confirmed publicly. |
+| 7:20–7:40 | Block 6: The commissioning | Movement 4 | Team, parents, cohort | Specific witnessed blessing over each FC1; the charge; the cohort speaks the Aaronic over them. |
+| 7:40–7:45 | Block 7: The first Lab scheduled | Movement 4 | Lead Comp | The date announced aloud, held up, written down. The exit is an entrance. |
+| 7:45–7:50 | Block 8: The Leader Feedback Round | — | The seniors + Lead Comp | The seniors who led the movements answer first, the adult second, then the room. May well be dropped tonight — see the block note. |
+| 7:50–8:00 | Block 9: The final rep — the container closed | Movement 1 | A senior | A senior closes from memory. Sending. End. |
 | 8:00+ | After: the signing, dessert, lingering | — | Everyone | The room signs each keepsake. Stay. |
 
 # **Block-by-Block: Scripts and Notes**
 
-## **Block 1 — Welcome and Framing (6:30–6:40, 10 min)**
+## **Block 1 — Welcome and Framing (6:30–6:35, 5 min)**
 
-The Lead Companion opens — briefly, because the point of tonight is to hand the room over.
+The Lead Companion opens — briefly, and five minutes is the whole budget on purpose, because the point of tonight is to hand the room over.
 
 ## Script
 
@@ -172,15 +173,15 @@ The Lead Companion opens — briefly, because the point of tonight is to hand th
 
 *"One more thing. These seniors have led you all year. Tonight, you lean in one more time — not because a teenager leading is novel anymore, but because it is true, and true things deserve witnesses. Seniors: the room is yours."*
 
-## **Block 2 — The Final Rep: the Container Opened (6:40–6:55, 15 min) — MOVEMENT ONE**
+## **Block 2 — The Final Rep: the Container Opened (6:35–6:50, 15 min) — MOVEMENT ONE**
 
 The heart of the gate. Container fluency — establishing and holding Safe, Present, Clear, Intentional from memory, under mild pressure, without a script — is FC1's spine competency, and tonight it is demonstrated publicly. This is not a pop quiz. Every senior has run this protocol repeatedly since Week 5; the gate was passed across the arc. Tonight is the witness of it.
 
 ### **How the rep divides**
 
 - **One senior opens the container** — the full spoken protocol from memory: welcome, phones, the standing circle, one-word check-in, put out / bring in, the spoken commitment ("I am here. I am paying attention. I am willing to be moved."), opening prayer. The whole room participates, as every week.
-- **One senior will close the container** in Block 8 — held in reserve; tell them tonight's close is theirs.
-- **Every other senior speaks one container condition from memory** — Safe, Present, Clear, or Intentional — in their own words, with one short true story of holding that condition while leading this year. ("Clear means no unaddressed conflict in the room. The week I led PROAPT II, two of the junior guys came in mid-argument, and here is what I did...") Sixty to ninety seconds each. Assign the conditions in the team meeting; more seniors than conditions simply means conditions are shared, each with a different story.
+- **One senior will close the container** in Block 9 — held in reserve; tell them tonight's close is theirs.
+- **Every other senior speaks one container condition from memory** — Safe, Present, Clear, or Intentional — in their own words, with one short true story of holding that condition while leading this year. ("Clear means no unaddressed conflict in the room. The week I led PROAPT II, two of the guys came in mid-argument, and here is what I did...") Sixty to ninety seconds each. Assign the conditions in the team meeting; more seniors than conditions simply means conditions are shared, each with a different story.
 - If there are only two seniors, one opens and one closes, and each also speaks one condition with a story. If there is one senior, the night is theirs entirely — they open and close both, and the conditions live inside their opening.
 
 ### **The grace protocol — decided in advance, executed without hesitation**
@@ -189,7 +190,7 @@ If a senior freezes: the Lead Companion, calm and warm, from their seat: *"Take 
 
 If they cannot continue: the Lead Companion stands, puts a hand on their shoulder, and tells the room the truth: *"Here is what you need to know. [Name] has opened or closed this container [eight, ten] times since October, under every condition a Tuesday can throw at a room. The gate this rite witnesses was passed weeks ago. Tonight has more witnesses than usual, and witnesses are heavy. [Name], stand with me and we will finish it together."* And they do, together, and the rite continues, and the freeze is never mentioned again — not in the blessings, not at dessert, not at the debrief in any tone but tenderness. A stumble is not a fail. The team decided this before the night, which is the only time such things can be decided.
 
-## **Block 3 — The Word Over the Night (6:55–7:05, 10 min)**
+## **Block 3 — The Word Over the Night (6:50–7:00, 10 min)**
 
 ## Script (the read)
 
@@ -213,7 +214,7 @@ If they cannot continue: the Lead Companion stands, puts a hand on their shoulde
 
 *"Father, You heard these seniors say yes in the fall, and You have been forming them every Tuesday since. Tonight we do in public what You have been doing in private. Confirm what You have started. Guard what we entrust. And let the generations in Your word keep unrolling through this room. Amen."*
 
-## **Block 4 — The Three Rules Read Aloud (7:05–7:15, 10 min) — MOVEMENT TWO**
+## **Block 4 — The Three Rules Read Aloud (7:00–7:10, 10 min) — MOVEMENT TWO**
 
 The bright line made public. The whole cohort — the room these seniors will serve — hears exactly the boundaries its young leaders keep. This is part of everyone's safety, not just the seniors'.
 
@@ -235,7 +236,7 @@ The bright line made public. The whole cohort — the room these seniors will se
 
 *"Those three rules are the whole of a teen leader's safety, and they never bend — not for talent, not for maturity, not for a night when we are short-handed. Seniors, when you keep these rules, you are not being kept small. You are being kept safe, and you are keeping this room safe, and handing the heavy thing to your adult is the strong, faithful move — never a failure. The card in your hands tonight has all three. Carry it when you lead."*
 
-## **Block 5 — The Covering Named (7:15–7:25, 10 min) — MOVEMENT THREE**
+## **Block 5 — The Covering Named (7:10–7:20, 10 min) — MOVEMENT THREE**
 
 Each new FC1 names, aloud, the adult they will call when they are over their head — the standing covering relationship that FC1 formation requires. The conversation happened in Lab 4; the discernment sign-off happened in Week 13's week; tonight is public confirmation, not discovery.
 
@@ -255,7 +256,7 @@ Each new FC1 names, aloud, the adult they will call when they are over their hea
 
 This was handled privately in Week 13's week; it never surfaces as news tonight. The senior was told, with a parent present, with warmth and a plan: what tonight will and will not include for them, and the clear, hopeful path to commissioning in the next cycle. Tonight, in Block 6, the Lead Companion honors them by name and specifically for what they led this series — the blessing they receive is as real as anyone's — and says plainly and without embarrassment: *"[Name]'s commissioning comes at the next cycle, and we are already looking forward to it."* No explanation to the room, no apology, no daylight between the team and the family. A gate that can be not-yet is the only kind of gate whose yes means anything — handled rightly, this senior leaves the room honored and hopeful, not exposed.
 
-## **Block 6 — The Commissioning (7:25–7:45, 20 min) — MOVEMENT FOUR, part one**
+## **Block 6 — The Commissioning (7:20–7:40, 20 min) — MOVEMENT FOUR, part one**
 
 The blessing block. The Week 14 discipline governs: specific, witnessed, true — not generic praise. The room watched these seniors lead for fifteen weeks; the blessings draw on what was actually seen.
 
@@ -281,7 +282,7 @@ The blessing block. The Week 14 discipline governs: specific, witnessed, true �
 
 *"And hear this last thing, because the world will tell you otherwise. FC1 is not a step you are meant to hurry past. It is a real and honorable place to stand. If you stand at FC1 for the rest of your life and lead a faithful group, you have arrived, not stalled. Some of you will go further — there is a horizon past this, and some of you will one day run this whole journey in a dorm room with no adult anywhere in sight, and that is years of formation from now, and we will walk it with you. But tonight, do not look past the thing you are being given. Let no one despise you for your youth. Set the example. Begin."*
 
-## **Block 7 — The First Lab Scheduled (7:45–7:50, 5 min) — MOVEMENT FOUR, part two**
+## **Block 7 — The First Lab Scheduled (7:40–7:45, 5 min) — MOVEMENT FOUR, part two**
 
 Before anyone leaves the room. This block is short, almost administrative — and it is the proof of the whole night's claim.
 
@@ -295,7 +296,17 @@ Before anyone leaves the room. This block is short, almost administrative — an
 
 *"Here is why we do this before we close. Anyone can hold a beautiful ceremony. The proof that tonight was a gate and not a ceremony is a date on a calendar. These leaders are not finishing. They begin in [n] days. That is the whole design, out loud."*
 
-## **Block 8 — The Final Rep: the Container Closed (7:50–8:00, 10 min) — MOVEMENT ONE, completed**
+## **Block 8 — The Leader Feedback Round (7:45–7:50, 5 min)**
+
+*The evening's leader closes the working part of the evening the same way every week — and tonight the round belongs to the seniors, because they led the rite's movements. It sits here, before the container closes, so the commissioning's sacred close remains the final word of the evening.*
+
+Lead Companion: *"Before we close — two things from our leaders first, same as every week. What went well tonight, and what would you do differently next time?"* The new FC1s answer first — a sentence or two each is plenty; then the Lead Companion answers the same two questions for the parts of the evening the adults carried. Then the room — same two questions about tonight. What went well? What would you do differently?
+
+Two or three voices on each question is plenty. The leaders receive without defending — "thank you" is the whole response. The teens answered first, the adult second; the room's feedback covers them all.
+
+*(The leader may drop this round if the room's energy needs something else — and on a night like tonight they may well: the rite itself is often the something-else the energy needs. Dropping it twice running goes to the team debrief.)*
+
+## **Block 9 — The Final Rep: the Container Closed (7:50–8:00, 10 min) — MOVEMENT ONE, completed**
 
 The reserved senior closes the container from memory — the full protocol: the standing circle, the one-word landing, the one thing, the one practice, the blessing round, the closing prayer and sending. The rite that opened in a senior's voice ends in a senior's voice. That symmetry is the design: the last words of Getting Started are spoken by the generation it raised.
 
@@ -309,9 +320,9 @@ The keepsake sheets (H15.3) are on the side table with pens. As the room lingers
 
 Stay. Some families will not leave for an hour. The work after the closing is sometimes the work — tonight more than ever, because the younger teens who watched with hunger will be the ones lingering near the seniors, and what they say to each other at the dessert table is the pipeline forming in real time.
 
-# **Differentiation by Cohort**
+# **Differentiation by Role in the Rite**
 
-Tonight there is no cohort split; the differentiation is by role in the rite.
+The whole room stays together as one circle tonight; the differentiation is by role in the rite.
 
 ## **The new FC1s**
 
@@ -319,10 +330,10 @@ Tonight there is no cohort split; the differentiation is by role in the rite.
 - Each has decided their covering name before the night. The public naming confirms; it does not discover.
 - If a senior is a naturally quiet leader, their condition-story in Block 2 can be two sentences. Fluency is not volume.
 
-## **The junior teens (12–14)**
+## **The younger teens**
 
-- They witness — and some of them are watching their own future. Say one sentence to them from the front in Block 7: *"Junior teens: in two or three years, some of you will stand where these seniors are standing. Watch how they begin."* No promises, no selection talk; just the door left visibly open.
-- In the blessing round of the close, junior teens often bless the seniors in ways adults cannot. Give the round room.
+- They witness — and some of them are watching their own future. Say one sentence to them from the front in Block 7: *"Freshmen, sophomores: in a year or two or three, some of you will stand where these seniors are standing. Watch how they begin."* No promises, no selection talk; just the door left visibly open.
+- In the blessing round of the close, the younger teens often bless the seniors in ways adults cannot. Give the round room.
 
 ## **The parents of the new FC1s**
 

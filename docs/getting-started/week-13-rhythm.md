@@ -14,7 +14,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, July 2026*
+*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
 
 # **Quick Reference Card**
 
@@ -28,7 +28,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** All four (sustaining). Nothing new is opened tonight; everything already opened is given a structure that can hold it for decades.
 
-**Mode.** Shared teaching; SPLIT into cohort circles for the Rhythm Card build; MERGE for the mercy-card teaching, the Leader Feedback Round, and closing.
+**Mode.** Shared teaching; FAMILY CLUSTERS for the Rhythm Card build — 2–3 whole families per circle with a Cluster Companion, own family always together; whole room for the mercy-card teaching, the Leader Feedback Round, and closing. If total attendance is about ten or fewer, skip the clustering — the whole room stays as one circle throughout.
 
 **Center.** Three movements. (1) Each participant builds their own Rhythm Card — the daily, weekly, and monthly practices they are actually taking with them, in their own handwriting, honest not idealized. (2) The Signs Card is taught: the four kinds of dry, and the one question that sorts them — *which way does the desire point?* — taught well enough that every participant can say why a dry season is not a verdict. (3) The Path Home Card is shown, explained, and placed in every folder while everyone is still in the room to hear what it is for. Any unfinished Week 12 gifts-and-mission work completes at the open.
 
@@ -41,10 +41,10 @@ Pilot edition — Covenant Christian Academy of Warrenton
 ## WATCH FOR (Week 13 specific risks)
 
 - The participant for whom "the dry season" is not hypothetical — tonight describes their current life. Expect at least one. This is the session working, not failing: the card exists so that this person hears "not a verdict" while the room is still warm. The adult Companion follows up within 48 hours.
-- The idealized Rhythm Card. All the daily boxes checked, PROAPT twice a day, a two-hour sabbath plan from a fifteen-year-old with a January exam schedule. Coach honesty in the circles: "Write the rhythm you will actually keep, not the one that impresses you."
+- The idealized Rhythm Card. All the daily boxes checked, PROAPT twice a day, a two-hour sabbath plan from a fifteen-year-old with a January exam schedule. Coach honesty in the clusters: "Write the rhythm you will actually keep, not the one that impresses you."
 - Treating the Path Home Card as morbid — "why are we planning for failure?" Reframe: a fire extinguisher is not a plan to burn the house down. We put it on the wall precisely because we intend to live here a long time.
 - The teen leader turning teaching into performance. This is their biggest lift, and the temptation is to be impressive rather than clear. Coach in the second-running prep: the card does the work; your job is to hand it over plainly.
-- The family for whom the Christmas-gap timing lands hard — a house where the holidays are the dry season. Name the gap explicitly and warmly from the front; let the Cohort Companions watch for who flinches when it is named.
+- The family for whom the Christmas-gap timing lands hard — a house where the holidays are the dry season. Name the gap explicitly and warmly from the front; let the Cluster Companions watch for who flinches when it is named.
 - The participant who wants to use the Signs Card on somebody else — a parent sorting their teen into a column, a teen diagnosing a friend. Rule 1 of the card: it is for your own heart, and for one trusted person to help you read it. Nobody gets filed under a column.
 
 ## CRISIS CONTINGENCIES (Week 13)
@@ -86,7 +86,7 @@ Cases 3 and 4 command opposite motions — one says *fight*, the other says *yie
 
 ## From prior sessions
 
-- Weeks 1 and 5: the container and its conditions. Tonight's card conversations in the circles run on trust the cohort has spent twelve weeks building.
+- Weeks 1 and 5: the container and its conditions. Tonight's card conversations in the clusters run on trust the cohort has spent twelve weeks building.
 - Weeks 2–3: Self. The honest Rhythm Card requires the self-knowledge the soil and story work built — you cannot write the rhythm you will actually keep without knowing who you actually are.
 - Weeks 5–6: Others. The Rhythm Card's weekly partner practice presumes the cohort has learned what it is to be known; several weekly partnerships will form from this very room.
 - Weeks 7–11: God. The daily practices on the Rhythm Card — the morning question, the evening note, PROAPT — were all received in these weeks. Tonight organizes them; it does not introduce them.
@@ -102,7 +102,7 @@ All four, sustaining. Self, Others, God, and Mission each appear on the Rhythm C
 
 Every Companion reads all three shared cards this week — the Rhythm Card, the Signs Card, the Path Home Card — slowly, for themselves, not for the session. Then each Companion answers two questions privately:
 
-Question one — Where is my own rhythm, honestly? Which practices are alive, which have lapsed, and did I grieve the lapsed ones or not notice? You will be coaching honesty in the circles; the coaching only lands from someone who has just been honest.
+Question one — Where is my own rhythm, honestly? Which practices are alive, which have lapsed, and did I grieve the lapsed ones or not notice? You will be coaching honesty in the clusters; the coaching only lands from someone who has just been honest.
 
 Question two — Which of the four kinds of dry have I been in, and when? Every adult on this team has walked at least one of the four columns. Know your own answer before Tuesday. If a participant's dry season surfaces, the most useful sentence in the room may be your own, briefly and without drama: "I have been in that column. Here is what the way through looked like."
 
@@ -112,9 +112,9 @@ Question two — Which of the four kinds of dry have I been in, and when? Every 
 
 Forty-eight hours before Week 13, the Companion team meets for forty-five minutes:
 
-1. The Companion-in-Formation walks the teaching arc for the team, start to finish. The team receives it as a cohort would. Affirmation first, then one or two growth notes — practice the Leader Feedback Round shape on the rehearsal itself.
+1. The Companion-in-Formation walks the teaching arc for the team, start to finish. The team receives it as a cohort would. Practice the Leader Feedback Round shape on the rehearsal itself: the senior names what went well and what they would do differently, then the team answers the same two questions — received without defending.
 2. Rehearse the handoff: the Lead Companion names the signal (eye contact plus a small nod), and the senior practices finishing the teaching point cleanly while the adult moves. The teaching continues; the room barely notices.
-3. Identify who the team is watching for: anyone whose recent journal work, Week 11 doubts, or Week 6 material suggests the dry-season teaching may land on a live wire — and any family for whom the Christmas gap itself is the hard season.
+3. Identify who the team is watching for: anyone whose recent journal work, Week 11 doubts, or Week 6 material suggests the dry-season teaching may land on a live wire — and any family for whom the Christmas gap itself is the hard season. Arrange the parents-first openings now: one parent for the Week 12 completion round, and one parent per cluster to read their daily line first in the build — asked ahead, never cold-called on the night.
 4. Confirm the Week 15 readiness conversation is calendared: the parent + Lead Companion sign-off conversation for each Companion-in-Formation happens *this week*, so that Week 15's commissioning confirms a decision already made rather than making one on the night.
 5. Pray for each participant by name — specifically that each one builds the rhythm that is actually theirs, and that the person in the room who is currently dry hears tonight what the card was written to say.
 
@@ -124,7 +124,7 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 2. Print the blank Rhythm Card build sheet (H13.2), one per participant.
 3. Reprint the three shared cards from the shared materials — the Rhythm Card, the Signs Card, and the Path Home Card — one full set per participant folder. These are the shared documents themselves, not summaries.
 4. Confirm every participant folder is in the room. Tonight things get *filed*, and the filing is part of the teaching.
-5. Confirm cohort spaces from prior weeks.
+5. Confirm the cluster spaces (or main-room corners) from prior weeks — enough for 2–3 whole families per cluster. If total attendance will be about ten or fewer, plan for one circle and skip the spaces.
 
 # **Materials and Setup**
 
@@ -139,7 +139,7 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 - Path Home Card (shared material): one printed copy per participant.
 - H13.1 — Facilitation card (Companion-in-Formation and Lead Companion copies).
 - H13.2 — Blank Rhythm Card build sheet (one per participant).
-- Three private cohort spaces for the build block.
+- Private spaces or main-room corners for the family clusters (2–3 whole families each) for the build block. If attendance is about ten or fewer, none needed — the whole room stays as one circle.
 - Whiteboard or flip chart (for the sorting question and the four columns).
 - Pens — the build is done in each participant's own handwriting. This is deliberate. Do not type it, do not fill it in for anyone.
 
@@ -162,10 +162,10 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 | 7:07–7:15 | Block 2: Week 12 completion | Shared | Lead Comp | Unfinished downhill-mission answers finish here. Brief practice check-in. |
 | 7:15–7:27 | Block 3: The long walk — Gal. 6:9 and Psalm 42 | Shared | CiF | Teaching: due season, and the soul that is downcast and still hopes. |
 | 7:27–7:32 | Block 4: The Rhythm Card introduced | Shared | CiF | The card walked briefly. The honesty rule stated. Bridge to the split. |
-| 7:32–7:52 | Block 5: Building your Rhythm Card | Cohort circles | Cohort Facs | 20 min. Own handwriting, on H13.2. Companions coach honesty, not ambition. |
+| 7:32–7:52 | Block 5: Building your Rhythm Card | Family clusters | Cluster Comps | 20 min. Own handwriting, on H13.2. Families build side by side; Companions coach honesty, not ambition. |
 | 7:52–8:07 | Block 6: The Signs Card taught | Shared | CiF | The four kinds of dry; the one sorting question. Handoff protocol live if needed. |
 | 8:07–8:15 | Block 7: The Path Home Card | Shared | CiF | Shown, explained, and filed in every folder while the room listens. |
-| 8:15–8:22 | Block 8: Leader Feedback Round | Shared | Lead Comp | Section 11.7 — the senior's final in-cohort round; looks back across all four leads. |
+| 8:15–8:22 | Block 8: The Leader Feedback Round | Shared | CiF + Lead Comp | One round — the senior answers first, the adult second. Final in-cohort round; looks back across all four leads. |
 | 8:22–8:30 | Block 9: Closing container | Shared | CiF + Lead Comp | Between-session practice. Container reaffirmed. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
@@ -192,9 +192,9 @@ The one block the Lead Companion leads tonight, so the senior's arc stays clean.
 
 ## Script (Lead Companion)
 
-*"Before we walk forward, we finish last week. Some of you named a downhill answer to your circle; a few of you weren't finished — and a week of living with the question usually deepens it. If your downhill answer wasn't finished last Tuesday, or it has changed shape since: one sentence, now, to the room."*
+*"Before we walk forward, we finish last week. Some of you named a downhill answer to your cluster; a few of you weren't finished — and a week of living with the question usually deepens it. If your downhill answer wasn't finished last Tuesday, or it has changed shape since: one sentence, now, to the room. [Parent's name], would you start us?"*
 
-*(Receive each. No commentary — the answers carry forward to the Week 14 commissioning.)*
+*(A parent opens the round — arranged with that parent before the session, never a cold call on a teen. Teens choose their own depth after; pass-anytime holds. Receive each. No commentary — the answers carry forward to the Week 14 commissioning.)*
 
 *"And the practice check: last week's assignment was one small action aligned with your downhill mission. Ninety seconds — anyone, one sentence on what happened."*
 
@@ -228,20 +228,20 @@ Read both passages aloud. Slow. The teaching is short and it frames everything a
 
 *"One rule for the next twenty minutes, and it is the whole exercise: write the rhythm you will actually keep, not the one that impresses you. An honest small rhythm beats an impressive imaginary one every single time. The card itself says you do not install everything at once — the starter plan on it begins with two practices totaling six minutes a day. Six honest minutes is a real rhythm."*
 
-*"In your circles. Build in your own handwriting. Go."*
+*"In your family clusters — families together, same as always. Build in your own handwriting. Go."*
 
 ## **Block 5 — Building Your Rhythm Card (7:32–7:52, 20 min)**
 
-Each cohort circle works H13.2. Every participant marks their daily, weekly, and monthly practices — specific times, specific people, specific days — in their own handwriting.
+Each family cluster works H13.2 — 2–3 whole families with their Cluster Companion, own family always together. A family building rhythms side by side is the design working: the parent writing an honest card next to the teen writing one is half the coaching done already. (If the room stayed as one circle tonight, the same build runs whole-room, with the Companions circulating.) Every participant marks their daily, weekly, and monthly practices — specific times, specific people, specific days — in their own handwriting.
 
-## Cohort Companion: how to coach the build
+## Cluster Companion: how to coach the build
 
 - Push for specificity, gently. "Morning question" is a wish; "morning question, 6:50, kitchen table, before my phone" is a rhythm.
 - The weekly partner line is the most important line on the sheet — the Rhythm Card says so itself. Every participant names an actual person. For teens the parent is a legitimate first answer; so is a cohort friend from this room.
 - Coach *down*, not up. The most common error tonight is over-building. "You wrote five daily practices. Which two survive January exams? Start there. The card lets you add later."
-- Watch for the participant who writes nothing on the weekly line. That is usually not forgetfulness; it is the belief that nobody would want the job. Do not fix it in the circle — note it for follow-up.
-- If a build conversation surfaces something heavy, honor it briefly and hand it to the adult after the circle closes. Companions-in-Formation assisting in circles: rule 2 applies as always.
-- Finish with each participant reading their daily line aloud to the circle — spoken commitments hold better than silent ones.
+- Watch for the participant who writes nothing on the weekly line. That is usually not forgetfulness; it is the belief that nobody would want the job. Do not fix it in the cluster — note it for follow-up.
+- If a build conversation surfaces something heavy, honor it briefly and hand it to the adult after the cluster closes. Companions-in-Formation assisting in clusters: rule 2 applies as always.
+- Finish with each participant reading their daily line aloud to the cluster — spoken commitments hold better than silent ones. A parent reads first, arranged with that parent before the session — never a cold call on a teen. Teens choose their own depth after; pass-anytime holds.
 
 ## **Block 6 — The Signs Card Taught (7:52–8:07, 15 min)**
 
@@ -296,20 +296,22 @@ The senior's only job in the moment is the clean finish and the calm continue. H
 
 If "planning for failure" resistance surfaces (it usually comes from a parent), the reframe is on H13.1: a fire extinguisher is not a plan to burn the house down. We mount it on the wall because we intend to live in this house a long time.
 
-## **Block 8 — Leader Feedback Round (8:15–8:22, 7 min)**
+## **Block 8 — The Leader Feedback Round (8:15–8:22, 7 min)**
 
-The Lead Companion takes the room. This is the Companion-in-Formation's final in-cohort feedback round before their Week 15 commissioning — so it looks back across all four of their leads, not just tonight.
+*The evening's leader closes the working part of the evening the same way every week.* Tonight a teen led, so the senior answers first, the adult second — and because this is the Companion-in-Formation's final in-cohort round before their Week 15 commissioning, it also looks back across all four of their leads, not just tonight.
 
-## Structure (Section 11.7 — the order is fixed)
+## Structure (one round — teen first, adult second)
 
-1. The team names what the senior did well tonight and would want to see again — and, because this round is the last one, one thing the team has watched grow across all four leads: Story II, PROAPT II, the Garden walk-through, and tonight's teaching arc. Name the growth specifically; the cohort should hear the distance traveled.
-2. The team names one thing — one, not a list — to carry into the commissioning and beyond.
-3. Ask the leader: "Would you like feedback from the group too?" The senior decides. No pressure, no exposure.
-4. If yes: popcorn-style, "What worked well for you tonight? What is one suggestion for them to consider?" — "for you" language throughout; the group reflects on their own experience, not grading a friend.
+1. The senior: *"Before we close — two things from me, same as every week. What I think went well tonight: ______. What I'd do differently next time: ______."*
+2. The Lead Companion answers the same two questions, briefly, for the parts of the evening they carried.
+3. Then the room — same two questions about tonight. What went well? What would you do differently? Two or three voices on each question is plenty. The leaders receive without defending — "thank you" is the whole response; the room's feedback covers them both.
+4. Because this round is the last one of the series, the Lead Companion closes it by naming one thing the team has watched grow across all four leads: Story II, PROAPT II, the Garden walk-through, and tonight's teaching arc. Name the growth specifically; the cohort should hear the distance traveled.
+
+*(The leader may drop this round if the room's energy needs something else. Dropping it twice running goes to the team debrief.)*
 
 ## Notes
 
-Affirmation first, growth second, group only by consent — the design is the point. Somewhere in step 1, name plainly what the room just watched: a senior teen taught this cohort the most important pastoral equipment in the series. That sentence belongs to the whole room's memory of this night, and it sets the table for Week 15.
+Somewhere in step 4, name plainly what the room just watched: a senior teen taught this cohort the most important pastoral equipment in the series. That sentence belongs to the whole room's memory of this night, and it sets the table for Week 15.
 
 ## **Block 9 — Closing Container (8:22–8:30, 8 min)**
 
@@ -329,31 +331,22 @@ Affirmation first, growth second, group only by consent — the design is the po
 
 *"Merry Christmas. Run the rhythm. We will see you in January for the sending."*
 
-# **Differentiation by Cohort**
+# **Coaching Notes: Teens and Parents**
 
-## **Junior teens (12–14)**
+*One high-school band, with their parents beside them in the clusters. These notes travel with the Cluster Companions.*
 
-The rhythm scales down honestly at this age, and the mercy cards plant seeds more than they equip for present storms.
+## **Teens**
 
-## Adjustments
-
-- The build: coach toward the starter plan's floor — the morning question and the evening note, six minutes total. A junior teen with two honest daily practices and a named weekly person has a complete Rhythm Card. Resist the parent who wants their twelve-year-old's card fuller.
-- The weekly partner: a parent is the natural and legitimate answer at this age. Do not push junior teens toward peer partnerships they cannot yet sustain.
-- Signs Card: keep the tide image central — the tide goes out and comes back; that is how seas work and how souls work. The four columns can stay light; the sorting question and "not a verdict" are the take-homes.
-- Path Home Card: do not over-explain. File it warmly and briefly — "this is in your folder for someday, maybe never, and the door never locks." The seed is the teaching.
-- Watch for the junior teen who hears the dry-season teaching and worries retroactively — "was that time I didn't feel anything at camp the bad kind?" Reassure simply: the ache question, and the reminder that worrying about it is itself the good sign.
-
-## **Senior teens (15–18)**
-
-For seniors this session is live equipment, not seeds. Some are in a dry season now; all of them are within a few years of the dorm room where this card set is the whole pastoral library.
+For the teens this session is live equipment, not seeds. Some are in a dry season now; all of them are within a few years of the dorm room where this card set is the whole pastoral library.
 
 ## Adjustments
 
 - The build: name the horizon plainly — "this card is what goes with you to a dorm." The card they build tonight should survive a semester, which means coaching against the impressive version is most important here. January exams are the honesty test; ask about them directly.
-- Signs Card: this lands hardest and matters most here. A senior who can hold the sorting question is carrying the most important pastoral equipment an FC1 ever carries — say so. For the Companions-in-Formation in the room, tonight's teaching is also their equipment inventory.
-- Watch for the senior who intellectualizes the four columns — sorting hypothetical people instead of sitting with the question themselves. Rule 1 of the card, gently: it is for your own heart first.
-- Watch for the senior for whom the desire question lands with a thud — the one who is honestly not sure the wanting is still there. That is a follow-up conversation, unhurried, this week. It is far more often case 1 or 2 than they fear, and discovering that with a trusted adult is the card working.
-- Path Home Card: seniors know people who have already left — an older sibling, a friend. Expect the quiet question "can I give this to someone?" The answer is yes; the card is a door, and doors are for sharing.
+- Signs Card: this lands hardest and matters most here. A teen who can hold the sorting question is carrying the most important pastoral equipment an FC1 ever carries — say so. For the Companions-in-Formation in the room, tonight's teaching is also their equipment inventory.
+- Watch for the teen who intellectualizes the four columns — sorting hypothetical people instead of sitting with the question themselves. Rule 1 of the card, gently: it is for your own heart first.
+- Watch for the teen for whom the desire question lands with a thud — the one who is honestly not sure the wanting is still there. That is a follow-up conversation, unhurried, this week. It is far more often case 1 or 2 than they fear, and discovering that with a trusted adult is the card working.
+- Watch for the younger teen who hears the dry-season teaching and worries retroactively — "was that time I didn't feel anything at camp the bad kind?" Reassure simply: the ache question, and the reminder that worrying about it is itself the good sign.
+- Path Home Card: some teens know people who have already left — an older sibling, a friend. Expect the quiet question "can I give this to someone?" The answer is yes; the card is a door, and doors are for sharing.
 
 ## **Parents**
 
@@ -371,7 +364,7 @@ Many parents in the room are in, or freshly out of, a dry season — and most ha
 
 ### **Layer 1 — The spoken daily line**
 
-Moved from the circles to the close of Block 5: each participant reads the daily line of their Rhythm Card aloud to their circle. Time-specific, place-specific. The verbal commitment is the same mechanism as Week 7's daily-commitment layer, now applied to the whole rhythm.
+At the close of Block 5: each participant reads the daily line of their Rhythm Card aloud to their cluster — a parent first, arranged before the session. Time-specific, place-specific. The verbal commitment is the same mechanism as Week 7's daily-commitment layer, now applied to the whole rhythm.
 
 ### **Layer 2 — The filing**
 
@@ -402,7 +395,7 @@ Same as every week — and the senior speaks it tonight. In Week 15 they will sp
 
 ### **Signs the session did not work**
 
-- Idealized cards that survived the circles uncoached. If most daily lines list four or more practices, the build needs a January re-touch.
+- Idealized cards that survived the clusters uncoached. If most daily lines list four or more practices, the build needs a January re-touch.
 - The four kinds of dry landed as a quiz to memorize rather than a mercy to keep. If cohort conversation afterward was about sorting other people, re-teach rule 1 in January.
 - The Path Home Card provoked unresolved "planning for failure" resistance that the reframe did not settle — follow up with that family directly.
 - The senior read the scripts flat, or performed them big. Either way, the feedback round should have caught it gently; if it did not, the Lead Companion supplies it privately this week — the commissioning depends on honest coaching now.
@@ -411,14 +404,14 @@ Same as every week — and the senior speaks it tonight. In Week 15 they will sp
 
 - Whose card-build was honest, and whose was performed? Name names in the team room — the performed cards get gentle 1:1 re-touches, not public correction.
 - Who flinched during the dry-season teaching? The person the handoff went to, and the person it did not — anyone who went still, went quiet, or went to the restroom during Block 6. Every name on this list gets contact within 48 hours.
-- What did the vital signs show tonight? Costly telling in the circles; response to load in whoever the teaching landed on; and note anyone the cohort itself moved toward without being asked.
+- What did the vital signs show tonight? Costly telling in the clusters; response to load in whoever the teaching landed on; and note anyone the cohort itself moved toward without being asked.
 - **The readiness confirmation.** The parent + Lead Companion sign-off conversation for each Companion-in-Formation happens this week, before break scatters everyone. Tonight's teaching lift is the freshest evidence in that conversation: did the senior hold the arc, hand off cleanly, and receive the feedback round well? Confirm the covering relationship each senior will name at Week 15. If either the parent or the Lead Companion has hesitations, this week is when they are voiced — never at the commissioning itself.
 
 ### **People to follow up with**
 
 - Anyone whose dryness surfaced, visibly or quietly — within 48 hours, with the card in hand and no verdict in the room.
 - Anyone who left the weekly-partner line blank.
-- Any family for whom the gap-naming landed hard — a December check-in from their Cohort Companion, mid-break, brief and warm.
+- Any family for whom the gap-naming landed hard — a December check-in from their Cluster Companion, mid-break, brief and warm.
 - The senior — a specific word of honor for the teaching lift, separate from the feedback round, from the Lead Companion personally.
 
 # **Handouts**
@@ -436,7 +429,7 @@ Two printed handouts for Week 13, plus the three shared cards reprinted per part
 
 1. **Open the container from memory.** Blessing, four conditions, frame the night: build a rhythm, learn two cards, carry it across the break.
 2. **Teach the long walk.** Galatians 6:9 — the weariness is assumed; the condition is not giving up; the season is His. Psalm 42 — honest about the dryness, stubborn about the hope, and dry-and-thirsty at the same time. Name the Christmas gap plainly and warmly.
-3. **Introduce the Rhythm Card and state the honesty rule.** *Write the rhythm you will actually keep, not the one that impresses you.* Send the circles to build.
+3. **Introduce the Rhythm Card and state the honesty rule.** *Write the rhythm you will actually keep, not the one that impresses you.* Send the family clusters to build.
 4. **Teach the Signs Card.** The wrong diagnosis is the danger, not the dryness. The tide and the thorn. Write the sorting question on the board: **Which way does the desire point?** Walk the four columns — neglect / worn out / the enemy's dry wind / God's own stripping — with each one's tell and first step. Land hard on 3 and 4: opposite motions, never sorted alone. The four rules. The sentence to send home: *the fact that His absence hurts you is the evidence that He has not gone.*
 5. **Show and file the Path Home Card.** The written door: conviction vs. shame; tell it straight; grieve what needs grieving; return small — begin again on the next available day; let it be celebrated. The father runs. File it in every folder, witnessed. *The door is not locked. The light is on.*
 6. **Close.** Between-session practice, the returning rule, the blessing.
@@ -457,7 +450,7 @@ You do not answer. You are not the sorter — not tonight, not at FC1. You say: 
 
 **Handout H13.2 — Rhythm Card Build Sheet**
 
-*Build in your own handwriting, tonight, in your circle. Copy nothing from a neighbor. The rule: write the rhythm you will actually keep, not the one that impresses you. Keep this sheet inside your Rhythm Card in your folder.*
+*Build in your own handwriting, tonight, in your family cluster. Copy nothing from a neighbor. The rule: write the rhythm you will actually keep, not the one that impresses you. Keep this sheet inside your Rhythm Card in your folder.*
 
 ## DAILY — my honest daily rhythm
 

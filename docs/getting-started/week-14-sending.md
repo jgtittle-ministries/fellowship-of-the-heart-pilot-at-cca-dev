@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum draft v1, May 2026*
+*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
 
 # **Quick Reference Card**
 
@@ -30,7 +30,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Connect focus.** All four (integration). Self has been done; Others has been built; God has been pursued; Mission has been opened. Tonight integrates.
 
-**Mode.** Shared circle the entire session. Parents and teens together intentionally for the family commissioning — NO cohort split tonight.
+**Mode.** Shared circle the entire session. Parents and teens together for the family commissioning — the whole room as one circle, families never divided, tonight of all nights.
 
 **Center.** Family commissioning. Each parent-and-teen dyad stands in the center of the circle. Each speaks a specific witnessed blessing over the other. The whole community speaks the Aaronic blessing over each family. Final reflection circle: each person’s one specific takeaway and one specific next commitment. Post-Series Survey distributed for completion that week.
 
@@ -53,7 +53,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Week 14 is moderate-risk, mainly for emotional flooding rather than acute crisis. The fourteen weeks have built up texture; the commissioning often lances something that has been quietly held.**
 
-**If a teen breaks down during their blessing of their parent.** Stop. Sit them down. The Cohort Companion goes with them. Do not push them through the blessing. The community can speak the blessing in their place. Follow up offline within 48 hours.
+**If a teen breaks down during their blessing of their parent.** Stop. Sit them down. The Cluster Companion goes with them. Do not push them through the blessing. The community can speak the blessing in their place. Follow up offline within 48 hours.
 
 **If a parent breaks down during their blessing of their teen.** Stop. Allow the silence. Many parents will recover and complete the blessing in their own time. If they cannot, the Lead Companion names what they were trying to say briefly: ‘What I think your dad wants you to know is \_\_\_\_\_.’ Pastoral 1:1 follow-up.
 
@@ -103,7 +103,7 @@ This week is the most complex pre-work week of Getting Started. Plan two team me
 
 1. Walk through the run sheet in detail. Every block. Time-keeper assigned. Who calls each transition.
 2. Family review. Each family pre-considered: are both parents coming? Is the teen safe? Has anything from Wks 9–13 surfaced that needs care tonight? For families with absent parents (divorce, deployment, bereavement, estrangement), pre-plan the commissioning for that family specifically.
-3. Blessing rehearsal. Each Cohort Companion pairs with another Companion and speaks an actual blessing over them — the form, brief, specific, witnessed. The team must have done it themselves before they ask families to do it.
+3. Blessing rehearsal. Each Cluster Companion pairs with another Companion and speaks an actual blessing over them — the form, brief, specific, witnessed. The team must have done it themselves before they ask families to do it.
 4. Going Deeper bridging language reviewed. The Lead Companion presents the bridge in 90 seconds. The team reviews it; the goal is sending, not recruiting.
 5. Pastoral / clinical backup confirmed for the night and the 48 hours after.
 6. Pray for each family by name.
@@ -127,7 +127,7 @@ The team sends an email to all families one week before Week 14 with the followi
 
 *“Who to bring: every member of your immediate family who is willing and able. Spouses who haven’t been here, siblings who haven’t been here, grandparents who can drive in. The room can hold them.”*
 
-*“Your pre-work: each parent-and-teen dyad in the program prepares one specific witnessed blessing for the other. Three sentences. (1) What I have specifically seen God doing in you across Getting Started. (2) What I am specifically blessing in you tonight. (3) What I am specifically committing to in our relationship moving forward. The Cohort Companion will email a worksheet (Handout H14.1) by Friday — use it.”*
+*“Your pre-work: each parent-and-teen dyad in the program prepares one specific witnessed blessing for the other. Three sentences. (1) What I have specifically seen God doing in you across Getting Started. (2) What I am specifically blessing in you tonight. (3) What I am specifically committing to in our relationship moving forward. Your Cluster Companion will email a worksheet (Handout H14.1) by Friday — use it.”*
 
 *“One note: tonight is sacred. We will speak blessings out loud, in front of each other. If you have not done this before, that is fine — most haven’t. The form is short and specific; the worksheet helps. We will rehearse briefly together at the start of the session.”*
 
@@ -186,9 +186,10 @@ The team sends an email to all families one week before Week 14 with the followi
 | 6:45–6:55 | Block 2: Brief blessing rehearsal | Shared circle | Lead Comp | Walk the form aloud. Two Companions demo a brief commissioning. Q&A from families. |
 | 6:55–7:05 | Block 3: Reading and prayer | Shared circle | Lead Comp | Read Numbers 6 and Philippians 1:6. Pray over the commissioning to come. |
 | 7:05–8:00 | Block 4: Family commissionings | Shared circle, central space | Lead Companion + Co-Comp | Each family in turn. Parent and teen stand center. Each speaks blessing. Community speaks Aaronic over family. ~5–7 min per family. |
-| 8:00–8:15 | Block 5: Final reflection circle | Shared circle | Lead Comp | Each person, going around: one takeaway, one next commitment. ~30 sec each. |
-| 8:15–8:25 | Block 6: Rhythm Card and Going Deeper bridge | Shared circle | Co-Comp (Parent) | Walk H14.3 and H14.4. Distribute Post-Series Survey (H14.5). |
-| 8:25–8:30 | Block 7: Final blessing and sending | Shared circle | Lead Comp | Whole community speaks Aaronic blessing over the whole community. Sending. End. |
+| 8:00–8:10 | Block 5: Final reflection circle | Shared circle | Lead Comp | Each person, going around: one takeaway, one next commitment. ~30 sec each, brisk. A parent opens, pre-arranged. |
+| 8:10–8:20 | Block 6: Rhythm Card and Going Deeper bridge | Shared circle | Co-Comp (Parent) | Walk H14.3 and H14.4. Distribute Post-Series Survey (H14.5). |
+| 8:20–8:25 | Block 7: The Leader Feedback Round | Shared circle | Lead Comp | Two questions from the leader, then the room. May well be dropped tonight — see the block note. |
+| 8:25–8:30 | Block 8: Final blessing and sending | Shared circle | Lead Comp | Whole community speaks Aaronic blessing over the whole community. Sending. End. |
 | 8:30+ | After: lingering, gratitude, food | Open | All Companions | Stay. People will need to talk. Some will not leave for an hour. |
 
 # **Block-by-Block: Scripts and Notes**
@@ -231,7 +232,7 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 ## Demo (3 min)
 
-*Two Companions (lead and Co-Companion, or two Cohort Companions) demo a real, specific, brief blessing over each other in front of the room. The blessing should be honest, specific, brief — not theatrical.*
+*Two Companions (lead and Co-Companion, or two Cluster Companions) demo a real, specific, brief blessing over each other in front of the room. The blessing should be honest, specific, brief — not theatrical.*
 
 *Watch for: the demo is critical. Parents who have never spoken a blessing aloud will calibrate against this. Be brief. Be specific. Do not preach.*
 
@@ -296,9 +297,9 @@ This is the heart of the night. Each family in turn. The Lead Companion calls fa
 
 ### **Time math — do this in advance**
 
-With 55 minutes for commissioning and approximately 6 minutes per family, the room can hold 8–9 family commissionings. If you have more families, lengthen Block 4 by 10–15 minutes and shorten Block 6. If fewer, add a brief silence or a brief reading at the end of Block 4 to honor the space.
+With 55 minutes for commissioning and approximately 6 minutes per family, the room can hold 8–9 family commissionings. If you have more families, lengthen Block 4 by 10–15 minutes, shorten Blocks 5 and 6, and drop the Leader Feedback Round — its drop clause exists for exactly this kind of night. If fewer, add a brief silence or a brief reading at the end of Block 4 to honor the space.
 
-## **Block 5 — Final Reflection Circle (8:00–8:15, 15 min)**
+## **Block 5 — Final Reflection Circle (8:00–8:10, 10 min)**
 
 After all family commissionings, the room is full of feeling. The reflection circle is a way to land what was named in front of witnesses, family by family, in personal language.
 
@@ -310,11 +311,11 @@ After all family commissionings, the room is full of feeling. The reflection cir
 
 *“The commitment can be small too. ‘I will keep the morning question.’ ‘I will visit the garden once a week.’ ‘I will tell my mom one true thing this week.’ Specific. Doable.”*
 
-*“You can pass. Visiting family members can pass; you can also share if you want to. The Cohort Companions go first.”*
+*“You can pass. Visiting family members can pass; you can also share if you want to. The Cluster Companions go first, and then [parent's name] will start us.”*
 
-*(Cohort Companions go first to model. Then around the circle. Lead Companion listens; receives without commentary; eye contact; slight nod. Do not summarize.)*
+*(Cluster Companions go first to model. Then a parent opens for the families — arranged with that parent before the session, never a cold call on a teen; teens choose their own depth after, and pass-anytime holds. Then around the circle, briskly. Lead Companion listens; receives without commentary; eye contact; slight nod. Do not summarize.)*
 
-## **Block 6 — Rhythm Card and Going Deeper Bridge (8:15–8:25, 10 min)**
+## **Block 6 — Rhythm Card and Going Deeper Bridge (8:10–8:20, 10 min)**
 
 After the reflection, walk the long-term practice and bridge to Going Deeper. Brief, warm, no pressure. Distribute the Post-Series Survey for completion that week.
 
@@ -328,7 +329,19 @@ After the reflection, walk the long-term practice and bridge to Going Deeper. Br
 
 *“Three: the Post-Series Survey. H14.5. We need your honest read on what worked and what didn’t. Complete it this week and email it back. The next group of families benefits from your honesty. Five questions; take fifteen minutes.”*
 
-## **Block 7 — Final Blessing and Sending (8:25–8:30, 5 min)**
+## **Block 7 — The Leader Feedback Round (8:20–8:25, 5 min)**
+
+*The evening's leader closes the working part of the evening the same way every week — and on purpose, before the final blessing, so the commissioning's sacred close remains the last word of the night.*
+
+## Script (Lead Companion)
+
+*"Before we close — two things from me, same as every week. What I think went well tonight: ______. What I'd do differently next time: ______. Now the room — same two questions about tonight. What went well? What would you do differently?"*
+
+Two or three voices on each question is plenty. The leader receives without defending — "thank you" is the whole response. If a teen led tonight, they answer first, the adult second; the room's feedback covers them both.
+
+*(The leader may drop this round if the room's energy needs something else — and on a commissioning night they may well: the ceremony itself is often the something-else the energy needs. Dropping it twice running goes to the team debrief.)*
+
+## **Block 8 — Final Blessing and Sending (8:25–8:30, 5 min)**
 
 The last five minutes. The whole community speaks the Aaronic blessing over the whole community. The families are sent; Week 15's commissioning of the Companions remains.
 
@@ -346,9 +359,9 @@ The last five minutes. The whole community speaks the Aaronic blessing over the 
 
 *After the sending, do not pack up. Some people will not leave for an hour. Stay. The work after the closing is sometimes the work.*
 
-# **Differentiation by Cohort**
+# **Differentiation by Family Situation**
 
-Tonight there is no cohort split. Parents and teens are intentionally together for the family commissioning. The differentiation tonight is by family situation, not by cohort age.
+Parents and teens are together for the family commissioning — the whole room as one circle, as families always are in this pilot. The differentiation tonight is by family situation.
 
 ## **Families with both parents present**
 
@@ -382,14 +395,6 @@ Tonight there is no cohort split. Parents and teens are intentionally together f
 - The teen speaks their blessing to the stand-in (‘what I want my dad/mom to know is \_\_\_\_\_’), and the stand-in speaks the parent’s blessing back to the teen. The community blessing follows.
 - This is heavy. Pastoral / clinical backup is informed in advance. Pastoral 1:1 the next day.
 
-## **Junior teens (12–14) within the commissioning**
-
-## Adjustments
-
-- Junior teens may struggle with the formality of speaking aloud in front of the room. Their blessings may be very short — one or two sentences instead of three. Honor.
-- Some junior teens will need their parent to read first; modeling helps them follow. Allow this.
-- Junior teens are most likely to freeze. Have water nearby; have a soft script you can read on their behalf if they cannot.
-
 # **Closing Practice in Detail**
 
 Same three-layer pattern, expanded for the family-level commissioning. The community Aaronic blessing over the whole room is the third and final layer. Resist the urge to add anything after the final blessing. “You are sent. Go.” is the last word.
@@ -420,7 +425,7 @@ Companion team meets the day after Week 14 for a 60-minute debrief. This is the 
 ### **Signs the session did not work as well as it could have**
 
 - A family’s commissioning had to be cut short for time.
-- A teen could not complete their blessing and the Cohort Companion did not have a graceful recovery.
+- A teen could not complete their blessing and the Cluster Companion did not have a graceful recovery.
 - The reflection circle landed flat — generic answers.
 - Visiting family members felt lost or uncertain.
 - The Going Deeper bridge felt like a sales pitch.
