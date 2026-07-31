@@ -2,6 +2,25 @@
 
 *Fellowship of the Heart — Series 1 of 3*
 
+# Version ledger
+
+| Version | State | Where to find it |
+|---|---|---|
+| **v1.0** | The canonical 15-week series: all ages (12–18), three-circle age-split design (junior / senior / parent). The right starting edition for mixed-age cohorts or bodies preferring separated circles. | Git tag `gs-v1.0` (July 2026) |
+| **v1.1** | v1.0 + the 22-meeting CCA calendar overlay (Wednesdays, four quarters, 6/5/6/5). The overlay adds seven structured extra meetings without renumbering the fifteen sessions. | The [CCA 2026–27 Calendar](cca-2026-27-calendar.md) page |
+| **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. The live edition for the first CCA cohort. | Current pages |
+
+# August 2026 — v1.3, the family-integrated edition
+
+Built for the approved CCA pilot (fall 2026 launch) from the founder's field observations in the summer 4 Connects club. Four changes, one reversal:
+
+- **Families together — the reversal.** The first edition ruled that parents and teens never do disclosure work in each other's circles. Field experience showed the opposite works, on one condition: **parents go first, always.** The working unit is now the family cluster (whole families, never divided), with the parent pre-brief (costly telling, child-safe), teen depth always the teen's own, and the Companion watching the teen during the parent's telling. The three-circle design remains available at `gs-v1.0`.
+- **High-school only.** One teen band; the junior-cohort adaptations retire to v1.0 for future younger cohorts.
+- **Every teen gets a turn.** A rotating, always-optional low-risk lead slot (container open, scripture, check-in, blessing) for every teen across the series — the on-ramp beneath the FC1 track, governed by the same bright line.
+- **The Leader Feedback Round.** Every session ends with the evening's leader — the Lead Companion first, from Week 1 — saying what went well and what they'd do differently, then inviting the room to answer the same two questions. The leader stays a sheep in public, weekly, before any teen is asked to lead anything.
+- Sizing for the pilot: three families minimum, six target maximum (roughly 6–15 participants); whole room to ~10, two family clusters (one breakout room) above that.
+- Consent form updated to match (family circles + parents-first, teen leadership rotation consent line, high-school framing) — the version CCA counsel reviews.
+
 # July 2026 — Safety additions (the Settle Protocol)
 
 A five-piece safety strengthening, adapted from a risk-stratified safety framework shared by an outside reviewer and translated into the series' own architecture:

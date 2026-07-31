@@ -34,7 +34,7 @@ The container conditions described in Section 5 are how you get ready. Read them
 
 This is the design choice I am most worried you will get wrong, so let me say it directly. A parent who sits in the back drinking coffee while their kid does the work has not understood the assignment. The whole point is that the parent is on their own journey, beside their teen, doing real work too. If you let the parents off the hook, the teens will feel it, and the work will not go where it could.
 
-That said: parents do not do their work in front of their own kid, and kids do not do their work in front of their own parent. Section 5 has the parallel-circle design and the rules for when we split and when we come back together. Follow it.
+And here v1.3 reverses a rule the first edition held: in this edition, **parents do their work in front of their own teen, in the same circle — and parents go first.** The first edition feared that families sharing a circle would flatten honesty on both sides. Field experience taught us the opposite, provided the order is right: when a parent goes first and tells something real — a loss, a struggle, a season of doubt their teen has never heard named — the teen does not shrink; the room deepens, and the teen chooses their own depth *after* a grown-up's honesty has set the ceiling. The parent decides how deep; whatever they choose, it is almost always more than their teen has ever heard, and hearing it is formation nothing else in this series can supply. Section 5 has the family-cluster design and the disciplines that keep it safe — including the parent pre-brief on what belongs in the room in front of teens, and what does not.
 
 ### You will not be the agent of transformation
 
@@ -154,37 +154,31 @@ The Getting Started series is designed for teens and parents from Covenant Chris
 - A wide range of formation maturity. Some teens will be at Affective Taxonomy Level 1 (showing up because Mom said). Some will already be at Level 3 (asking the questions on their own). Both belong.
 - Parents at varying levels of formation themselves. We design for the parent who has never done this kind of interior work, and we leave room for the parent who has.
 
-## Group size
+## Group size (v1.3 pilot)
 
 | **Configuration** | **Recommended** | **Notes** |
 | --- | --- | --- |
-| Total participants (teens + parents) | 16–30 | Below 16, the parallel-circle work loses dynamism. Above 30, intimacy in the small circles is hard to sustain. |
-| Teen-to-parent ratio | ~1:1 | Each teen brings at least one parent. Two parents per teen is welcome. |
-| Junior cohort (12–14) | 4–8 teens | Combine with parents into circles of no more than 8. |
-| Senior cohort (15–18) | 4–8 teens | Same. |
-| Parent circle (when split) | 8–16 parents | If larger, split into two parent circles. |
-| Total Companions required | 3–4 | See Section 3 for the team structure. |
+| Families | 3 minimum; 6 target maximum | Below 3 families, the room loses the many-households texture the design needs. |
+| Total participants (teens + parents) | 6–15 | Each teen brings at least one parent; two parents welcome; some families bring more than one teen. |
+| Whole room vs. clusters | Whole room up to ~10 people | Above ~10 (or when report-out rounds run long), split into two **family clusters** — whole families kept together, never divided across clusters. Requires one breakout room. |
+| Total Companions required | 2–4 | See Section 3 for the team structure. |
 
-## Junior and senior cohorts
+## One band, families together
 
-A 12-year-old and an 18-year-old are not the same audience. The curriculum splits them for cohort-specific work and brings them together for shared content.
+The v1.3 pilot admits **high-school teens only** (roughly 14–18), which removes the junior/senior split the first edition needed. And it goes further: there are no separate teen and parent circles at all. The working unit is the **family cluster** — two or three whole families in one circle, parents and teens together, every week.
 
-### Why split
+### Why together
 
-Three reasons:
+The first edition split families apart for disclosure work, reasoning that neither generation would be honest in front of the other. Run honestly, the opposite proved true, on one condition — **parents go first, always.** When a parent opens a practice by telling something real, three things happen that the split design could never produce: the teen hears their own parent’s actual interior life, often for the first time; the parent’s honesty sets the room’s depth, so the teen chooses their level *after* permission has been given rather than before; and the family leaves with a shared vocabulary for a conversation that continues at home without any bridge exercise needed. The parent controls their own depth — and whatever depth they choose will be more than their teen has ever heard.
 
-1. Developmental gap. Junior-cohort teens (12–14) are still consolidating self-awareness and abstract thinking. Senior-cohort teens (15–18) are wrestling with identity, agency, and life direction in ways that need different conversation partners.
-2. Modeling and safety. A 12-year-old will not bring up real interior content with an 18-year-old in the same circle, and an 18-year-old will not be authentic in front of a 12-year-old. Splitting gives each cohort the cohort-mates they need.
-3. Pacing. Some practices (longer story-telling, the Any Doubts? exercise, the deeper Garden of Your Heart) work at full depth for senior cohort and a lightened version for junior cohort. Same scripture, same Connect, different depth.
+### When to cluster, when to gather whole
 
-### When to split, when to merge
+- **Family clusters for:** personal sharing, story-telling, the experiential practices (Garden, Any Doubts?), confession-and-restoration work — parents first in every one of them.
+- **Whole room for:** teaching, scripture engagement, worship, blessings, check-in and closing circles, shared meals, and the Leader Feedback Round that ends every session — and whenever total attendance is small enough (~10 or fewer) that the whole room *is* one circle.
 
-As a general rule:
+Each session’s lesson plan specifies the mode for each block. Do not improvise this on the fly.
 
-- **Split for:** personal sharing, story-telling, experiential practices that involve disclosure, and any reflection on wounds or doubts.
-- **Merge for:** teaching, scripture engagement, worship, blessings, the closing circle, and shared meals.
-
-Each session’s lesson plan specifies the mode (split vs. merged) for each block. Do not improvise this on the fly.
+*(The first edition’s three-circle age-split design — junior, senior, parent — remains available at the `gs-v1.0` tag and in the CHANGELOG for any future body running younger cohorts or preferring separated circles.)*
 
 ## The parent dimension
 
@@ -194,13 +188,13 @@ The parent role in this series is the design choice with the highest leverage an
 
 The parent’s job is to do the work, alongside their teen but not at them. A parent who genuinely engages their own Connect-with-Self work — who tells their own story, names their own doubts, sits in their own Garden of Your Heart — will form their teen by example far more powerfully than any teaching ever will. A parent who comes as a chaperone, a fixer, or an audience member sends the opposite signal.
 
-### Parents not in their teen’s circle
+### Parents in their teen’s circle — and parents go first
 
-Three exceptions to the general rule that parents and teens do their work in separate circles:
+In v1.3 the family shares one circle for the whole series, own family always together, and on every disclosure practice the parents speak first. Three disciplines keep this safe:
 
-1. In Week 1 (orientation) and Weeks 14–15 (commissioning), parents and teens are together intentionally.
-2. Some between-session practices are designed for parent and teen to do together at home (the Family Conversation Cards, the joint Footprints exercise in Week 3 prep). Those are explicitly bridge moments.
-3. If a teen specifically requests their parent’s presence for a difficult disclosure, that is the teen’s call. Companions support but do not arrange this.
+1. **The parent pre-brief.** At orientation (and on one page in the parent packet), parents are briefed on what belongs in the room in front of teens and what does not: your own struggles, losses, and doubts — yes, at whatever depth you choose; the raw material of your marriage — no; anything *about* your teen — never without asking them privately first. Costly telling, child-safe.
+2. **The teen’s depth is always the teen’s.** Parents-first gives permission; it never creates obligation. Pass-anytime holds for every practice, and a Companion watches the teen’s face during the parent’s telling — a teen visibly carrying weight from what they just heard is a Settle Protocol moment (Section 6), not a prompt to share.
+3. **Home continues what the circle starts.** The between-session practices (the Family Conversation Cards, the joint Footprints exercise) are no longer bridges between separated rooms — they are the same conversation, continued at the kitchen table.
 
 ### Single-parent and complex family situations
 
@@ -215,8 +209,7 @@ The Getting Started series cannot be run by one person. Plan for a team of three
 | **Role** | **Primary responsibility** | **Required posture** |
 | --- | --- | --- |
 | Lead Companion | Owns the arc of the series, runs main teaching blocks, makes real-time judgment calls. | Has done the IJH journey personally; experienced small-group Companion; pastoral or counseling background preferred. |
-| Cohort Companion (Teen Circles) | Runs the teen-only circles when split; knows each teen by name; tracks individual growth. | Comfortable with adolescents; either youth-ministry trained or actively walking alongside teens; same gender as the larger teen cohort if cohort is single-gender, or paired with co-fac of other gender if mixed. |
-| Cohort Companion (Parent Circle) | Runs the parent-only circle when split; gives parents permission to do their own work without managing their kid. | Adult-formation experience; can hold space for parents who are not used to being asked to do their own work. |
+| Cluster Companion (one per family cluster when the room splits) | Holds a family cluster: keeps the parents-first order, watches the teens' faces during parents' tellings, knows every member by name. | Comfortable with both adolescents and adults in the same circle; can give a parent permission to go deep and a teen permission to pass, in the same five minutes. |
 | Pastoral / Clinical Backup | On-call (not in the room) for crisis follow-up; consulted on disclosure protocols. | Licensed counselor or trained pastor familiar with adolescents; named in writing in advance. |
 
 ## Required competencies
@@ -362,22 +355,19 @@ Each session’s lesson plan specifies which mode is used for which block. The g
 - Scripture readings and shared worship.
 - The Week 1 orientation and the Week 14–15 commissioning sessions, in their entirety.
 
-### Parallel circles (split by cohort)
+### Family clusters (when the room splits)
 
-- Junior teens (12–14) with the teen Co-Companion.
-- Senior teens (15–18) with the teen Co-Companion (or a separate Co-Companion if cohort is large).
-- Parents with the parent Co-Companion.
-- Use parallel circles for: personal sharing, story-telling, the experiential practices (Garden, Any Doubts?), confession-and-restoration work.
+- Two or three whole families per cluster, each with a Cluster Companion. Own family always together — a family is never divided across clusters.
+- Use family clusters for: personal sharing, story-telling, the experiential practices (Garden, Any Doubts?), confession-and-restoration work.
+- **Parents first, every time.** The Companion opens the round with a parent, by name, arranged before the session — never a cold call on a teen.
 
-### Why parallel matters
+### Why together works — and what protects it
 
-If a teen has to share an honest doubt while their own parent is sitting two seats away, they will not share the actual doubt — they will share a version they think their parent can handle. Same for the parent. The parallel design protects both directions.
+The first edition argued that a teen two seats from their parent shares only the version the parent can handle, and the parent likewise. The fear is real — and the remedy turned out not to be separation. It is *order*. When the parent goes first and tells something true at real cost, the calculation reverses: the teen is no longer protecting the parent from their honesty; the parent has just demonstrated that honesty is survivable in this family. What a parent chooses to put in the room sets the ceiling; the teen chooses their own depth underneath it, pass-anytime absolute. Three protections hold it: the parent pre-brief (Section 2 — costly telling, child-safe), the Companion watching the teen during the parent’s telling (the Settle Protocol applies to weight *received*, not just weight told), and the Section 6 limits unchanged. What families want to keep unpacking, they unpack at home — same conversation, same table.
 
-This is not a deception. The teens know their parents are doing parallel work. The parents know the teens are. What is held in confidence within each circle is held — with the explicit limits of Section 6 — and what the family wants to share with each other after, they can share at home.
+## A note on younger participants
 
-## Adaptations for younger participants
-
-For the junior cohort and any 12-year-old: the container is identical in structure but lighter in disclosure expectation. A 12-year-old’s honest “one-word check-in” might just be “good,” and that is fine. Do not pressure for depth. The container forms over weeks, not in week one. By week six, the same 12-year-old who said “good” in week one is often the one who surprises everyone with what surfaces.
+The v1.3 pilot is high-school only, so the junior-cohort adaptations of the first edition are not in play. A future body running younger teens should start from the `gs-v1.0` edition (age-split circles, lightened disclosure expectations) rather than lightening this one on the fly.
 
 # Section 6 — Safety, Confidentiality, and Crisis Protocols
 
@@ -521,7 +511,7 @@ In the language of the Formation Companion role, this is the *never one-on-one* 
 
 ## Recruitment timeline
 
-Begin recruitment ten weeks before Week 1. The series stands or falls on whether you have the right twelve to twenty families committed before you start, with informed consent in hand.
+Begin recruitment ten weeks before Week 1. For the v1.3 pilot the series stands or falls on whether you have the right three to six families committed before you start, with informed consent in hand — a floor of three families, a target of no more than six, roughly six to fifteen participants in the room.
 
 | **Wks before Wk 1** | **Activity** |
 | --- | --- |
@@ -571,6 +561,10 @@ Every instrument in this section operates under the [Measurement Covenant](../sh
 ## The three vital signs — the weekly lens
 
 Before any instrument in the table below, the Companion team watches three things continuously, with no form in anyone's hand: **Costly Telling** (does anyone tell what God said and what they did about it — and does telling cost anything?), **Response to Load** (what does the room do in the first ten seconds after an interruption, an emergency, hard news?), and **the Sought Stray** (when someone goes quiet, how long before anyone notices — and who goes after them?). The three are one construct read three ways: confidence in God in the middle of suffering and noise, which shows itself only under the load of ordinary weeks and cannot be read on a survey taken on a calm night. The full reading discipline — the three lenses, the lowest-steady-sign rule, the counterfeits, and the rule that a gray sign sends the team *up* (what have we not tended?) before it looks *around* — is on the [Three Vital Signs card](../shared/three-vital-signs.md), the team-facing companion to the Measurement Covenant. The weekly debrief (below) opens with the card's three questions; the instruments in the table are the deeper workup, used when a vital sign says to look closer.
+
+## The Leader Feedback Round — every session, leader first
+
+v1.3 adds a standing closing element: the last five minutes of **every** session, the evening's leader — beginning with the Lead Companion at Week 1, and continuing with whoever led that night, adult or teen — says two things to the whole room: *what I think went well tonight*, and *what I would do differently next time*. Then they invite the room to answer the same two questions about the evening. That is the whole liturgy. It is not a critique session and not a compliment round; it is the leader publicly staying a sheep, every single week — so that by the time any teen leads anything, they have watched the oldest person in the room receive correction a dozen times, and receiving it looks like strength because it has only ever been modeled as strength. For assessment purposes the round doubles as a scheduled weekly instance of costly telling (the first vital sign) and belongs in the debrief notes. The leader holding the evening may drop the round in a given week if the room's energy needs something else — grief, celebration, lateness — but dropping it twice running is a flag for the team debrief, not a new normal.
 
 Adapted from the Vol 4 Section 3 Pilot Ready core testing instruments (with optional research-grade extensions documented in the Vol 4 Appendix), simplified for this audience and timeframe:
 
@@ -643,7 +637,7 @@ In Week 14’s session, the closing block is a reflection circle in which each p
 
 # Section 9 — Session-by-Session Sketch
 
-This section is the architectural sketch of all fifteen sessions. Full lesson plans — with run sheets, Companion scripts, handouts, and differentiation notes for the junior and senior cohorts — are produced as separate documents (delivered in batches of three to four sessions during curriculum development). The three second-running sessions (Weeks 4, 8, 10) and the two closing additions (Weeks 13, 15) carry the Companion-in-Formation track (Section 11); each sketch notes who leads.
+This section is the architectural sketch of all fifteen sessions. Full lesson plans — with run sheets, Companion scripts, and handouts for the single high-school band of the v1.3 pilot — are produced as separate documents (delivered in batches of three to four sessions during curriculum development). The three second-running sessions (Weeks 4, 8, 10) and the two closing additions (Weeks 13, 15) carry the Companion-in-Formation track (Section 11); each sketch notes who leads.
 
 The sketches below tell the Companion team what each week is for, what scripture grounds it, what the experiential center is, and what the between-session practice is. Use this as the planning view; use the per-session lesson plans as the running view.
 
@@ -669,7 +663,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** Mark 4:1–20 (the Sower).
 
-**Circle mode.** Shared teaching block, then split (junior, senior, parent) for the diagnostic exercise; merge for closing.
+**Circle mode.** Shared teaching block, then family clusters (parents first) for the diagnostic exercise; merge for closing.
 
 **Experiential center.** Heart Soil diagnostic (age-adapted): four gentle questions about where each kind of soil shows up in my life. Not a test — a mirror.
 
@@ -683,7 +677,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** Psalm 139:23–24.
 
-**Circle mode.** Shared opening; split into circles of 4–5 (cohort + Companion) for storytelling; merge for closing.
+**Circle mode.** Shared opening; family clusters (2–3 families + Companion) for storytelling, parents telling first; merge for closing.
 
 **Experiential center.** Each teller gives a 5–7 minute version of their story — the three things they want this circle to know about who they are. Listeners offer one specific blessing back. The Companions-in-Formation tell their own stories in this first running: they receive the practice before they lead it.
 
@@ -715,7 +709,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** Ecclesiastes 4:9–12.
 
-**Circle mode.** Shared teaching, then split, then merge.
+**Circle mode.** Shared teaching, then family clusters, then merge.
 
 **Experiential center.** Each cohort circle does an exercise on the four container conditions — where does each one show up in my actual friendships, and where is each one missing? The discussion itself is the formation.
 
@@ -731,7 +725,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** James 5:16 and 1 John 1:9.
 
-**Circle mode.** Shared teaching; split for the confession exercise; merge for blessings.
+**Circle mode.** Shared teaching; family clusters (parents first) for the confession exercise; merge for blessings.
 
 **Experiential center.** Age-adapted confession-and-restoration practice in cohort circles. No probing into specific sins. Each person identifies one place where they want to walk in greater honesty, names it briefly, receives a spoken blessing of restoration, and the circle moves on.
 
@@ -747,7 +741,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** Romans 10:17 and a chosen Gospel passage.
 
-**Circle mode.** Shared teaching of PROAPT; split for first practice in cohort circles; merge for closing.
+**Circle mode.** Shared teaching of PROAPT; family clusters for first practice; merge for closing.
 
 **Experiential center.** PROAPT (Pray, Read, Observe, Apply, Pray again, Tell) walked through together with a single passage. Each cohort circle then does it in pairs. The Tell step is to a brother or sister in the circle. The Companions-in-Formation receive the practice this week; they lead it next week.
 
@@ -779,7 +773,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** John 15:1–11 and Psalm 23.
 
-**Circle mode.** Shared teaching framing; split for the guided exercise (cohort circles); merge for sharing and closing.
+**Circle mode.** Shared teaching framing; family clusters for the guided exercise; merge for sharing and closing.
 
 **Experiential center.** The Garden of Your Heart exercise, lightly adapted: a guided imaginative prayer in which each participant pictures their heart as a garden, invites Jesus in, and notices what He does. Journal afterward. Sharing is by invitation only, never required.
 
@@ -811,7 +805,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** Mark 9:24 (“I believe; help my unbelief”).
 
-**Circle mode.** Shared teaching; split for the Any Doubts? practice; merge for closing.
+**Circle mode.** Shared teaching; family clusters (parents first) for the Any Doubts? practice; merge for closing.
 
 **Experiential center.** Age-adapted Any Doubts? practice. Each participant identifies a scripture they say they believe but might privately doubt. They name the doubt to a partner in the circle, sit with it briefly, and then receive the scripture again. The naming is the practice; the resolution is the Spirit’s work.
 
@@ -827,7 +821,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** Ephesians 2:10.
 
-**Circle mode.** Shared teaching; split for the gifts and downhill mission exercise; merge for closing.
+**Circle mode.** Shared teaching; family clusters for the gifts and downhill mission exercise; merge for closing.
 
 **Experiential center.** Two paired exercises in cohort circles. (1) Gifts and Passions inventory: where am I alive, what comes naturally, where do others tell me I have something to offer. (2) Downhill Mission question: what does the room get when I am at my best, not performing? Each participant names one downhill answer to the circle.
 
@@ -843,7 +837,7 @@ The sketches below tell the Companion team what each week is for, what scripture
 
 **Anchor scripture.** Galatians 6:9 ("let us not grow weary of doing good") and Psalm 42:1–5 (the downcast soul that still hopes).
 
-**Circle mode.** Shared teaching; split for the rhythm-building exercise; merge for closing.
+**Circle mode.** Shared teaching; family clusters for the rhythm-building exercise; merge for closing.
 
 **Experiential center.** Three movements. (1) The [Rhythm Card](../shared/rhythm-card.md) is built out personally — each participant marks the daily, weekly, and monthly practices they are actually taking with them, not an idealized list. (2) The [Signs Card](../shared/signs-card.md) is taught: the four kinds of dry, and the one question that sorts them — *which way does the desire point?* Every participant should leave able to say why a dry season is not a verdict. (3) The [Path Home Card](../shared/path-home-card.md) is shown and placed in every folder: the door that never locks, explained while everyone is still in the room to hear it. Any unfinished gifts-and-mission work from Week 12 completes here.
 
@@ -950,6 +944,8 @@ When we ran the Getting Started pilot, something happened that I did not fully d
 This section builds on purpose what the pilot showed us by accident. It describes a track, running alongside the Getting Started series, that forms willing senior teens to the first stable level of Formation Companion — what we call FC1 — and points them, over the next few years, toward the day some of them will run this whole journey themselves, in a dorm room or a living room, with no adult in the room at all.
 
 Two things govern everything here. The first is that FC1 is a real and honorable place to stand, not a consolation prize on the way to something else. The second is that a teen leader never carries what only an adult should carry. Hold both, and this works. Lose either, and it does not.
+
+**And v1.3 adds a wider on-ramp beneath the track: every teen gets a turn.** Across the series, every teen in the room is offered — never assigned — a low-risk lead slot in rotation: opening the container, reading the anchor scripture, leading the check-in round, closing the blessing. Process only, never care; the bright line and the three rules bind the rotation exactly as they bind the track. The rotation is how the hope that every teen will give leading a try becomes a schedule instead of a wish — and the Leader Feedback Round (Section 8) is how it becomes safe: no teen leads anything before they have watched the adults receive feedback on themselves, week after week. The FC1 track proper — the Labs, the second runnings, the exit gate — remains the deeper formation for those the rotation awakens.
 
 *— John (Granddaddy), on behalf of the team*
 
@@ -1058,7 +1054,9 @@ This form must be completed and signed by every participating parent or guardian
 
 ### About the program
 
-The Fellowship of the Heart Getting Started series is a 15-week formation program for teens (ages 12–18) and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the Week 14 family-commissioning session extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
+The Fellowship of the Heart Getting Started series is a 15-session formation program for high-school teens and their parents, hosted at Covenant Christian Academy of Warrenton. The series is based on the Intentional Journey of the Heart (IJH) framework. Standard sessions are 90 minutes; the family-commissioning session extends to 120 minutes. Sessions include scripture engagement, age-appropriate experiential prayer practices (described below), small-circle conversations, and shared closing blessings.
+
+Parents and teens participate together in the same circles, with families kept together, and on sharing practices the parents speak first. Parents receive a briefing at orientation on appropriate sharing in front of teens. Teens are also offered — never required — a rotating turn at low-risk leadership moments (such as opening the session or reading scripture), always with adults present and leading the evening.
 
 ### Practices used in the series
 
@@ -1086,7 +1084,9 @@ Initial each acknowledgment to indicate consent.
 
 \_\_\_\_ I have read the description of the program and the practices used.
 
-\_\_\_\_ I understand that as a parent or guardian, I am expected to attend every session as a participant, not just as a chaperone, and to engage in the parent circle as appropriate.
+\_\_\_\_ I understand that as a parent or guardian, I am expected to attend every session as a participant, not just as a chaperone — sharing a circle with my teen, and going first on the sharing practices as briefed at orientation.
+
+\_\_\_\_ I consent to my teen taking rotating low-risk leadership turns (opening the session, reading scripture, leading a check-in round), always with adults present and leading the evening.
 
 \_\_\_\_ I understand that confidentiality has limits, and that Companions are required to break confidentiality in cases of disclosed or suspected abuse, suicidal ideation, self-harm, or threats to others.
 
@@ -1290,11 +1290,7 @@ Sunday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 # Appendix F — Recommended Reading and Listening
 
-## For teens (junior cohort, 12–14)
-
-*[Curate a list of 3–5 short, age-appropriate Christian formation books and devotionals before launch. Consider: a Gospel reading plan, an age-appropriate book on hearing God, a short biography of a teen-or-young-adult Christian whose life embodies one of the four Connects.]*
-
-## For teens (senior cohort, 15–18)
+## For teens (high school)
 
 *[Curate a list of 3–5 books appropriate to older teens. Consider: a contemplative classic, a thoughtful book on identity, a Christian formation work that engages the questions older teens are actually asking. Where Eldredge’s work is read, choose Wild at Heart for guys and Captivating for girls only with parental review and discussion.]*
 

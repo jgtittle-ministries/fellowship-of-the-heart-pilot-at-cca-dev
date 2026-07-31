@@ -4,7 +4,7 @@
 
 ![A table set, before the cohort arrives.](images/landing-table.jpg)
 
-The first of the three Fellowship of the Heart series. Fifteen ninety-minute sessions — Week 14 runs to two hours — that introduce the **Four Connects** (connecting with **Self**, with **Others**, with **God**, and with **Mission**) and settle them into a daily rhythm a cohort can sustain on its own.
+The first of the three Fellowship of the Heart series. Fifteen ninety-minute sessions — the family-commissioning session runs to two hours — that introduce the **Four Connects** (connecting with **Self**, with **Others**, with **God**, and with **Mission**) and settle them into a daily rhythm a cohort can sustain on its own. The first CCA cohort runs the fifteen sessions across a full club year of twenty-two Wednesday meetings — see [The CCA 2026–27 Calendar](cca-2026-27-calendar.md) for the overlay, and the [CHANGELOG](CHANGELOG.md) for the version ledger (v1.0 age-split edition · v1.1 calendar overlay · v1.3 family-integrated pilot edition).
 
 A cohort that completes Getting Started can stop here and not go further. That ending is honored. *Going Deeper* and *Going Out* are for those the Spirit prepares to keep walking.
 

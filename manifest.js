@@ -104,6 +104,10 @@ window.SERIES = [
         "title": "Week 15 — Commissioning the Companions"
       },
       {
+        "path": "docs/getting-started/cca-2026-27-calendar.md",
+        "title": "The CCA 2026-27 Calendar (22 Meetings)"
+      },
+      {
         "path": "docs/getting-started/CHANGELOG.md",
         "title": "Change Log"
       }
@@ -489,6 +493,15 @@ window.PATH_TO_INFO = {
     "title": "Week 15 — Commissioning the Companions",
     "indexPath": "docs/getting-started/index.md",
     "prev": "docs/getting-started/week-14-sending.md",
+    "next": "docs/getting-started/cca-2026-27-calendar.md"
+  },
+  "docs/getting-started/cca-2026-27-calendar.md": {
+    "seriesId": "getting-started",
+    "seriesName": "Getting Started",
+    "edition": "v3",
+    "title": "The CCA 2026-27 Calendar (22 Meetings)",
+    "indexPath": "docs/getting-started/index.md",
+    "prev": "docs/getting-started/week-15-commissioning.md",
     "next": "docs/getting-started/CHANGELOG.md"
   },
   "docs/getting-started/CHANGELOG.md": {
@@ -497,7 +510,7 @@ window.PATH_TO_INFO = {
     "edition": "v3",
     "title": "Change Log",
     "indexPath": "docs/getting-started/index.md",
-    "prev": "docs/getting-started/week-15-commissioning.md"
+    "prev": "docs/getting-started/cca-2026-27-calendar.md"
   },
   "docs/going-deeper/index.md": {
     "seriesId": "going-deeper",
