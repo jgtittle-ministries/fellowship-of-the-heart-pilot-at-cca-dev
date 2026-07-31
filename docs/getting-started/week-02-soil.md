@@ -278,7 +278,7 @@ After the cluster work, the cohort returns to the single circle. The merge is sh
 
 ## Script
 
-“Here’s the practice for this week. Three times between now and next Tuesday — not every day, three times — take five minutes with your journal and ask yourself: today, where did the path show up? Where did the rocky show up? Where did the thorny show up? Where did the good soil show up? One sentence per soil. Specific. Not general.
+“Here’s the practice for this week. Three times between now and next Wednesday — not every day, three times — take five minutes with your journal and ask yourself: today, where did the path show up? Where did the rocky show up? Where did the thorny show up? Where did the good soil show up? One sentence per soil. Specific. Not general.
 
 “The rule is the same as last week’s: no fixing. We are noticing. The Spirit fixes. Our job is to pay attention.
 
@@ -311,7 +311,7 @@ Run the six-step closing protocol from the Handbook, abbreviated for the 5-minut
 ## Teens (high school)
 
 - Teens can hold abstraction — the diagnostic questions for them can include identity, performance, and the specific adolescent versions of the deceitfulness of riches.
-- Concrete, specific, this-week language still wins. “Name one specific thing that happened on Tuesday” rather than “tell me about your spiritual life.”
+- Concrete, specific, this-week language still wins. “Name one specific thing that happened on Wednesday” rather than “tell me about your spiritual life.”
 - The thorny soil question is the most powerful for this age group. Spend the most time there if you have to choose.
 - Teens may try to perform competence, or give the “right” answer because they are at church. Stay gentle but firm: “That’s a great church answer. What’s a more real one?”
 - Some teens have done real spiritual work already and have language for it. Let them use it. Do not dumb things down for them.
@@ -381,7 +381,7 @@ Companion team meets the day after Week 2 for a 30-minute debrief.
 - Anyone who surfaced material that approached crisis-level (suicidal ideation, abuse hint, eating disorder behavior, family violence). Section 6 protocol within 48 hours, two-adult rule for teens.
 - Any parent who broke down or surfaced something heavy. Pastoral 1:1 within the week.
 - Any teen who heard their parent surface something heavy in the cluster — home dynamics may be tender for the next week. The Cluster Companion confirms the teen left settled, and the team stays aware and watching.
-- Any participant who gave only generic answers and seemed to be holding back. Informal contact, no pressure, just “How did Tuesday land?”
+- Any participant who gave only generic answers and seemed to be holding back. Informal contact, no pressure, just “How did Wednesday land?”
 
 # Handouts
 

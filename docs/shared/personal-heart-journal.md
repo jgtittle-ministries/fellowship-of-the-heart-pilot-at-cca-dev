@@ -18,7 +18,7 @@ This journal belongs to:
 
 # A Note Before You Begin
 
-This journal is a companion for the fifteen weeks of the Fellowship of the Heart Getting Started series. It is the small, private place where the work each Tuesday continues into your week. Some of what we do in the room only finds its language between sessions — in the quiet of the morning, in the noticing of the day, in a sentence written down at night that surprises you when you read it back.
+This journal is a companion for the fifteen weeks of the Fellowship of the Heart Getting Started series. It is the small, private place where the work each Wednesday continues into your week. Some of what we do in the room only finds its language between sessions — in the quiet of the morning, in the noticing of the day, in a sentence written down at night that surprises you when you read it back.
 
 This journal is yours. The team will not collect it. Your cohort will not see it unless you choose. Nothing in it is required.
 
@@ -406,7 +406,7 @@ Week 3
 
 — Psalm 139:23–24 (ESV)
 
-*This week we tell a piece of our own story — in the cohort circle on Tuesday, and to one trusted person between sessions. The Joint Footprints exercise (with your parent or your teen) is the between-session practice. The journal pages are for what surfaces.*
+*This week we tell a piece of our own story — in the cohort circle on Wednesday, and to one trusted person between sessions. The Joint Footprints exercise (with your parent or your teen) is the between-session practice. The journal pages are for what surfaces.*
 
 ## Daily practice — Week 3
 
@@ -702,7 +702,7 @@ Week 5
 
 ## Daily practice — Week 5
 
-*Pick one friendship and one of the four conditions Tuesday night. The daily prompts walk you through practicing that condition across the week.*
+*Pick one friendship and one of the four conditions Wednesday night. The daily prompts walk you through practicing that condition across the week.*
 
 My friendship this week (no name needed if you prefer): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1454,9 +1454,9 @@ Week 8
 
 ## The Mid-Series Pulse
 
-*The Mid-Series Pulse went home with you this week. Fill it in honestly — it only helps if it is true — and bring it back Tuesday.*
+*The Mid-Series Pulse went home with you this week. Fill it in honestly — it only helps if it is true — and bring it back Wednesday.*
 
-□ Yes, completed □ Will bring it Tuesday □ Need a fresh copy
+□ Yes, completed □ Will bring it Wednesday □ Need a fresh copy
 
 ## End-of-week reflection — Week 8
 
@@ -1500,7 +1500,7 @@ Week 9
 
 **Visit 1 — date: \_\_\_\_\_\_\_\_\_\_\_\_**
 
-**What was the same as Tuesday? What was different?**
+**What was the same as Wednesday? What was different?**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1526,7 +1526,7 @@ Week 9
 
 **Visit 2 — date: \_\_\_\_\_\_\_\_\_\_\_\_**
 
-**What was the same as Tuesday? What was different?**
+**What was the same as Wednesday? What was different?**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1552,7 +1552,7 @@ Week 9
 
 **Visit 3 — date: \_\_\_\_\_\_\_\_\_\_\_\_**
 
-**What was the same as Tuesday? What was different?**
+**What was the same as Wednesday? What was different?**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1974,7 +1974,7 @@ Week 12
 
 *This week we named what the room gets when we are at our best — our downhill mission. The between-session practice is one small specific action this week aligned with what surfaced. One thing. Not a campaign.*
 
-## My downhill answer (from Tuesday’s cohort)
+## My downhill answer (from Wednesday’s cohort)
 
 “When I am at my most genuinely myself, what the room gets is \_\_\_\_\_.”
 

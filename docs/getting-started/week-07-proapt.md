@@ -97,7 +97,7 @@ God. The first three Connects (Self, Others, God) form a sequence. Tonight is th
 
 Every Companion does PROAPT on at least three different passages in the week before this session. The goal is not to prepare the demo but to be a current practitioner. The teens will know within sixty seconds whether you are someone who has done PROAPT this week or someone who is teaching it from notes.
 
-The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 is the default; substitute if you have a strong reason). Walk it through PROAPT yourself once on Monday. Walk it through again Tuesday morning. Notice what shifts between the two readings. Tell that story briefly when you teach.
+The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 is the default; substitute if you have a strong reason). Walk it through PROAPT yourself once on Monday. Walk it through again Wednesday morning. Notice what shifts between the two readings. Tell that story briefly when you teach.
 
 ## **Team pre-work**
 
@@ -172,7 +172,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 ## Script
 
-*“Last week we did the confession-and-restoration practice. The week between was the Five-Minute Examen each evening. Take ninety seconds: one sentence about the Examen, or about anything that has shifted since Tuesday. [Parent’s name], would you start us?”*
+*“Last week we did the confession-and-restoration practice. The week between was the Five-Minute Examen each evening. Take ninety seconds: one sentence about the Examen, or about anything that has shifted since Wednesday. [Parent’s name], would you start us?”*
 
 *(A parent opens — arranged with them before the session, never a cold call on a teen. Then take 2–3 more contributions, teens choosing their own depth. Pass-anytime holds. Then move on.)*
 
@@ -196,7 +196,7 @@ Read Romans 10:17 aloud. Slow. The teaching is short.
 
 • (Walk to whiteboard.) Hearing is a skill. Skills develop with practice. The practice we are going to learn tonight is called PROAPT. It came out of Truro Church in the 1980s and has been working ever since. It has six steps and the acronym is PROAPT. (Write it on the board.) Pray, Read, Observe, Apply, Pray again, Tell.
 
-• We are going to walk through the whole thing together first, with one passage. Mark 1:14–20 — the calling of the first disciples. Then we will move into our family clusters and work the same passage in pairs — parent and teen from the same family — with the Tell step shared in the cluster. (If the room is small tonight, we simply stay as one circle and pair up right here.) The whole thing tonight is one passage in two passes, so you can feel how it works. By next Tuesday each of you will have done seven passes on your own.
+• We are going to walk through the whole thing together first, with one passage. Mark 1:14–20 — the calling of the first disciples. Then we will move into our family clusters and work the same passage in pairs — parent and teen from the same family — with the Tell step shared in the cluster. (If the room is small tonight, we simply stay as one circle and pair up right here.) The whole thing tonight is one passage in two passes, so you can feel how it works. By next Wednesday each of you will have done seven passes on your own.
 
 ## **Block 4 — PROAPT Walked Together (7:23–7:35, 12 min)**
 
@@ -300,7 +300,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“PROAPT one passage tomorrow. See you Tuesday.”*
+*“PROAPT one passage tomorrow. See you Wednesday.”*
 
 # **Notes for Teens and Parents**
 
@@ -433,7 +433,7 @@ Three handouts for Week 7. All three are the same for everyone; the passage shee
 
 **Share what you heard with someone.**
 
-*A spouse, a parent, a teen, a sibling, a friend, your family cluster on Tuesday. The most-often-skipped step. The most important one for long-term hearing.*
+*A spouse, a parent, a teen, a sibling, a friend, your family cluster on Wednesday. The most-often-skipped step. The most important one for long-term hearing.*
 
 *Speaking what you heard solidifies it and creates accountability. The Word stays with you longer when it has been spoken aloud to another person.*
 
@@ -493,7 +493,7 @@ Three handouts for Week 7. All three are the same for everyone; the passage shee
 
 *Short narrative passages. Each one is a complete story. A good first path for anyone new to the practice. Five to ten minutes for the whole PROAPT.*
 
-1. Day 1: Mark 1:14–20 (the calling — you did this Tuesday)
+1. Day 1: Mark 1:14–20 (the calling — you did this Wednesday)
 2. Day 2: Mark 1:21–28 (Jesus and the demon at synagogue)
 3. Day 3: Mark 1:29–34 (Peter’s mother-in-law)
 4. Day 4: Mark 1:35–39 (Jesus prays alone before dawn)

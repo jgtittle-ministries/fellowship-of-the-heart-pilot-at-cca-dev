@@ -38,7 +38,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WATCH FOR (Week 15 specific risks)
 
-- The senior who freezes on the final rep. This is the one contingency to have fully decided in advance, and the team already has: **the gate is fluency across the arc, not perfection tonight.** A senior who has opened the container eight Tuesdays since October passed the gate weeks ago; tonight is the witness of it, not the exam. A stumble is not a fail. The recovery script is in Block 2. Never let a stumble hang in silence; never let it become the story of the night.
+- The senior who freezes on the final rep. This is the one contingency to have fully decided in advance, and the team already has: **the gate is fluency across the arc, not perfection tonight.** A senior who has opened the container eight Wednesdays since October passed the gate weeks ago; tonight is the witness of it, not the exam. A stumble is not a fail. The recovery script is in Block 2. Never let a stumble hang in silence; never let it become the story of the night.
 - The cohort treating this as the seniors' graduation *out* of the group. Name it from the front, early: they are not leaving. They are taking a place *in* the body — the serving place. The exit gate opens inward.
 - Parents' pride overwhelming the teen. This is a good problem. A father who chokes up watching his daughter open the container from memory is the night working. Give it its moment; do not manage it away. But keep the rite moving — the pride gets its fullest expression in the blessing block, where it belongs.
 - Any senior whose sign-off did not confirm. This must have been handled privately, in Week 13's week, in the discernment conversation between parent and Lead Companion — **never discovered tonight.** If it happened: that senior is honored tonight, by name, for what they led across the series, and their commissioning waits for the next cycle with a clear, hopeful path. The contingency script is in Block 6. If the team walks into Week 15 without this settled, stop and settle it before the session — even at the cost of a delay.
@@ -59,7 +59,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 Week 14 sent the families. Tonight commissions the leaders the series formed while nobody was calling it that.
 
-Across fifteen weeks, a handful of senior teens did something the pilot discovered almost by accident: they led. They took the opening and closing container week after week from Week 5 on. They led the second runnings — Telling Your Story II, PROAPT II, the Garden walk-through. They taught the Rhythm and the two mercy cards in Week 13. They received feedback in front of their peers and came back the next Tuesday and led again. And when they led, the room leaned in like nothing else made it lean in.
+Across fifteen weeks, a handful of senior teens did something the pilot discovered almost by accident: they led. They took the opening and closing container week after week from Week 5 on. They led the second runnings — Telling Your Story II, PROAPT II, the Garden walk-through. They taught the Rhythm and the two mercy cards in Week 13. They received feedback in front of their peers and came back the next Wednesday and led again. And when they led, the room leaned in like nothing else made it lean in.
 
 Tonight that accidental discovery becomes a deliberate act. The Companions-in-Formation are commissioned as FC1 — the first stable level of Formation Companion. The handbook's conviction governs the design: this is an exit gate, not a ceremony. A ceremony looks backward and applauds. A gate opens onto something. The four movements of tonight's rite are the gate's four hinges: the competency demonstrated (the final rep), the boundary made public (the three rules), the net confirmed (the covering), and the road entered (the commissioning, with the first Lab of the serving cycle on the calendar before anyone touches a coat).
 
@@ -86,7 +86,7 @@ All four. Self: the seniors' own formation is real and named — you cannot lead
 
 ## **Personal pre-work**
 
-Each Companion writes, this week, a specific witnessed blessing for each Companion-in-Formation being commissioned — one to three sentences per senior, drawn from what that Companion actually saw them lead across the fifteen weeks. Not "you did great." What, specifically. The Tuesday she re-established the container when her cluster got loud. The way he handed the heavy moment to the adult in Week 10 without hesitation and without drama — the rule working in the wild. Write it down; you will speak it in Block 6.
+Each Companion writes, this week, a specific witnessed blessing for each Companion-in-Formation being commissioned — one to three sentences per senior, drawn from what that Companion actually saw them lead across the fifteen weeks. Not "you did great." What, specifically. The Wednesday she re-established the container when her cluster got loud. The way he handed the heavy moment to the adult in Week 10 without hesitation and without drama — the rule working in the wild. Write it down; you will speak it in Block 6.
 
 And each Companion sits with 2 Timothy 2:2 once through, slowly. Tonight you are Timothy in that verse. Know it before you say it.
 
@@ -95,17 +95,17 @@ And each Companion sits with 2 Timothy 2:2 once through, slowly. Tonight you are
 One team meeting, three to five days before Week 15 (60–75 minutes):
 
 1. Walk the run sheet. Assign the final-rep slots: who opens, who closes, who speaks which container condition (see Block 2 for the division). Tell each senior their slot this week — rehearsed dignity, not ambush.
-2. Confirm every sign-off. For each Companion-in-Formation: has the parent confirmed? Has the Lead Companion confirmed? Any senior not confirmed is contacted privately this week — the honoring-tonight, commissioning-next-cycle conversation happens before Tuesday, with hope in it, never in the room.
-3. Set the date. The first Leader Lab of the spring serving cycle — an actual date, on the actual calendar, before Tuesday. The Lead Companion announces it in Block 7. Do not walk in without it.
+2. Confirm every sign-off. For each Companion-in-Formation: has the parent confirmed? Has the Lead Companion confirmed? Any senior not confirmed is contacted privately this week — the honoring-tonight, commissioning-next-cycle conversation happens before Wednesday, with hope in it, never in the room.
+3. Set the date. The first Leader Lab of the spring serving cycle — an actual date, on the actual calendar, before Wednesday. The Lead Companion announces it in Block 7. Do not walk in without it.
 4. Blessing review. Each Companion reads their blessings for the seniors aloud to the team. Trim anything generic. The Week 14 discipline holds: specific, witnessed, brief.
 5. Decide the grace protocol out loud, as a team, even though it is already written: the gate is fluency-over-the-arc, not perfection tonight. Every Companion should be able to say it in their sleep, because if a senior freezes, the recovery must be instant and unanimous.
 6. Pray for each senior by name.
 
 ## **Family and senior pre-work — sent early in the week**
 
-Email to all families: *"Tuesday is Week 15, our final gathering — Commissioning the Companions. This is the night our Companions-in-Formation, the seniors who led us this year, are commissioned as Formation Companions, Level One. The whole cohort and all families are wanted in the room: a commissioning needs witnesses, and they earned ours. 6:30 start, 8:00 close. Light dessert after."*
+Email to all families: *"Wednesday is Week 15, our final gathering — Commissioning the Companions. This is the night our Companions-in-Formation, the seniors who led us this year, are commissioned as Formation Companions, Level One. The whole cohort and all families are wanted in the room: a commissioning needs witnesses, and they earned ours. 6:30 start, 8:00 close. Light dessert after."*
 
-Email to each Companion-in-Formation (individually): their final-rep slot (open, close, or which container condition they will speak from memory, with a story of holding it); a reminder that the covering movement will ask them to name their person aloud — decide the name before Tuesday (it was chosen in Lab 4; confirm it still holds); and one line of steel and warmth: *"You have done this every week since the fall. Tuesday you do it in front of everyone who loves you. Same container. More witnesses."*
+Email to each Companion-in-Formation (individually): their final-rep slot (open, close, or which container condition they will speak from memory, with a story of holding it); a reminder that the covering movement will ask them to name their person aloud — decide the name before Wednesday (it was chosen in Lab 4; confirm it still holds); and one line of steel and warmth: *"You have done this every week since the fall. Wednesday you do it in front of everyone who loves you. Same container. More witnesses."*
 
 ## **Logistics pre-work**
 
@@ -135,7 +135,7 @@ Email to each Companion-in-Formation (individually): their final-rep slot (open,
 | --- | --- | --- |
 | Early in week | Emails to families and to each senior with their final-rep slot. | Lead Comp |
 | 3–5 days before | Team meeting: run sheet, sign-off confirmation, Lab date set, blessing review, grace protocol. | All Companions |
-| By Friday | Any unconfirmed sign-off handled privately, with hope, never left for Tuesday. | Lead Comp + parent |
+| By Friday | Any unconfirmed sign-off handled privately, with hope, never left for Wednesday. | Lead Comp + parent |
 | T-60 min | Team gathers. Room setup. Handouts placed. Final prayer for each senior by name. | All Companions |
 | T-30 min | Door opens. Families welcomed. | All Companions |
 | 6:30 | Session opens. | Lead Comp — then the seniors |
@@ -188,7 +188,7 @@ The heart of the gate. Container fluency — establishing and holding Safe, Pres
 
 If a senior freezes: the Lead Companion, calm and warm, from their seat: *"Take a breath. You have opened this container more times than anyone in this room but me. Start with Safe."* Give them the first word; they will find the rest — they almost always do.
 
-If they cannot continue: the Lead Companion stands, puts a hand on their shoulder, and tells the room the truth: *"Here is what you need to know. [Name] has opened or closed this container [eight, ten] times since October, under every condition a Tuesday can throw at a room. The gate this rite witnesses was passed weeks ago. Tonight has more witnesses than usual, and witnesses are heavy. [Name], stand with me and we will finish it together."* And they do, together, and the rite continues, and the freeze is never mentioned again — not in the blessings, not at dessert, not at the debrief in any tone but tenderness. A stumble is not a fail. The team decided this before the night, which is the only time such things can be decided.
+If they cannot continue: the Lead Companion stands, puts a hand on their shoulder, and tells the room the truth: *"Here is what you need to know. [Name] has opened or closed this container [eight, ten] times since October, under every condition a Wednesday can throw at a room. The gate this rite witnesses was passed weeks ago. Tonight has more witnesses than usual, and witnesses are heavy. [Name], stand with me and we will finish it together."* And they do, together, and the rite continues, and the freeze is never mentioned again — not in the blessings, not at dessert, not at the debrief in any tone but tenderness. A stumble is not a fail. The team decided this before the night, which is the only time such things can be decided.
 
 ## **Block 3 — The Word Over the Night (6:50–7:00, 10 min)**
 
@@ -212,7 +212,7 @@ If they cannot continue: the Lead Companion stands, puts a hand on their shoulde
 
 ## Prayer
 
-*"Father, You heard these seniors say yes in the fall, and You have been forming them every Tuesday since. Tonight we do in public what You have been doing in private. Confirm what You have started. Guard what we entrust. And let the generations in Your word keep unrolling through this room. Amen."*
+*"Father, You heard these seniors say yes in the fall, and You have been forming them every Wednesday since. Tonight we do in public what You have been doing in private. Confirm what You have started. Guard what we entrust. And let the generations in Your word keep unrolling through this room. Amen."*
 
 ## **Block 4 — The Three Rules Read Aloud (7:00–7:10, 10 min) — MOVEMENT TWO**
 

@@ -119,7 +119,7 @@ Naming the container often produces relief in applicants who have been in groups
 
 ‘Getting Started uses what we call kitchen-table language — specific, honest, slow. We don’t spiritualize. If something happened to you this week that mattered, we ask what specifically happened, not what God was teaching you through it. The specificity is what does the work.’
 
-If the applicant looks puzzled by this, briefly give one example: ‘Last week’s session, someone was telling us about being frustrated with their teenager. Instead of saying ‘the Lord is teaching me patience,’ they described the specific Tuesday afternoon when their teen slammed a door and what they wanted to say back. That’s the specificity. The Spirit does the patience work; we do the noticing.’ (Adapt example as appropriate.)
+If the applicant looks puzzled by this, briefly give one example: ‘Last week’s session, someone was telling us about being frustrated with their teenager. Instead of saying ‘the Lord is teaching me patience,’ they described the specific Wednesday afternoon when their teen slammed a door and what they wanted to say back. That’s the specificity. The Spirit does the patience work; we do the noticing.’ (Adapt example as appropriate.)
 
 ## And what Getting Started is NOT
 
@@ -133,7 +133,7 @@ After naming the three things, the Companion names three things Getting Started 
 
 Before closing Block 2, the Companion names the practical commitments:
 
-- Fifteen Tuesday evenings, 90 minutes each (Wk 14 is 120 minutes — the Family Commissioning). Thirteen run in the fall term; the final two land in January, after the Christmas break.
+- Fifteen Wednesday evenings, 90 minutes each (Wk 14 is 120 minutes — the Family Commissioning). Thirteen run in the fall term; the final two land in January, after the Christmas break.
 - About 15 minutes a day between sessions for a journal practice.
 - One pre-cohort conversation — this one. One Family Pre-Cohort Conversation Worksheet to complete with your pair partner the week before Wk 1.
 - After Getting Started, Going Deeper in the next series cycle is invited but not assumed. Many participants do Getting Started and stop there; that is honest and good. The architecture honors both continuing and not.

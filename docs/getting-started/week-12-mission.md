@@ -68,7 +68,7 @@ Week 1 named the four Connects. Weeks 2–4 were Self. Weeks 5–6 were Others. 
 
 Ephesians 2:10 is the architecture: the works are prepared. We do not invent them; we walk into them. The uphill mission is what we do with goal and plan. The downhill mission is what we are when we are most ourselves and most aligned with the Spirit. The downhill question is often the more formative — because the downhill is where the gifts already flow without effort, which is where what was prepared for us is most likely already operating.
 
-This is also the beginning of the series’ close. Tonight we open the question; next Tuesday the Rhythm week grounds what was opened and builds the long walk; then the sending, and the commissioning. The architecture is intentional.
+This is also the beginning of the series’ close. Tonight we open the question; next Wednesday the Rhythm week grounds what was opened and builds the long walk; then the sending, and the commissioning. The architecture is intentional.
 
 ## **Dependencies**
 
@@ -294,7 +294,7 @@ Each family cluster runs in parallel. The structure inside each cluster is ident
 
 *“Your Personal Heart Journal has Week 12 pages. Handout H12.3 is the practice card.”*
 
-*“Second — the road from here. Next Tuesday, Week 13, is the Rhythm week: we build the practices you will carry when the Tuesdays stop, and we finish tonight’s mission work. Then Week 14 is the family commissioning — bring your whole family, even family members who have not been here. Spouses, siblings, grandparents who can come — invite them. And Week 15 is the commissioning of our Companions-in-Formation — the seniors who have been leading us. That one is their night; come to witness it.”*
+*“Second — the road from here. Next Wednesday, Week 13, is the Rhythm week: we build the practices you will carry when the Wednesdays stop, and we finish tonight’s mission work. Then Week 14 is the family commissioning — bring your whole family, even family members who have not been here. Spouses, siblings, grandparents who can come — invite them. And Week 15 is the commissioning of our Companions-in-Formation — the seniors who have been leading us. That one is their night; come to witness it.”*
 
 *“For the Week 14 commissioning: come early. We start at 6:30 that week, not 7:00 — we extend the session by thirty minutes. Light food at 6:00. Details are coming in an email.”*
 
@@ -316,13 +316,13 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“What was named tonight in your cluster is yours. Carry it gently. The downhill answer you named will keep deepening across the week.”*
 
-*“If anything that surfaced tonight feels heavier than tonight could hold — if you noticed a place you have been spending energy on shadow mission rather than real mission, or if mid-life vocational grief surfaced — please reach out. The team is walking with you, especially this week, especially before next Tuesday.”*
+*“If anything that surfaced tonight feels heavier than tonight could hold — if you noticed a place you have been spending energy on shadow mission rather than real mission, or if mid-life vocational grief surfaced — please reach out. The team is walking with you, especially this week, especially before next Wednesday.”*
 
 *“Aaronic blessing. Hands up if you want.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“See you Tuesday — 6:30 — with your family.”*
+*“See you Wednesday — 6:30 — with your family.”*
 
 # **One Band, Whole Families: Notes for Teens and Parents**
 
@@ -335,7 +335,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 - Gifts and Passions inventory uses full prompts (where you come most alive, what others tell you you do well, what you would do without being paid). See Handout H12.1 (teen version).
 - Teens are the most likely to have already constructed a polished college-essay version of their gifts. Push for the unpolished, downhill version.
 - Watch for: the teen with a mission statement. Affirm; ask the harder question: “When you’re not running that mission — just being you — what does the room get?”
-- Watch for: the teen facing college decisions and wanting tonight to give vocational direction. Re-frame: “Tonight is bigger than what you study. What will be true of you on a Tuesday afternoon ten years from now? That’s the downhill question.”
+- Watch for: the teen facing college decisions and wanting tonight to give vocational direction. Re-frame: “Tonight is bigger than what you study. What will be true of you on a Wednesday afternoon ten years from now? That’s the downhill question.”
 - Watch for: the teen whose downhill answer reveals shadow mission (gifts directed inward, performance-shaped). The Cluster Companion names this gently if it surfaces clearly: “What I want to bless is the gift. The shadow direction is yours to keep watching in Going Deeper.”
 - Watch for: the teen who can’t name a single gift, or who performs modesty (“I don’t really have any gifts”). The cluster is the gift here — and family first: “[Parent’s name], what have you seen?” A parent’s specific word often lands where anyone else’s cannot. Affirm: “Tonight isn’t bragging. It’s noticing what God put in.”
 

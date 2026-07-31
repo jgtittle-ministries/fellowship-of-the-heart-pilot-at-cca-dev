@@ -1,6 +1,6 @@
 # Getting Started
 
-*The Four Connects, walked over fifteen Tuesday evenings.*
+*The Four Connects, walked over fifteen Wednesday evenings.*
 
 ![A table set, before the cohort arrives.](images/landing-table.jpg)
 
@@ -63,7 +63,7 @@ Every file follows the same structure:
 - **Session at a Glance** — why this session, this week; dependencies on prior weeks; the Connect focus.
 - **Pre-Work** for the Companion team and, in some weeks, for participants.
 - **Materials and Setup** — checklist, room arrangement, pre-session preparation timeline.
-- **Detailed Run Sheet** — minute-by-minute flow for the 90 minutes (120 for Week 10).
+- **Detailed Run Sheet** — minute-by-minute flow for the 90 minutes (120 for Week 14).
 - **Block-by-Block Scripts and Notes** — what the Lead Companion may want in front of them, knowing the live room will ask for something slightly different than the page.
 - **Between-session practice** — the daily and weekly rhythm participants carry into the week.
 - **IJH source** — where the material lives in *Intentional Journey of the Heart*, for the Companion who wants to read further.
@@ -76,9 +76,9 @@ By Week 10 you will not need the page. By the end of *Going Out* you may be writ
 
 ## Cadence and logistics
 
-- **Length.** Weeks 1–9 are 90 minutes. Week 10 is 120 minutes (family commissioning night).
-- **Companion team.** A Lead Companion plus a Co-Companion team. Weeks 2–9 use a split-and-merge structure — shared opening and teaching, then SPLIT into cohort circles (junior, senior, parent) for the experiential center, MERGE for closing. Week 1 and Week 10 stay in the shared circle the entire session.
-- **Cohort size.** Sized to support cohort circles of 4–5 in the split weeks.
+- **Length.** Weeks 1–13 and 15 are 90 minutes. Week 14 is 120 minutes (family commissioning night).
+- **Companion team.** A Lead Companion plus Cluster Companions. Most working weeks share opening and teaching whole-room, then move into FAMILY CLUSTERS — two or three whole families with a Cluster Companion, own family always together, parents first on sharing rounds — and MERGE for the Leader Feedback Round and closing. Weeks 1, 14, and 15 stay whole-room the entire session; any week stays whole-room when attendance is about ten or fewer.
+- **Cohort size.** Three to six families in the v1.3 pilot — roughly six to fifteen participants; one breakout room when the room clusters.
 - **Participants.** Parent-teen pairs, individuals, and households (see [`../index.md`](../index.md) for the wider fit).
 
 ---

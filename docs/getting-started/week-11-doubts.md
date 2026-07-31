@@ -170,7 +170,7 @@ Pairs matter tonight more than in any prior session. The Cluster Companion pre-c
 | 8:08–8:17 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
 | 8:17–8:22 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. |
 | 8:22–8:27 | Block 9: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing. |
-| 8:27–8:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Mention next Tuesday closes Getting Started. |
+| 8:27–8:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Mention next Wednesday closes Getting Started. |
 
 # **Block-by-Block: Scripts and Notes**
 
@@ -339,7 +339,7 @@ The Cluster Companion calls switches at the seven-minute mark. “Switch when re
 
 *“For the two or three with the most hesitation — write a sentence about what the doubt is, specifically. Then sit with it. You can run the practice on yourself if you want to. You can also just notice. The noticing alone changes things.”*
 
-*“You will not turn this in. The team will not see it. It is yours. Bring it to next Tuesday only if it has shaped how you think about your week. The list itself stays with you.”*
+*“You will not turn this in. The team will not see it. It is yours. Bring it to next Wednesday only if it has shaped how you think about your week. The list itself stays with you.”*
 
 ## **Block 9 — The Leader Feedback Round (8:22–8:27, 5 min)**
 
@@ -359,13 +359,13 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“If anything that surfaced is heavier than what tonight could hold, please reach out. The team is walking with you.”*
 
-*“One note: next Tuesday is Week 12 — we turn outward to Mission. After that comes the Rhythm week, and then the two closing gatherings: the family commissioning and the commissioning of our Companions-in-Formation. Plan to bring your whole family to those last two. We are heading toward the sending.”*
+*“One note: next Wednesday is Week 12 — we turn outward to Mission. After that comes the Rhythm week, and then the two closing gatherings: the family commissioning and the commissioning of our Companions-in-Formation. Plan to bring your whole family to those last two. We are heading toward the sending.”*
 
 *“Aaronic blessing. Hands up if you want.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“See you Tuesday.”*
+*“See you Wednesday.”*
 
 # **One Band, Whole Families: Notes for Teens and Parents**
 
@@ -419,7 +419,7 @@ Companion team meets the day after Week 11 for a 45-minute debrief.
 - Cluster Companions report at least one specific, honest doubt named in their cluster — something the participant probably had not said aloud before.
 - At least one teen heard their own parent name a real doubt, and the pair held — no fixing, no alarm, just the naming and the re-read.
 - The merge one-word landings were varied and specific — not all positive.
-- At least one participant left able to say “I know what I want to bring to next Tuesday” about their own faith.
+- At least one participant left able to say “I know what I want to bring to next Wednesday” about their own faith.
 - Tears appeared somewhere; tonight they are appropriate.
 
 ### **Signs the session did not work as well as it could have**

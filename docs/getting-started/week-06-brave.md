@@ -114,7 +114,7 @@ This is the load-bearing pre-work of Week 6, and it happens in the week before t
 
 1. **Parents go first.** In your cluster, after the Companion’s demo, the parents confess before the teens — and one parent in each cluster is asked, now, to open. Your teen will watch you do the thing before they are asked to do it. That is the gift, and it is the design.
 2. **The rails.** Your own struggles: yes — a real place, named plainly, is exactly right. The marriage’s raw material: no — grievances, its private history, anything your spouse would need to consent to, stays out of the cluster. Anything about your teen: never without asking the teen privately first — and never as your confession.
-3. **The escape valve.** If the truest place you carry is bigger than a family cluster can hold — an affair, an addiction, a concealment — do not bring it to the circle with your teen present. Bring it to the pastoral 1:1, before or after Tuesday. Name a smaller true place in the cluster; there is always one. The team’s job is to walk you toward freedom, not to manage your secret.
+3. **The escape valve.** If the truest place you carry is bigger than a family cluster can hold — an affair, an addiction, a concealment — do not bring it to the circle with your teen present. Bring it to the pastoral 1:1, before or after Wednesday. Name a smaller true place in the cluster; there is always one. The team’s job is to walk you toward freedom, not to manage your secret.
 
 ## Team pre-work
 
@@ -333,7 +333,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Go gently. See you Tuesday.”*
+*“Go gently. See you Wednesday.”*
 
 *After the blessing, do not pack up. Stay accessible for at least ten minutes. This session more than any other will produce post-session conversations.*
 

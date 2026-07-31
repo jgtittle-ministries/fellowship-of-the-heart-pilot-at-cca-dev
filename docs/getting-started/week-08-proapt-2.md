@@ -34,7 +34,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Center.** The Companion-in-Formation leads the whole room through PROAPT on Mark 2:1–12 — all six steps, timed, from their facilitation card. Then family pairs — parent and teen from the same family by default — work in family clusters as in Week 7, with the Tell step shared back into the cluster, a parent telling first.
 
-**Between-session practice.** Daily PROAPT continues (the journal Week 7–8 pages). Plus: complete the Mid-Series Pulse and bring it back Tuesday.
+**Between-session practice.** Daily PROAPT continues (the journal Week 7–8 pages). Plus: complete the Mid-Series Pulse and bring it back Wednesday.
 
 **IJH source.** Vol 1 Exp 1 (Word→Hearing→Faith); Vol 2 Seventh Exploration (PROAPT and the experiential processes); Handbook Section 11 (the second running).
 
@@ -94,7 +94,7 @@ God. The second of the God-connection sessions. Weeks 9–11 (the Garden twice, 
 
 ## **Personal pre-work**
 
-Every Companion continues daily PROAPT. The midpoint is where the team's own practice quietly thins — and the teens will know. Be a current practitioner on Tuesday night, not a supervisor of one.
+Every Companion continues daily PROAPT. The midpoint is where the team's own practice quietly thins — and the teens will know. Be a current practitioner on Wednesday night, not a supervisor of one.
 
 The Lead Companion PROAPTs Mark 2:1–12 at least twice in the week before the session — not to lead it, but to know its terrain well enough to coach the senior on it.
 
@@ -160,7 +160,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 | 7:32–7:34 | Block 5: Bridge to the clusters and pair structure | Shared | Comp-in-Formation | Family pairs restated. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
 | 7:34–8:02 | Block 6: PROAPT in family pairs in family clusters | Clusters → pairs | Cluster Comps | As Week 7. Switch reader/listener at 13 min. |
 | 8:02–8:12 | Block 7: Tell step — sharing in the cluster | Clusters | Cluster Comps | Each person tells the cluster ONE thing they heard. A parent opens (arranged beforehand). |
-| 8:12–8:19 | Block 8: Merge, Mid-Series Pulse, and between-session | Shared | Lead Comp | Pulse distributed and framed. Bring it back Tuesday. |
+| 8:12–8:19 | Block 8: Merge, Mid-Series Pulse, and between-session | Shared | Lead Comp | Pulse distributed and framed. Bring it back Wednesday. |
 | 8:19–8:24 | Block 9: The Leader Feedback Round | Shared | Lead Comp | Merged round (Handbook 11.7): senior first, adult second, then the room by consent. |
 | 8:24–8:30 | Block 10: Closing container | Shared | Comp-in-Formation | Container reaffirmed. Aaronic blessing. |
 
@@ -284,7 +284,7 @@ Everyone back in the single circle.
 
 *"Second — this."* (Hold up H8.3; hand the stack around.) *"We are halfway through the Getting Started series. We want to know what is working and what is not so we can use the second half well. This is the Mid-Series Pulse: one page, three questions, five minutes of your time at home. Be honest. The team uses these to adjust pacing, depth, and emphasis for Weeks 9 through 15."*
 
-*"You can sign it or leave it anonymous — your choice; there's a line at the bottom you can skip. Fold it, bring it back Tuesday, drop it in the box at the door. Every one of these gets read."*
+*"You can sign it or leave it anonymous — your choice; there's a line at the bottom you can skip. Fold it, bring it back Wednesday, drop it in the box at the door. Every one of these gets read."*
 
 *"Parents and teens each fill out your own. Don't compare answers unless you want to — although honestly, that might be a good conversation in the car."*
 
@@ -310,13 +310,13 @@ Two or three voices on each question is plenty. The leaders receive without defe
 
 ## Companion-in-Formation's script
 
-*"One thing before we close. Seven weeks ago none of us had done this. Tonight we ran the whole practice ourselves — and next Tuesday we go deeper, into the Garden. What we practiced tonight is the skill the Garden depends on: hearing Him. Keep the daily practice alive this week. It's the hinge."*
+*"One thing before we close. Seven weeks ago none of us had done this. Tonight we ran the whole practice ourselves — and next Wednesday we go deeper, into the Garden. What we practiced tonight is the skill the Garden depends on: hearing Him. Keep the daily practice alive this week. It's the hinge."*
 
 *"Final blessing. Hands up."*
 
 *"The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
 
-*"PROAPT one passage tomorrow. Pulse in the box Tuesday. See you then."*
+*"PROAPT one passage tomorrow. Pulse in the box Wednesday. See you then."*
 
 # **Notes for Teens and Parents**
 
@@ -481,7 +481,7 @@ Look at the card. Say the next one-liner. The steps carry you — that is what t
 
 **Handout H8.3 — The Mid-Series Pulse**
 
-*One page. Three questions. Fold it and drop it in the box at the door next Tuesday.*
+*One page. Three questions. Fold it and drop it in the box at the door next Wednesday.*
 
 **We are halfway through the Getting Started series. We want to know what is working and what is not so we can use the second half well. Be honest. The team uses these to adjust pacing, depth, and emphasis.**
 

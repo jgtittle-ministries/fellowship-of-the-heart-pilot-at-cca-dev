@@ -193,7 +193,7 @@ The first of the two blocks the Lead Companion leads tonight, so the senior's ar
 
 ## Script (Lead Companion)
 
-*"Before we walk forward, we finish last week. Some of you named a downhill answer to your cluster; a few of you weren't finished — and a week of living with the question usually deepens it. If your downhill answer wasn't finished last Tuesday, or it has changed shape since: one sentence, now, to the room. [Parent's name], would you start us?"*
+*"Before we walk forward, we finish last week. Some of you named a downhill answer to your cluster; a few of you weren't finished — and a week of living with the question usually deepens it. If your downhill answer wasn't finished last Wednesday, or it has changed shape since: one sentence, now, to the room. [Parent's name], would you start us?"*
 
 *(A parent opens the round — arranged with that parent before the session, never a cold call on a teen. Teens choose their own depth after; pass-anytime holds. Receive each. No commentary — the answers carry forward to the Week 14 commissioning.)*
 
@@ -211,7 +211,7 @@ Read the passage aloud. Slow. The teaching is short and it frames the build.
 
 • Galatians 6:9 has a condition in it, and the condition is not "if we feel it." It is "if we do not give up." Paul assumes the weariness. The verse is not for people who never get tired; it is written *to* people who get tired, which is all of us. The reaping is tied to the season, and the season is God's — our part is the not-giving-up. That is what a rhythm is for. Nobody white-knuckles their way through years; people with a rhythm walk through years.
 
-• Here is the plain truth about the next few weeks. The break is coming. For twelve weeks these practices have been carried by this room — by Tuesday, by these faces. Over the break there is no Tuesday. What carries the practices across a gap is not momentum; it is a rhythm you built on purpose. So we build it tonight, before the gap, not after it.
+• Here is the plain truth about the next few weeks. The break is coming. For twelve weeks these practices have been carried by this room — by Wednesday, by these faces. Over the break there is no Wednesday. What carries the practices across a gap is not momentum; it is a rhythm you built on purpose. So we build it tonight, before the gap, not after it.
 
 ## **Block 4 — The Rhythm Card Introduced (7:25–7:30, 5 min)**
 
@@ -257,7 +257,7 @@ Merge to the single circle. The senior hands the room to the Lead Companion and 
 
 *"Why would a parent dare ask these? Because of a prayer this room already knows. In Weeks 3 and 4 we prayed Psalm 139 — 'Search me, O God' — and we meant it vertically: Lord, look at what I cannot see about myself. Psalm 139:23–24 asked of God is worship. Tonight the same verse turns horizontal. The people who live with you have been looking at you, up close, for years — they hold answers about you that you cannot reach any other way. Asking your own family to search you is the bravest form of the same prayer. And James 1:19 is the whole method for what comes next: quick to hear, slow to speak."*
 
-*"Now — here is something you may not have noticed this room training you to do. Every single week since September, whoever led the evening has stood up at the end and asked this room, 'what would I do differently?' — and then received your answers with nothing but 'thank you.' No explaining. No defending. You have watched adults do that every Tuesday for thirteen weeks, until it stopped looking remarkable. Hear me: that was never just a closing ritual. That was a rehearsal. The four questions are that same posture, taken home, at family depth. The reason question three is survivable at a kitchen table is that you have already watched, week after week, what it looks like to hear a hard answer and say only 'thank you.'"*
+*"Now — here is something you may not have noticed this room training you to do. Every single week since September, whoever led the evening has stood up at the end and asked this room, 'what would I do differently?' — and then received your answers with nothing but 'thank you.' No explaining. No defending. You have watched adults do that every Wednesday for thirteen weeks, until it stopped looking remarkable. Hear me: that was never just a closing ritual. That was a rehearsal. The four questions are that same posture, taken home, at family depth. The reason question three is survivable at a kitchen table is that you have already watched, week after week, what it looks like to hear a hard answer and say only 'thank you.'"*
 
 *"And I have not asked you to do anything I have not done."*
 

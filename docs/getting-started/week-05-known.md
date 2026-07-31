@@ -314,7 +314,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“See you Tuesday.”*
+*“See you Wednesday.”*
 
 # Inside the Clusters: Teens and Parents Together
 

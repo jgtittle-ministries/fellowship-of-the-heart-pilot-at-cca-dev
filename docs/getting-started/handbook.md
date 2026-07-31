@@ -379,13 +379,13 @@ This one-page gate must be completed and **signed by the Lead Companion and the 
 
 **Must be true before Week 1 — blocking:**
 
-- [ ] Pastoral / clinical backup **named and on-call for every Tuesday**. Name: **[fill in]** · Phone: **[fill in]** · After-hours protocol: **[fill in]**
+- [ ] Pastoral / clinical backup **named and on-call for every Wednesday**. Name: **[fill in]** · Phone: **[fill in]** · After-hours protocol: **[fill in]**
 - [ ] The **Crisis Quick-Reference Card** and the **referral list, Categories 1–5** (crisis / reporting rows) are populated with **verified local Warrenton numbers**. (Categories 6–7 may fill in progressively.) Verified by: **[fill in]** · Date: **[fill in]**
 - [ ] **Every Companion** has worked through Section 6 with the backup person and has **signed CCA’s child-protection policy**. Confirmed by: **[fill in]**
 - [ ] **Virginia mandatory-reporting review closed** — Section 6 reviewed against current Virginia law and CCA policy by qualified counsel / CCA leadership. Reviewer: **[fill in]** · Date: **[fill in]**
 - [ ] The participant safety footer’s **“Your Cohort Companion: ____”** line is filled with a real name + number on every printed copy. Filled by: **[fill in]**
 
-*Tuesday-by-Tuesday rule:* the pastoral / clinical backup is re-confirmed at the team pre-meet **48 hours before each Tuesday**. If a Tuesday’s backup is **not** confirmed, that week’s deep-work block runs in its lighter, diagnostic-only form or is postponed — it does not run unbacked. (No clinician is required physically in the room.)
+*Wednesday-by-Wednesday rule:* the pastoral / clinical backup is re-confirmed at the team pre-meet **48 hours before each Wednesday**. If a Wednesday’s backup is **not** confirmed, that week’s deep-work block runs in its lighter, diagnostic-only form or is postponed — it does not run unbacked. (No clinician is required physically in the room.)
 
 **Verify at start, re-check annually — maintenance:**
 
@@ -463,7 +463,7 @@ Examples: a teen who shares a deep loss; a parent who breaks down naming a marri
 Sometimes a practice — the story circle, the confession practice, the Garden — touches something in a participant faster and harder than they can hold: tears that turn to shaking, a blank frozen look, breathing gone short, a participant who seems to leave the room behind their own eyes. This is not failure — theirs or yours. It is the signal to stop the practice for that person and help their body settle. Five moves, in order:
 
 1. **Stop.** Plain, directive words: *“Let’s stop here. You don’t have to go any further.”* Do not ask open-ended questions — *“what are you feeling?”* sends them back in. Statements bring them out.
-2. **Come back to the room.** Feet flat on the floor, eyes open. *“Look at me. You’re at CCA. It’s Tuesday evening. You’re safe. I’m right here.”* Name three ordinary things in the room together if needed.
+2. **Come back to the room.** Feet flat on the floor, eyes open. *“Look at me. You’re at CCA. It’s Wednesday evening. You’re safe. I’m right here.”* Name three ordinary things in the room together if needed.
 3. **Breathe and anchor.** Slow breath, the out-breath longer than the in. A hand flat on the table; a cold glass of water. The body settles first; words come later.
 4. **Do not resume.** That participant is done with the practice tonight — not as a penalty, as care. They stay in the circle if they want or sit apart if they want; a Companion stays close either way. Do not restart the exercise with them “now that they’re okay.”
 5. **Support before they go.** Nobody leaves activated (below). The Cohort Companion checks in before they leave the building; the Lead Companion follows up within 48 hours; and if anything surfaced that touches the limits-of-confidentiality list, the Section 6 protocols run as written.
@@ -482,7 +482,7 @@ Every response in this section reduces to four levels. The card version:
 |---|---|---|
 | **1 — Hold and note** | Heavy-but-not-crisis moments; a practice stopped and settled well | Held in the room; named at the team debrief that night |
 | **2 — Lead Companion, within 24 hours** | Anything that stopped a practice; any follow-up owed a family; a pattern a Companion is starting to see | The Lead carries the follow-up list |
-| **3 — Pastoral / clinical backup, same evening** | Settling that doesn’t come; disclosures at or near the limits-of-confidentiality list; any Companion’s honest “this is past us” | The backup is on-call every Tuesday for exactly this call |
+| **3 — Pastoral / clinical backup, same evening** | Settling that doesn’t come; disclosures at or near the limits-of-confidentiality list; any Companion’s honest “this is past us” | The backup is on-call every Wednesday for exactly this call |
 | **4 — Emergency services, now** | Immediate danger to life or safety: **911**. Acute suicidal crisis: **988** plus the Section 6 protocol. Abuse: **CPS** per the mandatory-reporting protocol | Level 4 is never delayed to consult Levels 2–3 first |
 
 A Companion is never wrong for escalating one level too high. The only error is escalating too late.
@@ -1282,7 +1282,7 @@ The journal will be with you for the next year. Whether or not you continue with
 
 Monday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Tuesday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Wednesday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Wednesday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

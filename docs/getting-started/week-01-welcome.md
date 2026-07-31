@@ -198,7 +198,7 @@ Watch for: parents who try to keep their phones for “emergencies.” If asked,
 
 “So there are four. (Point to the diagram.) Connecting with Self. Connecting with Others. Connecting with God. Connecting with Mission. They aren’t separate topics. They’re a sequence. You can’t connect with others until you’re honest with yourself. You can’t connect with God in a way that goes beyond performance until you’re honest with yourself and have at least one person who knows your interior life. And you can’t live the mission God prepared for you until the first three connections are real.
 
-“Over this year together, we’re going to walk that sequence on purpose. Tonight is just the beginning. The next three sessions are about Self. Two sessions after that, about Others. Five sessions after that, about God — including learning to hear Him, which we’ll practice until it’s yours. Then Mission. Then a session to build the rhythm you’ll carry when the Tuesdays end. Then we send each other out.
+“Over this year together, we’re going to walk that sequence on purpose. Tonight is just the beginning. The next three sessions are about Self. Two sessions after that, about Others. Five sessions after that, about God — including learning to hear Him, which we’ll practice until it’s yours. Then Mission. Then a session to build the rhythm you’ll carry when the Wednesdays end. Then we send each other out.
 
 “That’s the map. Don’t worry about memorizing it. These fifteen sessions will teach it to you.”
 
@@ -431,7 +431,7 @@ The Companion team meets the day after Week 1 for a 30-minute debrief. Use these
 
 - Anyone who said something heavier than expected during “one true sentence” — gentle 1:1 contact within 48 hours. Two adults present if a teen.
 - Any teen who froze and could not say a sentence at all — informal contact, not formal. Sometimes a teen just needs to know you remember they were there.
-- Any parent who seemed defensive or dismissive — informal contact from the parent Co-Companion before Week 2. “How did Tuesday land for you?”
+- Any parent who seemed defensive or dismissive — informal contact from the parent Co-Companion before Week 2. “How did Wednesday land for you?”
 
 # Handouts
 

@@ -12,7 +12,7 @@ title: "Home"
 
 # Fellowship of the Heart — CCA Pilot (DEV PREVIEW)
 
-*Three series, walked across a year of Tuesday evenings.*
+*Three series, walked one weekly evening at a time.*
 
 ![Light through autumn woods.](images/home-path.jpg)
 
@@ -60,7 +60,7 @@ The lesson plans are written for the Companion team. They are detailed on purpos
 
 - **Series length.** Getting Started is 15 weeks; Going Deeper and Going Out are 12 weeks each. With breaks between series, the full pilot runs across a year and a half.
 - **Session length.** Standard sessions are 90 minutes. Specific commissioning and family-night sessions extend to 120 minutes — flagged in each lesson plan.
-- **Companion team.** A Lead Companion plus a Co-Companion team. Most working weeks use a split-and-merge structure — shared opening and teaching, SPLIT into cohort circles (junior, senior, parent) for the experiential center, MERGE for closing.
+- **Companion team.** A Lead Companion plus a Co-Companion team. In Getting Started (the v1.3 family-integrated pilot edition), working weeks share opening and teaching whole-room, move into FAMILY CLUSTERS — whole families together, parents first on sharing practices — for the experiential center, and merge for closing. Going Deeper and Going Out retain the split-and-merge structure with age-and-role circles.
 - **Participants.** Parent–teen pairs, individuals, and households. See each series landing page for the specific fit of that series.
 
 ---

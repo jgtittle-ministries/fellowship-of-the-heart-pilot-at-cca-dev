@@ -179,7 +179,7 @@ Tonight opens even quieter than Week 9 did. The room knows where it is going. Le
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight we go back to the garden. Most of you have been back already this week — some once, some three times, some not at all, and all of that is fine. Tonight is not a rerun of last Tuesday. The first visit finds the garden. The second visit begins the tending.”*
+*“Tonight we go back to the garden. Most of you have been back already this week — some once, some three times, some not at all, and all of that is fine. Tonight is not a rerun of last Wednesday. The first visit finds the garden. The second visit begins the tending.”*
 
 *“One thing is different tonight, and I want to name it simply. The guided walk-through will be read by [name] — one of our seniors, who has been preparing for this, and who has been back to their own garden this week to get ready. The words are the same words. They will read from the card, slowly, the same way I did — and we stay together as one room for the walk-through. When it is finished, the room passes back to me for the journaling, and then we move into our family clusters for the sharing, same as last week. Nothing about the container changes. What is said in your cluster stays in your cluster. Nothing is required — not even doing the exercise.”*
 
@@ -193,7 +193,7 @@ Name the senior once, warmly, and move on. Do not build it up — a spotlight di
 
 ## Script
 
-*“Before we go back in: anyone want to say one sentence about a garden visit this week? Not what happened in it — just how the going was. ‘I went twice and it was quieter than Tuesday.’ ‘I meant to and didn’t.’ ‘I went once and it was hard.’ One sentence.”*
+*“Before we go back in: anyone want to say one sentence about a garden visit this week? Not what happened in it — just how the going was. ‘I went twice and it was quieter than Wednesday.’ ‘I meant to and didn’t.’ ‘I went once and it was hard.’ One sentence.”*
 
 *(A parent you arranged with before the session offers the first sentence — never a cold call on a teen. Then take 3–4 more voluntary contributions. Receive each one identically.)*
 

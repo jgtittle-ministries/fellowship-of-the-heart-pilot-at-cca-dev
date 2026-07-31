@@ -245,7 +245,7 @@ Two minutes. Move quickly through the cards, pray, and move to the clusters. Do 
 
 ## Script
 
-*“Okay. (Hold up the card.) Parents, you have the storytelling card; everyone has the listener’s card. Teens, your own storytelling card goes home with you tonight — next Tuesday is your night. Three things to remember.”*
+*“Okay. (Hold up the card.) Parents, you have the storytelling card; everyone has the listener’s card. Teens, your own storytelling card goes home with you tonight — next Wednesday is your night. Three things to remember.”*
 
 *“First: the question is one question — tell the story of how you got here, and what has shaped you. There’s no list to get through, and the depth is yours to choose. The card has a few starting places in case you need one — use any of them, or none.”*
 
@@ -318,15 +318,15 @@ This is the first session in which the practice is explicitly relational and exp
 
 ## Script
 
-*“One practice between now and next Tuesday. Each family takes one of these handouts.” (Hold up H3.5.)*
+*“One practice between now and next Wednesday. Each family takes one of these handouts.” (Hold up H3.5.)*
 
-*“Here’s what it is. Sometime between now and Tuesday, each parent and teen pair sits together for twenty minutes — not in the car, not at dinner, not while the TV is on. At a table or on a porch. Phones away.”*
+*“Here’s what it is. Sometime between now and Wednesday, each parent and teen pair sits together for twenty minutes — not in the car, not at dinner, not while the TV is on. At a table or on a porch. Phones away.”*
 
 *“One of you walks the other through the footprints question. Just that one. Where did you grow up, who shaped you, what places and people made you who you are. Five minutes telling. The other person listens, asks one or two follow-up questions, and at the end says one sentence: ‘What I love about your footprints is...’”*
 
 *“Then swap. The other person tells their footprints, the first person listens and blesses.”*
 
-*“Two rules. The teen does not have to disclose anything they aren’t ready to say — teens, your telling night is next Tuesday, and this is a gentle warm-up for it. The parent does not turn this into a lecture or a teaching moment. We are practicing what we did tonight, in our own homes, with the most important relationship in this room.”*
+*“Two rules. The teen does not have to disclose anything they aren’t ready to say — teens, your telling night is next Wednesday, and this is a gentle warm-up for it. The parent does not turn this into a lecture or a teaching moment. We are practicing what we did tonight, in our own homes, with the most important relationship in this room.”*
 
 *“The handout has the questions and the rules in writing. Take one per family.”*
 
@@ -354,7 +354,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Go gently this week. We’re here. See you Tuesday.”*
+*“Go gently this week. We’re here. See you Wednesday.”*
 
 *After the blessing, do not pack up immediately. Stay accessible for ten minutes. Some participants will want to talk. Some parents will want a minute alone with you. Make yourself available. The work after the closing is sometimes the work.*
 
@@ -379,7 +379,7 @@ Parents have the hardest task tonight. They have to tell true stories with their
 ## Adjustments
 
 - Storytelling card carries the single story question (see Handout H3.3). Story turns are 5–7 minutes.
-- Frame at the start: “Your teen is in the circle with you. The most generous thing you can do for them tonight is be honest at a depth they can receive. They will know if you are tidying — and next Tuesday, when it is their turn, they will tell at the depth you told tonight.”
+- Frame at the start: “Your teen is in the circle with you. The most generous thing you can do for them tonight is be honest at a depth they can receive. They will know if you are tidying — and next Wednesday, when it is their turn, they will tell at the depth you told tonight.”
 - Any parent whose story names family events their teen has not yet been handed talks with the Lead Companion before tonight. Some weight belongs in a different room first. This was planned in pre-work; hold the plan.
 - Watch for the over-disclosing parent — the one who turns the circle into a confession. Affirm what they said and gently time-bound. “Thank you for trusting us. Let’s pause and let your circle bless you, and we’ll honor what you said by not pulling more out tonight.”
 - Watch for the parent who sermonizes — the parent who turns their story into a lesson for the room. Affirm the experience and gently invite the personal: “What did that cost you, specifically?”
@@ -446,7 +446,7 @@ Companion team meets the day after Week 3 for a 45-minute debrief. Week 3 debrie
 
 - Anyone who disclosed crisis-level material — within 24 hours per Section 6 protocol.
 - Any teen who heard their parent surface something heavy — this year the family heard it together, and home may be tender this week. The team can pray and watch, and the Cluster Companion confirms the teen left settled.
-- Any teen who went quiet after their parent’s telling, and any parent who stayed guarded in their cluster. Brief, warm, no pressure check-in: “How did Tuesday land for you?”
+- Any teen who went quiet after their parent’s telling, and any parent who stayed guarded in their cluster. Brief, warm, no pressure check-in: “How did Wednesday land for you?”
 - Anyone whose Cluster Companion noticed a moment they want the Lead Companion aware of.
 
 ### Team prayer at the close of the debrief
@@ -464,7 +464,7 @@ Four handouts for Week 3. Each is on its own page below. Print as needed for you
 
 **Handout H3.2 — Story-Telling Card (Teen)**
 
-*Your telling night is Week 4 — next Tuesday you’ll have about six or seven minutes to tell a piece of your story to your cluster. Tonight you watched the form; this card goes home with you so you can begin. The question below is a frame, not a script. You choose the depth. Be specific where you would normally generalize.*
+*Your telling night is Week 4 — next Wednesday you’ll have about six or seven minutes to tell a piece of your story to your cluster. Tonight you watched the form; this card goes home with you so you can begin. The question below is a frame, not a script. You choose the depth. Be specific where you would normally generalize.*
 
 ## The question
 
@@ -489,7 +489,7 @@ Four handouts for Week 3. Each is on its own page below. Print as needed for you
 
 **Handout H3.3 — Story-Telling Card (Parent)**
 
-*Tonight you have about six or seven minutes to tell a piece of your own story to your family cluster — other parents, other teens, and your own teen, listening. The most generous thing you can do for them tonight is to be honest at a depth they can receive, because the depth they tell at next Tuesday will be the depth you tell at tonight.*
+*Tonight you have about six or seven minutes to tell a piece of your own story to your family cluster — other parents, other teens, and your own teen, listening. The most generous thing you can do for them tonight is to be honest at a depth they can receive, because the depth they tell at next Wednesday will be the depth you tell at tonight.*
 
 ## The question
 
@@ -552,7 +552,7 @@ Brief is better than long. One or two sentences each. The teller needs to receiv
 
 *Between-session practice for parent-and-teen pairs*
 
-*Once between now and next Tuesday, each parent and teen pair sits together for twenty minutes and walks each other through the footprints question — the places and people that shaped you.*
+*Once between now and next Wednesday, each parent and teen pair sits together for twenty minutes and walks each other through the footprints question — the places and people that shaped you.*
 
 ### How it works
 
@@ -574,7 +574,7 @@ Brief is better than long. One or two sentences each. The teller needs to receiv
 
 ## For the teen
 
-- Tell what you are willing to tell — not necessarily everything. Your telling night in the club is next Tuesday; this is a gentle practice run at home first.
+- Tell what you are willing to tell — not necessarily everything. Your telling night in the club is next Wednesday; this is a gentle practice run at home first.
 - Listen the way your cluster listened to your parent tonight. That is real practice.
 - If a question arises that is hard to answer in front of your parent, say so: “I don’t want to answer that one.” That is honest, and it is allowed.
 

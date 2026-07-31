@@ -67,7 +67,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## **Why this session, this week**
 
-Fourteen Tuesdays ago this room was a cohort of strangers. Tonight it is a community that has done specific spiritual work together — the soil of the heart, telling the story, being known and knowing, confession and restoration, hearing God in scripture, the garden of the heart, naming the doubts, walking into what was prepared. The series is a complete arc.
+Fourteen Wednesdays ago this room was a cohort of strangers. Tonight it is a community that has done specific spiritual work together — the soil of the heart, telling the story, being known and knowing, confession and restoration, hearing God in scripture, the garden of the heart, naming the doubts, walking into what was prepared. The series is a complete arc.
 
 Tonight is the integration. The four Connects come together not as a curriculum but as a pattern of life, witnessed in front of family. The commissioning matters because it is the move from program to life: what was learned in this room now becomes how a family lives, with the community that walked Getting Started bearing witness.
 
@@ -91,7 +91,7 @@ All four. Self provides each participant’s known interior; Others provides the
 
 ## **Personal pre-work**
 
-Each Companion writes their own commissioning blessing for one specific person in their life this week — a child, a spouse, a brother or sister, a friend the team is walking with. Specific. Witnessed. Three sentences maximum. Speak it aloud to that person before Tuesday if you can.
+Each Companion writes their own commissioning blessing for one specific person in their life this week — a child, a spouse, a brother or sister, a friend the team is walking with. Specific. Witnessed. Three sentences maximum. Speak it aloud to that person before Wednesday if you can.
 
 The point is not to rehearse a tool. The point is to let the form get into your bones before you teach it. The teens will not be moved by a teaching about commissioning; they will be moved by a team that is visibly doing it themselves.
 
@@ -121,7 +121,7 @@ The team sends an email to all families one week before Week 14 with the followi
 
 ## Email content (template)
 
-*“Dear families: Next Tuesday is Week 14 — the Family Commissioning. (One gathering follows it: the Week 15 commissioning of our Companions-in-Formation.) Please plan as follows.”*
+*“Dear families: Next Wednesday is Week 14 — the Family Commissioning. (One gathering follows it: the Week 15 commissioning of our Companions-in-Formation.) Please plan as follows.”*
 
 *“Time: 6:00 PM — light food. 6:30 PM — session begins. 8:30 PM — close.”*
 
@@ -200,19 +200,19 @@ The room is fuller than it has been all of Getting Started. Visiting family memb
 
 ## Script
 
-*“Welcome — those of you who have been here every Tuesday, and those of you who are joining us tonight. The room you are in tonight has been built carefully across fourteen Tuesdays, and tonight is its integration.”*
+*“Welcome — those of you who have been here every Wednesday, and those of you who are joining us tonight. The room you are in tonight has been built carefully across fourteen Wednesdays, and tonight is its integration.”*
 
 *“For those of you new tonight: phones in the box, please. Find a seat with your family.”*
 
 *“Let me speak this blessing first — the same one we have spoken every week. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 14. We have walked together through fourteen Tuesdays — each one with a piece of work to do. The work was the four Connects: Connecting with Self, Others, God, and Mission. We did the soil of the heart. We told our stories. We named the four conditions of a real container and looked at our friendships. We practiced confession and restoration. We learned to hear God in scripture. We walked into the gardens of our hearts and met Jesus there. We named our quiet doubts. We turned outward to ask what was prepared for us.”*
+*“Tonight is Week 14. We have walked together through fourteen Wednesdays — each one with a piece of work to do. The work was the four Connects: Connecting with Self, Others, God, and Mission. We did the soil of the heart. We told our stories. We named the four conditions of a real container and looked at our friendships. We practiced confession and restoration. We learned to hear God in scripture. We walked into the gardens of our hearts and met Jesus there. We named our quiet doubts. We turned outward to ask what was prepared for us.”*
 
 *“Tonight is the integration. The four Connects are not separate disciplines. They are a sequence — each one creates the conditions for the next. Self, Others, God, Mission. They are also a way of life, lived in family and witnessed in community.”*
 
 *“So tonight we are going to do something specific. Each parent-and-teen pair from Getting Started is going to stand in the center of this circle. Each of you is going to speak a specific witnessed blessing over the other. The whole community is going to speak the Aaronic blessing over each family. We are going to send each other into what comes next.”*
 
-*“If you are new tonight: you may not have words for what has been done in this room over these fourteen Tuesdays. That is fine. Tonight your job is to bear witness. Your presence is the gift.”*
+*“If you are new tonight: you may not have words for what has been done in this room over these fourteen Wednesdays. That is fine. Tonight your job is to bear witness. Your presence is the gift.”*
 
 ## **Block 2 — Brief Blessing Rehearsal (6:45–6:55, 10 min)**
 
@@ -264,7 +264,7 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 ## Prayer
 
-*“Pray with me. Father, you have walked with us across these fourteen Tuesdays. You have surfaced things we could not have surfaced on our own. You have built what we could not have built. Tonight we name what you have done, in front of each other. We send each other into what you have prepared. Bless every family in this room with the words your servants will speak over them. Receive the work of Getting Started; multiply it across what comes next. Amen.”*
+*“Pray with me. Father, you have walked with us across these fourteen Wednesdays. You have surfaced things we could not have surfaced on our own. You have built what we could not have built. Tonight we name what you have done, in front of each other. We send each other into what you have prepared. Bless every family in this room with the words your servants will speak over them. Receive the work of Getting Started; multiply it across what comes next. Amen.”*
 
 ## **Block 4 — Family Commissionings (7:05–8:00, 55 min)**
 
@@ -325,7 +325,7 @@ After the reflection, walk the long-term practice and bridge to Going Deeper. Br
 
 *“One: the Daily / Weekly / Monthly Rhythm Card — the one you built for yourself last week, in the Rhythm session. H14.3 is a fresh copy if yours is already worn. Daily — the morning question and an evening journal note. Weekly — a brother or sister or family member who knows what you are working on. Monthly — a clearing time. It is your card now, in your handwriting. Stick it on your bathroom mirror or your dashboard.”*
 
-*“Two: the Going Deeper bridge. H14.4. The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these fifteen weeks. Most of you will continue; some will not, and that is also fine. The bridge sheet has details and the registration link. Decide on your own time. Tonight is not a recruiting pitch.”*
+*“Two: the Going Deeper bridge. H14.4. The Going Deeper series begins [date]. Twelve Wednesdays. We go deeper into what we touched lightly in these fifteen weeks. Most of you will continue; some will not, and that is also fine. The bridge sheet has details and the registration link. Decide on your own time. Tonight is not a recruiting pitch.”*
 
 *“Three: the Post-Series Survey. H14.5. We need your honest read on what worked and what didn’t. Complete it this week and email it back. The next group of families benefits from your honesty. Five questions; take fifteen minutes.”*
 
@@ -355,7 +355,7 @@ The last five minutes. The whole community speaks the Aaronic blessing over the 
 
 *(Pause. Let the silence land.)*
 
-*“You are sent. Walk gently. He who began this work in you will bring it to completion. One more gathering remains: next Tuesday we commission our Companions-in-Formation — the seniors who led us this year. It is their night, and you are all wanted in the room for it. Go.”*
+*“You are sent. Walk gently. He who began this work in you will bring it to completion. One more gathering remains: next Wednesday we commission our Companions-in-Formation — the seniors who led us this year. It is their night, and you are all wanted in the room for it. Go.”*
 
 *After the sending, do not pack up. Some people will not leave for an hour. Stay. The work after the closing is sometimes the work.*
 
@@ -460,7 +460,7 @@ Five handouts for Week 14. H14.1 is distributed to families one week before; the
 
 *Sent to families the Friday before Week 14*
 
-*Each parent and each teen prepares a three-sentence blessing for the other before Tuesday. Use this worksheet. Bring it back Tuesday — you may read from it during the commissioning.*
+*Each parent and each teen prepares a three-sentence blessing for the other before Wednesday. Use this worksheet. Bring it back Wednesday — you may read from it during the commissioning.*
 
 ## **Parent: writing your blessing for your teen**
 
@@ -514,7 +514,7 @@ Teen: write your sentences below.
 
 - Three sentences. Brevity is the discipline. The form is short on purpose.
 - Specific. “You are amazing” is not specific. The third version of your specific is usually the right one.
-- You will read this aloud Tuesday in front of the room. That is supposed to be hard. The hardness is part of why it works.
+- You will read this aloud Wednesday in front of the room. That is supposed to be hard. The hardness is part of why it works.
 - If you cry, that is fine. Take your time. The room can wait.
 - If you freeze and cannot speak — ask the other person to read your worksheet for you, or ask the Lead Companion to. Nothing about the night requires public oratory; it requires honest specificity.
 
@@ -530,7 +530,7 @@ Teen: write your sentences below.
 
 ### **How to use this card**
 
-This is the blessing you have heard at the close of every Tuesday of this series. Tonight the whole community speaks it together over each family, and over each other.
+This is the blessing you have heard at the close of every Wednesday of this series. Tonight the whole community speaks it together over each family, and over each other.
 
 The Aaronic blessing is the words God specifically gave Aaron and his sons to speak over Israel — a covenantal benediction. When we speak it over each other, we are speaking what God authorized. We are not improvising.
 
@@ -578,7 +578,7 @@ The Aaronic blessing is the words God specifically gave Aaron and his sons to sp
 
 **Handout H14.4 — Going Deeper Bridge**
 
-*The Going Deeper series begins [date]. Twelve Tuesdays. We go deeper into what we touched lightly in these fifteen weeks. Decide on your own time.*
+*The Going Deeper series begins [date]. Twelve Wednesdays. We go deeper into what we touched lightly in these fifteen weeks. Decide on your own time.*
 
 ### **What Going Deeper is**
 
@@ -603,7 +603,7 @@ Self deepens through the diagnostic work of Vol 2 — emotional knots, lies-at-t
 
 - Start: [date], 7:00 PM.
 - Location: Covenant Christian Academy of Warrenton.
-- Length: twelve Tuesdays.
+- Length: twelve Wednesdays.
 - Cost: [as designed]. Scholarships available; ask.
 - Registration: [link or form] — by [deadline].
 - Questions: contact the Lead Companion at [email/phone].

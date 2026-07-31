@@ -105,7 +105,7 @@ The Companions modeled the form alongside the parents in Week 3. This week the p
 This is the heart of pre-work this week. Sometime in the week before the session — not the night of — the adult Cluster Companion and the senior meet for about an hour:
 
 1. **The senior walks the protocol aloud. Twice.** Handout H4.1 in hand, start to finish: the container open, the story invitations, the timing, the blessing-round starters, the close. The first walk-through finds the rough spots. The second one smooths them. Aloud, both times — a protocol read silently is not yet in the body.
-2. **Rehearse the disclosure handoff. Once, explicitly.** The adult plays a teller whose story turns heavy mid-sentence. The senior practices the whole move: catch the adult’s eye, say the line — *“[Name], I’d like you to take this”* — and then hold the container in silence while the adult takes over. Do it once, all the way through, so the first time is not live. Then say plainly: *“If this happens Tuesday, handing it to me is you doing your job perfectly. It is the competence, not a failure.”*
+2. **Rehearse the disclosure handoff. Once, explicitly.** The adult plays a teller whose story turns heavy mid-sentence. The senior practices the whole move: catch the adult’s eye, say the line — *“[Name], I’d like you to take this”* — and then hold the container in silence while the adult takes over. Do it once, all the way through, so the first time is not live. Then say plainly: *“If this happens Wednesday, handing it to me is you doing your job perfectly. It is the competence, not a failure.”*
 3. **Walk the three rules that never bend** (Handbook 11.6): you never count as one of the two adults; you never take a disclosure — you hand it to the adult immediately; you lead only a block you have first received. The senior says them back in their own words.
 4. **Preview the Leader Feedback Round** (Handbook 11.7, merged in the pilot with the every-week closing round) so nothing about it surprises them: one round covers the whole evening, the senior answers the two questions first, the adult second, and the room’s feedback covers them both. Affirmation outweighs growth — the team seeds one specific affirmation and at most one growth item, and the leader’s whole response is “thank you.”
 5. **Pray together** — for the teen tellers by name, and for the senior’s own heart: that they would hold space rather than perform, and that they would love the people in their cluster more than they love doing it well.
@@ -115,7 +115,7 @@ This is the heart of pre-work this week. Sometime in the week before the session
 Forty-eight hours before Week 4, the Companion team meets for sixty minutes:
 
 1. Re-read Handbook Section 6 in full. Out loud. Together. Same discipline as Week 3 — the risk did not go home with the Week 3 tellers.
-2. Each Cluster Companion names the teen tellers in their cluster and identifies who they are watching for. A week of anticipation changes people: someone who was calm last Tuesday may arrive wound tight, and someone who dreaded it may arrive resolved to say the real thing.
+2. Each Cluster Companion names the teen tellers in their cluster and identifies who they are watching for. A week of anticipation changes people: someone who was calm last Wednesday may arrive wound tight, and someone who dreaded it may arrive resolved to say the real thing.
 3. Walk the teen-leader handoff scenario aloud, in addition to the four crisis scenarios. The adult Cluster Companion for the senior’s cluster says exactly what they will do when the handoff comes.
 4. Confirm the opening parent for each cluster — the parent who will speak the first blessing after each story and offer the first word at the landing. Arranged now, warmly, never sprung on them in the room.
 5. Debrief Week 3 briefly for anything that shapes this week’s framing — a fixing habit to re-name, a cluster that ran long, a participant to seat differently.
@@ -194,7 +194,7 @@ The Companion-in-Formation opens the night. The script below is on their Facilit
 
 *“Let me speak this blessing over us first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 4 — the second half of what we started last week. Last Tuesday our parents told their stories. Tonight the teens tell, in the same clusters, with the same single question and the same blessing at the end. Nothing new tonight. We’re completing the round.”*
+*“Tonight is Week 4 — the second half of what we started last week. Last Wednesday our parents told their stories. Tonight the teens tell, in the same clusters, with the same single question and the same blessing at the end. Nothing new tonight. We’re completing the round.”*
 
 *“The container is the same as it has been since Week 1. Safe, Present, Clear, Intentional. What gets said in the room stays in the room. What you choose to share is yours; nothing is required. We are not performing for each other and we are not fixing each other. We are listening, and we are blessing.”*
 
@@ -224,9 +224,9 @@ Shorter than Week 3’s teaching, because nothing new is taught. Re-read the anc
 
 ### Teaching points (use any format — do not read this verbatim)
 
-• One idea, repeated from last week because repetition is how it becomes ours: the opposite of being hidden is not being exposed — it is being seen and being safe at the same time. The parents practiced that last Tuesday. Tonight the teens do.
+• One idea, repeated from last week because repetition is how it becomes ours: the opposite of being hidden is not being exposed — it is being seen and being safe at the same time. The parents practiced that last Wednesday. Tonight the teens do.
 
-• Say the comparison word out loud, before the clusters form: *“One thing to put down before we split. Some of you have spent the week measuring your story against your mom’s or your dad’s from last Tuesday — it’s not as heavy as theirs, or it’s too heavy, or it won’t land the way theirs did. Put that down. Every story is its own. Your parents went first on purpose — so you would never have to guess what this practice looks like, not so you’d have something to measure against. The story you tell tonight is not in competition with any story told in this building last week. Tell yours.”*
+• Say the comparison word out loud, before the clusters form: *“One thing to put down before we split. Some of you have spent the week measuring your story against your mom’s or your dad’s from last Wednesday — it’s not as heavy as theirs, or it’s too heavy, or it won’t land the way theirs did. Put that down. Every story is its own. Your parents went first on purpose — so you would never have to guess what this practice looks like, not so you’d have something to measure against. The story you tell tonight is not in competition with any story told in this building last week. Tell yours.”*
 
 • If a re-frame from Week 3 is needed: *“And one thing we noticed last week that’s worth saying again — listening to receive is its own discipline. No fixing, no advice, no ‘that happened to me too.’ Receive, and bless.”*
 
@@ -319,13 +319,13 @@ The parent Co-Companion takes this block, same as Week 3.
 
 ## Script
 
-*“One practice between now and next Tuesday, and it belongs to every family that hasn’t done it yet. It’s the same Joint Footprints exercise assigned after our parents told last week.” (Hold up H3.5.)*
+*“One practice between now and next Wednesday, and it belongs to every family that hasn’t done it yet. It’s the same Joint Footprints exercise assigned after our parents told last week.” (Hold up H3.5.)*
 
 *“Parent and teen, twenty minutes, sometime this week. Not in the car, not in front of a screen. One of you walks the other through the footprints question — five minutes telling, a follow-up question or two, and one sentence: ‘What I love about your footprints is...’ Then swap. The handout has the questions and the rules.”*
 
 *“Same two rules as last week. The teen doesn’t have to disclose anything they didn’t disclose tonight. The parent doesn’t turn it into a lecture. We’re practicing what we did tonight, at home.”*
 
-*“Families who already did it — you’re done; don’t force a repeat. Everyone keeps the morning question and the evening journal note going. Five minutes in the morning, two at night. That rhythm is quietly doing more than any single Tuesday.”*
+*“Families who already did it — you’re done; don’t force a repeat. Everyone keeps the morning question and the evening journal note going. Five minutes in the morning, two at night. That rhythm is quietly doing more than any single Wednesday.”*
 
 ## Block 8 — The Leader Feedback Round (8:18–8:23, 5 min)
 
@@ -357,7 +357,7 @@ The Companion-in-Formation closes the night, from the Facilitation Card.
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Go gently this week. See you Tuesday.”*
+*“Go gently this week. See you Wednesday.”*
 
 *After the blessing, the adults do not pack up immediately — stay accessible for ten minutes, same as always. The Lead Companion finds the senior privately before they leave: one sentence of thanks, one question — “How are you, after that?” — and a listen. Not more coaching. The coaching waits for the debrief and the Lab.*
 
@@ -448,7 +448,7 @@ Take these two questions slowly; they matter as much as anything above.
 
 - Anyone who disclosed crisis-level material — within 24 hours per Section 6 protocol.
 - Any teller whose story surfaced something a parent or teen may be processing at home. Do not break confidentiality across cluster lines; the team can pray and watch.
-- Anyone who passed or stayed nearly silent in their cluster. Brief, warm, no-pressure check-in: “How did Tuesday land for you?”
+- Anyone who passed or stayed nearly silent in their cluster. Brief, warm, no-pressure check-in: “How did Wednesday land for you?”
 - The Companion-in-Formation — a second touch later in the week, from the adult Cluster Companion. Leading for the first time echoes for days; make sure the echo is company, not just adrenaline.
 
 ### Team prayer at the close of the debrief

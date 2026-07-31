@@ -319,7 +319,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“See you Tuesday.”*
+*“See you Wednesday.”*
 
 *Stay accessible after the closing for at least fifteen minutes. Tonight, more than most nights, participants will want to talk individually — with the two-adult rule held for any teen (never one adult alone). Some will need to.*
 
@@ -472,7 +472,7 @@ Three handouts for Week 9.
 
 ### Visit 1 — date: \_\_\_\_\_\_\_\_\_\_
 
-What was the same as Tuesday? What was different?
+What was the same as Wednesday? What was different?
 
 Where did Jesus walk this time? What did He do?
 
@@ -488,11 +488,11 @@ Was there a word? A silence? A question?
 
 ### Visit 3 — date: \_\_\_\_\_\_\_\_\_\_
 
-What is the garden like now compared to Tuesday?
+What is the garden like now compared to Wednesday?
 
-Is there a place in the garden you keep returning to? (If there is a place you have been avoiding, you do not have to go there alone — just notice it, and bring it to next Tuesday’s session or to a trusted adult.)
+Is there a place in the garden you keep returning to? (If there is a place you have been avoiding, you do not have to go there alone — just notice it, and bring it to next Wednesday’s session or to a trusted adult.)
 
-What is one thing you want to bring to next Tuesday’s session?
+What is one thing you want to bring to next Wednesday’s session?
 
 **Handout H9.3 — A Note for the Skeptic**
 
@@ -517,7 +517,7 @@ If you are wondering whether what surfaced tonight is consistent with scripture,
 
 ### If you want to adapt the practice
 
-Some skeptical participants find a more anchored version of the practice helpful. Try this: this week, instead of returning to the garden, sit each day with John 15:1–11. Read it slowly. Picture the vine, the branches, the vinedresser. Let the picture stay. Ask: where in my life is the vine, where am I bearing fruit, where is the pruning happening? That is the same practice in a more scripturally-bounded form. Bring what you notice to next Tuesday.
+Some skeptical participants find a more anchored version of the practice helpful. Try this: this week, instead of returning to the garden, sit each day with John 15:1–11. Read it slowly. Picture the vine, the branches, the vinedresser. Let the picture stay. Ask: where in my life is the vine, where am I bearing fruit, where is the pruning happening? That is the same practice in a more scripturally-bounded form. Bring what you notice to next Wednesday.
 
 ### If the exercise still feels wrong
 
