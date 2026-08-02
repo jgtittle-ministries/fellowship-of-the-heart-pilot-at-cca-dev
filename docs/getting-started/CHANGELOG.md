@@ -7,7 +7,7 @@
 | Version | State | Where to find it |
 |---|---|---|
 | **v1.0** | The canonical 15-week series: all ages (12–18), three-circle age-split design (junior / senior / parent). The right starting edition for mixed-age cohorts or bodies preferring separated circles. | Git tag `gs-v1.0` (July 2026) |
-| **v1.1** | v1.0 + the 22-meeting CCA calendar overlay (Wednesdays, four quarters, 6/5/6/5). The overlay adds seven structured extra meetings without renumbering the fifteen sessions. | The [CCA 2026–27 Calendar](cca-2026-27-calendar.md) page |
+| **v1.1** | v1.0 + the 22-meeting CCA calendar overlay (Wednesdays, four quarters, 6/5/6/5) — overlay-not-renumber. Superseded when v1.4 dissolved the overlay into the seamless sequence. | Git tag `gs-v1.3` (carries the calendar page in its overlay form) |
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
