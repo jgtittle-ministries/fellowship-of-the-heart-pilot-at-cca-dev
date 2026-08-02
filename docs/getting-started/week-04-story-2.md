@@ -135,7 +135,6 @@ Forty-eight hours before Week 4, the Companion team meets for sixty minutes:
 ### Materials checklist
 
 - Chairs in the main room as a single circle for the opening, same as Weeks 1–3.
-- Phone-box at the door.
 - Personal Heart Journals (each participant brings their own). Have 4–5 spares.
 - Reprinted teen storytelling cards H3.2 for this week’s tellers, and listener’s role cards H3.4 for anyone who has lost theirs.
 - Joint Footprints handout H3.5 — one per family that has not yet done it.
@@ -168,7 +167,7 @@ Identical to Week 3. Open in the main room as a single circle; split to the same
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Lead Companion greets each participant by name. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Lead Companion greets each participant by name. |
 | 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Comp-in-Formation | The senior opens the container: Aaronic blessing, container restated, Week 4 framed. First teen-led block of the series. |
 | 7:10–7:15 | Block 2: Joint Footprints check-in | Shared circle | Lead Comp | Brief, optional check-in on the between-session practice. One sentence each; an arranged parent offers the first. |
 | 7:15–7:22 | Block 3: Psalm 139 — being known, again | Shared circle | Lead Comp | Re-read Psalm 139:23–24. Very short. Nothing new taught; the frame is repeated, and the every-story-its-own word is spoken here. |
@@ -188,7 +187,7 @@ The Companion-in-Formation opens the night. The script below is on their Facilit
 
 ## Script (Companion-in-Formation)
 
-*“Welcome back. Phones in the box, please. Find a seat. We’ll start in ninety seconds.”*
+*“Welcome back. Find a seat. We’ll start in ninety seconds.”*
 
 *(Wait for everyone to settle. Do not rush. The settling is part of the work.)*
 
@@ -468,7 +467,7 @@ One new handout for Week 4, plus reprints.
 
 ### The container open (shared room)
 
-*“Welcome back. Phones in the box. We’ll start in ninety seconds.”* — then wait; the settling is part of the work.
+*“Welcome back. We’ll start in ninety seconds.”* — then wait; the settling is part of the work.
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

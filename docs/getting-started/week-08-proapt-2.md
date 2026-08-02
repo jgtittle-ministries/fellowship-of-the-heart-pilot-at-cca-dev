@@ -128,7 +128,6 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening and the walk-through — adult Companions' chairs set slightly outside the circle, deliberately.
-- Phone-box at the door.
 - Personal Heart Journals (each participant brings).
 - Bibles — every participant has access. PROAPT works best with a physical Bible.
 - Facilitation card: H8.1 (the senior's copy, plus one spare).
@@ -172,7 +171,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 
 ## Companion-in-Formation's script
 
-*"Welcome back. Phones in the box. Let me speak the blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
+*"Welcome back. Let me speak the blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
 
 *"Container reminder: Safe, Present, Clear, Intentional. Same four conditions, same room, same us."*
 

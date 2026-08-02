@@ -108,7 +108,6 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 ### Materials checklist
 
 - Chairs in main room as single circle for opening (same pattern as prior weeks).
-- Phone-box at the door.
 - Personal Heart Journals.
 - Whiteboard or flip chart with the four conditions pre-written: SAFE / PRESENT / CLEAR / INTENTIONAL. Vertical, with room beside each.
 - Handouts H5.1, H5.3 / H5.4, and H5.5 stacked at each chair.
@@ -136,7 +135,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Container reminder. Frame Week 5. |
 | 7:10–7:15 | Block 2: Week 4 check-in | Shared circle | Lead Comp | Brief check on Joint Footprints. One-sentence shares, optional; an arranged parent opens. |
 | 7:15–7:30 | Block 3: The four conditions — teaching | Shared circle | Lead Comp | Read Ecc. 4:9–12. Walk the four conditions on the whiteboard. |
@@ -153,7 +152,7 @@ Forty-eight hours before Week 5, the Companion team meets for forty-five minutes
 
 ## Script
 
-*“Welcome back. Phones in the box. Find a seat.”*
+*“Welcome back. Find a seat.”*
 
 *(Wait. Settling.)*
 

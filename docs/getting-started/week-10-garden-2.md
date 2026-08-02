@@ -125,7 +125,6 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 ### Materials checklist
 
 - Chairs in main room as a single circle for opening.
-- Phone-box at the door.
 - Personal Heart Journals.
 - Handout H10.1 for the Companion-in-Formation (plus a spare); H9.1 if an adult leads the walk-through; H9.2 for every participant.
 - A private space for each family cluster — two or three whole families with their Cluster Companion, comfortable seating in a tight circle. (If total attendance is about ten or fewer, skip the clustering; the whole room stays as one circle for the sharing.) Lights low if possible.
@@ -154,7 +153,7 @@ Forty-eight hours before Week 10, the Companion team meets for forty-five minute
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Quiet check-in at the door with anyone flagged for a pre-session word. Quieter than usual. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Quiet check-in at the door with anyone flagged for a pre-session word. Quieter than usual. |
 | 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the second run and name, simply, that a senior leads the walk-through tonight. |
 | 7:08–7:14 | Block 2: Garden week check-in | Shared circle | Lead Comp | One-sentence shares on the week's returns. Honor every garden. |
 | 7:14–7:26 | Block 3: Scripture and brief re-framing | Shared circle | Lead Comp | Re-read Psalm 23 and John 15:1–11. Shorter framing than Week 9 — the room is practiced. |
@@ -173,7 +172,7 @@ Tonight opens even quieter than Week 9 did. The room knows where it is going. Le
 
 ## Script
 
-*“Welcome back. Phones in the box. Find a seat.”*
+*“Welcome back. Find a seat.”*
 
 *(Wait. Take the long breath. Lights low if the room allows it.)*
 

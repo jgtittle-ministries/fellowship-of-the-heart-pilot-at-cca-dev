@@ -111,7 +111,7 @@ Brief enough; do not over-explain. The applicant doesn’t need to understand th
 
 ## TWO — The container conditions as the working culture.
 
-‘Each session has four container conditions — Safe, Present, Clear, Intentional. Safe means what is named in the room stays in the room. Present means phones go in a basket and we’re actually here. Clear means we’re honest about what is and isn’t happening. Intentional means we’re here for specific work, not generic spiritual fellowship. The container is what makes the conversation real.’
+‘Each session has four container conditions — Safe, Present, Clear, Intentional. Safe means what is named in the room stays in the room. Present means phones are silenced and put away and we’re actually here. Clear means we’re honest about what is and isn’t happening. Intentional means we’re here for specific work, not generic spiritual fellowship. The container is what makes the conversation real.’
 
 Naming the container often produces relief in applicants who have been in groups that lacked it. Watch the applicant’s body language; this naming sometimes lands as the moment they decide yes.
 

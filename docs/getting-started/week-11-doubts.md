@@ -119,7 +119,6 @@ Forty-eight hours before Week 11, the Companion team meets for forty-five minute
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening.
-- Phone-box at the door.
 - Personal Heart Journals (each brings their own; have spares).
 - Whiteboard with the four steps of the practice pre-written: NAME / EXAGGERATE / SIT / RE-READ.
 - Handouts H11.1, H11.2, H11.3 stacked at each chair.
@@ -160,7 +159,7 @@ Pairs matter tonight more than in any prior session. The Cluster Companion pre-c
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 11. |
 | 7:08–7:13 | Block 2: Week 9 check-in | Shared circle | Lead Comp | Brief check on garden returns. One-sentence shares. |
 | 7:13–7:25 | Block 3: Mark 9:14–29 — the scripture ground | Shared circle | Lead Comp | Read the passage. Teach the model: ‘I believe; help my unbelief.’ |
@@ -178,7 +177,7 @@ Pairs matter tonight more than in any prior session. The Cluster Companion pre-c
 
 ## Script
 
-*“Welcome back. Phones in the box. Settle.”*
+*“Welcome back. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

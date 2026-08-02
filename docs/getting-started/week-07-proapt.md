@@ -118,7 +118,6 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening and teaching.
-- Phone-box at the door.
 - Personal Heart Journals (each participant brings).
 - Bibles — every participant has access (their own, or copies provided). PROAPT works best with a physical Bible.
 - PROAPT step card: H7.1 (one per participant).
@@ -162,7 +161,7 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 ## Script
 
-*“Welcome back. Phones in the box. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
+*“Welcome back. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
 *“Container reminder: Safe, Present, Clear, Intentional. Same as it has been across all our weeks together.” “Tonight is Week 7. We are over halfway. The first five weeks were Self and Others. Tonight we turn the channel.”*
 

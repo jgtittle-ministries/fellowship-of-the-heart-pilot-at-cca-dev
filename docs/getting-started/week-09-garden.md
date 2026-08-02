@@ -115,7 +115,6 @@ Forty-eight hours before Week 9, the Companion team meets for forty-five minutes
 ### Materials checklist
 
 - Chairs in main room as a single circle — the guided exercise happens here, whole room. Soft lighting if possible.
-- Phone-box at the door.
 - Personal Heart Journals.
 - Handouts H9.1, H9.2, H9.3 (H9.1 to the Lead Companion and Cluster Companions only; H9.2 and H9.3 to participants).
 - A space or corner for each family cluster for the sharing phase, seating in a tight circle — or none, when the whole room stays as one circle (about ten or fewer).
@@ -143,7 +142,7 @@ Forty-eight hours before Week 9, the Companion team meets for forty-five minutes
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Mid-Series Pulse returns (from Week 8) collected in the bin. Quieter than usual. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Mid-Series Pulse returns (from Week 8) collected in the bin. Quieter than usual. |
 | 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the night gently. |
 | 7:10–7:15 | Block 2: Week 7 check-in | Shared circle | Lead Comp | Brief check on PROAPT practice. One-sentence shares. |
 | 7:15–7:32 | Block 3: Scripture and framing | Shared circle | Lead Comp | Read Psalm 23 and John 15:1–11. Frame the practice. Address skepticism. |
@@ -162,7 +161,7 @@ Tonight’s opening is quieter than other weeks. Match the tone of what is comin
 
 ## Script
 
-*“Welcome back. Phones in the box. Find a seat.”*
+*“Welcome back. Find a seat.”*
 
 *(Wait. Take a longer breath than usual yourself before the blessing.)*
 

@@ -121,7 +121,6 @@ Email to each Companion-in-Formation (individually): their final-rep slot (open,
 ### **Materials checklist**
 
 - Chairs in a single wide circle. Open central space. No table in the middle.
-- Phone-box at the door — tonight of all nights.
 - Handouts H15.1 and H15.2 for each senior; H15.3 laid out on the side table with pens.
 - The large-print Bible (ESV) in the center of the circle.
 - Tissues distributed through the circle. Week 14 taught us why.
@@ -165,7 +164,7 @@ The Lead Companion opens — briefly, and five minutes is the whole budget on pu
 
 ## Script
 
-*"Welcome to the last gathering of Getting Started. Phones in the box — you know the drill better than any group I have ever asked."*
+*"Welcome to the last gathering of Getting Started."*
 
 *"Last week we commissioned the families. Tonight we commission the Companions — the seniors who led us this year. And I want to be careful about the word, because this is not a graduation. Nobody is leaving. A graduation sends you out of a room; tonight opens a door further in. Our seniors are being commissioned as Formation Companions, Level One — FC1 — which means that starting this term, they take a serving place in this body. They are not finishing something tonight. They are beginning something.*"
 

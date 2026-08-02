@@ -22,6 +22,7 @@ Built for the approved CCA pilot (fall 2026 launch) from the founder's field obs
 - Consent form updated to match (family circles + parents-first, teen leadership rotation consent line, high-school framing) — the version CCA counsel reviews.
 - The story frame lightened (founder's field ruling): the four-question story outline replaced by a single open question — *what has shaped you into who you are today?* — with the teller choosing their own depth.
 - Week 13 rebuilt as **The Rhythm and the Four Questions**: the dry-season teaching (Signs and Path Home cards) moves to The Long Walk in the club year, taught by the Companions-in-Formation; in its place, the Four Questions — the parent asks their own teen (and spouse), at home, if willing: *what has it been like to live with me all these years? what have been my messages to you? how have I wounded you? what would you like from me going forward?* — received the way the Leader Feedback Round has modeled all year. (A straight fifteen-week run teaches the dry-season block in Week 13 per the plan's appendix.)
+- **The phone box retired (all three series).** Sessions no longer collect phones in a box at the door. The Present condition stands — phones silenced and put away, attention in the room — but as a simple ask, not a ritual. Founder's field ruling: phones were never the distraction, and the box made the welcome harsher than the room.
 
 # July 2026 — Safety additions (the Settle Protocol)
 

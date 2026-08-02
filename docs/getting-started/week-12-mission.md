@@ -120,7 +120,6 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening.
-- Phone-box at the door.
 - Personal Heart Journals.
 - Whiteboard with two columns pre-drawn: UPHILL (what I do) and DOWNHILL (what I am).
 - Handouts H12.1, H12.2, H12.3 stacked at each chair.
@@ -148,7 +147,7 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. |
 | 7:00–7:08 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Brief container reminder. Frame Week 12 as the turn outward. |
 | 7:08–7:13 | Block 2: Week 11 check-in | Shared circle | Lead Comp | Brief check on Doubts Inventory. One-sentence shares. |
 | 7:13–7:25 | Block 3: Ephesians 2:10 and the uphill/downhill distinction | Shared circle | Lead Comp | Read scripture. Walk both columns on whiteboard. Demo with own downhill answer. |
@@ -165,7 +164,7 @@ Forty-eight hours before Week 12, the Companion team meets for forty-five minute
 
 ## Script
 
-*“Welcome back. Phones in the box. Settle.”*
+*“Welcome back. Settle.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

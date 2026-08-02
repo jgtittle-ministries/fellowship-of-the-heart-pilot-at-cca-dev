@@ -101,7 +101,6 @@ Do not share with each other. The first sharing happens in the circle.
 ### Materials checklist
 
 - Chairs in a single circle, one per participant. No table in the middle.
-- Phone-box at the door (a labeled wooden or cardboard box). Sign on the box: “Phones rest here for the next 90 minutes.”
 - Name tags + markers (first names only).
 - Personal Heart Journal for each participant. (Distributed at orientation; remind participants to bring tonight.)
 - Welcome packet (one page) — see Handout H1.1.
@@ -123,9 +122,9 @@ If you have more than 24 participants, use two concentric semicircles rather tha
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
 | Week before | Final RSVP confirmations; print welcome packets and blessing cards; verify all Personal Heart Journals are distributed. | Lead Comp |
-| Day before | Walk the room. Confirm phone-box, name tags, snacks, journals, Bible, board markers, tissues. Phone the pastoral / clinical backup person to confirm availability. | Lead Companion + Co-Comp |
+| Day before | Walk the room. Confirm name tags, snacks, journals, Bible, board markers, tissues. Phone the pastoral / clinical backup person to confirm availability. | Lead Companion + Co-Comp |
 | T-30 min | All Companions in the room. Pre-draw the four Connects diagram on the board. Set out chairs. Set name tags and markers at the door. Pray together as a team. | All Companions |
-| T-15 min | Door opens. One Co-Companion at the door welcoming, handing out name tags, pointing to the phone-box. | Co-Comp (Teen) |
+| T-15 min | Door opens. One Co-Companion at the door welcoming, handing out name tags. | Co-Comp (Teen) |
 | T-0 | Begin on time. | Lead Comp |
 
 # Detailed 90-Minute Run Sheet
@@ -135,7 +134,7 @@ Times below assume a 7:00 PM start. Adjust to your actual start time but keep th
 | **Time** | **Block** | **Mode** | **Lead** | **Min** |
 | --- | --- | --- | --- | --- |
 | 6:30 | Setup. All Companions in the room. Final walk-through. | — | Team | 30 |
-| 6:45 | Door opens. Greet, name tags, phone-box, light snacks. | Open | Teen Comp | 15 |
+| 6:45 | Door opens. Greet, name tags, light snacks. | Open | Teen Comp | 15 |
 | 7:00 | Welcome and the very-first-time orientation. | Shared | Lead Comp | 5 |
 | 7:05 | What this is and isn’t — short framing. | Shared | Lead Comp | 5 |
 | 7:10 | The Four Connects — ten-minute kitchen-table teaching. | Shared | Lead Comp | 10 |
@@ -164,11 +163,9 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 “Two. This is not a youth group with parent permission. Every single person in this room — teens, parents, all of us — is here as a participant. There are no chaperones tonight. There are no observers. We are all in this.
 
-“Three. Phones are in the box at the door. If yours is not yet, take a minute now and walk it over. We’ll wait.”
+“Three. For these ninety minutes, silence your phone and put it away. Not because phones are the enemy — because the people in this room deserve our full attention.”
 
-(Pause. Wait. Let people walk to the box. Do not rush this.)
-
-Watch for: parents who try to keep their phones for “emergencies.” If asked, say: “Your spouse and your school have the building’s number. If something is on fire, someone will come and get you. The phone goes in the box.”
+(Pause a moment while phones are silenced. The ask is enough — no collecting, no policing.)
 
 ## Block 2 — What This Is and Isn’t (7:05–7:10, 5 min)
 
@@ -369,7 +366,7 @@ The closing practice for Week 1 has three layers, all part of the standard closi
 
 ### Layer 1: One thing I am taking with me
 
-Each participant briefly names what they are taking from tonight. Tonight, expect short answers — “the phone box”, “standing in a circle”, “the word abundantly”, “that I’m really here”. All are valid.
+Each participant briefly names what they are taking from tonight. Tonight, expect short answers — “standing in a circle”, “the word abundantly”, “that I’m really here”. All are valid.
 
 ### Layer 2: One practice I am committing to
 
@@ -422,7 +419,6 @@ The Companion team meets the day after Week 1 for a 30-minute debrief. Use these
 
 ### If the session did not work — what to adjust for Week 2
 
-- If phones were a problem, address it directly at the open of Week 2. “Last week we had some trouble with this. Tonight, all phones in the box. No exceptions.”
 - If safety was an issue, slow down the container in Week 2 — spend extra time in the open. Re-name the four conditions explicitly. The investment pays back.
 - If parents tried to manage teens, name it gently in Week 2 once — then enforce by redirection on the moment.
 - If pacing was off, cut something. The teaching is always cuttable. The experiential is not.

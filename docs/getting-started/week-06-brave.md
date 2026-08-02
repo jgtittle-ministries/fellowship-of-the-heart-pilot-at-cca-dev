@@ -137,7 +137,6 @@ The team meets 48 hours before Week 6. Three specific things:
 ### Materials checklist
 
 - Chairs in main room as single circle for opening.
-- Phone-box at the door.
 - Personal Heart Journals.
 - Confession-and-restoration handout: H6.1 (teen and parent versions).
 - Blessing-of-restoration card: H6.2 (everyone).
@@ -183,7 +182,7 @@ The team meets 48 hours before Week 6. Three specific things:
 
 ## Script
 
-*“Welcome back. Phones in the box. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
+*“Welcome back. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
 *“Container reminder: Safe, Present, Clear, Intentional. What gets said in the room stays in the room. What you choose to share is yours; nothing is required.” “Tonight is Week 6. We are on the far side of the halfway mark of this first movement. The first weeks were preparation. Tonight we use what we have built to do something most Christians never actually do, even though scripture commands it.”*
 

@@ -150,7 +150,6 @@ The team sends an email to all families one week before Week 14 with the followi
 ### **Materials checklist**
 
 - Chairs in a single wide circle. Open central space. No table.
-- Phone-box at the door.
 - Personal Heart Journals.
 - Light food: water, fruit, simple snacks for 6:00 PM.
 - Handouts H14.1 (already distributed by Friday) brought back tonight by each family.
@@ -202,7 +201,7 @@ The room is fuller than it has been all of Getting Started. Visiting family memb
 
 *“Welcome — those of you who have been here every Wednesday, and those of you who are joining us tonight. The room you are in tonight has been built carefully across fourteen Wednesdays, and tonight is its integration.”*
 
-*“For those of you new tonight: phones in the box, please. Find a seat with your family.”*
+*“For those of you new tonight: find a seat with your family.”*
 
 *“Let me speak this blessing first — the same one we have spoken every week. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 

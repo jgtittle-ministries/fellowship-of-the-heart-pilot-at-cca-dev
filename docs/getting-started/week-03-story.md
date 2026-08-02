@@ -78,7 +78,7 @@ This is the first session in which the family clusters run independently of the 
 
 ## From prior sessions
 
-- Week 1: container is established. Phones in the box. Single-circle norms. The Aaronic blessing is familiar.
+- Week 1: container is established. Single-circle norms. The Aaronic blessing is familiar.
 - Week 2: the family clusters have functioned once. The lift this week is that each cluster now runs longer and with deeper material. If Week 2’s clusters were unsteady, slow Week 3’s opening to re-anchor before moving into clusters.
 - Each participant has worked the morning question and the evening journal note for two weeks. Some parents will be ready to tell a story; some will not. Both are honored — pass-anytime holds for parents too.
 
@@ -117,7 +117,6 @@ Forty-eight hours before Week 3, the Companion team meets for ninety minutes:
 ### Materials checklist
 
 - Chairs in the main room as a single circle for the opening (same as Weeks 1 and 2).
-- Phone-box at the door.
 - Personal Heart Journals (each participant brings their own). Have 4–5 spares.
 - Storytelling cards: H3.3 parent version, one per parent tonight; H3.2 teen version, one per teen, to go home for Week 4.
 - Listener’s role card: H3.4. One per participant, everyone.
@@ -152,7 +151,7 @@ In each cluster space, chairs are in a tight circle, knees almost touching. The 
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags, phone-box. Lead Companion greets each participant by name. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Lead Companion greets each participant by name. |
 | 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Restate the container. Frame Week 3. |
 | 7:10–7:15 | Block 2: Week 2 check-in | Shared circle | Lead Comp | Brief check-in on Heart Soil journaling. One sentence each, optional. |
 | 7:15–7:25 | Block 3: Psalm 139 — being known | Shared circle | Lead Comp | Read Psalm 139:1–6 and 23–24. Short teaching. |
@@ -173,7 +172,7 @@ Same physical opening as Weeks 1 and 2. The container is now familiar; do not re
 
 ## Script
 
-*“Welcome back. Phones in the box, please. Find a seat. We’ll start in ninety seconds.”*
+*“Welcome back. Find a seat. We’ll start in ninety seconds.”*
 
 *(Wait for everyone to settle. Do not rush. The settling is part of the work.)*
 

@@ -104,7 +104,6 @@ This is the only joint pre-work this week. Each, separately, picks one of the fo
 ### Materials checklist
 
 - Chairs in single circle for the open and close. A separate circle area for each family cluster.
-- Phone-box at the door.
 - Personal Heart Journals. Pens.
 - Teen Heart Soil Diagnostic handout (H2.2) — enough copies for the teens.
 - Parent Heart Soil Diagnostic handout (H2.3) — enough for parents.
@@ -137,7 +136,7 @@ Times below assume a 7:00 PM start.
 | **Time** | **Block** | **Mode** | **Lead** | **Min** |
 | --- | --- | --- | --- | --- |
 | 6:30 | Setup. All Companions in the room. | — | Team | 30 |
-| 6:45 | Door opens. Greet, phone-box, light snacks. | Open | Teen Comp | 15 |
+| 6:45 | Door opens. Greet, light snacks. | Open | Teen Comp | 15 |
 | 7:00 | Opening container — full eight-step protocol. | Shared | Lead Comp | 10 |
 | 7:10 | Check-in on Week 1 between-session practice. | Shared | Parent Comp | 5 |
 | 7:15 | Teaching: Mark 4 and the four soils. | Shared | Lead Comp | 15 |

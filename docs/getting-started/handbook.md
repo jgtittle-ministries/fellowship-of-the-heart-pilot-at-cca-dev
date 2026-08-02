@@ -300,7 +300,7 @@ The container is the prepared interior space inside which any meaningful spiritu
 | **Condition** | **What it means here** | **How we build it** |
 | --- | --- | --- |
 | Safe | Nothing said in the circle leaves the circle, with the limits in Section 6. No judgment, no fixing, no interrupting. The teen knows they will not be made fun of. The parent knows they will not be embarrassed in front of their kid. | Confidentiality covenant signed at orientation; circle agreements re-stated each week; immediate, gentle correction by Companion if a participant breaks the agreement. |
-| Present | Phones off. Side conversations off. Body and attention in the room with these specific people right now. | Phones in a box at the door (yes, including parents). Each session opens with a one-word check-in: how are you actually right now? |
+| Present | Phones off. Side conversations off. Body and attention in the room with these specific people right now. | Phones silenced and put away — a simple ask, no collection. Each session opens with a one-word check-in: how are you actually right now? |
 | Clear | No unaddressed conflict between people in the room. No log in your own eye that you are pretending isn’t there. | Brief silent self-check at the open: is anything between me and someone else in the room? If yes, address it before or after the session, not during. |
 | Intentional | Each participant has decided, before the session begins, that they are willing to do whatever the Spirit might invite them to do. | Spoken commitment at the open: 'I am here, I am paying attention, and I am willing to be moved.' |
 
@@ -312,7 +312,7 @@ Every session opens with the same protocol. The repetition matters — it is par
 
 **1. Welcome.** “Welcome back. We’re going to take five minutes to open the container. We do this every week because what happens here only happens when this is a real container, not just a meeting.”
 
-**2. Phones in the box.** Allow 30 seconds. Yes, parents too.
+**2. Phones silenced and put away.** A simple ask — no box, no collection. Allow a few seconds.
 
 **3. Stand in a circle (yes, standing).** Standing brings different energy than slouching on a couch. Hold for the next four steps.
 
@@ -1137,7 +1137,7 @@ We are choosing to spend fifteen weeks together as a small community where real 
 1. What is shared in this circle stays in this circle. The stories, struggles, victories, and questions that are spoken in our sessions are not repeated outside the room — not at school, not at church, not at home, not on social media.
 2. What I share is mine to share later if I want. The circle does not share for me. But I am free to share my own story with anyone I choose. Other people’s stories are theirs alone.
 3. I will not interrupt, fix, judge, or make fun. When someone in the circle is doing real work, I am present and respectful. I do not give unsolicited advice.
-4. I keep my phone in the box during the session. I am here, in this room, with these specific people, for these ninety minutes.
+4. I silence my phone and put it away during the session. I am here, in this room, with these specific people, for these ninety minutes.
 5. If I cannot keep this covenant in any given week, I tell a Companion before the session begins. I do not pretend to be in when I am out.
 
 ## Limits to confidentiality

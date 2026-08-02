@@ -134,7 +134,6 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 ### **Materials checklist**
 
 - Chairs in main room as single circle for opening, teaching, the Four Questions block, and closing.
-- Phone-box at the door.
 - Personal Heart Journals (each participant brings).
 - Participant folders — every folder physically in the room.
 - Rhythm Card (shared material): one printed copy per participant.
@@ -177,7 +176,7 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 
 ## Script (Companion-in-Formation)
 
-*"Welcome back. Phones in the box. The blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
+*"Welcome back. The blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
 
 *"Container reminder: Safe, Present, Clear, Intentional. Same four conditions, same as every week."*
 
