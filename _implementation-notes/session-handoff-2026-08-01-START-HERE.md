@@ -1,0 +1,33 @@
+# Session Handoff — 2026-08-01 · START HERE
+
+**Read this first in a new session — but the LIVE state is in the assistant's memory files (`project_foth_15week_cca_launch.md` is the hub; `project_jsfsc_measuring_maturity_rnr.md` for the journal article). This file is the repo-side snapshot for John and JD. Supersedes the 2026-07-24 handoff.**
+
+## 1. The week that changed everything
+
+- **CCA APPROVED the club (2026-07-30 meeting with Andrea Sponsler, Head of School).** Legal review + contact info in motion (Requests 2–4); John reports directly to Andrea; she will attend at least one session. The club is **22 Wednesday meetings from Sep 2, 2026, quarters 6/5/6/5** — not the 15 straight weeks previously planned.
+- **Getting Started is now version-programmed:** v1.0 = canonical 15-week three-circle edition (git tag `gs-v1.0`, both repos); v1.1 = the 22-meeting CCA calendar overlay (`docs/getting-started/cca-2026-27-calendar.md` — overlay-not-renumber); **v1.3 = the family-integrated pilot edition, BUILT and on dev**: high-school only; families share circles (own family always together); **parents always first** on disclosure practices (reverses v1.0's separation rule — founder's field evidence); every-teen leading rotation under the bright line; **Leader Feedback Round every session, leader first** (energy-override clause); sizing 3–6 families / ≤15 people / whole room to ~10 then two family clusters.
+- **Week 13 rebuilt as "The Rhythm and the Four Questions"** (founder's design): the parent asks their teen (and spouse), at home, if willing — *what has it been like to live with me all these years? what have been my messages to you? how have I wounded you? what would you like from me going forward?* — received undefended (the Feedback Round is the year-long rehearsal). Five guards. Dry-season teaching (Signs/Path Home) moved to The Long Walk (Meeting 20, taught by the CiFs); preserved in the plan's appendix for straight 15-week runs.
+- **Story frame lightened:** the four-question story outline → one open question (*what has shaped you into who you are today?*), teller chooses depth; the founder's kitchen-table testimony is printed in Week 3 as the register exemplar.
+- **The club meets Wednesdays** — 115 Tuesday references swept (the §6 rule is now Wednesday-by-Wednesday). GD/GO keep Tuesday deliberately (calendars unset).
+
+## 2. Repo state
+
+| Repo | State |
+|---|---|
+| **FotH dev** | HEAD `ffe2fb6`. **Prod has:** the full 15-week mirror (`3b304f5`), safety additions (`a1236fd`), Companions & Coverings (`dc62c97` + fixes `1ee7ab5`), and **targeted Appendix A consent patches only** (`a82a534`, `17d1b1c`, `a3e7442`, `de472de` — counsel reads the current form). **UNMIRRORED (the v1.3 body):** `6da9da1` (v1.3 core + calendar page, minus its App A part), `1699b95` (App D letter), `9ed5bc4` (15-plan sweep), `00e7a4b` (story frame, minus its App A line), `0c9de62` (Week 13 rebuild), `75e0dd6` (Wednesday sweep), `ffe2fb6` (manifest retitle). **Mirror on John's word after his v1.3 read** — targeted-patch the four standing-divergence files (GS handbook, GS index, docs/index, start-here: IJH `-dev` URLs + DEV banner), regenerate manifest+search WITH PROD TOOLS, then tag `gs-v1.1` + `gs-v1.3`. Retitle lesson = run BOTH generators. |
+| **FotH prod consent form** | Current: 22-session/quarters framing, family circles + parents-first, rotation consent line, pilot-year paragraph + open-curriculum link, single-question story description. Word docs (Appendices A/B/C) regenerated and in the CCA folder + Desktop — builder saved at `_work/foth_appendix_builder.js` (slice App A from the dev handbook first; see the script's md inputs). |
+| **CPR** | First-outside-reader five revisions APPROVED + MIRRORED (`d834fbb`); 3 reader-caught duplicate phrases fixed dev+prod; corpus-wide dup audit clean (`_work/_dup_phrase_audit.py`, reusable). |
+| **IJH** | Vol 5 Formation Companion gained "What This Framework Withholds — the Credentialing Limit" (dev `5e1c332` / prod `a6f939c`). WR spec v0.3 (bench v1.2, dev-only `8938dce`): the authority block — invited never sent; vet-the-vessel-blind-the-instrument; private to the shepherd; bench calibrates keys not persons; errand ends; sister-household exchange (hold >1 partner); expenses never a fee. |
+| **Coverings doctrine** | FotH shared page "Companions and Coverings" LIVE both sites: no licensing ever, covering = unit of trust, build-your-own, Apollos letter, levels = self-assigned floors. |
+
+## 3. JSFSC (the journal article) — ACTION WITH JOHN
+
+R1 decision (2026-08-01): **second R&R, favorable/moderate.** All 8 majors granted; traditions-plateau claim removed → deferred to companion paper A; new "Toward Phase 2: Testable Propositions" section (P1–P5 + advance disconfirmation); Fowler compressed ~40% as cautionary foil. **`Heart_Formation_Revised v23.docx` + `JSF-26-0039 Response to Reviewer R2 v10.docx` are BUILT, validated, and in the IJH edits folder** (R2 changes blue 1F4E9C; R1 blues turned black — stated in the response). Spec: `IJH edits/JSF-26-0039-R2-SPEC-2026-08-01.md`. **NEXT: John reads the blue → uploads both via the ScholarOne link in `JSFSC Article R1 Comments.docx`.** Build script (with the lastRenderedPageBreak gotcha solved): `_work/jsfsc_revision/build_v23_r2.py`.
+
+## 4. Pickup order
+
+1. **John reviews v23's blue** → patch on report → ScholarOne upload (the revision clock is running).
+2. **John reads the v1.3 curriculum on dev** (start: Weeks 1, 3, 4, 6, 11, 13) → fix on report → **full v1.3 mirror + tags on his word**. Counsel should be reading the current consent form (already live).
+3. **v1.3 remainder:** journal touch-ups; Section 8 measurement-protocol details (4 quarterly pulses, the three break experiments at Meetings 7/12/18, WR outside-reader recruitment — NOT Bill if he joins the team; sealed-prediction convergence design).
+4. **August FC1 ramp:** call conversations + consent addendum for the interested teens (senior + others from the summer club); summer families as Week-1 dress-rehearsal cohort; Lab 1 alongside Meetings 1–2. Student-leadership written yes/no needed ~Sep 18 for a teen-led Meeting 4 (adult-led fallback ready).
+5. **Standing:** summer 4C club still running (interest cards at final session; pass gate 4–6 families); Bill + wife's FC answer pending; the two Bill follow-ups (his repentance-revival eyewitness; his vestry as CPR first mover); Wk 13/15 images (John sources; Wk 13 needs re-choosing for the Four Questions theme); CFT/Life-Model Vol 5 bib entries parked at "not yet"; WR persona keying on John's word; JD pushes to dev — fetch first.
