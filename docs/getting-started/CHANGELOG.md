@@ -8,7 +8,18 @@
 |---|---|---|
 | **v1.0** | The canonical 15-week series: all ages (12–18), three-circle age-split design (junior / senior / parent). The right starting edition for mixed-age cohorts or bodies preferring separated circles. | Git tag `gs-v1.0` (July 2026) |
 | **v1.1** | v1.0 + the 22-meeting CCA calendar overlay (Wednesdays, four quarters, 6/5/6/5). The overlay adds seven structured extra meetings without renumbering the fifteen sessions. | The [CCA 2026–27 Calendar](cca-2026-27-calendar.md) page |
-| **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. The live edition for the first CCA cohort. | Current pages |
+| **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
+| **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
+
+# August 2026 — v1.4, the seamless twenty-two-week year
+
+The founder's field ruling while preparing to teach: the overlay structure — fifteen "Weeks" in the lesson plans, twenty-two "Meetings" on the calendar, seven extra evenings existing only as calendar rows — read fine on paper and felt wrong in the teacher's hands. v1.4 dissolves the overlay into one seamless sequence. Whoever opens the series now finds one numbering, one flow, every Wednesday with its own full session plan.
+
+- **One sequence, Weeks 1–22.** The fifteen sessions keep their content; four of them renumber to their place in the year (Mission → Week 13, The Rhythm and the Four Questions → Week 15, Sending → Week 21, Commissioning → Week 22). Weeks 1–11 stand unchanged.
+- **Seven new full session plans**, written in the house style: **Week 12 — The Return** (full re-entry after Christmas), **Week 14 — Second Running: Block A** (another teen's full rep), **Week 16 — Family Conversation Night** (cards and a shared meal), **Week 17 — The Float** (absorbs the calendar's surprises, or walks the Rhythm Cards live), **Week 18 — The Return II** (light re-entry; the year begins to hand itself over), **Week 19 — Second Running: Block B** (the Companions-in-Formation rehearse the mercy cards), and **Week 20 — The Long Walk** (the mercy cards taught to the whole room; journal arc review; testimony gathering).
+- **One measurement story.** The Mid-Series Pulse becomes the **Quarterly Pulse** at the quarter seams — Week 6, Week 11 (the year's exact midpoint, where the halfway framing is finally true), and Week 16 — each distributed at the quarter's close and collected at the next gathering's door. The Post-Series Survey moves to The Long Walk (Week 20), with returns at the Week 21 door. The **three break experiments** (practice survival, Path Home Card uses, time-to-settled-container) are read at each re-entry: Weeks 7, 12, and 18.
+- **The calendar page becomes a dates table** — the sequence lives in the curriculum; the page only pins weeks to Wednesdays.
+- The fifteen-week consecutive edition remains preserved at git tag `gs-v1.0` for future bodies wanting a shorter run; the handbook, series index, journal, and pre-cohort guide all now speak the language of the year.
 
 # August 2026 — v1.3, the family-integrated edition
 

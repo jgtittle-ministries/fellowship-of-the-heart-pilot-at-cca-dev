@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 

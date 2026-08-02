@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -81,7 +81,7 @@ The Garden of Your Heart is not allegory and not visualization-as-self-help. It 
 
 ## Connect focus
 
-God, primary. Self is the lens (your interior). Others (the room, and your own family beside you) provides the holding container in which the encounter takes place. Mission is implicit — what is offered tonight will be carried into Weeks 12–15 as the foundation of the participant’s sense of calling.
+God, primary. Self is the lens (your interior). Others (the room, and your own family beside you) provides the holding container in which the encounter takes place. Mission is implicit — what is offered tonight will be carried into Weeks 13–22 as the foundation of the participant’s sense of calling.
 
 # Pre-Work for the Companion Team (this week)
 
@@ -142,7 +142,7 @@ Forty-eight hours before Week 9, the Companion team meets for forty-five minutes
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Mid-Series Pulse returns (from Week 8) collected in the bin. Quieter than usual. |
+| 6:45–7:00 | Arrival window | Single circle (forming) | Co-Comp (Teen) | Door, name tags. Quieter than usual. |
 | 7:00–7:10 | Block 1: Welcome and centering | Shared circle | Lead Comp | Aaronic blessing. Frame the night gently. |
 | 7:10–7:15 | Block 2: Week 7 check-in | Shared circle | Lead Comp | Brief check on PROAPT practice. One-sentence shares. |
 | 7:15–7:32 | Block 3: Scripture and framing | Shared circle | Lead Comp | Read Psalm 23 and John 15:1–11. Frame the practice. Address skepticism. |
@@ -386,7 +386,6 @@ Companion team meets the day after Week 9 for a 45-minute debrief. Week 9 debrie
 - If the read was rushed, debrief specifically with the reader. Week 11’s pacing matters even more.
 - If sharing slid into interpretation, the Lead Companion may want to reaffirm the receive-without-interpreting norm at the Week 10 open.
 - If skepticism dominated, the Lead Companion may want a brief private 1:1 with the most resistant participants before Week 11.
-- Review the Mid-Series Pulse returns collected tonight at this week's debrief; they inform pacing for Weeks 10–15.
 
 ### People to follow up with this week
 

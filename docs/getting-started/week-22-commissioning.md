@@ -2,7 +2,7 @@
 
 *Getting Started series — The Four Connects*
 
-Week 15
+Week 22
 
 **Commissioning the Companions**
 
@@ -14,13 +14,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # **Quick Reference Card**
 
-*Print this page on cardstock. Two copies tonight — Lead Companion and Co-Companion. Tonight is simpler logistically than Week 14 and heavier in a different way: the whole night rests on a handful of teenagers, in front of their families. Read the run sheet and the grace protocol before walking in.*
+*Print this page on cardstock. Two copies tonight — Lead Companion and Co-Companion. Tonight is simpler logistically than Week 21 and heavier in a different way: the whole night rests on a handful of teenagers, in front of their families. Read the run sheet and the grace protocol before walking in.*
 
-## WEEK 15 — COMMISSIONING THE COMPANIONS (90 minutes)
+## WEEK 22 — COMMISSIONING THE COMPANIONS (90 minutes)
 
 **Aim.** The Companions-in-Formation are commissioned as FC1 — Formation Companion, Level One. Not a ceremony appended to the series close: an exit gate run as a witnessed rite. Four movements: the final rep (the container opened and closed from memory, publicly); the three rules read aloud to the whole room; the covering named; the commissioning — with the first Leader Lab of the spring serving cycle scheduled before anyone leaves. The seniors leave this room having *begun*, not merely finished.
 
@@ -36,18 +36,18 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **IJH source.** Vol 5 Formation Companion concept; Handbook Section 11 (the Companion-in-Formation track, especially 11.1, 11.2, 11.6, 11.7, 11.8); Appendix I (the Limits Card); the Three Vital Signs card (shared materials); Acts 13:1–3 communal sending paradigm; 2 Timothy 2:2 as the generational architecture.
 
-## WATCH FOR (Week 15 specific risks)
+## WATCH FOR (Week 22 specific risks)
 
 - The senior who freezes on the final rep. This is the one contingency to have fully decided in advance, and the team already has: **the gate is fluency across the arc, not perfection tonight.** A senior who has opened the container eight Wednesdays since October passed the gate weeks ago; tonight is the witness of it, not the exam. A stumble is not a fail. The recovery script is in Block 2. Never let a stumble hang in silence; never let it become the story of the night.
 - The cohort treating this as the seniors' graduation *out* of the group. Name it from the front, early: they are not leaving. They are taking a place *in* the body — the serving place. The exit gate opens inward.
 - Parents' pride overwhelming the teen. This is a good problem. A father who chokes up watching his daughter open the container from memory is the night working. Give it its moment; do not manage it away. But keep the rite moving — the pride gets its fullest expression in the blessing block, where it belongs.
-- Any senior whose sign-off did not confirm. This must have been handled privately, in Week 13's week, in the discernment conversation between parent and Lead Companion — **never discovered tonight.** If it happened: that senior is honored tonight, by name, for what they led across the series, and their commissioning waits for the next cycle with a clear, hopeful path. The contingency script is in Block 6. If the team walks into Week 15 without this settled, stop and settle it before the session — even at the cost of a delay.
-- The rite going long. Ninety minutes is enough if the team holds the blocks. The blessings are where nights like this run away; the form (specific, witnessed, brief) is the discipline, exactly as it was in Week 14.
+- Any senior whose sign-off did not confirm. This must have been handled privately, in Week 15's week, in the discernment conversation between parent and Lead Companion — **never discovered tonight.** If it happened: that senior is honored tonight, by name, for what they led across the series, and their commissioning waits for the next cycle with a clear, hopeful path. The contingency script is in Block 6. If the team walks into Week 22 without this settled, stop and settle it before the session — even at the cost of a delay.
+- The rite going long. Ninety minutes is enough if the team holds the blocks. The blessings are where nights like this run away; the form (specific, witnessed, brief) is the discipline, exactly as it was in Week 21.
 - The younger teens watching with hunger. Some of the younger teens will watch tonight and want this. That is not a risk — that is the pipeline forming. But do not promise anything from the front; note the names and bring them to the debrief.
 
-## CRISIS CONTINGENCIES (Week 15)
+## CRISIS CONTINGENCIES (Week 22)
 
-**Week 15 is low-risk for acute crisis. The standard protocols remain in force — Crisis Quick-Reference Card in every Companion pocket, pastoral / clinical backup on call, Section 6 unchanged. The one real risk tonight is not crisis but weight: the emotional weight of public blessing on teens who rarely receive it.**
+**Week 22 is low-risk for acute crisis. The standard protocols remain in force — Crisis Quick-Reference Card in every Companion pocket, pastoral / clinical backup on call, Section 6 unchanged. The one real risk tonight is not crisis but weight: the emotional weight of public blessing on teens who rarely receive it.**
 
 **If a new FC1 is overwhelmed during their blessing — tears, shaking, unable to stand still under the words.** This is the session working, not failing. Do not rush, do not rescue, do not make it smaller. Give them room. A hand on the shoulder from their parent; the room holds; the blessing continues when they can bear it. Some of these teens have never once stood in a room full of adults saying true, specific, good things about them. Let the weight land.
 
@@ -57,9 +57,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## **Why this session, this week**
 
-Week 14 sent the families. Tonight commissions the leaders the series formed while nobody was calling it that.
+Week 21 sent the families. Tonight commissions the leaders the series formed while nobody was calling it that.
 
-Across fifteen weeks, a handful of senior teens did something the pilot discovered almost by accident: they led. They took the opening and closing container week after week from Week 5 on. They led the second runnings — Telling Your Story II, PROAPT II, the Garden walk-through. They taught the Rhythm and the two mercy cards in Week 13. They received feedback in front of their peers and came back the next Wednesday and led again. And when they led, the room leaned in like nothing else made it lean in.
+Across the club year, a handful of senior teens did something the pilot discovered almost by accident: they led. They took the opening and closing container week after week from Week 5 on. They led the second runnings — Telling Your Story II, PROAPT II, the Garden walk-through, the second-running blocks. They taught the Rhythm in Week 15 and the two mercy cards at The Long Walk. They received feedback in front of their peers and came back the next Wednesday and led again. And when they led, the room leaned in like nothing else made it lean in.
 
 Tonight that accidental discovery becomes a deliberate act. The Companions-in-Formation are commissioned as FC1 — the first stable level of Formation Companion. The handbook's conviction governs the design: this is an exit gate, not a ceremony. A ceremony looks backward and applauds. A gate opens onto something. The four movements of tonight's rite are the gate's four hinges: the competency demonstrated (the final rep), the boundary made public (the three rules), the net confirmed (the covering), and the road entered (the commissioning, with the first Lab of the serving cycle on the calendar before anyone touches a coat).
 
@@ -71,12 +71,12 @@ From 2 Timothy 2:2, the whole architecture in one verse: Paul, to Timothy, about
 
 ## From prior sessions
 
-- Weeks 5–14: every container a senior opened or closed built toward tonight's final rep. Container fluency is FC1's spine competency; it was formed by steady, low-risk repetition across the arc, which is exactly why tonight's demonstration is a gate with real dignity and not a pop quiz.
-- The second runnings (Weeks 4, 8, 10) and Week 13: the marquee slots each senior led, which the blessings tonight will name specifically.
+- Weeks 5–21: every container a senior opened or closed built toward tonight's final rep. Container fluency is FC1's spine competency; it was formed by steady, low-risk repetition across the arc, which is exactly why tonight's demonstration is a gate with real dignity and not a pop quiz.
+- The second runnings (Weeks 4, 8, 10) and Week 15: the marquee slots each senior led, which the blessings tonight will name specifically.
 - Leader Lab 1–6 (run alongside the series): the covering conversation happened in Lab 4; the mock full session and the Lab's own commissioning prayer happened in Lab 6. Tonight is the public form of what Lab 6 did privately.
 - Leader Lab 3: the seniors were trained on the Three Vital Signs — Costly Telling, Response to Load, the Sought Stray. The charge tonight hands them that lens for keeps.
-- Week 13's week: the discernment conversation — parent and Lead Companion, both agreeing the teen is ready. Confirmed before tonight, never discovered tonight.
-- Week 14: the cohort has just watched specific witnessed blessing done well, family by family. Tonight's blessing block stands on that.
+- Week 15's week: the discernment conversation — parent and Lead Companion, both agreeing the teen is ready. Confirmed before tonight, never discovered tonight.
+- Week 21: the cohort has just watched specific witnessed blessing done well, family by family. Tonight's blessing block stands on that.
 
 ## **Connect focus**
 
@@ -86,32 +86,32 @@ All four. Self: the seniors' own formation is real and named — you cannot lead
 
 ## **Personal pre-work**
 
-Each Companion writes, this week, a specific witnessed blessing for each Companion-in-Formation being commissioned — one to three sentences per senior, drawn from what that Companion actually saw them lead across the fifteen weeks. Not "you did great." What, specifically. The Wednesday she re-established the container when her cluster got loud. The way he handed the heavy moment to the adult in Week 10 without hesitation and without drama — the rule working in the wild. Write it down; you will speak it in Block 6.
+Each Companion writes, this week, a specific witnessed blessing for each Companion-in-Formation being commissioned — one to three sentences per senior, drawn from what that Companion actually saw them lead across the year. Not "you did great." What, specifically. The Wednesday she re-established the container when her cluster got loud. The way he handed the heavy moment to the adult in Week 10 without hesitation and without drama — the rule working in the wild. Write it down; you will speak it in Block 6.
 
 And each Companion sits with 2 Timothy 2:2 once through, slowly. Tonight you are Timothy in that verse. Know it before you say it.
 
 ## **Team pre-work**
 
-One team meeting, three to five days before Week 15 (60–75 minutes):
+One team meeting, three to five days before Week 22 (60–75 minutes):
 
 1. Walk the run sheet. Assign the final-rep slots: who opens, who closes, who speaks which container condition (see Block 2 for the division). Tell each senior their slot this week — rehearsed dignity, not ambush.
 2. Confirm every sign-off. For each Companion-in-Formation: has the parent confirmed? Has the Lead Companion confirmed? Any senior not confirmed is contacted privately this week — the honoring-tonight, commissioning-next-cycle conversation happens before Wednesday, with hope in it, never in the room.
 3. Set the date. The first Leader Lab of the spring serving cycle — an actual date, on the actual calendar, before Wednesday. The Lead Companion announces it in Block 7. Do not walk in without it.
-4. Blessing review. Each Companion reads their blessings for the seniors aloud to the team. Trim anything generic. The Week 14 discipline holds: specific, witnessed, brief.
+4. Blessing review. Each Companion reads their blessings for the seniors aloud to the team. Trim anything generic. The Week 21 discipline holds: specific, witnessed, brief.
 5. Decide the grace protocol out loud, as a team, even though it is already written: the gate is fluency-over-the-arc, not perfection tonight. Every Companion should be able to say it in their sleep, because if a senior freezes, the recovery must be instant and unanimous.
 6. Pray for each senior by name.
 
 ## **Family and senior pre-work — sent early in the week**
 
-Email to all families: *"Wednesday is Week 15, our final gathering — Commissioning the Companions. This is the night our Companions-in-Formation, the seniors who led us this year, are commissioned as Formation Companions, Level One. The whole cohort and all families are wanted in the room: a commissioning needs witnesses, and they earned ours. 6:30 start, 8:00 close. Light dessert after."*
+Email to all families: *"Wednesday is Week 22, our final gathering — Commissioning the Companions. This is the night our Companions-in-Formation, the seniors who led us this year, are commissioned as Formation Companions, Level One. The whole cohort and all families are wanted in the room: a commissioning needs witnesses, and they earned ours. 6:30 start, 8:00 close. Light dessert after."*
 
 Email to each Companion-in-Formation (individually): their final-rep slot (open, close, or which container condition they will speak from memory, with a story of holding it); a reminder that the covering movement will ask them to name their person aloud — decide the name before Wednesday (it was chosen in Lab 4; confirm it still holds); and one line of steel and warmth: *"You have done this every week since the fall. Wednesday you do it in front of everyone who loves you. Same container. More witnesses."*
 
 ## **Logistics pre-work**
 
-1. Print Handout H15.1 — the FC1 Commissioning Card, one per senior, cardstock.
-2. Print Handout H15.2 — the Limits Card (Appendix I reprint), one per senior, cardstock, laminated if possible.
-3. Print Handout H15.3 — the keepsake sheet, one per senior, heavy paper. Pens on the signing table.
+1. Print Handout H22.1 — the FC1 Commissioning Card, one per senior, cardstock.
+2. Print Handout H22.2 — the Limits Card (Appendix I reprint), one per senior, cardstock, laminated if possible.
+3. Print Handout H22.3 — the keepsake sheet, one per senior, heavy paper. Pens on the signing table.
 4. Confirm the first Leader Lab date one final time with the adult who runs the Lab.
 5. Room: single wide circle, open center, no table in the middle. A small side table near the door for the keepsakes and pens after the close. Light dessert set for after — this night ends warm.
 6. Confirm pastoral / clinical backup for the night, per standing protocol.
@@ -121,9 +121,9 @@ Email to each Companion-in-Formation (individually): their final-rep slot (open,
 ### **Materials checklist**
 
 - Chairs in a single wide circle. Open central space. No table in the middle.
-- Handouts H15.1 and H15.2 for each senior; H15.3 laid out on the side table with pens.
+- Handouts H22.1 and H22.2 for each senior; H22.3 laid out on the side table with pens.
 - The large-print Bible (ESV) in the center of the circle.
-- Tissues distributed through the circle. Week 14 taught us why.
+- Tissues distributed through the circle. Week 21 taught us why.
 - Crisis Quick-Reference Card in every Companion pocket; backup on call.
 - The Lab date, written large on a card the Lead Companion holds up in Block 7. Yes, physically. The calendar is the proof; let the room see it.
 - Light dessert staged for after the close.
@@ -237,7 +237,7 @@ The bright line made public. The whole cohort — the room these seniors will se
 
 ## **Block 5 — The Covering Named (7:10–7:20, 10 min) — MOVEMENT THREE**
 
-Each new FC1 names, aloud, the adult they will call when they are over their head — the standing covering relationship that FC1 formation requires. The conversation happened in Lab 4; the discernment sign-off happened in Week 13's week; tonight is public confirmation, not discovery.
+Each new FC1 names, aloud, the adult they will call when they are over their head — the standing covering relationship that FC1 formation requires. The conversation happened in Lab 4; the discernment sign-off happened in Week 15's week; tonight is public confirmation, not discovery.
 
 ## Script (the frame)
 
@@ -249,15 +249,15 @@ Each new FC1 names, aloud, the adult they will call when they are over their hea
 
 **2. The Lead Companion confirms the sign-off:** *"[Name]'s readiness was discerned by the two people the handbook requires: their parent and me. [Parent's name], do you confirm?"* The parent, from their seat or standing: *"I confirm it."* Lead Companion: *"And I confirm it."*
 
-**3. The senior writes the covering name on their Commissioning Card (H15.1), there in the circle.** Ink, not intention.
+**3. The senior writes the covering name on their Commissioning Card (H22.1), there in the circle.** Ink, not intention.
 
 ### **Contingency — a senior whose sign-off did not confirm**
 
-This was handled privately in Week 13's week; it never surfaces as news tonight. The senior was told, with a parent present, with warmth and a plan: what tonight will and will not include for them, and the clear, hopeful path to commissioning in the next cycle. Tonight, in Block 6, the Lead Companion honors them by name and specifically for what they led this series — the blessing they receive is as real as anyone's — and says plainly and without embarrassment: *"[Name]'s commissioning comes at the next cycle, and we are already looking forward to it."* No explanation to the room, no apology, no daylight between the team and the family. A gate that can be not-yet is the only kind of gate whose yes means anything — handled rightly, this senior leaves the room honored and hopeful, not exposed.
+This was handled privately in Week 15's week; it never surfaces as news tonight. The senior was told, with a parent present, with warmth and a plan: what tonight will and will not include for them, and the clear, hopeful path to commissioning in the next cycle. Tonight, in Block 6, the Lead Companion honors them by name and specifically for what they led this series — the blessing they receive is as real as anyone's — and says plainly and without embarrassment: *"[Name]'s commissioning comes at the next cycle, and we are already looking forward to it."* No explanation to the room, no apology, no daylight between the team and the family. A gate that can be not-yet is the only kind of gate whose yes means anything — handled rightly, this senior leaves the room honored and hopeful, not exposed.
 
 ## **Block 6 — The Commissioning (7:20–7:40, 20 min) — MOVEMENT FOUR, part one**
 
-The blessing block. The Week 14 discipline governs: specific, witnessed, true — not generic praise. The room watched these seniors lead for fifteen weeks; the blessings draw on what was actually seen.
+The blessing block. The Week 21 discipline governs: specific, witnessed, true — not generic praise. The room watched these seniors lead all year; the blessings draw on what was actually seen.
 
 ## Per senior (≈ 4–5 min)
 
@@ -315,7 +315,7 @@ The reserved senior closes the container from memory — the full protocol: the 
 
 ## **After (8:00+): the signing, dessert, lingering**
 
-The keepsake sheets (H15.3) are on the side table with pens. As the room lingers over dessert, everyone — cohort, parents, siblings, Companions — signs each new FC1's keepsake, the way you sign a Bible flyleaf. Names, not messages; the charge and the blessing are already printed, and the names are the witnesses. Teens keep these for decades. Do not let anyone leave without signing.
+The keepsake sheets (H22.3) are on the side table with pens. As the room lingers over dessert, everyone — cohort, parents, siblings, Companions — signs each new FC1's keepsake, the way you sign a Bible flyleaf. Names, not messages; the charge and the blessing are already printed, and the names are the witnesses. Teens keep these for decades. Do not let anyone leave without signing.
 
 Stay. Some families will not leave for an hour. The work after the closing is sometimes the work — tonight more than ever, because the younger teens who watched with hunger will be the ones lingering near the seniors, and what they say to each other at the dessert table is the pipeline forming in real time.
 
@@ -357,8 +357,8 @@ The three-layer closing pattern of the series runs one last time — and for the
 
 ## For everyone — the interlude continues
 
-- The Daily / Weekly / Monthly Rhythm Card, built in Week 13, remains the long-term practice: the morning question and evening journal note daily; one person who knows what you are working on weekly; a clearing time monthly.
-- The Going Deeper interlude practices continue as framed in Week 14: the Rhythm Card, the weekly Family Conversation Card, the short book, and the family's own decision about Going Deeper, on their own time.
+- The Daily / Weekly / Monthly Rhythm Card, built in Week 15, remains the long-term practice: the morning question and evening journal note daily; one person who knows what you are working on weekly; a clearing time monthly.
+- The Going Deeper interlude practices continue as framed in Week 21: the Rhythm Card, the weekly Family Conversation Card, the short book, and the family's own decision about Going Deeper, on their own time.
 - The Signs Card and the Path Home Card stay in the family folder. Every family knows what they are for.
 
 # **Companion Debrief Prompts**
@@ -386,17 +386,17 @@ Companion team meets within the week for the final debrief of Getting Started �
 
 - The pilot's discovery, in the handbook's words: when a teenager stood up and led their peers, the rest of the room leaned in like nothing else. Did it happen again tonight? Where exactly — the final rep, the covering, the closing? Write it down; this is the observation the whole FC1 track is built on, and every cycle either confirms it or corrects it. Bring it to John for the IJH project.
 - Was tonight a gate or a ceremony, honestly? The test is not how it felt at 8:00 PM; the test is who shows up to Lab 1. Put the Lab 1 attendance question on the next team agenda now.
-- What should Week 15 do differently in the next cycle? The rite is young. Improve it while the night is fresh.
+- What should Week 22 do differently in the next cycle? The rite is young. Improve it while the night is fresh.
 
 # **Handouts**
 
-Three handouts for Week 15. H15.1 and H15.2 are handed to each new FC1 during the rite; H15.3 is signed by the room after the close.
+Three handouts for Week 22. H22.1 and H22.2 are handed to each new FC1 during the rite; H22.3 is signed by the room after the close.
 
-- H15.1 — FC1 Commissioning Card (one per senior, cardstock)
-- H15.2 — The Limits Card (Appendix I reprint, one per senior)
-- H15.3 — The Keepsake: the Charge and the Blessing (one per senior, heavy paper, signed by the room)
+- H22.1 — FC1 Commissioning Card (one per senior, cardstock)
+- H22.2 — The Limits Card (Appendix I reprint, one per senior)
+- H22.3 — The Keepsake: the Charge and the Blessing (one per senior, heavy paper, signed by the room)
 
-**Handout H15.1 — FC1 Commissioning Card**
+**Handout H22.1 — FC1 Commissioning Card**
 
 *Cardstock. Handed to each new FC1 in the commissioning. One card they keep.*
 
@@ -428,11 +428,11 @@ Three handouts for Week 15. H15.1 and H15.2 are handed to each new FC1 during th
 
 **First Leader Lab: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (date, time, place)** — bring one vital-signs observation from commissioning night.
 
-**Handout H15.2 — The Limits Card**
+**Handout H22.2 — The Limits Card**
 
 *Reprint of Handbook Appendix I — The Limits Card (Companion-in-Formation) — on cardstock, laminated. Every new FC1 receives a fresh copy tonight, even if their fall copy survived. The card goes where they go when they lead: the three rules, the if-something-heavy-surfaces script, the what-you-lead / what-an-adult-holds table, and the fill-in referral lines for the day there is no adult in the room. See Appendix I of the handbook for the full card text; print it unaltered.*
 
-**Handout H15.3 — The Keepsake: the Charge and the Blessing**
+**Handout H22.3 — The Keepsake: the Charge and the Blessing**
 
 *One per new FC1, heavy paper, printed handsomely. After the close, everyone in the room signs it — cohort, parents, siblings, Companions — the way a Bible flyleaf gets signed. Names as witnesses. They will keep this for decades; print it like you believe that.*
 

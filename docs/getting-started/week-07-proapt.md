@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # **Quick Reference Card**
 
@@ -141,9 +141,9 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
-| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Restate container. Frame Week 7 as a turn. |
-| 7:08–7:13 | Block 2: Wk 6 check-in | Shared | Lead Comp | Brief: how is the Examen landing? |
+| 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | First arrival after the quarter break. Pulse 1 returns collected in the bin at the door. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared | Lead Comp | Aaronic blessing. Container re-held slowly after the break. Frame Week 7 as a turn. |
+| 7:08–7:13 | Block 2: Re-entry check-in | Shared | Lead Comp | How did the break treat you and your practice? How is the Examen landing? |
 | 7:13–7:23 | Block 3: Romans 10:17 — the chain | Shared | Lead Comp | Teaching: Word→Hearing→Faith. Why hearing is a learnable skill. |
 | 7:23–7:35 | Block 4: PROAPT walked together | Shared | Lead Comp | Whole room works Mark 1:14–20 step by step. 12 minutes. |
 | 7:35–7:37 | Block 5: Bridge to the clusters and pair structure | Shared | Lead Comp | Family pairs explained. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
@@ -157,13 +157,13 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 ## **Block 1 — Welcome and Centering (7:00–7:08, 8 min)**
 
-*(CCA calendar note: under the CCA calendar, Week 7 opens Quarter 2 — the first session back after the quarter break. On that schedule the opening and check-in carry a 20-minute re-entry emphasis; the calendar overlay page carries that detail. The run sheet here is unchanged.)*
+*(Week 7 opens Quarter 2 — the first gathering after the year's first break. Blocks 1 and 2 together are a deliberate re-entry: run the container restatement slower than usual and let the check-in breathe. The team collects the Pulse 1 returns at the door, and — at this first re-entry — discreetly notes the first round of the three break experiments: practice survival across the break, Path Home Card uses, and time-to-settled-container (Handbook Section 8). The Return in January runs the same readings at full length.)*
 
 ## Script
 
-*“Welcome back. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
+*“Welcome back. It is good to see every face in this room again after the break. Let me speak this blessing first. The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Container reminder: Safe, Present, Clear, Intentional. Same as it has been across all our weeks together.” “Tonight is Week 7. We are over halfway. The first five weeks were Self and Others. Tonight we turn the channel.”*
+*“Container reminder: Safe, Present, Clear, Intentional. Same as it has been across all our weeks together — and worth re-saying slowly tonight, because a container that sat empty for a break needs a minute to hold again.” “Tonight is Week 7, the first gathering of our second quarter. The first six weeks were Self and Others. Tonight we turn the channel.”*
 
 *“Here is the move. We have done the interior work — Heart Soil, story, friendship audit, naming the place. All of that prepares us for what we are going to practice tonight: hearing God in scripture as a learnable skill. Not a mystical thing reserved for special people. A practice. With six steps. That works.”*
 
@@ -171,11 +171,11 @@ The Lead Companion picks the worked-example passage for tonight (Mark 1:14–20 
 
 ## Script
 
-*“Last week we did the confession-and-restoration practice. The week between was the Five-Minute Examen each evening. Take ninety seconds: one sentence about the Examen, or about anything that has shifted since Wednesday. [Parent’s name], would you start us?”*
+*“Before the break we did the confession-and-restoration practice, and the practice you carried across was the Five-Minute Examen each evening. Take ninety seconds: one sentence about the Examen, or about how the break treated your practice, or anything that has shifted. Thinned out over the break is a completely normal answer — the practice picks up where you are. [Parent’s name], would you start us?”*
 
 *(A parent opens — arranged with them before the session, never a cold call on a teen. Then take 2–3 more contributions, teens choosing their own depth. Pass-anytime holds. Then move on.)*
 
-*“For anyone whose Week 6 is still sitting heavy — the team is here. Find one of us before you leave tonight if you need to.”*
+*“For anyone whose Week 6 is still sitting heavy — the break does not close that door. The team is here. Find one of us before you leave tonight if you need to.”*
 
 ## **Block 3 — Romans 10:17 and the Hearing Chain (7:13–7:23, 10 min)**
 
@@ -368,6 +368,7 @@ Same as prior weeks.
 
 ### **Adjustments for the sessions ahead**
 
+- Read the Pulse 1 returns collected at tonight's door, and log the first break-experiment readings (practice survival, Path Home Card uses, time-to-settled-container) while the evening is fresh.
 - Next week is PROAPT II — a Companion-in-Formation leads the full walk-through. If tonight was thin on Apply, coach the senior this week to slow the Apply step and use the specific-situation prompt.
 - Week 9 (Garden of Your Heart) is the deepest experiential practice of Getting Started. Tonight and next week are its preparation — the room will arrive used to Spirit-led hearing.
 

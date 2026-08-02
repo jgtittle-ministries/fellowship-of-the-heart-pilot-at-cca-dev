@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -38,7 +38,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Center.** Age-appropriate confession-and-restoration practice. Each participant names one place where they want to walk in greater honesty (NOT specific sins; the place, the pattern, the pull). The circle speaks a brief blessing of restoration. The Spirit does the work; we hold the space.
 
-**Between-session practice.** The Five-Minute Examen each evening for the next week. (The Mid-Series Pulse belongs to Week 8, the series midpoint — not tonight.)
+**Between-session practice.** The Five-Minute Examen each evening — carried through the quarter break that follows tonight. Plus: the Quarterly Pulse (H6.3) goes home tonight, the first of the year's three — one page, five minutes, back in the bin at the Week 7 door.
 
 **IJH source.** Vol 2 Second Exploration (Emotional Knots, including the Sin Knot type) and Vol 2 Fourth Exploration (Confession and Restoration); Vol 2 Eighth Exploration on container; Vol 2 Ninth Exploration on community amplification.
 
@@ -171,7 +171,7 @@ The team meets 48 hours before Week 6. Three specific things:
 | 7:30–7:32 | Block 5: Bridge to the split | Shared | Lead Comp | Walk handout. Parents-first named. Pray. Split. |
 | 7:32–8:05 | Block 6: Confession-and-restoration in family clusters | Clusters | Cluster Comps | Companion first, then the parents, then the teens. Each names one place; the circle blesses with restoration. |
 | 8:05–8:13 | Block 7: Merge and shared blessing | Shared | Lead Comp | One word each. Shared blessing of restoration over all. |
-| 8:13–8:18 | Block 8: Between-session practice | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. |
+| 8:13–8:18 | Block 8: Between-session practice | Shared | Co-Comp (Parent) | Introduce Five-Minute Examen. Quarterly Pulse (H6.3) distributed — Quarter 1 closes tonight. |
 | 8:18–8:23 | Block 9: The Leader Feedback Round | Shared | Lead Comp | The every-week closing round: leader’s two questions, then the room. |
 | 8:23–8:30 | Block 10: Closing container | Shared | Lead Comp | Container reaffirmed. Aaronic blessing. |
 | 8:30+ | After: pastoral availability | Floating | Lead Comp | Stay accessible at least ten minutes. This night produces door conversations. |
@@ -302,11 +302,13 @@ This is the heart of the night. Each cluster runs the same structure. The order 
 
 ## Block 8 — Between-Session Practice (8:13–8:18, 5 min)
 
-The between-session practice is introduced. (The Mid-Series Pulse now belongs to Week 8, the series midpoint — do not distribute it tonight.)
+The between-session practice is introduced, and the first Quarterly Pulse goes home.
 
 ## Script
 
 *“This week’s practice: the Five-Minute Examen. Each evening this week, before bed, take five minutes with God. Three steps. One — thank Him for one specific thing from the day. Two — notice one place where you saw God moving. Three — ask Him about one place where you walked in less honesty than you wanted to today. That third one is the carryover from tonight. Just notice. No fixing. The Spirit does the work.”*
+
+*“And one page goes home with you tonight.”* (Hold up H6.3; hand the stack around.) *“Tonight closes our first quarter together. This is the Quarterly Pulse: three questions, five minutes at home, honest. The team reads every one, and it steers how we run the quarters ahead. Sign it or leave it anonymous — your choice. It comes back to the bin at the door at our first gathering back.”*
 
 ## Block 9 — The Leader Feedback Round (8:18–8:23, 5 min)
 
@@ -332,7 +334,7 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Go gently. See you Wednesday.”*
+*“Go gently. Tonight closes the quarter — carry the Examen through the break, and bring the Pulse page back to the door when we gather again for Week 7. See you then.”*
 
 *After the blessing, do not pack up. Stay accessible for at least ten minutes. This session more than any other will produce post-session conversations.*
 
@@ -415,7 +417,7 @@ Companion team meets the day after Week 6 for a 45-minute debrief. Like Weeks 3�
 
 - Week 7 introduces PROAPT and shifts from Others to God. If Week 6 was heavy, Week 7 will feel like a deliberate exhale. Honor that.
 - If anyone was missed in their cluster, pastoral follow-up before Week 7.
-- Flag anything tonight surfaced that the Week 8 Mid-Series Pulse should watch for.
+- Read the Pulse 1 returns (collected at the Week 7 door) against anything tonight surfaced.
 
 ### People to follow up with this week
 
@@ -431,11 +433,11 @@ Pray by name for each participant who named a place tonight. The Week 6 debrief 
 
 # Handouts
 
-Two handouts for Week 6. The confession handout comes in teen and parent versions; the blessing card is one version for all. (The junior version of H6.1 is retired in the pilot edition — one high-school band. The Mid-Series Pulse instrument now lives with Week 8, the series midpoint.)
+Three handouts for Week 6. The confession handout comes in teen and parent versions; the blessing card is one version for all. (The junior version of H6.1 is retired in the pilot edition — one high-school band.)
 
 - H6.1 — The Place I Want to Walk in Greater Honesty (Teen, Parent)
 - H6.2 — Blessing of Restoration card (everyone)
-- H6.3 — Mid-Series Pulse (held for Week 8 — do not distribute tonight)
+- H6.3 — The Quarterly Pulse (the first of the year's three; the same one-page instrument each quarter — printed form in the Week 11 handouts; returns at the Week 7 door)
 
 **Handout H6.1 — The Place (Teen)**
 

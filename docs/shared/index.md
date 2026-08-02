@@ -39,7 +39,7 @@ These materials are designed to work together across the year:
 - The **Rhythm Card** sets the daily, weekly, and monthly practices that the cohort sustains together.
 - The **PROAPT Card** is the reference for the hearing-in-scripture practice that anchors the daily rhythm from Week 7 onward.
 - The **Reading List** is for the participant who wants to read further, at their own pace.
-- The **Signs Card** and **Path Home Card** are the two mercy cards — one for the season when the practices go dry, one for the person who has been away — taught near the end of Getting Started (at The Long Walk in the CCA club year, by the Companions-in-Formation; in Week 13's appendix block on a straight fifteen-week run) and kept in every participant folder from then on, in the hope that they gather dust.
+- The **Signs Card** and **Path Home Card** are the two mercy cards — one for the season when the practices go dry, one for the person who has been away — taught near the end of Getting Started (rehearsed at Week 19, then taught to the whole room at The Long Walk — Week 20 — by the Companions-in-Formation; a body running the fifteen-week `gs-v1.0` edition teaches them in its Week 13) and kept in every participant folder from then on, in the hope that they gather dust.
 - The **Measurement Covenant** stands behind all of it: the participants' materials ask for honesty, and the covenant is the team's written promise about what happens to that honesty.
 - The **Three Vital Signs** card is how the team actually watches, week to week — three questions at the top of every debrief, with the heavier instruments held in reserve.
 

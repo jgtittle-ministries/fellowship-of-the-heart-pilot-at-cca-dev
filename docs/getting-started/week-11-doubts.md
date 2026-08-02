@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # **Quick Reference Card**
 
@@ -34,7 +34,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Center.** The Any Doubts? practice, in pairs within the family — a parent paired with their own teen wherever possible. In every pair the parent names an honest doubt first, arranged with that parent before the session; the teen chooses their own depth after, and pass-anytime holds. Each participant identifies a scripture they want to believe more than they currently do, names the doubt to their partner, sits with the doubt briefly, and receives the scripture again. Two to three cycles per pair.
 
-**Between-session practice.** Personal Doubts Inventory — one page in the journal listing scriptures I want to believe more than I currently do. No shame. Just data.
+**Between-session practice.** Personal Doubts Inventory — one page in the journal listing scriptures I want to believe more than I currently do. No shame. Just data. Over the quarter break, one chosen daily practice carries the rhythm. And the Quarterly Pulse (H11.4) goes home tonight — one page, five minutes, back in the bin at The Return’s door in January.
 
 **IJH source.** Vol 2 Seventh Exploration (the Any Doubts? process); Vol 1 Word→Hearing→Faith chain (Romans 10:17); Mark 9:14–29 in full as the scriptural ground.
 
@@ -47,12 +47,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - Teens drifting into hypotheticals. “What if dinosaurs?” Redirect: “One thing you say you believe, that something in you isn’t fully sure about. Not a debate question — a heart question.”
 - Parents importing apologetics-class instincts. Especially in CCA’s context, parents may feel responsible to argue their children out of doubts. The Any Doubts? practice is the opposite of that. The team must model receiving without arguing.
 - The doubt that surfaces is bigger than the exercise. Sometimes the named doubt is the door to a deeper unbelief. The Cluster Companion does not chase it tonight; they bless the naming and follow up offline.
+- The Pulse framing stirs something. Rare, but the midpoint question (“how present have I actually been?”) can land hard on someone who knows the answer. Watch faces during the close. Follow up offline within 48 hours.
 
 ## CRISIS CONTINGENCIES (Week 11)
 
 **Week 11 is moderate-risk. Most of what surfaces will be small honest doubts. Occasionally the practice surfaces something larger — a crisis of faith, a wound that has hardened into specific unbelief, a quiet despair about prayer.**
 
-**If a participant surfaces a larger crisis of faith.** Receive without alarm. Do not preach. Do not promise resolution by Week 14. The Cluster Companion blesses the naming, completes the round if possible, and the Lead Companion follows up offline within 48 hours. Real questions deserve real conversation — not in the cluster.
+**If a participant surfaces a larger crisis of faith.** Receive without alarm. Do not preach. Do not promise resolution by Week 21. The Cluster Companion blesses the naming, completes the round if possible, and the Lead Companion follows up offline within 48 hours. Real questions deserve real conversation — not in the cluster.
 
 **If a participant becomes distressed during the exaggeration step.** Stop the exaggeration. Re-read the scripture. Sit with the participant. The exercise is not therapy; we do not push past distress.
 
@@ -167,9 +168,9 @@ Pairs matter tonight more than in any prior session. The Cluster Companion pre-c
 | 7:35–7:38 | Block 5: Bridge to split | Shared circle | Lead Comp | Announce pair groupings. Pray. Split. |
 | 7:38–8:08 | Block 6: Any Doubts? in pairs within families | Family clusters → pairs | Cluster Comps | Each pair runs 2 cycles, alternating roles — the parent's turn first in every pair. 30 min. |
 | 8:08–8:17 | Block 7: Merge and surface | Shared circle | Lead Comp | One-word landings. Receive without commentary. Brief observation. |
-| 8:17–8:22 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. |
+| 8:17–8:22 | Block 8: Between-session practice | Shared circle | Co-Comp (Parent) | Personal Doubts Inventory: one page in journal this week. Quarterly Pulse (H11.4) distributed and framed — the year’s midpoint. |
 | 8:22–8:27 | Block 9: Leader Feedback Round | Shared circle | Lead Comp | Section 11.7. Five minutes, just before the blessing. |
-| 8:27–8:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Mention next Wednesday closes Getting Started. |
+| 8:27–8:30 | Block 10: Closing container | Shared circle | Lead Comp | Reaffirm. Aaronic blessing. Announce the quarter break, The Return in January, and the Pulse going home tonight. |
 
 # **Block-by-Block: Scripts and Notes**
 
@@ -181,7 +182,7 @@ Pairs matter tonight more than in any prior session. The Cluster Companion pre-c
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“Tonight is Week 11. We have two weeks left in Getting Started. Tonight we are going to do something that goes against most of what we have been taught about how spiritual people should sound. We are going to bring our actual doubts — the small, quiet ones we usually do not say out loud — and we are going to bring them honestly to God in front of one other person.”*
+*“Tonight is Week 11 — the last gathering of the quarter, and the exact midpoint of our year: eleven Wednesdays behind us, eleven ahead. Tonight we are going to do something that goes against most of what we have been taught about how spiritual people should sound. We are going to bring our actual doubts — the small, quiet ones we usually do not say out loud — and we are going to bring them honestly to God in front of one other person.”*
 
 *“Container reminders: what is said in your pair stays in your pair. Nothing is required. Specificity is the practice; honesty is the goal.”*
 
@@ -338,7 +339,9 @@ The Cluster Companion calls switches at the seven-minute mark. “Switch when re
 
 *“For the two or three with the most hesitation — write a sentence about what the doubt is, specifically. Then sit with it. You can run the practice on yourself if you want to. You can also just notice. The noticing alone changes things.”*
 
-*“You will not turn this in. The team will not see it. It is yours. Bring it to next Wednesday only if it has shaped how you think about your week. The list itself stays with you.”*
+*“You will not turn this in. The team will not see it. It is yours. Bring it to The Return — our first gathering back — only if it has shaped how you think about your break. The list itself stays with you.”*
+
+*“One more thing goes home with you tonight — the Quarterly Pulse.”* (Hold up H11.4; hand the stack around.) *“Same one page as the end of the fall quarter: three questions, five minutes at home, honest. Tonight is the exact midpoint of our year — eleven weeks behind us, eleven ahead — and the team uses these to steer the half that remains. It comes back to the bin at the door at The Return, our first night back in January. Be honest on it. ‘Body in the room, mind on the mortgage’ is exactly the kind of answer the page is for.”*
 
 ## **Block 9 — The Leader Feedback Round (8:22–8:27, 5 min)**
 
@@ -358,13 +361,13 @@ Two or three voices on each question is plenty. The leader receives without defe
 
 *“If anything that surfaced is heavier than what tonight could hold, please reach out. The team is walking with you.”*
 
-*“One note: next Wednesday is Week 12 — we turn outward to Mission. After that comes the Rhythm week, and then the two closing gatherings: the family commissioning and the commissioning of our Companions-in-Formation. Plan to bring your whole family to those last two. We are heading toward the sending.”*
+*“One note before the blessing: tonight closes the quarter. When we gather again in January, the first evening is The Return — we rebuild the room and find out, honestly and without shame, what the break did with our practices. Then Week 13 turns us outward to Mission, and the year runs on toward the Rhythm week and, at the end, the two commissionings — the families, and our Companions-in-Formation. Plan to bring your whole family to those last two. We are heading toward the sending.”*
 
 *“Aaronic blessing. Hands up if you want.”*
 
 *“The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace.”*
 
-*“See you Wednesday.”*
+*“Keep one practice alive over the break — just one, your choice. See you in January, at The Return. Merry Christmas to every house in this room.”*
 
 # **One Band, Whole Families: Notes for Teens and Parents**
 
@@ -418,7 +421,7 @@ Companion team meets the day after Week 11 for a 45-minute debrief.
 - Cluster Companions report at least one specific, honest doubt named in their cluster — something the participant probably had not said aloud before.
 - At least one teen heard their own parent name a real doubt, and the pair held — no fixing, no alarm, just the naming and the re-read.
 - The merge one-word landings were varied and specific — not all positive.
-- At least one participant left able to say “I know what I want to bring to next Wednesday” about their own faith.
+- At least one participant left able to say “I know what I want to bring to The Return” about their own faith.
 - Tears appeared somewhere; tonight they are appropriate.
 
 ### **Signs the session did not work as well as it could have**
@@ -429,10 +432,10 @@ Companion team meets the day after Week 11 for a 45-minute debrief.
 - A participant left distressed without being checked on.
 - The demo at Block 4 was rushed or felt rehearsed.
 
-### **If the session did not work — what to adjust for Week 12**
+### **If the session did not work — what to adjust for Week 13**
 
-- If the demo was rushed, the Lead Companion owns it. Week 12 still has time for the team to model honesty more carefully.
-- If pairs drifted, the Lead Companion may want to briefly reframe at Week 12’s opening: “The move from apologetics to witness is one of the harder shifts in this work. Several of us tried it last week.”
+- If the demo was rushed, the Lead Companion owns it. Week 13 still has time for the team to model honesty more carefully.
+- If pairs drifted, the Lead Companion may want to briefly reframe at Week 13’s opening: “The move from apologetics to witness is one of the harder shifts in this work. Several of us tried it last week.”
 - If a participant left distressed, 24-hour contact protocol per Section 6.
 
 ### **People to follow up with this week**
@@ -444,11 +447,12 @@ Companion team meets the day after Week 11 for a 45-minute debrief.
 
 # **Handouts**
 
-Three handouts for Week 11.
+Four handouts for Week 11.
 
 - H11.1 — Any Doubts? Practice Card (teen and parent versions)
 - H11.2 — Personal Doubts Inventory (between-session work)
 - H11.3 — Sample Scriptures (for participants who don’t have one in mind)
+- H11.4 — The Quarterly Pulse (the same one-page instrument as Week 6; structure in Handbook Section 8; one per participant plus spares — returns at The Return’s door)
 
 **Handout H11.1 — Any Doubts? Practice Card**
 
@@ -555,3 +559,39 @@ This list is yours. The team will not see it. You will not turn it in. Keep it i
 - If a scripture is loaded for you because of a specific event in your life, it may be the right one — but watch for distress. If it is more than tonight can hold, pick a different scripture and bring this one to a 1:1 with the Lead Companion.
 - You do not have to use the same scripture both rounds. Some pairs use a different scripture for the second cycle.
 - If none of these is right, pick your own. The list is a starting place, not a menu.
+
+**Handout H11.4 — The Quarterly Pulse (Midpoint)**
+
+*One page. Three questions. Fold it and drop it in the bin at the door at The Return — our first gathering back in January.*
+
+**We are at the midpoint of the year — eleven weeks behind us, eleven ahead. We want to know what is working and what is not so we can use the half that remains well. Be honest. The team uses these to adjust pacing, depth, and emphasis.**
+
+### **1. On a scale of 1–10, how present have I actually been in these sessions so far?**
+
+*(1 = barely showing up; 5 = body in the room, mind elsewhere; 10 = fully engaged, doing the work)*
+
+My number: \_\_\_\_\_\_\_\_
+
+One sentence about why:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **2. What is one thing that has surprised me — about myself, about God, or about someone in this room?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+### **3. What is one specific way I want to engage differently for the half that remains (Weeks 12–22)?**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+*Optional: my name (skip if you prefer anonymous)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

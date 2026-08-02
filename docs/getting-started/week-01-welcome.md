@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -75,7 +75,7 @@ Vol 2 sources for tonight:
 2. Vol 2 Fifth Exploration — the four Connects sequence: Self → Others → God → Mission.
 3. Vol 2 Eighth Exploration — the four container conditions (Safe, Present, Clear, Intentional).
 
-**Dependencies.** Week 1 depends only on the Family Orientation Night having happened. Week 1 is itself the dependency for Weeks 2–15 — the container experienced tonight is what the rest of the series will build on. If the container does not form tonight, slow down before you accelerate.
+**Dependencies.** Week 1 depends only on the Family Orientation Night having happened. Week 1 is itself the dependency for Weeks 2–22 — the container experienced tonight is what the rest of the series will build on. If the container does not form tonight, slow down before you accelerate.
 
 # Pre-Work for Participants
 
@@ -197,7 +197,7 @@ Below are the actual words to say (or paraphrase from familiarity) for each bloc
 
 “Over this year together, we’re going to walk that sequence on purpose. Tonight is just the beginning. The next three sessions are about Self. Two sessions after that, about Others. Five sessions after that, about God — including learning to hear Him, which we’ll practice until it’s yours. Then Mission. Then a session to build the rhythm you’ll carry when the Wednesdays end. Then we send each other out.
 
-“That’s the map. Don’t worry about memorizing it. These fifteen sessions will teach it to you.”
+“That’s the map. Don’t worry about memorizing it. These twenty-two weeks will teach it to you.”
 
 Watch for: teens checking out during teaching. Use vivid, concrete language. “Your neighbor knowing your interior life” — not abstract. “The person sitting at your lunch table at school knowing what’s actually going on inside you” — concrete.
 

@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -53,7 +53,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## CRISIS CONTINGENCIES (Week 5)
 
-*Week 5 is unlikely to surface an acute crisis. The risk profile is closer to Week 2 than Week 3. But “I don’t have a single friend who knows me” from a teen is its own quiet emergency — receive it, follow up offline within 48 hours, and watch them in Weeks 6–15. Default to Section 6 of the Handbook for any disclosure that crosses the safety threshold.*
+*Week 5 is unlikely to surface an acute crisis. The risk profile is closer to Week 2 than Week 3. But “I don’t have a single friend who knows me” from a teen is its own quiet emergency — receive it, follow up offline within 48 hours, and watch them in Weeks 6–22. Default to Section 6 of the Handbook for any disclosure that crosses the safety threshold.*
 
 # Session at a Glance
 

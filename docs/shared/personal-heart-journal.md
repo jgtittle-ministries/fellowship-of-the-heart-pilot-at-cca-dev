@@ -6,7 +6,7 @@
 
 **Journal**
 
-*A companion for the fifteen-week journey*
+*A companion for the journey*
 
 This journal belongs to:
 
@@ -18,13 +18,13 @@ This journal belongs to:
 
 # A Note Before You Begin
 
-This journal is a companion for the fifteen weeks of the Fellowship of the Heart Getting Started series. It is the small, private place where the work each Wednesday continues into your week. Some of what we do in the room only finds its language between sessions — in the quiet of the morning, in the noticing of the day, in a sentence written down at night that surprises you when you read it back.
+This journal is a companion for the Fellowship of the Heart Getting Started series — a twenty-two-week walk across a club year. It is the small, private place where the work each Wednesday continues into your week. Some of what we do in the room only finds its language between sessions — in the quiet of the morning, in the noticing of the day, in a sentence written down at night that surprises you when you read it back.
 
 This journal is yours. The team will not collect it. Your cohort will not see it unless you choose. Nothing in it is required.
 
 ## How the journal is set up
 
-Each of the fifteen weeks has its own section. Three of them — Weeks 4, 8, and 10 — are second runnings: they continue the same practice as the week before them, with fresh prompts for what a second pass surfaces. Inside a week you will find:
+Each teaching week has its own section, numbered by its place in the year (Weeks 1–11, 13, 15, 21, and 22). Three of them — Weeks 4, 8, and 10 — are second runnings: they continue the same practice as the week before them, with fresh prompts for what a second pass surfaces. The year's other weeks — the re-entries (Weeks 12 and 18), the second-running blocks (14 and 19), Family Conversation Night (16), the Float (17), and The Long Walk (20) — carry no new pages: keep using the section you are in, and let the daily practices run. Inside a week you will find:
 
 - An opening page with the week’s scripture and a brief framing for what we are about to practice.
 - A daily practice page with prompts for each day of the week.
@@ -1452,11 +1452,11 @@ Week 8
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## The Mid-Series Pulse
+## The Quarterly Pulse
 
-*The Mid-Series Pulse went home with you this week. Fill it in honestly — it only helps if it is true — and bring it back Wednesday.*
+*When a Quarterly Pulse goes home with you (Weeks 6, 11, and 16), fill it in honestly — it only helps if it is true — and bring it back to the bin at the next gathering's door.*
 
-□ Yes, completed □ Will bring it Wednesday □ Need a fresh copy
+□ Yes, completed □ Will bring it back □ Need a fresh copy
 
 ## End-of-week reflection — Week 8
 
@@ -1964,7 +1964,7 @@ Is there a doubt that is bigger than tonight could hold? Have you brought it to 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Week 12
+Week 13
 
 **What Was Prepared for You**
 
@@ -1998,7 +1998,7 @@ When am I doing it? With whom?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Daily practice — Week 12
+## Daily practice — Week 13
 
 **Day 1**
 
@@ -2140,7 +2140,7 @@ When am I doing it? With whom?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## End-of-week reflection — Week 12
+## End-of-week reflection — Week 13
 
 What happened when you took your one small action?
 
@@ -2166,7 +2166,7 @@ What is one thing you want to carry into the final weeks — the rhythm, the sen
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Week 13
+Week 15
 
 **The Rhythm and the Four Questions**
 
@@ -2192,7 +2192,7 @@ MONTHLY — \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-## Daily practice — Week 13
+## Daily practice — Week 15
 
 *This week’s practice is the rhythm itself. Run it for real, and each day note where it held and where it slipped. No fixing, just noticing.*
 
@@ -2296,7 +2296,7 @@ Where it slipped:
 
 *(The two mercy cards — the Signs Card for the season when practices go gray, the Path Home Card, the door that never locks — come home with you at The Long Walk, near the series' end.)*
 
-## End-of-week reflection — Week 13
+## End-of-week reflection — Week 15
 
 Where did your rhythm hold most easily this week? Where did it slip first?
 
@@ -2322,7 +2322,7 @@ Which part of your rhythm is most likely to be abandoned under pressure — and 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Week 14
+Week 21
 
 **Sending and Blessing**
 
@@ -2334,7 +2334,7 @@ Week 14
 
 ## My blessing for my parent / my teen
 
-Three sentences, prepared on the worksheet H14.1. Copy them here once you have written them, so you have them in your journal.
+Three sentences, prepared on the worksheet H21.1. Copy them here once you have written them, so you have them in your journal.
 
 Sentence 1 — What I have specifically seen God doing in you across Getting Started is...
 
@@ -2426,7 +2426,7 @@ Monthly — a clearing time. When? Doing what?
 
 ## End-of-Getting-Started reflection
 
-What changed in you in these fifteen weeks that you did not expect?
+What changed in you across this year that you did not expect?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2446,7 +2446,7 @@ What is the place where the work has only just begun?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Who walked beside you in these fifteen weeks that you want to thank? Have you told them?
+Who walked beside you this year that you want to thank? Have you told them?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2466,7 +2466,7 @@ What are you bringing into Going Deeper, if you continue?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Week 15
+Week 22
 
 **Commissioning the Companions**
 
@@ -2518,7 +2518,7 @@ When you are over your head — and everyone who leads is, sooner or later — W
 
 ## Looking forward
 
-*The series ends here. The journey does not. The rhythm continues; Going Deeper is ahead for those who choose it; and the God who met you in these fifteen weeks is not finished with you: “He who began a good work in you will bring it to completion at the day of Jesus Christ” (Philippians 1:6, ESV).*
+*The series ends here. The journey does not. The rhythm continues; Going Deeper is ahead for those who choose it; and the God who met you across these twenty-two weeks is not finished with you: “He who began a good work in you will bring it to completion at the day of Jesus Christ” (Philippians 1:6, ESV).*
 
 *Go gently. Keep the rhythm small enough to keep. Tell somebody where you saw Him this week.*
 

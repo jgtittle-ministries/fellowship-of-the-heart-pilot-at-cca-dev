@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # **Quick Reference Card**
 
@@ -24,17 +24,17 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 ## WEEK 8 — HEARING GOD — PROAPT II (90 minutes)
 
-**Aim.** Complete the second running of PROAPT — the full six-step walk-through led by a Companion-in-Formation with a fresh passage — and mark the series midpoint with the Mid-Series Pulse.
+**Aim.** Complete the second running of PROAPT — the full six-step walk-through led by a Companion-in-Formation with a fresh passage.
 
 **Anchor scripture.** Romans 10:17 (faith comes from hearing) and Mark 2:1–12 (the paralytic through the roof) as the worked example.
 
 **Connect focus.** God. Week 7 opened the vertical channel; tonight the room works it a second time, and one of their own leads the working.
 
-**Mode.** Teen-led end to end, adult in the room. Shared walk-through led by the Companion-in-Formation; SPLIT for pair practice in family clusters — 2–3 whole families with a Cluster Companion, own family always together; MERGE for the Mid-Series Pulse, the Leader Feedback Round, and closing. When the room is about ten or fewer, skip the clustering: the whole room stays as one circle.
+**Mode.** Teen-led end to end, adult in the room. Shared walk-through led by the Companion-in-Formation; SPLIT for pair practice in family clusters — 2–3 whole families with a Cluster Companion, own family always together; MERGE for the Leader Feedback Round and closing. When the room is about ten or fewer, skip the clustering: the whole room stays as one circle.
 
 **Center.** The Companion-in-Formation leads the whole room through PROAPT on Mark 2:1–12 — all six steps, timed, from their facilitation card. Then family pairs — parent and teen from the same family by default — work in family clusters as in Week 7, with the Tell step shared back into the cluster, a parent telling first.
 
-**Between-session practice.** Daily PROAPT continues (the journal Week 7–8 pages). Plus: complete the Mid-Series Pulse and bring it back Wednesday.
+**Between-session practice.** Daily PROAPT continues (the journal Week 7–8 pages).
 
 **IJH source.** Vol 1 Exp 1 (Word→Hearing→Faith); Vol 2 Seventh Exploration (PROAPT and the experiential processes); Handbook Section 11 (the second running).
 
@@ -42,7 +42,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 - The senior teaching *about* PROAPT instead of leading people *through* it. The temptation of every first-time leader is to explain. Coach in the dry run: fewer words, more silence, keep the room working.
 - The room deferring to the adult instead of the senior. If eyes keep drifting to the Lead Companion, the block is not teen-led. Adults: physically sit back. Chairs against the wall, not in the circle, during the walk-through.
-- Daily-practice drop-off at the midpoint. It is normal and the Pulse will show it. Normalize restarting without guilt — the chain picks up where you are, not where you were supposed to be.
+- Daily-practice drop-off around this stretch of the year. It is normal. Normalize restarting without guilt — the chain picks up where you are, not where you were supposed to be.
 - The participant who has done zero daily PROAPT since Week 7 and feels exposed tonight. No shame. Tonight is a fresh start, and the walk-through requires nothing they have not already done once in the room.
 - Treating tonight as a repeat. It is not a repeat; it is a completion. Week 7 gave everyone one pass; tonight gives everyone a second pass and gives one senior their marquee. Name that at the open.
 
@@ -52,8 +52,6 @@ Week 8 is the cleanest teen-led block in the series by design — scripted pract
 
 **If a pair's Apply or Tell turns heavy while the senior is leading.** The senior's only job is the handoff — catch the adult's eye, hand it over, keep holding the room. No heroics. Rule two of the three rules that never bend: a Companion-in-Formation never takes a disclosure.
 
-**If the Pulse framing stirs something.** Rare, but the halfway question ("how present have I actually been?") can land hard on someone who knows the answer. Watch faces during the close. Follow up offline within 48 hours.
-
 # **Session at a Glance**
 
 ## **Why this session, this week**
@@ -62,7 +60,7 @@ Last week the room received PROAPT — the adult team taught it and everyone wor
 
 Nothing new is taught tonight. That is the point. The second running teaches nothing new; it completes a process the room has already begun, and it is the slot a senior leads. Because the practice is scripted and the disclosure risk is low, it is the safest possible first full lead — which is exactly why the series puts it here.
 
-Tonight is also the halfway mark: seven weeks behind, seven ahead. The Mid-Series Pulse goes home in every hand at the close and comes back at the Week 9 door. The team will use it.
+Tonight also marks a threshold: seven weeks in, the room is no longer new at this. The practices have begun to belong to the people — and tonight one of the people leads them.
 
 ## **What "the senior leads" means tonight**
 
@@ -71,9 +69,9 @@ The bright line (Handbook 11.2) drawn for tonight specifically:
 | **The Companion-in-Formation leads** | **The adult team holds** |
 | --- | --- |
 | The welcome, the blessing, the container restatement. | Nothing visible, if the night goes well. |
-| The halfway framing and the daily-practice check-in. | Any disclosure, confession, or crisis that surfaces — instantly, on the handoff. |
+| The opening framing and the daily-practice check-in. | Any disclosure, confession, or crisis that surfaces — instantly, on the handoff. |
 | The full six-step walk-through, timed, from the facilitation card. | The Leader Feedback Round (the Lead Companion runs it; the senior answers its two questions first, the adult second). |
-| The bridge to the split and the closing blessing. | The Mid-Series Pulse distribution and framing. |
+| The bridge to the split and the closing blessing. | The merge and the between-session reminders. |
 
 The three rules that never bend (Handbook 11.6) are in force: the senior never counts as one of the two adults; the senior never takes a disclosure; the senior leads only what they have first received. All three are satisfied by design tonight — two adults are in the room, the handoff is rehearsed, and the senior received this exact practice as a participant in Week 7.
 
@@ -113,15 +111,13 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 1. Confirm the passage and the senior who is leading. Confirm which adult holds the handoff (usually the Lead Companion) and make sure the senior knows exactly where that adult will be sitting.
 2. Agree the discipline of the night: adults out of the circle during the walk-through, eyes on the senior, no rescuing. A ten-second stumble the senior recovers from is worth more to their formation than a smooth block an adult saved.
 3. Walk the merged Leader Feedback Round order (Handbook 11.7 folded into the weekly round, which sits immediately before the closing blessing): the senior answers the round's two questions first (what went well / what I'd do differently), the Lead Companion answers the same two second — with one specific affirmation of the senior and at most one growth item (one thing, not a list) — then, only by the senior's consent, the room takes the same two questions, popcorn-style, "for you" language, covering teen and adult both.
-4. Print and count the Mid-Series Pulse (H8.3) — one per participant plus spares. Decide the return point now: the Week 9 door, into the box, folded.
-5. Arrange before the session which parent opens the check-in and which parent opens the Tell round in each cluster. A parent opens every sharing round — never a cold call on a teen.
+4. Arrange before the session which parent opens the check-in and which parent opens the Tell round in each cluster. A parent opens every sharing round — never a cold call on a teen.
 
 ## **Logistics pre-work**
 
 1. Print the Companion-in-Formation's facilitation card (H8.1, cardstock, two copies — one for the senior, one spare).
 2. Print the Mark 2:1–12 worked-example handout (H8.2, one per participant).
-3. Print the Mid-Series Pulse (H8.3, one per participant plus spares).
-4. Confirm the family-cluster groupings and cluster spaces from Week 7 — or plan for one circle if the room will be about ten or fewer.
+3. Confirm the family-cluster groupings and cluster spaces from Week 7 — or plan for one circle if the room will be about ten or fewer.
 
 # **Materials and Setup**
 
@@ -132,7 +128,6 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 - Bibles — every participant has access. PROAPT works best with a physical Bible.
 - Facilitation card: H8.1 (the senior's copy, plus one spare).
 - Mark 2:1–12 handout: H8.2 (one per participant, with the passage printed and space to write).
-- Mid-Series Pulse: H8.3 (one per participant, plus spares; pens available).
 - A space or corner for each family cluster — or none, when the whole room stays as one circle (about ten or fewer).
 - Whiteboard or flip chart (the senior may want PROAPT on the board; their call).
 
@@ -152,14 +147,14 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 | **Time** | **Block** | **Mode** | **Lead** | **Notes** |
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. |
-| 7:00–7:08 | Block 1: Welcome and centering | Shared | Comp-in-Formation | Aaronic blessing. Container. The halfway framing. |
+| 7:00–7:08 | Block 1: Welcome and centering | Shared | Comp-in-Formation | Aaronic blessing. Container. The opening framing. |
 | 7:08–7:13 | Block 2: Daily-practice check-in | Shared | Comp-in-Formation | How did the daily PROAPT go? Normalize restarting. |
 | 7:13–7:18 | Block 3: Why a second running | Shared | Comp-in-Formation | Romans 10:17 restated. Frame the fresh passage. |
 | 7:18–7:32 | Block 4: PROAPT walked together — Mark 2:1–12 | Shared | Comp-in-Formation | The marquee. All six steps, timed, from the card. Adults sit back. |
 | 7:32–7:34 | Block 5: Bridge to the clusters and pair structure | Shared | Comp-in-Formation | Family pairs restated. Pray. Move to clusters (or stay as one circle if ~10 or fewer). |
 | 7:34–8:02 | Block 6: PROAPT in family pairs in family clusters | Clusters → pairs | Cluster Comps | As Week 7. Switch reader/listener at 13 min. |
 | 8:02–8:12 | Block 7: Tell step — sharing in the cluster | Clusters | Cluster Comps | Each person tells the cluster ONE thing they heard. A parent opens (arranged beforehand). |
-| 8:12–8:19 | Block 8: Merge, Mid-Series Pulse, and between-session | Shared | Lead Comp | Pulse distributed and framed. Bring it back Wednesday. |
+| 8:12–8:19 | Block 8: Merge and between-session | Shared | Lead Comp | Between-session practice named. Unhurried. |
 | 8:19–8:24 | Block 9: The Leader Feedback Round | Shared | Lead Comp | Merged round (Handbook 11.7): senior first, adult second, then the room by consent. |
 | 8:24–8:30 | Block 10: Closing container | Shared | Comp-in-Formation | Container reaffirmed. Aaronic blessing. |
 
@@ -175,7 +170,7 @@ This is the week's real pre-work. Three commitments, non-negotiable:
 
 *"Container reminder: Safe, Present, Clear, Intentional. Same four conditions, same room, same us."*
 
-*"Tonight is Week 8, and that means something: we are at the halfway mark of the fifteen weeks — seven behind, seven ahead. Seven weeks ago most of us walked in not knowing what this was. Tonight one of us is leading it. That's not an accident; that's the design."*
+*"Tonight is Week 8, and that means something: seven weeks ago most of us walked in not knowing what this was. Tonight one of us is leading it. That's not an accident; that's the design."*
 
 *"Last week the team taught us PROAPT and we all worked one passage. Tonight we run it again — a fresh passage, same six steps, and this time I'm leading the walk-through. The team is here. But the practice is ours now."*
 
@@ -191,7 +186,7 @@ From the moment the senior starts speaking, sit back — outside the circle, eye
 
 *(A parent opens — arranged with them before the session, never a cold call on a teen. Then take 2–3 more contributions, teens choosing their own depth; anyone may pass. Receive them all the same way.)*
 
-*"If your week was thin or empty — no guilt. The halfway point is where daily practice thins out for almost everyone; that's normal, not failure. The practice picks up where you are, not where you were supposed to be. Tonight is a fresh start, and everything we do tonight works whether you did seven days or zero."*
+*"If your week was thin or empty — no guilt. This stretch of the year is where daily practice thins out for almost everyone; that's normal, not failure. The practice picks up where you are, not where you were supposed to be. Tonight is a fresh start, and everything we do tonight works whether you did seven days or zero."*
 
 ## **Block 3 — Why a Second Running (7:13–7:18, 5 min)**
 
@@ -273,19 +268,15 @@ Re-form into the family cluster (out of pairs). Each participant tells the clust
 
 **Closing of the cluster (1 min). Cluster Companion: "Take what you heard with you. It was given to be walked out."**
 
-## **Block 8 — Merge, Mid-Series Pulse, and Between-Session (8:12–8:19, 7 min)**
+## **Block 8 — Merge and Between-Session (8:12–8:19, 7 min)**
 
 Everyone back in the single circle.
 
 ## Script (Lead Companion)
 
-*"Two things going home with you tonight. First, the daily PROAPT continues — one passage, five to fifteen minutes, every day, journal Week 7–8 pages. If last week thinned out, restart tomorrow. No guilt, no doubling up."*
+*"One thing going home with you tonight: the daily PROAPT continues — one passage, five to fifteen minutes, every day, journal Week 7–8 pages. If last week thinned out, restart tomorrow. No guilt, no doubling up."*
 
-*"Second — this."* (Hold up H8.3; hand the stack around.) *"We are halfway through the Getting Started series. We want to know what is working and what is not so we can use the second half well. This is the Mid-Series Pulse: one page, three questions, five minutes of your time at home. Be honest. The team uses these to adjust pacing, depth, and emphasis for Weeks 9 through 15."*
-
-*"You can sign it or leave it anonymous — your choice; there's a line at the bottom you can skip. Fold it, bring it back Wednesday, drop it in the box at the door. Every one of these gets read."*
-
-*"Parents and teens each fill out your own. Don't compare answers unless you want to — although honestly, that might be a good conversation in the car."*
+*"And take a moment on the way home to notice what just happened in this room. One of our own led the whole practice tonight. That is the design working."*
 
 ## **Block 9 — The Leader Feedback Round (8:19–8:24, 5 min)**
 
@@ -315,7 +306,7 @@ Two or three voices on each question is plenty. The leaders receive without defe
 
 *"The Lord bless you and keep you; the Lord make His face shine on you and be gracious to you; the Lord turn His face toward you and give you peace."*
 
-*"PROAPT one passage tomorrow. Pulse in the box Wednesday. See you then."*
+*"PROAPT one passage tomorrow. See you Wednesday."*
 
 # **Notes for Teens and Parents**
 
@@ -326,10 +317,9 @@ Tonight one of their own is at the front. That changes the room for every teen i
 ## Adjustments
 
 - Mark 2:1–12 is Day 6 on the Gospel-of-Mark path of the Week 7 passage sheet, so some teens have seen it. Lean into the second-hearing frame rather than apologizing for it.
-- The teens not leading tonight are watching their own future — several of them will take Week 10 or Week 13. Name it privately: "Watch how this goes. Your slot is coming."
+- The teens not leading tonight are watching their own future — several of them will take Week 10 or Week 15. Name it privately: "Watch how this goes. Your slot is coming."
 - Watch for the teen who competes with the leader — the too-sharp Observe, the show-off Apply. Redirect to specificity, which is humbling in the right way. The Cluster Companions hold any discipline issues so the senior never has to.
 - Tell step: teens still hesitate to claim God said something specific. Same gentle affirmation as Week 7 — "what you heard counts even if you're not 100% sure it was Him."
-- Pulse: assure teens the 1–10 question is not a grade and nobody is in trouble for a low number. And teens give the most useful Q3 answers when pushed past "participate more." Ask for behavior: what, when, how often.
 
 ## **Parents**
 
@@ -339,7 +329,6 @@ A teenager leading the room is, for some parents, the most persuasive thing this
 
 - The hardest note of the night: the leading senior's own parent is in the room — and in v1.3 their own family may be the senior's cluster. Brief them beforehand — no coaching from the circle, no beaming commentary, no rescue. Receive their teen's leadership like everyone else's.
 - Watch for parents who direct answers to the adults during the walk-through. Adults redirect with their eyes: look at the senior.
-- Pulse: parents' honest Q1 answers ("body in the room, mind on the mortgage") are exactly what the instrument is for. Say so.
 - The car-ride conversation after tonight — a parent telling their teen what they saw in the senior who led — is between-session gold. Suggest it.
 
 # **Closing Practice in Detail**
@@ -348,11 +337,7 @@ A teenager leading the room is, for some parents, the most persuasive thing this
 
 The Leader Feedback Round is the closing practice tonight in all but name — sitting immediately before the blessing, the room watches leadership being formed in public, safely. The senior answers the two questions first, the adult second; strengths before growth, one growth item, consent before group input. The room learns how this community treats its leaders by watching five minutes of it.
 
-### **Layer 2 — The Pulse as an act of presence**
-
-Frame the Pulse not as a survey but as a small act of the same honesty the series has been practicing. Question 1 is an Examen in miniature. A room that answers it truthfully has already engaged differently.
-
-### **Layer 3 — The Aaronic blessing**
+### **Layer 2 — The Aaronic blessing**
 
 Same as prior weeks — spoken tonight by the Companion-in-Formation, which is its own quiet milestone.
 
@@ -361,7 +346,6 @@ Same as prior weeks — spoken tonight by the Companion-in-Formation, which is i
 ## This week's practice
 
 - DAILY PROAPT continues (the journal Week 7–8 pages). One short passage. Five to fifteen minutes. Every day. If last week thinned, restart without guilt — no doubling up, pick up where you are.
-- Complete the Mid-Series Pulse (H8.3) and bring it back to the Week 9 door. Fold it; drop it in the box.
 - The morning question, evening journal note, and Five-Minute Examen continue.
 
 # **Companion Debrief Prompts**
@@ -371,7 +355,6 @@ Same as prior weeks — spoken tonight by the Companion-in-Formation, which is i
 - The senior led all six steps within a few minutes of the card's timings, and led people *through* the practice rather than talking *about* it — specifically, the Apply coaching pushed for specifics.
 - The room answered to the senior, not to the adults. Eyes stayed forward.
 - Tell-step contributions were specific and varied — and at least one was costly. Note who. Parents opened each cluster's round as arranged.
-- The Pulse went out cleanly: every hand, framed without apology, return point clear.
 - The Leader Feedback Round ran in its merged order — senior first, adult second, room by consent — and the senior received both halves without inflating or collapsing.
 
 ### **Signs the session did not work**
@@ -379,7 +362,6 @@ Same as prior weeks — spoken tonight by the Companion-in-Formation, which is i
 - The senior lectured — long explanations, short silences, the room watching instead of working.
 - The room deferred to the adults; the walk-through was teen-fronted but adult-led.
 - The daily-practice check-in surfaced near-total drop-off and it was met with guilt rather than a fresh start.
-- The Pulse was rushed or apologized for ("if you have time..."). It is not optional homework; it steers seven weeks.
 
 ### **The senior's debrief (separate, within 48 hours)**
 
@@ -390,17 +372,15 @@ Same as prior weeks — spoken tonight by the Companion-in-Formation, which is i
 
 ### **People to follow up with**
 
-- Anyone the halfway framing or the Pulse visibly landed on. Offline within 48 hours.
 - Anyone whose daily practice is at zero and who seemed exposed by the check-in. Fresh-start conversation, no shame.
 - The senior's parent — a two-minute word about what the team saw in their teen.
 
 # **Handouts**
 
-Three handouts for Week 8. The facilitation card is for the Companion-in-Formation; the worked example and the Pulse are for every participant.
+Two handouts for Week 8. The facilitation card is for the Companion-in-Formation; the worked example is for every participant.
 
 - H8.1 — Companion-in-Formation's PROAPT Facilitation Card (cardstock, the senior's copy plus a spare)
 - H8.2 — Mark 2:1–12 Worked Example (with space to write each step)
-- H8.3 — The Mid-Series Pulse (one page, every participant, returns at the Week 9 door)
 
 **Handout H8.1 — The Companion-in-Formation's PROAPT Facilitation Card**
 
@@ -477,39 +457,3 @@ Look at the card. Say the next one-liner. The steps carry you — that is what t
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Handout H8.3 — The Mid-Series Pulse**
-
-*One page. Three questions. Fold it and drop it in the box at the door next Wednesday.*
-
-**We are halfway through the Getting Started series. We want to know what is working and what is not so we can use the second half well. Be honest. The team uses these to adjust pacing, depth, and emphasis.**
-
-### **1. On a scale of 1–10, how present have I actually been in these sessions so far?**
-
-*(1 = barely showing up; 5 = body in the room, mind elsewhere; 10 = fully engaged, doing the work)*
-
-My number: \_\_\_\_\_\_\_\_
-
-One sentence about why:
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### **2. What is one thing that has surprised me — about myself, about God, or about someone in this room?**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### **3. What is one specific way I want to engage differently for the second half (Weeks 9–15)?**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-*Optional: my name (skip if you prefer anonymous)* \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

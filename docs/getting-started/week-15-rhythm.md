@@ -2,7 +2,7 @@
 
 *Getting Started series — The Four Connects*
 
-Week 13
+Week 15
 
 **The Rhythm and the Four Questions**
 
@@ -14,13 +14,13 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # **Quick Reference Card**
 
 *Print this page on cardstock. Two copies in the room. Tonight installs what the series becomes when the series is over. In the CCA club year this lands mid-Quarter 3, with the commissionings still a quarter away — the rhythm built tonight gets road-tested across ordinary weeks and a real break before anyone is commissioned. That raises the stakes of tonight. Name it to the team beforehand, and name it warmly to the room.*
 
-## WEEK 13 — THE RHYTHM AND THE FOUR QUESTIONS (90 minutes)
+## WEEK 15 — THE RHYTHM AND THE FOUR QUESTIONS (90 minutes)
 
 **Aim.** Install the long walk before the sending, and commission the bravest asking of the year. The series' practices only matter if they survive the series — tonight gives every participant the rhythm that carries them — and then hands the parents four questions to ask at home, and the posture to receive the answers without defending.
 
@@ -30,15 +30,15 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 **Mode.** Shared teaching; FAMILY CLUSTERS for the Rhythm Card build — 2–3 whole families per circle with a Cluster Companion, own family always together; whole room for the Four Questions presentation, the Leader Feedback Round, and closing. If total attendance is about ten or fewer, skip the clustering — the whole room stays as one circle throughout.
 
-**Center.** Two movements. (1) Each participant builds their own Rhythm Card — the daily, weekly, and monthly practices they are actually taking with them, in their own handwriting, honest not idealized. (2) The Lead Companion presents the Four Questions — four questions a parent asks their teen (and, where married, their spouse), then listens and receives without defending — tells their own story of asking them, and commissions the at-home practice for the willing. Any unfinished Week 12 gifts-and-mission work completes at the open.
+**Center.** Two movements. (1) Each participant builds their own Rhythm Card — the daily, weekly, and monthly practices they are actually taking with them, in their own handwriting, honest not idealized. (2) The Lead Companion presents the Four Questions — four questions a parent asks their teen (and, where married, their spouse), then listens and receives without defending — tells their own story of asking them, and commissions the at-home practice for the willing. Any unfinished Week 13 gifts-and-mission work completes at the open.
 
-**Who leads.** Teen-led marquee for the rhythm arc — the fourth and final senior-led block. The Companion-in-Formation carries the opening, the long-walk teaching, and the Rhythm Card build from their facilitation card (H13.1). The Four Questions block belongs to the Lead Companion by design: it ends in their own story, and the story is the teaching.
+**Who leads.** Teen-led marquee for the rhythm arc — the fourth and final senior-led block. The Companion-in-Formation carries the opening, the long-walk teaching, and the Rhythm Card build from their facilitation card (H15.1). The Four Questions block belongs to the Lead Companion by design: it ends in their own story, and the story is the teaching.
 
 **Between-session practice.** For the willing: the parent asks their teen the four questions at home — unhurried, no audience, phone away — and receives the answers without defending. Married parents are encouraged to also ask their spouse, separately. And everyone runs the Rhythm Card as built, for real, across the break, noting in the journal where it held and where it slipped.
 
 **IJH source.** Vol 2 (the four Connects as a sustained rhythm; the obedience-channel law in community form); the shared Rhythm Card. The four-questions practice is adapted from exercises in the Wild at Heart stream of men's ministry (John Eldredge).
 
-## WATCH FOR (Week 13 specific risks)
+## WATCH FOR (Week 15 specific risks)
 
 - The idealized Rhythm Card. All the daily boxes checked, PROAPT twice a day, a two-hour sabbath plan from a fifteen-year-old with an exam-season schedule. Coach honesty in the clusters: "Write the rhythm you will actually keep, not the one that impresses you."
 - The teen leader turning the lead into performance. This is their final in-cohort lead, and the temptation is to be impressive rather than clear. Coach in the prep: the card does the work; your job is to hand it over plainly.
@@ -47,9 +47,9 @@ Pilot edition — Covenant Christian Academy of Warrenton
 - The teen who looks alarmed at the homework — the one hearing "my parent is going to interrogate me this week." The willing-only guard is said plainly from the front, to the teens directly: nobody has to answer anything; the pass rule lives at your kitchen table too. If the alarm survives the guard, the Cluster Companion repeats it 1:1 before the family leaves.
 - The parent who wants to pre-litigate — "what if the answers aren't fair?" The answers are not a court record; they are what it has been like to be on the other side of you. The only response that keeps the door open is receiving. If fairness matters more than hearing, that parent should wait.
 
-## CRISIS CONTINGENCIES (Week 13)
+## CRISIS CONTINGENCIES (Week 15)
 
-*Week 13 is lower-risk than Weeks 3–6 — the in-room work is scripted and low-disclosure by design — but it is not zero. Presenting the four questions can land hard on a parent carrying real regret, or on a teen carrying a real wound, right there in the room. Standard Section 6 protocols apply.*
+*Week 15 is lower-risk than Weeks 3–6 — the in-room work is scripted and low-disclosure by design — but it is not zero. Presenting the four questions can land hard on a parent carrying real regret, or on a teen carrying a real wound, right there in the room. Standard Section 6 protocols apply.*
 
 **If the presentation visibly lands on someone mid-block.** The handoff runs on the same protocol rehearsed all series, with one difference: tonight the Lead Companion is the one presenting, so a second adult Companion (named at team pre-work) moves quietly to sit beside the person. The presentation continues. Do not stop the session. Do not spotlight the person. The adult stays with them through the close and opens the follow-up conversation before the family leaves.
 
@@ -67,7 +67,7 @@ Twelve weeks of practices are sitting in this room, and every one of them has be
 
 And tonight is when the series pays out something it has been quietly training since September. Every week since Week 1, whoever led the evening has stood at the end and asked the room "what would I do differently?" — and received the answers with nothing but "thank you." The cohort has watched adults take honest feedback undefended, week after week, until the posture stopped looking remarkable. The four questions are that same posture at family depth: a parent asking their own teen *how have I wounded you?* and receiving what comes back without correcting the record. The Leader Feedback Round was the rehearsal; the kitchen table is the performance. That is what makes question three survivable — the room has already seen, thirteen weeks running, what it looks like to hear a hard answer and say only "thank you."
 
-And it is why the fourth teen-led marquee is this session. The Companion-in-Formation who carries the rhythm arc tonight is leading the cohort for the final time before their Week 15 commissioning — and then sitting down to watch the Lead Companion model the very thing their whole formation has been about: an adult with nothing to defend.
+And it is why the fourth teen-led marquee is this session. The Companion-in-Formation who carries the rhythm arc tonight is leading the cohort for the final time before their Week 22 commissioning — and then sitting down to watch the Lead Companion model the very thing their whole formation has been about: an adult with nothing to defend.
 
 ## **The Four Questions (the asking the room must leave with)**
 
@@ -90,7 +90,7 @@ The parent asks, then listens, then receives. The only responses that belong to 
 - Weeks 3–4: the "Search me, O God" prayer (Psalm 139:23–24), prayed vertically. Tonight the same verse turns horizontal — the parent inviting their family to do the searching.
 - Weeks 5–6: Others. The Rhythm Card's weekly partner practice presumes the cohort has learned what it is to be known; several weekly partnerships will form from this very room.
 - Weeks 7–11: God. The daily practices on the Rhythm Card — the morning question, the evening note, PROAPT — were all received in these weeks. Tonight organizes them; it does not introduce them.
-- Week 12: Mission. Any unfinished gifts-and-downhill work completes at tonight's open, so the Week 14 commissioning receives finished answers.
+- Week 13: Mission. Any unfinished gifts-and-downhill work completes at tonight's open, so the Week 21 commissioning receives finished answers.
 
 ## **Connect focus**
 
@@ -108,23 +108,23 @@ Question two — Could I ask the four questions in my own house? Sit with each o
 
 **The Lead Companion's pre-work is the story.** The Four Questions block ends in the Lead Companion's own telling — what it was like to ask these questions in their own family, and what came back. That telling is the teaching; the founder's own telling is the model. Prepare it as five unhurried minutes: honest about the fear before, honest about at least one answer that cost something to receive, honest about what it built. No polish, no moral tacked on the end.
 
-**The Companion-in-Formation's pre-work: the final lead.** The senior carries the rhythm arc — the opening, the long-walk teaching, the Rhythm Card introduction, and the close — from H13.1. The senior works the card with the Lead Companion twice this week: once as a talk-through, once as a full rehearsal with the handoff protocol practiced out loud. The senior must be able to say the honesty rule and the Galatians teaching without reading — the card in hand is a net, not a script to hide behind. The Four Questions block is not theirs, tonight or ever at FC1: the senior receives it as a member of the room.
+**The Companion-in-Formation's pre-work: the final lead.** The senior carries the rhythm arc — the opening, the long-walk teaching, the Rhythm Card introduction, and the close — from H15.1. The senior works the card with the Lead Companion twice this week: once as a talk-through, once as a full rehearsal with the handoff protocol practiced out loud. The senior must be able to say the honesty rule and the Galatians teaching without reading — the card in hand is a net, not a script to hide behind. The Four Questions block is not theirs, tonight or ever at FC1: the senior receives it as a member of the room.
 
 ## **Team pre-work**
 
-Forty-eight hours before Week 13, the Companion team meets for forty-five minutes:
+Forty-eight hours before Week 15, the Companion team meets for forty-five minutes:
 
 1. The Companion-in-Formation walks the rhythm arc for the team, start to finish. The team receives it as a cohort would. Practice the Leader Feedback Round shape on the rehearsal itself: the senior names what went well and what they would do differently, then the team answers the same two questions — received without defending.
 2. The Lead Companion runs their four-questions telling once, out loud, for the team — and names the second adult who moves if the presentation lands on someone mid-block. Rehearse the handoff: the presentation continues; the room barely notices.
-3. Identify who the team is watching for: any parent for whom the asking could land on live regret, any family in fresh conflict or a hard season where the homework should wait — a quiet word beforehand that "not yet" counts is a kindness, not a leak — and any family for whom a break season itself is the hard season. Arrange the parents-first openings now: one parent for the Week 12 completion round, and one parent per cluster to read their daily line first in the build — asked ahead, never cold-called on the night.
-4. Confirm the Week 15 readiness conversation is calendared: the parent + Lead Companion sign-off conversation for each Companion-in-Formation happens *this week*, so that Week 15's commissioning confirms a decision already made rather than making one on the night.
+3. Identify who the team is watching for: any parent for whom the asking could land on live regret, any family in fresh conflict or a hard season where the homework should wait — a quiet word beforehand that "not yet" counts is a kindness, not a leak — and any family for whom a break season itself is the hard season. Arrange the parents-first openings now: one parent for the Week 13 completion round, and one parent per cluster to read their daily line first in the build — asked ahead, never cold-called on the night.
+4. Confirm the Week 22 readiness conversation is calendared: the parent + Lead Companion sign-off conversation for each Companion-in-Formation happens *this week*, so that Week 22's commissioning confirms a decision already made rather than making one on the night.
 5. Pray for each participant by name — specifically that each parent who should ask finds the courage, that any parent who should wait finds the patience, and that each participant builds the rhythm that is actually theirs.
 
 ## **Logistics pre-work**
 
-1. Print the Companion-in-Formation's facilitation card (H13.1) — two copies, cardstock.
-2. Print the blank Rhythm Card build sheet (H13.2), one per participant.
-3. Print the Four Questions home card (H13.3) — one per family, plus spares, cardstock.
+1. Print the Companion-in-Formation's facilitation card (H15.1) — two copies, cardstock.
+2. Print the blank Rhythm Card build sheet (H15.2), one per participant.
+3. Print the Four Questions home card (H15.3) — one per family, plus spares, cardstock.
 4. Reprint the Rhythm Card from the shared materials — one per participant folder. This is the shared document itself, not a summary.
 5. Confirm every participant folder is in the room.
 6. Confirm the cluster spaces (or main-room corners) from prior weeks — enough for 2–3 whole families per cluster. If total attendance will be about ten or fewer, plan for one circle and skip the spaces.
@@ -137,9 +137,9 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 - Personal Heart Journals (each participant brings).
 - Participant folders — every folder physically in the room.
 - Rhythm Card (shared material): one printed copy per participant.
-- H13.1 — Facilitation card (Companion-in-Formation and Lead Companion copies).
-- H13.2 — Blank Rhythm Card build sheet (one per participant).
-- H13.3 — The Four Questions home card (one per family, plus spares).
+- H15.1 — Facilitation card (Companion-in-Formation and Lead Companion copies).
+- H15.2 — Blank Rhythm Card build sheet (one per participant).
+- H15.3 — The Four Questions home card (one per family, plus spares).
 - Private spaces or main-room corners for the family clusters (2–3 whole families each) for the build block. If attendance is about ten or fewer, none needed — the whole room stays as one circle.
 - Whiteboard or flip chart (for the four questions, written up during Block 6).
 - Pens — the build is done in each participant's own handwriting. This is deliberate. Do not type it, do not fill it in for anyone.
@@ -148,7 +148,7 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 
 | **When** | **Action** | **Who** |
 | --- | --- | --- |
-| Week before | Senior's two rehearsals of the rhythm arc. Lead Companion prepares and rehearses the four-questions telling. Print all cards and handouts. Calendar the Week 15 readiness conversations. | Lead Comp + CiF |
+| Week before | Senior's two rehearsals of the rhythm arc. Lead Companion prepares and rehearses the four-questions telling. Print all cards and handouts. Calendar the Week 22 readiness conversations. | Lead Comp + CiF |
 | Day before | Senior runs the arc once more, alone, aloud. Lead Companion walks the room and sits once more with their own telling. | CiF / Lead Comp |
 | T-30 min | All Companions in room. Rehearse the handoff signal once; confirm the second adult for Block 6. Pray for the parent who will be shaken tonight, by name if the team knows, by faith if not. | All Companions |
 | T-15 min | Door opens. Standard arrival. | Co-Comp (Teen) |
@@ -160,17 +160,17 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 | --- | --- | --- | --- | --- |
 | 6:45–7:00 | Arrival window | Forming | Co-Comp (Teen) | Standard arrival. Folders distributed to seats. |
 | 7:00–7:07 | Block 1: Welcome and centering | Shared | CiF | Container from memory. Aaronic blessing. Frame the night and name the gap. |
-| 7:07–7:15 | Block 2: Week 12 completion | Shared | Lead Comp | Unfinished downhill-mission answers finish here. Brief practice check-in. |
+| 7:07–7:15 | Block 2: Week 13 completion | Shared | Lead Comp | Unfinished downhill-mission answers finish here. Brief practice check-in. |
 | 7:15–7:25 | Block 3: The long walk — Gal. 6:9 | Shared | CiF | Teaching: due season; the not-giving-up is ours, the season is His. |
 | 7:25–7:30 | Block 4: The Rhythm Card introduced | Shared | CiF | The card walked briefly. The honesty rule stated. Bridge to the split. |
-| 7:30–7:50 | Block 5: Building your Rhythm Card | Family clusters | Cluster Comps | 20 min. Own handwriting, on H13.2. Families build side by side; Companions coach honesty, not ambition. |
-| 7:50–8:13 | Block 6: The Four Questions | Shared | Lead Comp | The four questions presented; the rehearsal named; the Lead Companion's own story; the at-home practice commissioned with its guards. H13.3 goes home. |
+| 7:30–7:50 | Block 5: Building your Rhythm Card | Family clusters | Cluster Comps | 20 min. Own handwriting, on H15.2. Families build side by side; Companions coach honesty, not ambition. |
+| 7:50–8:13 | Block 6: The Four Questions | Shared | Lead Comp | The four questions presented; the rehearsal named; the Lead Companion's own story; the at-home practice commissioned with its guards. H15.3 goes home. |
 | 8:13–8:21 | Block 7: The Leader Feedback Round | Shared | CiF + Lead Comp | One round — the senior answers first, the adult second. Final in-cohort round; looks back across all four leads. |
 | 8:21–8:30 | Block 8: Closing container | Shared | CiF + Lead Comp | Between-session practice. Container reaffirmed. Aaronic blessing. |
 
 # **Block-by-Block: Scripts and Notes**
 
-*The italicized scripts in Blocks 1, 3, and 4 are the Companion-in-Formation's, delivered from H13.1. Block 6 belongs to the Lead Companion. The senior should own their scripts, not read them.*
+*The italicized scripts in Blocks 1, 3, and 4 are the Companion-in-Formation's, delivered from H15.1. Block 6 belongs to the Lead Companion. The senior should own their scripts, not read them.*
 
 ## **Block 1 — Welcome and Centering (7:00–7:07, 7 min)**
 
@@ -180,23 +180,23 @@ Forty-eight hours before Week 13, the Companion team meets for forty-five minute
 
 *"Container reminder: Safe, Present, Clear, Intentional. Same four conditions, same as every week."*
 
-*"Tonight is Week 13, and here is where we are. Twelve weeks of practices are sitting in this room. And the series' end is now in sight — the commissionings close the year. So tonight is the night this series stops being something we come to and becomes something we carry. Two things are happening: you are going to build your own rhythm, in your own handwriting. And then [Lead Companion's name] is going to hand the parents in this room four questions — and the bravest homework of the whole series."*
+*"Tonight is Week 15, and here is where we are. Fourteen weeks of practices are sitting in this room. And the series' end is now in sight — the commissionings close the year. So tonight is the night this series stops being something we come to and becomes something we carry. Two things are happening: you are going to build your own rhythm, in your own handwriting. And then [Lead Companion's name] is going to hand the parents in this room four questions — and the bravest homework of the whole series."*
 
 ## Notes
 
-The senior opens from memory — this is their ninth or tenth container rep since Week 5, and Week 15 will ask for it in public. The Lead Companion sits where the senior can find their eyes.
+The senior opens from memory — this is their ninth or tenth container rep since Week 5, and Week 22 will ask for it in public. The Lead Companion sits where the senior can find their eyes.
 
-## **Block 2 — Week 12 Completion (7:07–7:15, 8 min)**
+## **Block 2 — Mission Week Completion (7:07–7:15, 8 min)**
 
 The first of the two blocks the Lead Companion leads tonight, so the senior's arc stays clean.
 
 ## Script (Lead Companion)
 
-*"Before we walk forward, we finish last week. Some of you named a downhill answer to your cluster; a few of you weren't finished — and a week of living with the question usually deepens it. If your downhill answer wasn't finished last Wednesday, or it has changed shape since: one sentence, now, to the room. [Parent's name], would you start us?"*
+*"Before we walk forward, we finish the Mission week. Some of you named a downhill answer to your cluster; a few of you weren't finished — and two weeks of living with the question usually deepens it. If your downhill answer wasn't finished then, or it has changed shape since: one sentence, now, to the room. [Parent's name], would you start us?"*
 
-*(A parent opens the round — arranged with that parent before the session, never a cold call on a teen. Teens choose their own depth after; pass-anytime holds. Receive each. No commentary — the answers carry forward to the Week 14 commissioning.)*
+*(A parent opens the round — arranged with that parent before the session, never a cold call on a teen. Teens choose their own depth after; pass-anytime holds. Receive each. No commentary — the answers carry forward to the Week 21 commissioning.)*
 
-*"And the practice check: last week's assignment was one small action aligned with your downhill mission. Ninety seconds — anyone, one sentence on what happened."*
+*"And the practice check: the Mission week's assignment was one small action aligned with your downhill mission. Ninety seconds — anyone, one sentence on what happened."*
 
 ## **Block 3 — The Long Walk: Galatians 6:9 (7:15–7:25, 10 min)**
 
@@ -206,7 +206,7 @@ Read the passage aloud. Slow. The teaching is short and it frames the build.
 
 — Galatians 6:9 (ESV)
 
-### **Teaching points (Companion-in-Formation, from H13.1)**
+### **Teaching points (Companion-in-Formation, from H15.1)**
 
 • Galatians 6:9 has a condition in it, and the condition is not "if we feel it." It is "if we do not give up." Paul assumes the weariness. The verse is not for people who never get tired; it is written *to* people who get tired, which is all of us. The reaping is tied to the season, and the season is God's — our part is the not-giving-up. That is what a rhythm is for. Nobody white-knuckles their way through years; people with a rhythm walk through years.
 
@@ -224,7 +224,7 @@ Read the passage aloud. Slow. The teaching is short and it frames the build.
 
 ## **Block 5 — Building Your Rhythm Card (7:30–7:50, 20 min)**
 
-Each family cluster works H13.2 — 2–3 whole families with their Cluster Companion, own family always together. A family building rhythms side by side is the design working: the parent writing an honest card next to the teen writing one is half the coaching done already. (If the room stayed as one circle tonight, the same build runs whole-room, with the Companions circulating.) Every participant marks their daily, weekly, and monthly practices — specific times, specific people, specific days — in their own handwriting.
+Each family cluster works H15.2 — 2–3 whole families with their Cluster Companion, own family always together. A family building rhythms side by side is the design working: the parent writing an honest card next to the teen writing one is half the coaching done already. (If the room stayed as one circle tonight, the same build runs whole-room, with the Companions circulating.) Every participant marks their daily, weekly, and monthly practices — specific times, specific people, specific days — in their own handwriting.
 
 ## Cluster Companion: how to coach the build
 
@@ -284,7 +284,7 @@ Presenting the four questions can land visibly on someone mid-block — a parent
 
 ## **Block 7 — The Leader Feedback Round (8:13–8:21, 8 min)**
 
-*The evening's leader closes the working part of the evening the same way every week.* Tonight a teen led the rhythm arc, so the senior answers first, the adult second — and because this is the Companion-in-Formation's final in-cohort round before their Week 15 commissioning, it also looks back across all four leads, not just tonight.
+*The evening's leader closes the working part of the evening the same way every week.* Tonight a teen led the rhythm arc, so the senior answers first, the adult second — and because this is the Companion-in-Formation's final in-cohort round before their Week 22 commissioning, it also looks back across all four leads, not just tonight.
 
 ## Structure (one round — teen first, adult second)
 
@@ -297,7 +297,7 @@ Presenting the four questions can land visibly on someone mid-block — a parent
 
 ## Notes
 
-Somewhere in step 4, name plainly what the room just watched across the series: a senior teen led this cohort four times and received the room's feedback undefended every time. And tonight the room finally heard what this round has been rehearsing all along — say that sentence out loud; it belongs to the whole room's memory of this night, and it sets the table for Week 15.
+Somewhere in step 4, name plainly what the room just watched across the series: a senior teen led this cohort four times and received the room's feedback undefended every time. And tonight the room finally heard what this round has been rehearsing all along — say that sentence out loud; it belongs to the whole room's memory of this night, and it sets the table for Week 22.
 
 ## **Block 8 — Closing Container (8:21–8:30, 9 min)**
 
@@ -353,17 +353,17 @@ At the close of Block 5: each participant reads the daily line of their Rhythm C
 
 ### **Layer 2 — The card in the parent's hand**
 
-The Four Questions home card (H13.3) goes home in a parent's hand at the end of Block 6 — not filed in a folder, but handed over, one per family, while the Lead Companion's story is still in the air. The handing is a practice, not a logistic: the room watches every family receive the same invitation, and no one will ever be asked what became of it.
+The Four Questions home card (H15.3) goes home in a parent's hand at the end of Block 6 — not filed in a folder, but handed over, one per family, while the Lead Companion's story is still in the air. The handing is a practice, not a logistic: the room watches every family receive the same invitation, and no one will ever be asked what became of it.
 
 ### **Layer 3 — The Aaronic blessing**
 
-Same as every week — and the senior speaks it tonight. In Week 15 they will speak it as a commissioned FC1; tonight is the last time they speak it as a Companion-in-Formation.
+Same as every week — and the senior speaks it tonight. In Week 22 they will speak it as a commissioned FC1; tonight is the last time they speak it as a Companion-in-Formation.
 
 # **Between-Session Practice**
 
 ## This week and across the break
 
-- THE FOUR QUESTIONS (for the willing). The parent asks their teen the four questions from H13.3 — unhurried, no audience, phone away, one person at a time. Married parents are encouraged to also ask their spouse, separately. The guards travel with the card: willing-only in both directions, receive without defending, invisible by default, a letter counts, and the Section 6 boundary. "Not yet" is a full answer for everyone.
+- THE FOUR QUESTIONS (for the willing). The parent asks their teen the four questions from H15.3 — unhurried, no audience, phone away, one person at a time. Married parents are encouraged to also ask their spouse, separately. The guards travel with the card: willing-only in both directions, receive without defending, invisible by default, a letter counts, and the Section 6 boundary. "Not yet" is a full answer for everyone.
 - RUN THE RHYTHM CARD AS BUILT. For real, at the times and places written on it. This is the central everyone-practice, and the break is its first field test.
 - JOURNAL THE HOLDS AND THE SLIPS. One line a day is enough: where the rhythm held, where it slipped. No fixing, no guilt-engine — just noticing. The slips are data, not verdicts. If the asking happened, the journal is a good private home for what it was like — nobody collects it, nobody asks.
 - THE RETURNING RULE. Miss a day: begin again on the next available day. Do not start over; do not double up. Returning is the goal.
@@ -392,7 +392,7 @@ Same as every week — and the senior speaks it tonight. In Week 15 they will sp
 - Which families seem likely to do the asking? Not to audit them — never that — but so the team knows where the follow-up care may be needed in the coming weeks, and prays accordingly.
 - Who needs a quiet check-in before they ask? The shaken parent, the armored parent, the family in a hard season where "not yet" should be said *to* them as a kindness. Assign each name to a Companion this week — brief, warm, no agenda beyond the guards.
 - What did the vital signs show tonight? Costly telling in the clusters; response to load in whoever Block 6 landed on; and note anyone the cohort itself moved toward without being asked.
-- **The readiness confirmation.** The parent + Lead Companion sign-off conversation for each Companion-in-Formation happens this week, before break scatters everyone. Tonight's final lead is the freshest evidence in that conversation: did the senior hold the arc, hand the room over cleanly, and receive the feedback round well? Confirm the covering relationship each senior will name at Week 15. If either the parent or the Lead Companion has hesitations, this week is when they are voiced — never at the commissioning itself.
+- **The readiness confirmation.** The parent + Lead Companion sign-off conversation for each Companion-in-Formation happens this week, before break scatters everyone. Tonight's final lead is the freshest evidence in that conversation: did the senior hold the arc, hand the room over cleanly, and receive the feedback round well? Confirm the covering relationship each senior will name at Week 22. If either the parent or the Lead Companion has hesitations, this week is when they are voiced — never at the commissioning itself.
 
 ### **People to follow up with**
 
@@ -404,13 +404,13 @@ Same as every week — and the senior speaks it tonight. In Week 15 they will sp
 
 # **Handouts**
 
-Three printed handouts for Week 13, plus the Rhythm Card reprinted per participant folder. The Rhythm Card is not summarized or adapted here — the shared document itself goes home in the folders (docs/shared/rhythm-card.md).
+Three printed handouts for Week 15, plus the Rhythm Card reprinted per participant folder. The Rhythm Card is not summarized or adapted here — the shared document itself goes home in the folders (docs/shared/rhythm-card.md).
 
-- H13.1 — Companion-in-Formation Facilitation Card (the rhythm arc; two copies)
-- H13.2 — Rhythm Card Build Sheet (blank; one per participant)
-- H13.3 — The Four Questions (home card; one per family, plus spares)
+- H15.1 — Companion-in-Formation Facilitation Card (the rhythm arc; two copies)
+- H15.2 — Rhythm Card Build Sheet (blank; one per participant)
+- H15.3 — The Four Questions (home card; one per family, plus spares)
 
-**Handout H13.1 — Companion-in-Formation Facilitation Card: The Rhythm and the Four Questions**
+**Handout H15.1 — Companion-in-Formation Facilitation Card: The Rhythm and the Four Questions**
 
 *Print on cardstock. One for the senior, one for the Lead Companion. This card is a net, not a script — own the arc; glance at the card.*
 
@@ -432,7 +432,7 @@ Three printed handouts for Week 13, plus the Rhythm Card reprinted per participa
 
 You do not carry it. You say: *"I'm glad you told me — that deserves better than me. Let's get [adult Companion's name]."* And you walk them there yourself. Handing it over well IS the pastoral skill.
 
-**Handout H13.2 — Rhythm Card Build Sheet**
+**Handout H15.2 — Rhythm Card Build Sheet**
 
 *Build in your own handwriting, tonight, in your family cluster. Copy nothing from a neighbor. The rule: write the rhythm you will actually keep, not the one that impresses you. Keep this sheet inside your Rhythm Card in your folder.*
 
@@ -494,7 +494,7 @@ One retreat or extended quiet time I could realistically take this year:
 
 — Galatians 6:9 (ESV)
 
-**Handout H13.3 — The Four Questions (home card)**
+**Handout H15.3 — The Four Questions (home card)**
 
 *Print on cardstock. One per family, handed to a parent at the end of Block 6. This card lives at home. Nobody will ask what became of it.*
 
@@ -523,11 +523,11 @@ One retreat or extended quiet time I could realistically take this year:
 
 *Psalm 139:23–24, asked of God, is worship. Asked of your family, it is the bravest form of the same prayer. James 1:19: quick to hear, slow to speak.*
 
-# **Appendix — the Dry-Season block (taught at The Long Walk in the CCA club year)**
+# **Appendix — the Dry-Season block (taught at The Long Walk, Week 20)**
 
-*In the pilot's 22-meeting calendar this block is taught at The Long Walk (Meeting 20), by the Companions-in-Formation as their final rep before commissioning. A body running the fifteen sessions consecutively should teach it tonight as originally designed, extending the evening or trimming the rhythm build.*
+*In this year's sequence the dry-season block is taught at The Long Walk (Week 20), by the Companions-in-Formation as their final rep before commissioning. A body running the fifteen-session edition (git tag `gs-v1.0`) teaches it tonight as originally designed, extending the evening or trimming the rhythm build.*
 
-*Everything below is preserved intact from the original Week 13 design: the Signs Card teaching (the four kinds of dry), the Path Home Card filing, their scripts, and the risk and coaching material that travels with them. When this block runs, the Signs Card and Path Home Card are reprinted from the shared materials, one per participant folder (docs/shared/signs-card.md, path-home-card.md), and the teaching leader's arc adds the two steps at the end of this appendix to their facilitation card.*
+*Everything below is preserved intact from the original Week 15 design: the Signs Card teaching (the four kinds of dry), the Path Home Card filing, their scripts, and the risk and coaching material that travels with them. When this block runs, the Signs Card and Path Home Card are reprinted from the shared materials, one per participant folder (docs/shared/signs-card.md, path-home-card.md), and the teaching leader's arc adds the two steps at the end of this appendix to their facilitation card.*
 
 ## **Anchor scripture for this block**
 

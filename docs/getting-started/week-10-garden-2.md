@@ -16,7 +16,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 *Based on the Intentional Journey of the Heart (IJH), Volumes 1–6*
 
-*John G. Tittle • Curriculum v1.3 pilot edition, July 2026*
+*John G. Tittle • Curriculum v1.4 pilot edition, August 2026*
 
 # Quick Reference Card
 
@@ -86,7 +86,7 @@ One more thing tonight teaches without a word of teaching: a week has passed. Mo
 
 ## Connect focus
 
-God, primary. Self is the lens (your interior). Others (the room) provides the holding container — and tonight, for the first time in deep water, one of the room's own is holding part of it. Mission is quietly present too: for the senior reading the protocol, standing in that slot is a first taste of what Week 12 will name out loud.
+God, primary. Self is the lens (your interior). Others (the room) provides the holding container — and tonight, for the first time in deep water, one of the room's own is holding part of it. Mission is quietly present too: for the senior reading the protocol, standing in that slot is a first taste of what Week 13 will name out loud.
 
 # Pre-Work for the Companion Team (this week)
 
@@ -407,7 +407,7 @@ Companion team meets the day after Week 10 for a 45-minute debrief. Two subjects
 
 - How did the pacing hold? Where specifically did it rush, and was it the silences, the reading, or the handoff?
 - If the feedback round moved to this meeting because the debrief ran heavy: run it now, same order — the senior's two answers first, the adult's second, then the team's — and confirm the senior heard why it moved — protecting the room is the lesson, and it should be said to them in exactly those words.
-- What is the one coaching thread to carry to their next lead? Week 13 — the Rhythm and the Four Questions — is a teaching lift, not an experiential one: scripted content, low disclosure, a different muscle. Whatever tonight showed about their pace and presence, translate it into that register now, while it is fresh, so the coaching between now and Week 13 has a target.
+- What is the one coaching thread to carry to their next lead? Week 15 — the Rhythm and the Four Questions — is a teaching lift, not an experiential one: scripted content, low disclosure, a different muscle. Whatever tonight showed about their pace and presence, translate it into that register now, while it is fresh, so the coaching between now and Week 15 has a target.
 
 ### People to follow up with this week
 
