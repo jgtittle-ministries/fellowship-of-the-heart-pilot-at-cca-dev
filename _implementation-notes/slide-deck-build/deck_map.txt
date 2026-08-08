@@ -1,0 +1,240 @@
+1	Fellowship of the Heart
+2	Quarter 1
+3	WEEK 1
+4	Week 1 — Tonight’s Road
+5	Welcome — the Very-First-Time Orientation
+6	The Four Connects
+7	Container Introduction
+8	One True Sentence — Why Each of Us Is Here
+9	Between-Week Practice
+10	The Leader Feedback Round
+11	Closing the Container + Aaronic Blessing
+12	WEEK 2
+13	Week 2 — Tonight’s Road
+14	Opening Container — the Full Eight Steps
+15	Check-In on Week 1 Practice
+16	Teaching — Mark 4 and the Four Soils
+17	Family Clusters — the Heart Soil Diagnostic
+18	Re-Merge — One Word, Then the Verse
+19	Between-Week Practice
+20	The Leader Feedback Round
+21	Closing the Container + Aaronic Blessing
+22	WEEK 3
+23	Week 3 — Tonight’s Road
+24	Opening Container — the Eight Steps
+25	Week 2 Check-In — Heart Soil
+26	Psalm 139 — Being Known
+27	Companion Demo Story
+28	Bridge to the Clusters
+29	Stories in Family Clusters
+30	Merge and Shared Closing
+31	Between-Session Practice — Joint Footprints
+32	The Leader Feedback Round
+33	Closing the Container + Aaronic Blessing
+34	WEEK 4
+35	Week 4 — Tonight’s Road
+36	Opening Container — the Eight Steps
+37	Joint Footprints Check-In
+38	Psalm 139 — Being Known, Again
+39	Bridge to the Split
+40	Stories in Family Clusters — the Teens Tell
+41	Merge and One-Word Landing
+42	Between-Session Practice
+43	The Leader Feedback Round
+44	Closing the Container + Aaronic Blessing
+45	WEEK 5
+46	Week 5 — Tonight’s Road
+47	Opening Container — the Eight Steps
+48	Week 4 Check-In — Joint Footprints
+49	The Four Conditions
+50	Bridge to the Split
+51	Friendship-Mapping in Family Clusters
+52	Merge — Surfacing Common Patterns
+53	Between-Session Practice — One Friendship, One Condition
+54	The Leader Feedback Round
+55	Closing the Container + Aaronic Blessing
+56	WEEK 6
+57	Week 6 — Tonight’s Road
+58	Opening Container — the Eight Steps
+59	Week 5 Check-In
+60	Confession as Architecture
+61	Companion Demo
+62	Bridge to the Split
+63	Confession and Restoration in Family Clusters
+64	Merge and Shared Blessing
+65	Between-Session Practice — the Five-Minute Examen
+66	The Leader Feedback Round
+67	Closing the Container + Aaronic Blessing
+68	Quarter 2
+69	WEEK 7
+70	Week 7 — My Story: The Eye Test
+71	Week 7 — Tonight’s Road
+72	Opening Container — the Eight Steps
+73	Re-Entry Check-In
+74	Romans 10:17 — The Chain
+75	PROAPT Walked Together — Mark 1:14–20
+76	Bridge to the Clusters — Pair Structure
+77	PROAPT in Family Pairs
+78	Tell Step — Sharing in the Cluster
+79	Merge and Between-Session Practice
+80	The Leader Feedback Round
+81	Closing the Container + Aaronic Blessing
+82	WEEK 8
+83	Week 8 — Tonight’s Road
+84	Opening Container — the Eight Steps
+85	Daily-Practice Check-In
+86	Why a Second Running
+87	PROAPT Walked Together — Mark 2:1–12
+88	Bridge to the Clusters — Pair Structure
+89	PROAPT in Family Pairs
+90	Tell Step — Sharing in the Cluster
+91	Merge and Between-Session
+92	The Leader Feedback Round
+93	Closing the Container + Aaronic Blessing
+94	WEEK 9
+95	Week 9 — Tonight’s Road
+96	Opening Container — the Eight Steps
+97	Week 7 Check-In
+98	Scripture and Framing
+99	Bridge into the Exercise
+100	The Garden Exercise — Whole Room, then Clusters
+101	Merge and One-Word Landing
+102	Between-Session Practice
+103	The Leader Feedback Round
+104	Closing the Container + Aaronic Blessing
+105	WEEK 10
+106	Week 10 — Tonight’s Road
+107	Opening Container — the Eight Steps
+108	Garden Week Check-In
+109	Scripture and Brief Re-Framing
+110	Bridge to the Exercise
+111	The Garden Exercise — Whole Room, then Family Clusters
+112	Merge and One-Word Landing
+113	Between-Session Practice
+114	The Leader Feedback Round
+115	Closing the Container + Aaronic Blessing
+116	WEEK 11
+117	Week 11 — Tonight’s Road
+118	Opening Container — the Eight Steps
+119	Week 9 Check-In — the Garden Returns
+120	Mark 9:14–29 — the Scripture Ground
+121	The Any Doubts? Practice — Four Steps
+122	Bridge to the Split — Parents First
+123	Any Doubts? in Pairs, within Families
+124	Merge and Surface
+125	Between-Session Practice — the Doubts Inventory
+126	The Leader Feedback Round
+127	Closing the Container + Aaronic Blessing
+128	Quarter 3
+129	VISUAL TO COME
+130	Week 12 — Tonight’s Road
+131	Opening Container — Run Slow
+132	New Every Morning — Lam. 3:22–23, Ps. 126
+133	“What Held?”
+134	The Walk Home
+135	Re-Anchoring the Year
+136	Between-Session Practice — Restart One
+137	Closing the Container + Aaronic Blessing
+138	The Leader Feedback Round
+139	WEEK 13
+140	Week 13 — Tonight’s Road
+141	Opening Container — the Eight Steps
+142	Week 11 Check-In
+143	Uphill and Downhill — Ephesians 2:10
+144	Bridge to the Split — Two Exercises
+145	Gifts and Downhill in Family Clusters
+146	Merge and Surface
+147	Practice This Week — and the Road Ahead
+148	The Leader Feedback Round
+149	Closing the Container + Aaronic Blessing
+150	VISUAL TO COME
+151	Week 14 — Tonight’s Road
+152	Opening Container — the Eight Steps
+153	The Mission Round
+154	Why Tonight — the Rotation’s Charter
+155	Closing the Container + Aaronic Blessing
+156	The Leader Feedback Round
+157	VISUAL TO COME
+158	Week 15 — Tonight’s Road
+159	Opening Container — the Eight Steps
+160	Week 13 Completion — Finishing the Mission Week
+161	The Long Walk — Galatians 6:9
+162	The Rhythm Card Introduced
+163	Building Your Rhythm Card
+164	The Four Questions
+165	The Leader Feedback Round
+166	Closing the Container + Aaronic Blessing
+167	Between-Session Practice — This Week and Across the Break
+168	VISUAL TO COME
+169	Week 16 — Tonight’s Road
+170	Opening Container — the Eight Steps
+171	Rhythm-Noticing Round
+172	Acts 2:46 and the Table Grace
+173	The Meal
+174	Cards over Dessert
+175	Pulse 3 Framed and Sent Home
+176	The Leader Feedback Round
+177	Closing the Container + Aaronic Blessing
+178	VISUAL TO COME
+179	Week 17 — Tonight’s Road
+180	Mode A — The Missed Evening Runs Whole
+181	Mode B — The Live Rhythm-Card Walk
+182	The Borrow Round
+183	Quarterly Pulse — Back in the Bin
+184	One Practice Across the Break
+185	The Leader Feedback Round
+186	Closing the Container + Aaronic Blessing
+187	Quarter 4
+188	WEEK 18
+189	Week 18 — Tonight’s Road
+190	Opening Container — the Eight Steps
+191	Not Growing Weary — Galatians 6:9 and Philippians 1:6
+192	“What Held” — the Whole Room
+193	The Final Stretch — the Map
+194	Between-Session Practice
+195	Closing the Container + Aaronic Blessing
+196	The Leader Feedback Round
+197	Aaronic Blessing and Sending
+198	VISUAL TO COME
+199	Week 19 — Tonight’s Road
+200	Opening Container — the Eight Steps
+201	The Frame — Why These Two Cards
+202	Bridge and Split
+203	First Teaching Rep — Both Cards
+204	Cluster Feedback — One Keep, One Adjust
+205	Second Teaching Rep — Both Cards, Tightened
+206	Second Cluster Feedback
+207	Merge and Between-Session
+208	Closing the Container + Aaronic Blessing
+209	The Leader Feedback Round
+210	WEEK 20
+211	Week 20 — Tonight’s Road
+212	Opening Container — the Eight Steps
+213	Why Tonight — Isaiah 50:10
+214	The Signs Card — the Four Kinds of Dry
+215	The Path Home Card — the Written Door
+216	The Journal Arc Review
+217	One Sentence, and the Testimony Gathering
+218	The Post-Series Survey
+219	The Leader Feedback Round
+220	Closing the Container + Aaronic Blessing
+221	WEEK 21
+222	Week 21 — Tonight’s Road
+223	Welcome and Integration Teaching
+224	Brief Blessing Rehearsal — the Form
+225	Reading and Prayer
+226	Family Commissionings
+227	Final Reflection Circle
+228	Rhythm Card and Going Deeper Bridge
+229	The Leader Feedback Round
+230	WEEK 22
+231	Week 22 — Tonight’s Road
+232	Welcome and Framing — a Gate, Not a Graduation
+233	The Final Rep — the Container Opened
+234	The Word Over the Night
+235	The Three Rules Read Aloud
+236	The Covering Named
+237	The Commissioning
+238	The First Lab Scheduled
+239	The Leader Feedback Round
+240	The Final Rep — the Container Closed

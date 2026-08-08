@@ -1,0 +1,36 @@
+<svg viewBox="0 0 920 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t d">
+<title id="t">The Four Soils</title>
+<desc id="d">The four soils of Mark 4:1-20 as four panels - 1. Path (hard ground; the seed never gets in), 2. Rocky (quick sprout, no roots; withers at cost), 3. Thorny (grows, then choked: cares, riches, other desires), and 4. Good soil (hears, accepts, bears fruit - thirty, sixty, a hundredfold). All four are in every heart; the diagnostic question is where each one shows up right now.</desc>
+<rect x="3" y="3" width="914" height="324" rx="14" fill="#FBFAF7" stroke="#E7E2D9" stroke-width="1.5"/>
+<text x="460" y="40" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="20" font-weight="600">The Four Soils</text>
+<text x="460" y="64" text-anchor="middle" fill="#6E7C8E" font-family="Georgia, serif" font-size="13">Mark 4:1&#8211;20 &#8212; the parable Jesus explains Himself</text>
+
+<g font-family="Georgia, serif" text-anchor="middle">
+  <!-- 1 Path -->
+  <rect x="30" y="120" width="185" height="92" rx="12" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.8"/>
+  <text x="122" y="150" fill="#C9851F" font-size="16" font-weight="700">1 &#183; Path</text>
+  <text x="122" y="172" fill="#6B7280" font-size="10.5">hard, packed ground &#8212;</text>
+  <text x="122" y="187" fill="#6B7280" font-size="10.5">the seed never gets in</text>
+
+  <!-- 2 Rocky -->
+  <rect x="255" y="120" width="185" height="92" rx="12" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.8"/>
+  <text x="347" y="150" fill="#C9851F" font-size="16" font-weight="700">2 &#183; Rocky</text>
+  <text x="347" y="172" fill="#6B7280" font-size="10.5">quick sprout, no roots;</text>
+  <text x="347" y="187" fill="#6B7280" font-size="10.5">withers when cost comes</text>
+
+  <!-- 3 Thorny -->
+  <rect x="480" y="120" width="185" height="92" rx="12" fill="#FFFFFF" stroke="#C9851F" stroke-width="1.8"/>
+  <text x="572" y="150" fill="#C9851F" font-size="16" font-weight="700">3 &#183; Thorny</text>
+  <text x="572" y="172" fill="#6B7280" font-size="10.5">grows &#8212; then choked: cares,</text>
+  <text x="572" y="187" fill="#6B7280" font-size="10.5">riches, other desires</text>
+
+  <!-- 4 Good soil -->
+  <rect x="705" y="120" width="185" height="92" rx="12" fill="#C9851F" fill-opacity="0.10" stroke="#C9851F" stroke-width="2.2"/>
+  <text x="797" y="150" fill="#C9851F" font-size="16" font-weight="700">4 &#183; Good Soil</text>
+  <text x="797" y="172" fill="#6B7280" font-size="10.5">hears, accepts, bears fruit &#8212;</text>
+  <text x="797" y="187" fill="#6B7280" font-size="10.5">thirty &#183; sixty &#183; a hundredfold</text>
+</g>
+
+<text x="460" y="256" text-anchor="middle" fill="#2B2E34" font-family="Georgia, serif" font-size="11.5">Not &#8220;which soil am I?&#8221; &#8212; all four are in every heart. The question is where each one shows up, right now.</text>
+<text x="460" y="286" text-anchor="middle" fill="#6B7280" font-family="Georgia, serif" font-size="10.5">Good soil is not soil without rocks or thorns &#8212; it hears, accepts, and produces. The point is fruit, not perfection.</text>
+</svg>
