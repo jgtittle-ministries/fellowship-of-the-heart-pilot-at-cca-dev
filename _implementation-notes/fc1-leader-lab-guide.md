@@ -6,6 +6,8 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **Six sessions, run alongside the fifteen-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
 
+**And every Lab closes with the same standing question, asked just before the container closes: "What did you notice about the room this week?"** — in the cohort, in this Lab, anywhere they were watching people. Who told something costly; who went quiet; who almost spoke; what the room did next. The pastoral eye forms by being asked, regularly, what it saw — this question is how noticing becomes a habit instead of an accident. One rule travels with the question every time it is asked: what you notice goes to your adult Companion, never onto your own shoulders. Noticing is the senior's formation; carrying is still the adult's job — and if a noticing touches someone's safety, the bright line binds what you saw exactly as it binds what you are told.
+
 | Lab | Alongside cohort | Focus |
 |-----|------------------|-------|
 | 1 | Wks 1–2 | The call, the bright line, the container from the inside |

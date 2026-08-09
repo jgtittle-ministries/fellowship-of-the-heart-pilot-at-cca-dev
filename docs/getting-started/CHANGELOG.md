@@ -11,6 +11,15 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The ask, the quiet seat, and the noticing habit
+
+A reading of Alpha USA's current student-led youth toolkit — the tradition's modern answer to the same teen-leadership question — added four companions to the selection additions below. Alpha's pipeline has almost no gate ("you just need a student who's willing"); this series keeps its discernment gate and borrows the pipeline's best discovery tools:
+
+- **Making the ask (Section 11.5).** Three example scripts for the gift-naming personal invitation — name what was observed, tie it to one specific slot, leave real room for no.
+- **The quiet seat (Section 11.5).** A named, honorable non-front slot in the circle: listen well, encourage the one who just told, notice who is on the edge. Offered by name, never assigned; what is noticed is handed to the adult, never carried.
+- **The noticing habit (Appendix G).** Every Leader Lab now closes with the standing question "What did you notice about the room this week?" — the pastoral eye forms by being asked what it saw — with the hand-it-to-your-adult rule spoken every time.
+- **The celebrate line (Section 11.7).** The Feedback Round's affirmations name character, courage, and consistency, never flawless execution — what gets celebrated is what grows.
+
 # August 2026 — Faithful and able: five selection additions
 
 A close reading of the *Life in the Spirit Seminars Team Manual* (Stephen B. Clark, 1970s — specifically its team-formation half) put language to some things the series was already doing and named a few it was not yet doing. Five additions, one thread: Paul's two words in 2 Timothy 2:2 — *faithful* and *able* — applied to selection, not only to transmission.

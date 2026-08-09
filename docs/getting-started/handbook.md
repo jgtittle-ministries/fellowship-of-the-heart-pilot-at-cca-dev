@@ -1139,6 +1139,16 @@ Six yeses from both discerners is a ready teen. A "not yet" on any mark is not a
 
 **And selection looks both ways.** Volunteering is evidence, but it is not the criterion. Some of the teens God has gifted for this will never raise a hand — "for God gave us a spirit not of fear but of power and love and self-control" (2 Timothy 1:7) was written to a young leader precisely because the gifted are often the timid. So the team's work is not only receiving the volunteers; it is noticing the quiet teen the room already listens to and making the ask personally — never pressure, always invitation, and the rotation's low-risk slots exist exactly for this first step. The eager hand and the quiet gift both belong, and only watching for both finds both.
 
+**The quiet seat.** Not all leadership faces the room. Alongside the rotation's front slots, a circle can carry a named quiet seat — a teen whose work for the evening is to listen well, to encourage the one who just told something costly, and to notice who is on the edge: who went silent, who almost spoke, who came in already carrying something. This is honorable work, not a consolation seat — some of the best Companions are formed noticing long before they are formed speaking. Two boundaries keep it what it is. The seat is offered by name and never assigned, like every slot. And what the teen notices is handed to their adult Companion, never carried — if a noticing touches someone's safety, or sounds like a disclosure, the bright line binds what they saw exactly as it binds what they are told.
+
+**Making the ask.** When the team sees a gift, the ask should carry the seeing inside it — name what was observed, tie it to one specific slot, and leave real room for no:
+
+- *"You have a way of putting people at ease just by how you sit in the circle. Would you think about opening the container some Wednesday?"*
+- *"You ask real questions — the kind that make everyone else's questions honest. Would you consider leading the check-in round?"*
+- *"I've watched you notice who's on the edge of the room before any of us do. That's not small — it's the beginning of this whole work. Would you take the quiet seat in your circle for a few weeks?"*
+
+The pattern never changes: what we saw, one specific slot, and the freedom to say no and still be fully wanted in the room.
+
 ## 11.6 The three rules that never bend
 
 Print these three on a card (Appendix I). They are the whole of the teen leader's safety.
@@ -1156,7 +1166,7 @@ After a Companion-in-Formation leads, they receive a short, structured feedback 
 3. Ask the leader: "Would you like feedback from the group too?" The teen decides. If they say no, the round ends here. No pressure, no exposure.
 4. If the teen says yes, ask the group — popcorn-style, so only those with something to say speak: "What worked well for you? What is one suggestion for them to consider next time?"
 
-The design is the point. Strengths before growth keeps it safe. The leader holds the consent for group feedback, so they keep their agency. Popcorn removes the pressure of a forced round. And "for you" language keeps the group reflecting on their own experience, not grading a friend. This is the loop that turned seeing-it into leading-it in the pilot.
+The design is the point. Strengths before growth keeps it safe — and the strengths worth naming are character, courage, and consistency, never flawless execution, because what gets celebrated is what grows. The leader holds the consent for group feedback, so they keep their agency. Popcorn removes the pressure of a forced round. And "for you" language keeps the group reflecting on their own experience, not grading a friend. This is the loop that turned seeing-it into leading-it in the pilot.
 
 ## 11.8 What we are really forming for — the dorm horizon
 
@@ -1471,6 +1481,8 @@ Sunday: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 The Leader Lab is the **off-line half** of forming a senior to FC1. The reps — leading the container, PROAPT, the Garden — happen *inside the cohort*, on the second running of each process, in front of everyone (see the Companion-in-Formation Track and the fifteen-week map in Section 1). The Lab is where we form everything the cohort floor cannot: the safety boundary, the referral reflex, the covering relationship, and the judgment to carry this into a world with no adult in the room.
 
 **Six sessions, run alongside the fifteen-week series — roughly one every two weeks.** Keep the Lab small: the Companions-in-Formation and one or two adult Companions. The Lab is itself a container — open and close it the way we open and close everything.
+
+**And every Lab closes with the same standing question, asked just before the container closes: "What did you notice about the room this week?"** — in the cohort, in this Lab, anywhere they were watching people. Who told something costly; who went quiet; who almost spoke; what the room did next. The pastoral eye forms by being asked, regularly, what it saw — this question is how noticing becomes a habit instead of an accident. One rule travels with the question every time it is asked: what you notice goes to your adult Companion, never onto your own shoulders. Noticing is the senior's formation; carrying is still the adult's job — and if a noticing touches someone's safety, the bright line binds what you saw exactly as it binds what you are told.
 
 | Lab | Alongside cohort | Focus |
 |-----|------------------|-------|
