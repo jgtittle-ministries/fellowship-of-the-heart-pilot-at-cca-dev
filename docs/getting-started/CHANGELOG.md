@@ -11,6 +11,13 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The listening moves and the first page
+
+Two more from the Alpha Youth reading — this time from the current host-and-helper materials:
+
+- **The three listening moves (Appendix G, Lab 2).** The Leader Lab now teaches listening as a skill, not a disposition: **encourage, paraphrase, summarize** (a model from the Fuller Youth Institute) — affirm the courage before the content, give back what was said so the teller knows it landed, gather the most significant feeling into one closing sentence. With the working insight that a person who repeats, gets louder, or exaggerates usually doesn't feel heard yet — a signal about the listener, not the teller. Practiced in pairs; bounded by rule two.
+- **The first page (Week 1 → journal → Week 11 → Week 20).** On the first night, everyone writes one question on the journal's first page: *if you could ask God one question and know He would answer it this year, what would you ask?* Dated, never collected, read by no one — the journal keeps it, not the team. The room returns to the page twice: Week 11, before doubts get named (the doubt often lives next door to the question), and Week 20, where the arc review now begins at that page — answered, changed, or still standing, each a real answer. Adapted from Alpha's opening-episode practice, rebuilt to honor the journals-are-never-collected covenant.
+
 # August 2026 — The ask, the quiet seat, and the noticing habit
 
 A reading of Alpha USA's current student-led youth toolkit — the tradition's modern answer to the same teen-leadership question — added four companions to the selection additions below. Alpha's pipeline has almost no gate ("you just need a student who's willing"); this series keeps its discernment gate and borrows the pipeline's best discovery tools:

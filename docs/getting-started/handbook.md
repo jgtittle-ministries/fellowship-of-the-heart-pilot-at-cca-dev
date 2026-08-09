@@ -1516,15 +1516,16 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **Aim.** Get ready to take the first in-cohort running (Telling Your Story II, Wk 4) and to receive the Leader Feedback Round well.
 
-**What it builds.** The feedback loop; honest self-reflection; the referral reflex, deepened.
+**What it builds.** The feedback loop; the three listening moves; honest self-reflection; the referral reflex, deepened.
 
 **The session.**
 1. **Open.**
 2. **Rehearse the running you're about to lead.** Walk the Wk-4 container open, the story facilitation, and the blessing round. Who leads which part; where the adult stays close.
-3. **Receiving feedback well.** Walk the Leader Feedback Round from the leader's chair: how to take affirmation without inflating, and growth without collapsing. It is not a performance review — it is formation.
-4. **Noticing yourself while leading.** The private reflection: where did I want to *fix* instead of *hold space?* Where did I rush? The goal is not to lead perfectly but to notice honestly.
-5. **The referral drill, harder.** A teen in your circle tears up and says something about home. What do you do? (Hand it to the adult; keep holding the container.)
-6. **Close.**
+3. **Listening so people know they were heard.** The skill that carries a story circle, taught as three moves — **encourage, paraphrase, summarize** (a model from the Fuller Youth Institute). *Encourage:* affirm the courage before touching the content — the room learns that telling costs something and that the cost was seen. *Paraphrase:* give back what they said in your own words, so they know it landed; when someone repeats themselves, gets louder, or exaggerates, that is usually not a content problem — it is a person who does not yet feel heard, and it is a signal about the listener. *Summarize:* as the moment closes, gather the most significant feeling back to them in one sentence. Practice in pairs: two minutes of a true, light story; the listener makes the three moves; swap, then debrief. Close with the boundary, said plainly: these moves hold the circle's ordinary sharing — the moment listening surfaces something heavy, rule two takes over. Listening well and handing well are the same faithfulness.
+4. **Receiving feedback well.** Walk the Leader Feedback Round from the leader's chair: how to take affirmation without inflating, and growth without collapsing. It is not a performance review — it is formation.
+5. **Noticing yourself while leading.** The private reflection: where did I want to *fix* instead of *hold space?* Where did I rush? The goal is not to lead perfectly but to notice honestly.
+6. **The referral drill, harder.** A teen in your circle tears up and says something about home. What do you do? (Hand it to the adult; keep holding the container.)
+7. **Close.**
 
 **Take-home.** Lead your first running this week. Afterward, write three lines: one thing I did well, one to try next time, one thing I noticed in myself.
 
