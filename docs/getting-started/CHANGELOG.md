@@ -11,6 +11,16 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — Faithful and able: five selection additions
+
+A close reading of the *Life in the Spirit Seminars Team Manual* (Stephen B. Clark, 1970s — specifically its team-formation half) put language to some things the series was already doing and named a few it was not yet doing. Five additions, one thread: Paul's two words in 2 Timothy 2:2 — *faithful* and *able* — applied to selection, not only to transmission.
+
+- **The clear agreement (Section 3 + new Appendix J).** Joining the Companion team now begins with a one-page agreement walked through aloud — the work, the rhythm, the season, the boundaries — signed by candidate and Lead Companion both. A yes that saw the whole; a no that can be honorable.
+- **The six marks of "ready" (Section 11.5).** The parent-and-Lead discernment pair now looks at the same six marks — three of faithfulness, three of ability — so "ready" means the same thing to both discerners.
+- **Selection looks both ways (Section 11.5).** Volunteering is evidence, not the criterion; the team also seeks out the quiet teen the room already listens to (2 Timothy 1:7).
+- **"What tells me that?" (Section 3, the Thursday Call).** The look-at-the-flock movement gains its grounds-checking question, so a read formed on thin evidence gets caught before it hardens into the plan.
+- **The four rungs (Section 11.8).** The road from FC1 to the dorm now names its stages: receive it → lead it with the team in the room → lead it with a Companion alongside → lead it alone, with a covering a call away.
+
 # August 2026 — A rhythm you can see
 
 Week 15's Rhythm Card build gains a ninety-second preface: before anyone writes a card, the Lead Companion shows the room what a rhythm turns into when it is kept — the founder's own morning flow, four images prayed in the same order every morning for years (from a mentored exercise with Christian A. Schwarz; the images travel with the session slides, used with the author's permission). A bench, an open Bible, rings on still water, a leap between rocks — grounding, hearing, changing, leaping. Then the invitation, never the assignment: as you keep the card you built tonight, watch for your own four images. The Personal Heart Journal's morning-question pages gain an optional “A morning flow” section — the founder's worked example in words, and four frames waiting.

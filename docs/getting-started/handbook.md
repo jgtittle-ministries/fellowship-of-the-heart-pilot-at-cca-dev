@@ -242,6 +242,12 @@ Drawing on the Formation Companion framework in Volume 5 (developmental progress
 3. Crisis response. Has worked through the protocol in Section 6 with the pastoral / clinical backup person before Week 1, and knows what to do if a teen discloses suicidal ideation, abuse, or self-harm.
 4. IJH framework fluency. Has read at minimum the Read Me First, Volume 2 (full), and the relevant Vol 1 explorations (1, 5, 6, 7), and can speak about the framework in their own words.
 
+## The clear agreement — before anyone joins
+
+Paul gave Timothy a two-word standard for the people the work is entrusted to: *faithful*, and *able to teach others also* (2 Timothy 2:2). Ability the team can grow. Faithfulness begins somewhere specific — with a person knowing exactly what they are saying yes to. Nobody can be faithful to a commitment they never actually saw.
+
+So joining this team is never a drift, a favor, or a flattering ask. Before a candidate gives their answer, the Lead Companion sits down with them and walks the one-page agreement in Appendix J together — the work, the rhythm, the season, the boundaries — and the two of them sign it. Recruitment works the same way: show the whole page first, then ask for the hand. The page exists so that a yes is real — and so that a no can be honorable. A clear no in August serves the flock far better than a fading yes in February.
+
 ## Companion preparation rhythm
 
 The eight weeks before Week 1, every Companion works the following rhythm. This is not optional. The handbook is structured so the Companion is one Connect ahead of the cohort at all times.
@@ -266,7 +272,7 @@ Once the year begins, the team's whole weekly rhythm is **one forty-five-minute 
 
 **1. Look back (15 minutes).** The [Three Vital Signs](../shared/three-vital-signs.md) first — the card's three questions open the debrief, as always. Then the Feedback Round echo: what the room said Wednesday, plus what the team saw that the room didn't say. Then **one keep, one change** from each person on the call, the evening's leader first — the team practices the same posture it asks of the room. Changes are *decided, not debated*: thirty seconds each, the Lead Companion calls it, the scribe writes it down. A change worth more than thirty seconds gets its own conversation. The plan's week-specific debrief prompts run inside this movement.
 
-**2. Look at the flock (10 minutes).** People, by name. Who needs the 48-hour touch, **who specifically is making it, and by when**. This is where "follow up offline" stops being a phrase in a lesson plan and becomes a name with an owner. Names stay on the call — the [Measurement Covenant](../shared/measurement-covenant.md) governs everything said here, and Section 6 governs anything that crosses the safety threshold.
+**2. Look at the flock (10 minutes).** People, by name. Who needs the 48-hour touch, **who specifically is making it, and by when**. This is where "follow up offline" stops being a phrase in a lesson plan and becomes a name with an owner. One discipline keeps this movement honest: when someone offers a read on a person — *she's not ready*, *he's fine, just tired* — the standing question is **"What tells me that?"** Sometimes the answer is a discernment the Lord has given and the words come slowly; more often, saying the grounds out loud is how the team learns to see — and how a read formed on thin evidence gets caught before it hardens into the plan. Names stay on the call — the [Measurement Covenant](../shared/measurement-covenant.md) governs everything said here, and Section 6 governs anything that crosses the safety threshold.
 
 **3. Look ahead (15 minutes).** Next Wednesday. Two minutes walking next week's Quick Reference Card aloud — aim, mode, watch-fors. Then the decisions that plan requires this week: option or mode choices, which parent opens each sharing round, which teen leads and who is the adult catch. Then roles, assigned on the [Weekly Run Card](../shared/weekly-run-card.md). Then calendar: the dry run if a teen is leading, printing, room, food.
 
@@ -1120,6 +1126,19 @@ A Companion-in-Formation is a willing senior teen (roughly ages 15–18) who co-
 
 **Selection.** The discernment pair for each teen is that teen's own parent and the Lead Companion. Both must agree the teen is ready. There is no cap on numbers — every willing senior whose parent and Lead Companion agree may join. Spread the runnings across the whole team so several peers lead, no one is overloaded, and the cohort sees more than one of its own step up.
 
+**What "ready" means — the shared object.** "Ready" is not a feeling, and the discernment pair should be looking at the same six marks when they agree — otherwise a parent and a Lead Companion can both say yes and mean different things. The first three are faithfulness; the second three are ability — Paul's two words (2 Timothy 2:2), teen-sized:
+
+1. **They believe it for their peers, not just for themselves.** They could say in their own words why this series matters, and they want it for the room.
+2. **They know what they are saying yes to** — the reps, the dry runs, the feedback round, the three rules — and that is what they said yes to, not a vague honor.
+3. **Their own walk is steady enough that leading is overflow, not therapy.** A teen in a hard season is cared for first and invited later. Serving is not the road back to health; it is what health does next.
+4. **They have received, as a participant, every block they would lead** — rule 3, see it, then lead it.
+5. **They can stand in front of the room without the fear swallowing them.** Nerves are welcome — every real leader has them. Paralysis just means "not yet."
+6. **Their peers already listen to them** — some quiet weight the room recognizes before any title arrives.
+
+Six yeses from both discerners is a ready teen. A "not yet" on any mark is not a rejection — it names the specific thing the next season gets to grow.
+
+**And selection looks both ways.** Volunteering is evidence, but it is not the criterion. Some of the teens God has gifted for this will never raise a hand — "for God gave us a spirit not of fear but of power and love and self-control" (2 Timothy 1:7) was written to a young leader precisely because the gifted are often the timid. So the team's work is not only receiving the volunteers; it is noticing the quiet teen the room already listens to and making the ask personally — never pressure, always invitation, and the rotation's low-risk slots exist exactly for this first step. The eager hand and the quiet gift both belong, and only watching for both finds both.
+
 ## 11.6 The three rules that never bend
 
 Print these three on a card (Appendix I). They are the whole of the teen leader's safety.
@@ -1142,6 +1161,13 @@ The design is the point. Strengths before growth keeps it safe. The leader holds
 ## 11.8 What we are really forming for — the dorm horizon
 
 FC1 is the floor, and it forms in a single cycle. The longer horizon is a young adult who can run the entire Getting Started journey on their own — in a college dorm, a few years from now. That day clears our hardest problem, because a nineteen- or twenty-year-old leading their peers is an adult leading adults, and the whole question of minors leading minors falls away. But it removes the safety net that CCA provides: no two adults, no clinical backup on call, no reporting chain. The leader is the front line, alone.
+
+The road from the floor to the dorm has **four rungs**, and naming them keeps anyone from skipping one:
+
+1. **Receive it** — walk every block as a participant. The first running.
+2. **Lead it with the team in the room** — the second runnings and the rotation slots, with an adult holding the container's edges. This is FC1, and it forms in this series.
+3. **Lead it with a Companion alongside** — first a whole evening, eventually a whole arc, with an experienced Companion present but silent unless needed. This is the rung the years of reps are for, and nobody should meet the dorm without it.
+4. **Lead it alone, with a covering a call away** — the dorm itself, where the named covering and the referral map do the work the adult in the room used to do.
 
 So the readiness that matters most for the dorm is not whether they can run the exercises — they can. It is whether they have internalized the boundary and built their own net. The profile below names the eight competencies; the two marked essential are the ones that replace the adults in the room.
 
@@ -1669,3 +1695,46 @@ Lead Companion (signed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 - Suicide & Crisis Lifeline: **988**
 - A trusted pastor or mentor: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - **Route it, don't carry it.** The moment it's above your level, you hand it on.
+
+# Appendix J — The Clear Agreement (What a Companion Says Yes To)
+
+*One page, walked together. Before a candidate joins the Companion team, the Lead Companion and the candidate read this page aloud together, unhurried, and both sign it. It is a mutual understanding, not a contract — Sections 3, 5, and 6 of this handbook govern the details. Show the whole page before asking for the hand.*
+
+## The work
+
+- **You stay on the journey yourself.** Your own Daily / Weekly / Monthly rhythm, current — not remembered. The room will know within one session.
+- **You hold the container** — Safe, Present, Clear, Intentional — and you learn every name in your circle.
+- **You sit inside the practices, not behind them.** You tell your story, you take the feedback round, you receive everything you help lead.
+- **You keep the boundaries that keep everyone safe:** the two-adult rule, the bright line (teens lead process, adults hold care), the confidentiality covenant with its named limits, and the crisis protocols in Section 6.
+- **You carry follow-ups by name.** When the Thursday Call gives you a name and a deadline, that person hears from you.
+
+## The rhythm
+
+- **Wednesday evenings** — twenty-two sessions across the school year, in quarters with real breaks.
+- **The Thursday Call** — forty-five minutes, every week. This one call is the team's whole meeting life; missing the call is missing the meeting.
+- **The eight weeks before Week 1** — the preparation rhythm in Section 3: every practice done on yourself first, weekly team meetings, a dress rehearsal.
+- **The moments that stand outside the call:** T-30 team prayer before every session; a dry run whenever a teen you are catching is leading; an occasional scheduled working session before the heavy weeks.
+
+## The season
+
+- You are saying yes to **one school year, September through May** — a season, not forever.
+- If life changes mid-season, you tell the Lead Companion early and the team re-plans together. People leave well here; nobody disappears on a flock.
+- At year's end the yes is asked again — fresh, never assumed.
+
+## The boundaries
+
+- **You are not a counselor here**, whatever your training. Care beyond the room's scope is referred, per Section 6, every time.
+- **Mandatory reporting is real** and will be trained before Week 1. The covenant's confidentiality has named limits, and every family knows them.
+- **The Measurement Covenant** governs everything the team writes down or repeats. Some things are never collected at all.
+
+## The agreement
+
+I have read the Letter to the Companion and Sections 3, 5, and 6 of this handbook. I understand the work, the rhythm, the season, and the boundaries, and I say yes freely.
+
+Candidate: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Date: \_\_\_\_\_\_\_\_
+
+I have walked this page with the candidate, answered every question honestly, and I believe this yes is clear.
+
+Lead Companion: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Date: \_\_\_\_\_\_\_\_
+
+*It is no failure to say no to this page, and no shame to say "not this season." The page is here so both answers can be honest.*
