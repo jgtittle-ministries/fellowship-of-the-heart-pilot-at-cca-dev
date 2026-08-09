@@ -15,7 +15,7 @@
 
 A close reading of the *Life in the Spirit Seminars Team Manual* (Stephen B. Clark, 1970s — specifically its team-formation half) put language to some things the series was already doing and named a few it was not yet doing. Five additions, one thread: Paul's two words in 2 Timothy 2:2 — *faithful* and *able* — applied to selection, not only to transmission.
 
-- **The clear agreement (Section 3 + new Appendix J).** Joining the Companion team now begins with a one-page agreement walked through aloud — the work, the rhythm, the season, the boundaries — signed by candidate and Lead Companion both. A yes that saw the whole; a no that can be honorable.
+- **The clear agreement (Section 3 + new Appendix J).** Joining the Companion team now begins with a one-page agreement walked through aloud — the work, the rhythm, the season, the boundaries — closed by a yes spoken plainly, not signed. A yes that saw the whole; a no that can be honorable.
 - **The six marks of "ready" (Section 11.5).** The parent-and-Lead discernment pair now looks at the same six marks — three of faithfulness, three of ability — so "ready" means the same thing to both discerners.
 - **Selection looks both ways (Section 11.5).** Volunteering is evidence, not the criterion; the team also seeks out the quiet teen the room already listens to (2 Timothy 1:7).
 - **"What tells me that?" (Section 3, the Thursday Call).** The look-at-the-flock movement gains its grounds-checking question, so a read formed on thin evidence gets caught before it hardens into the plan.

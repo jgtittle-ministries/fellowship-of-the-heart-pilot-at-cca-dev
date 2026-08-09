@@ -246,7 +246,7 @@ Drawing on the Formation Companion framework in Volume 5 (developmental progress
 
 Paul gave Timothy a two-word standard for the people the work is entrusted to: *faithful*, and *able to teach others also* (2 Timothy 2:2). Ability the team can grow. Faithfulness begins somewhere specific — with a person knowing exactly what they are saying yes to. Nobody can be faithful to a commitment they never actually saw.
 
-So joining this team is never a drift, a favor, or a flattering ask. Before a candidate gives their answer, the Lead Companion sits down with them and walks the one-page agreement in Appendix J together — the work, the rhythm, the season, the boundaries — and the two of them sign it. Recruitment works the same way: show the whole page first, then ask for the hand. The page exists so that a yes is real — and so that a no can be honorable. A clear no in August serves the flock far better than a fading yes in February.
+So joining this team is never a drift, a favor, or a flattering ask. Before a candidate gives their answer, the Lead Companion sits down with them and walks the one-page agreement in Appendix J together — the work, the rhythm, the season, the boundaries — and then hears the candidate's answer, spoken plainly. Nothing is signed; the walked page and the spoken yes are the agreement. Recruitment works the same way: show the whole page first, then ask for the hand. The page exists so that a yes is real — and so that a no can be honorable. A clear no in August serves the flock far better than a fading yes in February.
 
 ## Companion preparation rhythm
 
@@ -1698,7 +1698,7 @@ Lead Companion (signed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 # Appendix J — The Clear Agreement (What a Companion Says Yes To)
 
-*One page, walked together. Before a candidate joins the Companion team, the Lead Companion and the candidate read this page aloud together, unhurried, and both sign it. It is a mutual understanding, not a contract — Sections 3, 5, and 6 of this handbook govern the details. Show the whole page before asking for the hand.*
+*One page, walked together. Before a candidate joins the Companion team, the Lead Companion and the candidate read this page aloud together, unhurried. It is a mutual understanding, not a contract — the yes at the end is spoken, not signed; Sections 3, 5, and 6 of this handbook govern the details. Show the whole page before asking for the hand.*
 
 ## The work
 
@@ -1729,12 +1729,6 @@ Lead Companion (signed): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 ## The agreement
 
-I have read the Letter to the Companion and Sections 3, 5, and 6 of this handbook. I understand the work, the rhythm, the season, and the boundaries, and I say yes freely.
-
-Candidate: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Date: \_\_\_\_\_\_\_\_
-
-I have walked this page with the candidate, answered every question honestly, and I believe this yes is clear.
-
-Lead Companion: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  Date: \_\_\_\_\_\_\_\_
+*Spoken, not signed.* When the page has been walked and every question answered, the candidate gives their answer in plain words — yes, no, or not this season — and the Lead Companion receives it. The yes worth having sounds like this: *"I understand the work, the rhythm, the season, and the boundaries — and I say yes freely."* A yes given aloud, eye to eye, after seeing the whole page, is the agreement. Nothing is signed and nothing is filed.
 
 *It is no failure to say no to this page, and no shame to say "not this season." The page is here so both answers can be honest.*
