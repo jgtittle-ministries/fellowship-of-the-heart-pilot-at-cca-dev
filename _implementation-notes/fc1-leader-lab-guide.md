@@ -94,7 +94,7 @@ The Leader Lab is the **off-line half** of forming a senior to FC1. The reps —
 
 **The session.**
 1. **Open.**
-2. **What flexes, and what doesn't.** In a dorm there are no parents and no parallel circles — that architecture drops away. What never drops: the Connect sequence, the container, the bright line, the three rules. Practice redesigning a session for six peers around a common room.
+2. **What flexes, and what doesn't.** In a dorm there are no parents and no family clusters — that architecture drops away. What never drops: the Connect sequence, the container, the bright line, the three rules. Practice redesigning a session for six peers around a common room.
 3. **What we hold back — with no one watching.** The same discipline the handbook names for Companions: no deep wound work, no deliverance ministry, no high-intensity practices. It is harder to hold when you are the only leader — name it now, out loud.
 4. **Making the ask.** How to gather four to eight peers, frame the covenant, and set the container expectation. Role-play the invitation both ways — the yes, and the *not now.*
 5. **Close.**
