@@ -20,7 +20,7 @@ Pilot edition — Covenant Christian Academy of Warrenton
 
 If you have this handbook in your hand, it is because someone trusted you with something delicate.
 
-What follows is a year-long club — twenty-two Wednesday evenings — for teenagers, ages roughly twelve through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, across a school year of Wednesdays, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when the year is over.
+What follows is a year-long club — twenty-two Wednesday evenings — for high-school teenagers, ages fourteen through eighteen, and at least one of their parents. The club is built on the spine of the four Connects — Connecting with Self, with Others, with God, and with Mission — which I have spent over twenty years exploring in the Intentional Journey of the Heart project. The full project is documented in six volumes of academic and kitchen-table writing. None of that matters very much for what you are about to do. What matters is that for ninety minutes a week, across a school year of Wednesdays, you are going to invite some of God’s youngest disciples — and the parents who love them — to begin a journey of the heart that, if the Lord wills, will not stop when the year is over.
 
 I want to say a few things before you turn the page.
 
@@ -161,7 +161,7 @@ For Companions who want to trace each session back to the IJH source. The claim 
 
 The Getting Started series is designed for teens and parents from Covenant Christian Academy of Warrenton and the broader CCA community. The expected mix:
 
-- Teens, ages 12–18, attending with at least one parent (or grandparent or legal guardian acting in loco parentis).
+- High-school teens, ages 14–18, attending with at least one parent (or grandparent or legal guardian acting in loco parentis).
 - Most teens will already identify as Christian; some will not, and that is not a barrier to participation. The series invites without coercing.
 - A wide range of formation maturity. Some teens will be at Affective Taxonomy Level 1 (showing up because Mom said). Some will already be at Level 3 (asking the questions on their own). Both belong.
 - Parents at varying levels of formation themselves. We design for the parent who has never done this kind of interior work, and we leave room for the parent who has.
