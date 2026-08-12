@@ -11,6 +11,10 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The five questions come home
+
+The five questions of the pre-cohort conversation now belong to everyone. Not every family in a first-run room will have met a Companion before night one — so after the first page is written on Week 1, the questions are offered to the whole room as homework, if you want it: printed in the journal right after the where-am-I-with-Jesus page, a page per question or a single sentence, never collected, never read. The offer is thirty seconds and deliberately not a second practice — the week's only ask remains the morning question. Some meet the questions in a conversation with a Companion; some meet them in the journal; either way they are theirs now.
+
 # August 2026 — The pilot's clock
 
 The CCA pilot meets Wednesday afternoons, 4:00–5:30 PM — not evenings. Every run sheet, block header, and inline script time in the twenty-two plans now speaks that clock: the team in the room by 3:30, doors at 3:45, sessions 4:00–5:30. Week 21's family commissioning runs 4:00–6:00; Week 22's rite fills the standard slot. Only the clock moved — every block keeps its minutes, and the scripture stayed guarded through the sweep (Numbers 6:24 is a verse, not a time). The scripts still say *tonight*, on purpose: most bodies that adopt these sessions will meet in the evening, as this work's own history mostly did, and a leader adapts a word on the fly more easily than a room adapts a clock. The calendar page and the handbook's session map now carry the meeting-time fact.

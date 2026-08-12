@@ -334,6 +334,12 @@ Shared circle, Lead Companion holding. A real discussion, not a quiz — the roo
 
 *(Two silent minutes. No music, no commentary. Companions write their own first page too — visibly.)*
 
+### The five questions, offered
+
+*(As the pens settle — thirty seconds, one slide. An offer, never an assignment; if the evening is running long, skip it without loss — the questions are in the journal either way.)*
+
+“And that page doesn’t have to be the only one this week. On the way into this work we ask every family five questions — some of you have met them in a conversation with one of us; some of you are meeting them right now, and that is just as good a door. They’re printed in your journal, right after the where-am-I-with-Jesus page. If you want more than the one practice we’re about to give you: a page per question this week — or a single sentence, whatever is true. Like every page in that journal, nobody reads them but you. They’re there if you want them. The only thing we’ll actually ask of you comes next.”
+
 ## Block 8 — Between-Session Practice (5:10–5:14, 4 min)
 
 **Co-Companion (Parent) leads this block.** It is important that the parent Co-Companion introduce this practice, because the parents need to hear that they are doing it too.
