@@ -558,6 +558,14 @@ Each evening, write one sentence in your journal: what did I notice today?
 | Morning question (5 min) — “Father, what are you up to today, and what do you want me to notice?” | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | Evening journal note (1 min) — one specific sentence: where did I see God today? | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
+**Homework, if you want it — five questions for your journal** *(never collected, never read — printed in your journal right after the where-am-I-with-Jesus page)*:
+
+1. What do you sense the Spirit might be doing in you right now?
+2. What’s drawing you toward something like this?
+3. What are you a little afraid of?
+4. What would you NOT want this to be?
+5. Where would you say you are with Jesus — has there been a time you said yes to Him, or is that still an open question?
+
 *Filled or half-filled, bring yourself back Wednesday. The room is the practice too.*
 
 **Handout H1.2 — Aaronic Blessing Card**
