@@ -624,7 +624,7 @@ Adapted from the Vol 4 Section 3 Pilot Ready core testing instruments (with opti
 
 | **Instrument** | **What it measures** | **When** |
 | --- | --- | --- |
-| Pre-Series Survey | Current spiritual practice frequency; hopes and expectations for the series. (Participants are not asked to self-score an Affective Taxonomy stage.) | At Family Orientation Night. |
+| Pre-Series Survey | Current spiritual practice frequency; hopes and expectations for the series. (Participants are not asked to self-score an Affective Taxonomy stage.) | At Family Orientation Night — or, when no orientation night fits the runway (the pilot year’s path), home in the Week 1 welcome packet and back at the Week 2 door. |
 | Personal Heart Journal | Longitudinal narrative reflection. Three weekly questions per session, plus the standing teach-back question closing every end-of-week reflection. | Daily / weekly throughout series. |
 | The Quarterly Pulse | Single-page check-in: what is working, what is not, do you want to keep going. | Weeks 6, 11 (the year's midpoint), and 16 — distributed at the close, collected at the next gathering's door. |
 | The three break experiments | What held without the container: practice survival across the break, Path Home Card uses, time-to-settled-container. | At each re-entry — Weeks 7, 12, and 18 — recorded by the team that night; no participant is named in the counts. |
