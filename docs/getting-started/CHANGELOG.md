@@ -11,6 +11,10 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The twenty-two Wednesdays, pinned
+
+CCA's club calendar came back with the real dates, and the calendar page now carries all twenty-two: September 2, 2026 through April 28, 2027, four quarters of 6/5/6/5. Not every Wednesday is a club Wednesday — the school year breathes around an early-September skip, Thanksgiving, the long Christmas rest (December 9 to January 27), and a February week — and the quarters breathe with it. Only the dates moved; the curriculum did not.
+
 # August 2026 — The quarter-hour and the room build
 
 The classroom taught the calendar a second lesson: the school day releases the room at 4:00, so nothing can be set up ahead. Sessions now run **4:15–5:30 — seventy-five minutes** — and the first fifteen minutes became something better than lost time: the **room build**, where the team and a teen crew turn a classroom into the circle while families arrive. The crew is the new serving rung beneath the leadership ladder (Handbook Section 11.8) — real serving with a real deadline, the shy teen's on-ramp, offered and never assigned — and it has its own line on the Weekly Run Card. Every run sheet was compressed by one rule: *the edges tightened; the practices at each evening's center kept every minute* — so a body meeting in the evening will find the plans breathe easily back out to ninety. Week 21's commissioning runs 4:15–6:15, the one night needing the room past 5:30. Only the clock and the crew changed; the evening's heart did not.
