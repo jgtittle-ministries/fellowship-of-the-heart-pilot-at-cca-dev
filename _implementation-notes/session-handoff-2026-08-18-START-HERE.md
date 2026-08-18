@@ -15,7 +15,7 @@
 
 ## 2. Before September 2 — people-work only
 
-1. **Permission conversations**, family by family, in the gap week (Sep 3–15). The ask, in John's words: a before-and-after + three quarter-turn pages, grading the curriculum never the family, one yes covers the year — and once a quarter the room turns the feedback questions on itself, out loud, never about any one person.
+1. **Permission conversations**, family by family, in the gap week (Sep 3–15). **Carry card built 2026-08-18**: *FotH Getting Started - The Permission Conversation (carry card).docx* — one page, in the CCA folder + Desktop. Holds the ask verbatim, the room self-read named in the same breath, what one yes covers, what a no costs, six likely questions with answers, and two guards (ask privately; ask the family together). The ask, in John's words: a before-and-after + three quarter-turn pages, grading the curriculum never the family, one yes covers the year — and once a quarter the room turns the feedback questions on itself, out loud, never about any one person.
 2. **Crisis card gaps (red items)**: Pastor Bobby Gore's phone + after-hours protocol · Andrea's after-hours cell · designate the same-week-call counselor (Booth / Thurman / Dean / Simpson shortlist) · confirm the chaplain row · phone-verify all numbers (the CSB is now Encompass Community Supports).
 3. **Signatures at the pre-launch team call**: Measurement Covenant (the gate — no signature, no instruments) + CCA child-protection policy; fill the safety-footer Companion names.
 4. Print counts: surveys (held until each yes), the 25-page debrief pack, profile pages, welcome packets (survey deliberately NOT inside).
