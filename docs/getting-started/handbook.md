@@ -437,6 +437,7 @@ This one-page gate must be completed and **signed by the Lead Companion and the 
 - [ ] The **Crisis Quick-Reference Card** and the **referral list, Categories 1–5** (crisis / reporting rows) are populated with **verified local Warrenton numbers**. (Categories 6–7 may fill in progressively.) Verified by: **[fill in]** · Date: **[fill in]**
 - [ ] **Every Companion** has worked through Section 6 with the backup person and has **signed CCA’s child-protection policy**. Confirmed by: **[fill in]**
 - [ ] **Virginia mandatory-reporting review closed** — Section 6 reviewed against current Virginia law and CCA policy by qualified counsel / CCA leadership. Reviewer: **[fill in]** · Date: **[fill in]**
+- [ ] **The door out is named.** One adult outside the Companion team, with a way to reach them, printed on the take-home page and announced aloud at Week 1 (Section 6, “The door out”). Name: **[fill in]** · Contact: **[fill in]**
 - [ ] The participant safety footer’s **“Your Cohort Companion: ____”** line is filled with a real name + number on every printed copy. Filled by: **[fill in]**
 
 *Wednesday-by-Wednesday rule:* the pastoral / clinical backup is re-confirmed at the team pre-meet **48 hours before each Wednesday**. If a Wednesday’s backup is **not** confirmed, that week’s deep-work block runs in its lighter, diagnostic-only form or is postponed — it does not run unbacked. (No clinician is required physically in the room.)
@@ -553,6 +554,43 @@ Before Week 1, build a referral list of three to five qualified resources, with 
 
 The full referral list goes in Appendix C and is updated annually.
 
+## The door out — one name every participant is given
+
+Everything else in this section is triggered by what a Companion *sees*: the Settle Protocol when a
+practice overwhelms someone, the watching Companion during a parent’s telling, the crisis protocol
+when something surfaces in the room. That machinery is real and it works on what shows. It cannot,
+by construction, reach a young person who shows nothing — and showing nothing is exactly what a
+teenager does when the hard thing is at home, or is about a Companion, or is about this program.
+
+So the program names **one adult outside the Companion team** whose job is to be reachable, and
+tells every participant who that is.
+
+**Who.** The named counseling-referral contact the school designates for this program (referral list
+above). Not a Companion, not a parent of a participant, not the Lead. Someone who can hear a thing
+and help a young person decide what happens next.
+
+- **Name: ______________________  ·  How to reach them: ______________________**
+- Fill this in before Week 1. **If the name is blank, the program does not open.** This joins the
+  launch-blocking checklist above.
+
+**How it is announced.** Aloud at Week 1, in the opening block, to teens and parents together, in
+words close to these: *“There is one more person you should know about. [Name] is not part of our
+team. If something ever needs saying that you do not want to say to me, or to your Companion, or to
+your parents, you can go straight to them. You do not need a reason and you do not need permission,
+and nobody here will be told you did.”* Then printed on the take-home page, so it survives the
+evening.
+
+**What it is not.** It is not a complaint channel about the curriculum, and it is not a substitute
+for the mandatory-reporting obligations above, which run whatever anyone prefers. It is a route to a
+conversation this room cannot supply, because this room contains the people the conversation may be
+about.
+
+**What the team does with it.** Nothing. A young person’s use of that door is not reported to the
+team, does not appear on any debrief sheet, and is never an instrument reading. If the outside adult
+judges that something must come back — safety, the reporting statutes — it comes back through
+their judgment and not through ours. The team may never learn that a door was opened, and that is
+the design working rather than failing.
+
 ## Background checks and two-adult rule
 
 1. Every Companion and adult volunteer has a current background check on file with CCA before Week 1.
@@ -626,7 +664,7 @@ And it costs something, which we name honestly rather than hide: **an observer i
 
 ## The permission conversation — asked for, never administered
 
-(Adopted for the pilot year, August 2026.) Every page a participant fills out — the Pre-Series Survey, the three Quarterly Pulses, the Post-Series Survey — is asked for before it exists in their world. In the days after Week 1, the Lead Companion sits with each family and asks, in plain words: *with your permission, I would like a before-and-after — one page now, one at year’s end, and three one-page check-ins at the quarter turns — so we can see whether this curriculum actually works.* We are grading the curriculum, never the family, and one yes covers the year; nothing is handed out until it is given. A family’s no costs nothing: they remain full participants, never surveyed, and the room never learns who answered which way. The Companion team’s own watching — the vital signs, the debrief notes, the observation profiles — is not a survey; it is a shepherd paying attention, held under the Measurement Covenant. Permission is asked for pages, never for care. The same conversation names the room’s self-read: *and once a quarter, we’ll turn our weekly feedback questions on ourselves as a group — out loud, never about any one person, no paper in anyone’s hand.*
+(Adopted for the pilot year, August 2026.) Every page a participant fills out — the Pre-Series Survey, the three Quarterly Pulses, the Post-Series Survey — is asked for before it exists in their world. In the days after Week 1, the Lead Companion sits with each family and asks, in plain words: *with your permission, I would like a before-and-after — one page now, one at year’s end, and three one-page check-ins at the quarter turns — so we can see whether this curriculum actually works.* We are grading the curriculum, never the family, and one yes covers the year; nothing is handed out until it is given. A family’s no costs nothing: they remain full participants and are never surveyed. What we promise about privacy is what we can actually keep: nobody is told who answered which way, nobody on the team asks, and no page is handed out or collected in front of the room. In a room of three to six families we do not promise that no one could ever notice — that would be a promise about other people’s eyes, and it is not ours to make. It is a promise about what we do. The Companion team’s own watching — the vital signs, the debrief notes, the observation profiles — is not a survey; it is a shepherd paying attention, held under the Measurement Covenant. Permission is asked for pages, never for care. The same conversation names the room’s self-read: *and once a quarter, we’ll turn our weekly feedback questions on ourselves as a group — out loud, never about any one person, no paper in anyone’s hand.*
 
 ## The room’s self-read — the group assesses the group
 
@@ -636,7 +674,37 @@ And it costs something, which we name honestly rather than hide: **an observer i
 
 ## The three vital signs — the weekly lens
 
-Before any instrument in the table below, the Companion team watches three things continuously, with no form in anyone's hand: **Costly Telling** (does anyone tell what God said and what they did about it — and does telling cost anything?), **Response to Load** (what does the room do in the first ten seconds after an interruption, an emergency, hard news?), and **the Sought Stray** (when someone goes quiet, how long before anyone notices — and who goes after them?). The three are one construct read three ways: confidence in God in the middle of suffering and noise, which shows itself only under the load of ordinary weeks and cannot be read on a survey taken on a calm night. The full reading discipline — the three lenses, the lowest-steady-sign rule, the counterfeits, and the rule that a gray sign sends the team *up* (what have we not tended?) before it looks *around* — is on the [Three Vital Signs card](../shared/three-vital-signs.md), the team-facing companion to the Measurement Covenant. The weekly debrief (below) opens with the card's three questions; the instruments in the table are the deeper workup, used when a vital sign says to look closer.
+Before any instrument in the table below, the Companion team watches three things continuously, with no form in anyone's hand: **Costly Telling** (does anyone tell what God said and what they did about it — and does telling cost anything?), **Response to Load** (what does the room do in the first ten seconds after an interruption, an emergency, hard news?), and **the Sought Stray** (when someone goes quiet, how long before anyone notices — and who goes after them?; for the stopping rule, and for what a decline means to the reading, see below). The three are one construct read three ways: confidence in God in the middle of suffering and noise, which shows itself only under the load of ordinary weeks and cannot be read on a survey taken on a calm night. The full reading discipline — the three lenses, the lowest-steady-sign rule, the counterfeits, and the rule that a gray sign sends the team *up* (what have we not tended?) before it looks *around* — is on the [Three Vital Signs card](../shared/three-vital-signs.md), the team-facing companion to the Measurement Covenant. The weekly debrief (below) opens with the card's three questions; the instruments in the table are the deeper workup, used when a vital sign says to look closer.
+
+## Going after someone — and knowing when to stop
+
+The sought stray is the one vital sign whose practice acts on a person who did not ask for it, so it
+needs a limit the other two do not.
+
+**Pursuit is an offer.** Going after someone who has gone quiet means making contact and making it
+easy to say yes. It never means arriving unannounced, enlisting the room, using a parent as
+leverage, or asking again in the same week after a clear no.
+
+**A decline is honored the first time.** *“I am alright, thanks”* ends it for that week. The
+Companion says some version of *“good — the door is open”* and stops. Refusing to be
+pursued is a thing a person is allowed to do, and a young person who learns that their no is
+respected here has learned something this curriculum is actually for.
+
+**A decline does not lower the reading.** The sign measures whether *the room noticed and went*, not
+whether the person accepted. Someone sought who declined is marked **seen** for the sought stray,
+and the decline is recorded beside it on the sheet’s pass-and-decline line. Otherwise the
+instrument would quietly reward pursuing people until they yield, which is the opposite of the
+thing.
+
+**Repeated declines are a care question, never a pursuit escalation.** Three weeks of gentle offers
+declined is not a reason to press harder. It goes to the Thursday Call as a question — *what does
+this person need that we are not offering?* — and it is one of the plainest occasions for the
+door out in Section 6, since a person may be declining us for a reason they cannot say to us.
+
+**And a pass is data.** A participant who passes in the circle is exercising a right the container
+promised them, and the sheet records it as a pass rather than as an absence of telling. An answer
+given because an answer was expected is not costly telling; it is compliance, which the counterfeits
+on the Three Vital Signs card already name. The pass-read exists so the team can tell the two apart.
 
 ## The Leader Feedback Round — every session, leader first
 
@@ -697,6 +765,29 @@ A one-page, three-question instrument — the same page each quarter — distrib
 3. What is one specific way I want to engage differently in the weeks that remain?
 
 Returns are anonymous (or signed at the participant’s choice) and inform the Companion team’s adjustments quarter by quarter. The printed form appears in the Week 11 lesson plan's handouts (H11.4); Weeks 6 and 16 print the same instrument as H6.3 and H16.1.
+
+## When a family stops coming
+
+Decided in advance, because a family that drifts away is the reading the team will least want to
+take and most needs.
+
+**One reach, warm and short, within a week.** From the Companion who knows them best, saying the
+true thing: we noticed, we miss you, nothing is owed and no explanation is required, and the door
+stays open. Once.
+
+**Silence is an answer.** No second chase, no follow-up through their teenager, no message passed
+by way of another family. A door held open is not a hand on the sleeve.
+
+**It is recorded as data, not as failure.** Attrition is written in the ledger with the date and
+nothing else: no diagnosis of why unless the family offered one, and no name in anything that
+travels. A room that shrank is evidence about the room, and a design that cannot hear that is worse
+than one that can.
+
+**And it is read as a safety question first.** Before any easier explanation, the team asks the
+uncomfortable one at the Thursday Call: *is there anything here that would make this family not want
+to be here?* Most of the time the answer is a season, a schedule, a sport. When it is not, this is
+the earliest warning the design has — and the door out in Section 6 is the route that does not
+run through us.
 
 ## The three break experiments (Weeks 7, 12, 18)
 
