@@ -46,7 +46,7 @@ Each carries a synthesis + punch-list docx, the full reviews, the refuter verdic
 
 ---
 
-## 3. Mirror queue — two commits waiting
+## 3. Mirror queue — three commits waiting
 
 **FotH dev is three commits ahead of prod.** Mirror only on John's explicit word.
 
