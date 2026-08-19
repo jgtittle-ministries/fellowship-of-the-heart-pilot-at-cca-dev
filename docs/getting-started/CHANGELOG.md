@@ -11,6 +11,18 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — What the watching keeps, said out loud
+
+The permission conversation told families what the pages are and what a no costs, and said that the team's
+own watching is care rather than a survey. What it never said is that the watching leaves a written record
+with their names on it: a page per participant, written four times across the year. A family that is asked
+for permission while the thing most worth knowing goes unmentioned has not really been asked.
+
+So the conversation now names it, unprompted, in the same breath as everything else: notes with names on
+them, what we notice and how we are praying, never a score, never read to the room. **Permission that hides
+what is kept is not permission.** The carry card in the CCA folder carries the same line and still prints on
+one page.
+
 # August 2026 — The door out has a name
 
 **Pastor Bobby Gore, (831) 277-9878**, named 19 August 2026. He is not a Companion, not a parent of a
