@@ -585,7 +585,17 @@ and nobody here will be told you did.”* Then printed on the take-home page, so
 evening.
 
 **What it is not.** It is not a complaint channel about the curriculum, and it is not a substitute
-for the mandatory-reporting obligations above, which run whatever anyone prefers. It is a route to a
+for the mandatory-reporting obligations above, which run whatever anyone prefers.
+
+**What we should say plainly about the man in the door.** Pastor Gore is not a Companion, not a
+parent of a participant, and not the Lead, which is what this door requires. He also sits on the
+CCA board, and he read this curriculum in draft and liked it before he was ever asked to do this.
+So he is outside the team and inside the program's governance. For nearly everything a young
+person might carry, that is a strength: he knows the work, he chose it, and he answered *I would be
+honored*. For one case it is a limit worth naming rather than discovering, a young person whose
+hard thing is about the program itself, who would be speaking to one of the people who approved
+it. That is what the referral list is for, and it holds names with no connection to this school at
+all. It is a route to a
 conversation this room cannot supply, because this room contains the people the conversation may be
 about.
 
