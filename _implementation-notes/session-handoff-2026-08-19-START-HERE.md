@@ -4,13 +4,23 @@
 
 ---
 
-## 1. The one thing that must happen before September 2
+## 1. The launch blocker — CLEARED 19 August
 
-**The door out needs a name.** Handbook Section 6 now carries a subsection called *The door out* — one adult outside the Companion team, reachable by any participant without going through a Companion or a parent, announced aloud in Week 1 and printed on the take-home page. The name and contact are blank, and they are now a **launch-blocking checklist item: if the name is blank, the program does not open.**
+**The door out has a name: Pastor Bobby Gore, (831) 277-9878.** John supplied it, and it is filled in
+every place the blank appeared — Handbook Section 6, the launch-blocking checklist row, the
+announcement example, and the Week 1 Block 2b script. He is not a Companion, not a parent of a
+participant, and not the Lead, which is the whole requirement.
 
-The natural fit is the counseling-referral contact CCA was asked to designate in proposal request #3. This is John's to supply.
+Two gaps closed with it. The Week 1 script promised the number is *on the page you take home tonight*
+and the take-home page did not carry it — Handout H1.1 now does. And the handbook said the door is
+named again at Week 12 and Week 12's own plan had no such line — Block 5 now closes with one
+sentence, absorbed, run sheet still summing to seventy-five. His name and number also sit on the
+safety page at the front of the Personal Heart Journal, held to that one card rather than spread
+across the ProAPT, Rhythm, and Family Conversation cards.
 
-Everything else below can wait. This cannot.
+**What still hangs on it:** phone-verify the number with the rest of the crisis card before Week 1
+(the checklist row now carries a *verified by* line), and confirm how he should be named to families
+— "Pastor Bobby Gore" is what the site says now.
 
 ---
 
@@ -38,14 +48,15 @@ Each carries a synthesis + punch-list docx, the full reviews, the refuter verdic
 
 ## 3. Mirror queue — two commits waiting
 
-**FotH dev is two commits ahead of prod.** Mirror only on John's explicit word.
+**FotH dev is three commits ahead of prod.** Mirror only on John's explicit word.
 
 | dev commit | what |
 |---|---|
 | `ab7a338` | The reader from outside (quarterly outsider, two hours, no notes or transcripts) + the weekly surprise line in the Companion observation notes |
 | `a468f39` | The safeguarding set: the door out, the stopping rule on being sought, a pass is data, when a family stops coming, and the retention endpoint in the Measurement Covenant |
+| `ce752da` | The door out has a name: Pastor Bobby Gore filled in throughout, the take-home page and Week 12 gaps closed, the journal safety page carrying it |
 
-Files touched beyond the five standing divergences: `getting-started/CHANGELOG.md`, `getting-started/week-01-welcome.md`, `shared/measurement-covenant.md`. The handbook has unmirrored content **on top of** its standing IJH-URL divergence, so it stays a targeted-patch file at mirror time.
+Files touched beyond the five standing divergences: `getting-started/CHANGELOG.md`, `getting-started/week-01-welcome.md`, `getting-started/week-12-return.md`, `shared/measurement-covenant.md`, `shared/personal-heart-journal.md`. The handbook has unmirrored content **on top of** its standing IJH-URL divergence, so it stays a targeted-patch file at mirror time.
 
 Everything else is in sync: IJH dev/prod, CPR dev/prod, and FotH prod is current through `00da339`.
 
