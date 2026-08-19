@@ -437,7 +437,7 @@ This one-page gate must be completed and **signed by the Lead Companion and the 
 - [ ] The **Crisis Quick-Reference Card** and the **referral list, Categories 1–5** (crisis / reporting rows) are populated with **verified local Warrenton numbers**. (Categories 6–7 may fill in progressively.) Verified by: **[fill in]** · Date: **[fill in]**
 - [ ] **Every Companion** has worked through Section 6 with the backup person and has **signed CCA’s child-protection policy**. Confirmed by: **[fill in]**
 - [ ] **Virginia mandatory-reporting review closed** — Section 6 reviewed against current Virginia law and CCA policy by qualified counsel / CCA leadership. Reviewer: **[fill in]** · Date: **[fill in]**
-- [ ] **The door out is named.** One adult outside the Companion team, with a way to reach them, printed on the take-home page and announced aloud at Week 1 (Section 6, “The door out”). Name: **[fill in]** · Contact: **[fill in]**
+- [ ] **The door out is named.** One adult outside the Companion team, with a way to reach them, printed on the take-home page and announced aloud at Week 1 (Section 6, “The door out”). Name: **Pastor Bobby Gore** · Contact: **(831) 277-9878** · Number phone-verified by: **[fill in]**
 - [ ] The participant safety footer’s **“Your Cohort Companion: ____”** line is filled with a real name + number on every printed copy. Filled by: **[fill in]**
 
 *Wednesday-by-Wednesday rule:* the pastoral / clinical backup is re-confirmed at the team pre-meet **48 hours before each Wednesday**. If a Wednesday’s backup is **not** confirmed, that week’s deep-work block runs in its lighter, diagnostic-only form or is postponed — it does not run unbacked. (No clinician is required physically in the room.)
@@ -569,13 +569,15 @@ tells every participant who that is.
 above). Not a Companion, not a parent of a participant, not the Lead. Someone who can hear a thing
 and help a young person decide what happens next.
 
-- **Name: ______________________  ·  How to reach them: ______________________**
-- Fill this in before Week 1. **If the name is blank, the program does not open.** This joins the
-  launch-blocking checklist above.
+- **Name: Pastor Bobby Gore  ·  How to reach them: (831) 277-9878**
+- Named 19 August 2026, ahead of the 2 September opening. **Phone-verify this number before Week 1**,
+  with the rest of the crisis card. It is spoken aloud in Week 1 (Block 2b), printed on the Week 1
+  take-home page (Handout H1.1), carried on the safety page of every Personal Heart Journal, and said
+  once more at Week 12.
 
 **How it is announced.** Aloud at Week 1, in the opening block, to teens and parents together, in
-words close to these: *“There is one more person you should know about. [Name] is not part of our
-team. If something ever needs saying that you do not want to say to me, or to your Companion, or to
+words close to these: *“There is one more person you should know about. Pastor Bobby Gore is not
+part of our team. If something ever needs saying that you do not want to say to me, or to your Companion, or to
 your parents, you can go straight to them. You do not need a reason and you do not need permission,
 and nobody here will be told you did.”* Then printed on the take-home page, so it survives the
 evening.

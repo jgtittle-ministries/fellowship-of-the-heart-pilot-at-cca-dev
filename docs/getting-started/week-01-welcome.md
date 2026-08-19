@@ -193,12 +193,12 @@ act of defiance.
 
 **Script.**
 
-*“One more person you should know about before we start. This is [NAME], and [NAME] is not part
-of our team. Here is how you reach them — it is on the page you take home tonight. If something
-ever needs saying that you do not want to say to me, or to your Companion, or to your parents, you
-can go straight to them. You do not need a reason, you do not need permission, and nobody here will
-be told that you did. I hope nobody ever needs it. It is there because you should not have to
-wonder.”*
+*“One more person you should know about before we start. This is Pastor Bobby Gore, and Pastor
+Gore is not part of our team. Here is how you reach him — it is on the page you take home tonight,
+and it is on the safety page at the front of your journal. If something ever needs saying that you
+do not want to say to me, or to your Companion, or to your parents, you can go straight to him. You
+do not need a reason, you do not need permission, and nobody here will be told that you did. I hope
+nobody ever needs it. It is there because you should not have to wonder.”*
 
 **Then move on.** Do not dwell, do not explain further, and do not invite questions about it in the
 room. One minute, plainly said, and into the Connects. Weight added here reads as warning; the
@@ -536,6 +536,10 @@ Four ways of living the great commandment (Matthew 22:37–39):
 ### A visit before Week 2
 
 In the days between tonight and Week 2, the Lead Companion will ask your family for a few unhurried minutes — partly to meet you properly, and partly to ask your permission for one thing: a before-and-after look at whether this curriculum works. Nothing comes home tonight, and nothing is ever handed out without your yes.
+
+### One more person you should know about
+
+**Pastor Bobby Gore — (831) 277-9878.** Pastor Gore is not part of our team. If something ever needs saying that you do not want to say to your Companion, or to your parents, you can go straight to him. You do not need a reason and you do not need permission, and nobody here will be told that you did. His number is also on the safety page at the front of the Personal Heart Journal.
 
 ### This week’s practice
 

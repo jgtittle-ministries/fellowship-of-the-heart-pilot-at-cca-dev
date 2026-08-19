@@ -11,6 +11,22 @@
 | **v1.3** | The family-integrated pilot edition (below): high-school only; families share circles, parents first; the every-teen leading rotation; the Leader Feedback Round every session. | Git tag `gs-v1.3` (August 2026) |
 | **v1.4** | The seamless twenty-two-week year (below): the v1.1 overlay dissolved into the curriculum itself — one continuous Week 1–22 sequence, every week with its own full session plan. The live edition for the first CCA cohort. | Current pages |
 
+# August 2026 — The door out has a name
+
+**Pastor Bobby Gore, (831) 277-9878**, named 19 August 2026. He is not a Companion, not a parent of a
+participant, and not the Lead, which is the whole requirement. The launch-blocking checklist item is
+satisfied on the name; the number is still to be phone-verified with the rest of the crisis card
+before Week 1.
+
+Two gaps closed alongside it. The Week 1 script promised *“it is on the page you take home tonight”*
+and the take-home page did not carry it — Handout H1.1 now does. And the handbook said the door is
+named again at Week 12, once the first telling has gone quiet, but Week 12’s own plan had no such
+line — Block 5 now closes with one sentence, absorbed, and the run sheet still sums to seventy-five.
+
+His name and number also sit on the safety page at the front of the Personal Heart Journal, under the
+Cohort Companion line and above 988. The journal is the one thing every participant keeps all year,
+and a door nobody can find at eleven at night is not a door.
+
 # August 2026 — The door out, and four other things decided in advance
 
 The methodology review put six items on a separate clock from the manuscript, because they concern
