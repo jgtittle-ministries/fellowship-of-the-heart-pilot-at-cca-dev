@@ -444,6 +444,8 @@ This one-page gate must be completed and **signed by the Lead Companion and the 
 
 **Verify at start, re-check annually — maintenance:**
 
+- [ ] **Curriculum and record-keeping approved.** The CCA Head of School holds final curriculum authority for the school and spiritual authority over this club, and answers to the CCA board; her approval covers this curriculum, the Measurement Covenant, and the keeping of named notes on participants. Approved by: **[fill in]** · Date: **[fill in]**
+
 - [ ] Two-adult rule documented and understood by every Companion.
 - [ ] Confidentiality covenant + parent consent forms on file for every participant.
 - [ ] Referral list reviewed and all numbers re-verified.
