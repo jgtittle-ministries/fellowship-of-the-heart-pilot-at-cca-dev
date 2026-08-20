@@ -358,13 +358,21 @@ Shared circle, Lead Companion holding. A real discussion, not a quiz — the roo
 
 “Okay. I am heading east.” *(Face east. Hold it a beat, long enough for the room to see you checking.)* “How far is west from here?”
 
-*(Turn around in place. Slowly. Stop.)*
+*(Then bring the room in. They have been sitting since the container opened, so ask for their feet.)*
+
+“Everybody up for a second. Turn and face east with me.”
+
+*(Wait for the whole room to come around. Let it be slightly awkward — the awkwardness is part of what makes it stick. Do not hurry them.)*
+
+“That is east. Now — turn west.”
+
+*(Turn with them. Slowly. Stop, and let the room stand there facing the other way for a beat before you say anything.)*
 
 “That is it. That is how far west is from east. It is all about which way you are pointing. And no matter when you catch yourself pointing east — no matter how long you have been walking that way — all you have to do is turn around and point west.”
 
 “That is what the verse means when it says He removes our transgressions as far as the east is from the west. And it is the same word we just used for what saved is: turning.”
 
-**Then stop.** Do not explain it further, and do not open it for discussion. The turn lands in the body before it lands in the head, and a room that has just watched an adult turn around in a circle does not need the point made a second time.
+**Then stop.** Do not explain it further, and do not open it for discussion. The turn lands in the body before it lands in the head, which is why the whole room turns rather than watching one person do it, and a room that has just turned around on its own feet does not need the point made a second time.
 
 
 ### Facilitation notes

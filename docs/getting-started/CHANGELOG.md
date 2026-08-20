@@ -18,8 +18,9 @@ turning to Him.* The founder's own way of teaching that word has now been writte
 after the definition, where the room has just heard it and has not yet been asked to do anything with it.
 
 The leader asks how far the east is from the west, takes the compass out on their phone, stands in the
-middle of the circle, faces east, and asks how far west is from here. Then turns around in place. *That
-is how far west is from east.* It is all about which way you are pointing, and no matter when you catch
+middle of the circle, faces east, and asks how far west is from here. Then the whole room is brought in:
+everybody up, turn and face east together, and then turn west together. *That is how far west is from
+east.* The room turns rather than watching one person turn, because that is where the teaching lands. It is all about which way you are pointing, and no matter when you catch
 yourself pointing east, all you have to do is turn around and point west. Then stop: the turn lands in
 the body before it lands in the head, and the room does not need the point made twice.
 
