@@ -1,26 +1,24 @@
 # Session Handoff — 2026-08-21 · START HERE
 
-**Read this first in a new session. The LIVE state is in the assistant's memory files (`project_foth_15week_cca_launch.md` is the hub; `project_foth_adult_cpr_sequence.md` carries the adult year; `project_jsfsc_companion_series.md` carries the papers). This file is the repo-side snapshot for John and JD. Supersedes 2026-08-20.**
+**Read this first in a new session. The LIVE state is in the assistant's memory files (`project_foth_15week_cca_launch.md` is the hub; `project_foth_adult_cpr_sequence.md` carries the adult year; `project_jsfsc_companion_series.md` carries the papers). This file is the repo-side snapshot for John and JD. Supersedes 2026-08-20. EVENING UPDATE the same day: Going Out is done — item 18b is complete.**
 
 **Today's work was entirely in the adult repo (`foth-for-a-cpr-dev`, DEV ONLY, no prod). This CCA repo did not change. All sites current; nothing in any mirror queue.**
 
 ---
 
-## 1. The adult year — Getting Started AND Going Deeper are now fully re-authored
-
-The per-file adult re-authoring is two series done, one to go:
+## 1. The adult year — ALL THREE SERIES ARE NOW FULLY RE-AUTHORED (18b COMPLETE)
 
 - **Getting Started (2026-08-20):** all fifteen sessions + index + both hold pages.
-- **Going Deeper (2026-08-21):** all twelve sessions + index. Live-verified on the dev Pages site.
-- **REMAINING — the pickup task: Going Out.** Twelve sessions + index; the practice hold sits after Week 8 with the what-held re-entry at Week 9. The pattern is fully proven; the detailed record and conversion vocabulary live in the adult repo's `_implementation-notes/RETROFIT-BACKLOG.md` (item 18b) and the `reauthor_gs*.py` / `reauthor_gd*.py` scripts beside it.
+- **Going Deeper (2026-08-21, morning):** all twelve sessions + index.
+- **Going Out (2026-08-21, evening):** all twelve sessions + index, pushed as adult dev `71c1cb9` and live-verified on the dev Pages site. The whole leadership year now speaks the adult register end to end. Weave audit still clean (only GS15's designed 8:00 rite end).
 
-**The method that worked (unchanged for Going Out):** read the file whole; hand-build exact-pair patches with count==1 asserts that refuse to write on any failure; splice the Differentiation section between anchors; residual-grep with word boundaries; classify room-roles (convert) vs life-roles (keep — family-of-origin, a parent's death, children, grandmothers stay). Grep the file for its actual apostrophes before writing any pair — the seeds mix straight and curly per file.
+**What Going Out's re-authoring settled, beyond the proven pattern:** the split weeks (3, 5, 11) run in circles of four to eight; cross-cohort teen/parent dynamics became cross-spouse and cross-circle protocols; Week 9's parental-consent contingency became household capacity with the spouse's own yes named in the pastoral conversation; workplace/school became workplace/ministry; and **Week 12's "Going Deeper round 2" continuation became THE FAMILY YEAR — the work the leadership year exists to prepare, at the host church's discernment and decision (the seriousness gate's exit), with "the discernment is a covering, not a draft" protecting honest non-continuation.** New ordained watches worth knowing when reading the series: a sermon is not a Tell (Wk 2); the job description as sent-context (Wk 3); the no-third-place-at-all hazard — every room turns into church (Wk 7); the org-chart pull in corporate discernment — an offering lands as an announcement (Wk 8); tonight-they-receive at the laying-on-of-hands (Wk 9); the pre-polished integration — the pulpit knows how to make a year preach (Wk 10); the credentialed reading of the body (Wk 11); the office is not a draft notice (Wk 12).
 
-**The conversions that now define the adult register, carried through both series:** three-cohort splits → circles of four to eight; the family-across-cohorts protocols → the spouse protocols; Section 6 / Virginia / two-adult → the safeguarding frame (Leadership Year Handbook §7 + the host church's policy) with the about-minors reporting note; generational projection → positional projection (pastor ⇄ congregation); junior/senior/parent handouts → the single adult card (the parent version was the adult version all along); differentiation → first-timers / veterans / the-ordained-and-the-staff; and the leader tells first, now structural (GD Week 4's demonstrations run Companion-first). GD Week 12's continuation-registration became the entry-gate year commitment — attrition read, never scored.
+**The method that carried all three series:** read the file whole; hand-build exact-pair patches with count==1 asserts that refuse to write on any failure; splice the Differentiation section between anchors; residual-grep with word boundaries; classify room-roles (convert) vs life-roles (keep — family-of-origin, spouses, children, caregiving stay, and the household week keeps its family language whole). Grep the file for its actual apostrophes before writing any pair. Scripts: `reauthor_gs*.py` / `reauthor_gd*.py` / `reauthor_go*.py` in the adult repo's `_implementation-notes/`, record in `RETROFIT-BACKLOG.md` item 18b.
 
-**Seed repairs made in passing, for the record:** the "Going Deeperback" corruption → Tell Buddies fallback; Asker→Discerner in GD Weeks 11–12 (48×); the Anthony/CCA reporting line → the covering; "The Question Carried into Spring" → Going Out; the 6–10-week interlude durations → the year's two-week break; four stale 10-week-shape lines in the GS index. The series handbooks stay family-edition seed under their notices — the Leadership Year Handbook governs.
+**Seed repairs made in passing today (GO):** "WWks/WWk" typos (6×); "Going Out's Going Out" and "Going Out Going Out" artifacts; "The Going Out series" redundancy in the Wk 1 script; "the interlude have/were" grammar (3×); stray registration apparatus. The series handbooks (including Inviting Others) stay family-edition seed under their notices — the Leadership Year Handbook governs.
 
-**Also still queued in the adult repo:** 18c adult safeguarding section (John + counsel, at a real church's entry gate); item 19 final label; item 20 image licences before any prod. The observation-pack printable stays deferred until a first church is real.
+**Now queued in the adult repo (the gates before any prod):** 18c adult safeguarding section (John + counsel, at a real church's entry gate); item 19 final label; item 20 image licences. The observation-pack printable stays deferred until a first church is real. **There is no keyboard task left in 18b.**
 
 ---
 
