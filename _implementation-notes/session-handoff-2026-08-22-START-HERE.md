@@ -2,7 +2,7 @@
 
 **Read this first in a new session. The LIVE state is in the assistant's memory files (`project_foth_15week_cca_launch.md` is the hub; `project_foth_adult_cpr_sequence.md` carries the adult year; `project_jsfsc_companion_series.md` carries the papers). This file is the repo-side snapshot for John and JD. Supersedes 2026-08-21 (both versions).**
 
-**Everything is mirrored and live. No mirror queue on the CCA pair. Adult repo is DEV ONLY as always.** Current heads: CCA dev `a29cfd3` / CCA prod `f77c16a` (tree diff = exactly the five standing divergences, reader files identical) · adult dev `34075d0` · IJH and CPR untouched.
+**Everything is mirrored and live. No mirror queue on the CCA pair. Adult repo is DEV ONLY as always.** Current heads: CCA dev `a29cfd3` / CCA prod `f77c16a` (tree diff = exactly the five standing divergences, reader files identical) · adult dev `2921f72` (was `34075d0` at the first write; the GS residue sweep below landed later the same day) · IJH and CPR untouched.
 
 ---
 
