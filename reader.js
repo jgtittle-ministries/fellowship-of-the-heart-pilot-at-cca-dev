@@ -442,6 +442,15 @@
           h.id = id;
         }
       });
+      // Handout title paragraphs ("**Handout H11.4 — The Quarterly Pulse**")
+      // get a stable id (handout-h11-4) so check-off cards and other pages can
+      // link straight to the printed form, and so the rail can list them.
+      body.querySelectorAll('p').forEach(p => {
+        const st = p.firstElementChild;
+        if (!st || st.tagName !== 'STRONG' || p.childNodes.length !== 1) return;
+        const m = (st.textContent || '').trim().match(/^Handout H(\d+)\.(\d+)(?![0-9])/i);
+        if (m && !p.id) { p.id = 'handout-h' + m[1] + '-' + m[2]; p.classList.add('handout-title'); }
+      });
 
       // ---- Make every table horizontally scrollable (the make-or-break) ----
       body.querySelectorAll('table').forEach(t => {
@@ -482,7 +491,9 @@
       // the section numbers are visible in the index and jumpable. A page
       // with a single H1 (its title) lists H2/H3 only, as before.
       const useSections = body.querySelectorAll('h1').length >= 2;
-      const heads = Array.prototype.slice.call(body.querySelectorAll(useSections ? 'h1, h2, h3' : 'h2, h3'));
+      // Handout title paragraphs ride along (document order) so every printed
+      // handout is one click away under the page's Handouts group.
+      const heads = Array.prototype.slice.call(body.querySelectorAll(useSections ? 'h1, h2, h3, p.handout-title' : 'h2, h3, p.handout-title'));
       const textCount = Object.create(null);
       heads.forEach(h => { const t = (h.textContent || '').trim(); textCount[t] = (textCount[t] || 0) + 1; });
       const outlineHeads = heads.filter(h => textCount[(h.textContent || '').trim()] <= 2);
@@ -502,7 +513,7 @@
           const link = document.createElement('a');
           link.href = '#' + h.id;
           link.textContent = h.textContent;
-          if (h.tagName === 'H3') link.className = 'h3';
+          if (h.tagName === 'H3' || h.tagName === 'P') link.className = 'h3';
           else if (h.tagName === 'H1') link.className = 'h1';
           link.addEventListener('click', (e) => {
             // The hash holds the chapter path — scroll without navigating.
