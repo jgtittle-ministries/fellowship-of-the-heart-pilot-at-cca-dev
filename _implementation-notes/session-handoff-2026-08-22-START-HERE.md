@@ -37,7 +37,7 @@
 
 ## 3. Eleven days to September 2 — people-work unchanged
 
-Carried forward verbatim: the two founder-absent ordinary Wednesdays (John's pick); phone-verify Pastor Gore's number with the crisis card (**Appendix C v2 now in FotH Pilot with the CCA example rows filled — Head of School Andrea Sponsler (cell still blank), Pastor Bobby Gore (831) 277-9878, Encompass mobile crisis — every local number still to be phone-verified before Week 1; FotH Pilot only, not the site**); Andrea's name and date on the launch-blocking checklist; permission conversations one family at a time in the gap week Sep 3–15 (carry card printed, CCA folder); covenant and child-protection signatures at the pre-launch team call; same-week-call counselor designated; chaplain row confirmed; second-door question (not urgent).
+Carried forward verbatim: the two founder-absent ordinary Wednesdays (John's pick); phone-verify Pastor Gore's number with the crisis card (**Appendix C v2 now in FotH Pilot with the CCA example rows filled — Head of School Andrea Sponsler (cell still blank), Pastor Bobby Gore (831) 277-9878, Encompass mobile crisis — every local number still to be phone-verified before Week 1; FotH Pilot only, not the site; the School-Counselor/Pastoral-Care row was then struck on John's word — Gore is pastoral care for the club, not the school**; Thursday Brief/Prep + 4 Connects v13 deck returned to FotH Pilot); Andrea's name and date on the launch-blocking checklist; permission conversations one family at a time in the gap week Sep 3–15 (carry card printed, CCA folder); covenant and child-protection signatures at the pre-launch team call; same-week-call counselor designated; chaplain row confirmed; second-door question (not urgent).
 
 ---
 
