@@ -60,7 +60,7 @@ Six of the seven lines carried open items. They are the same six written request
 
 *A sketch, not a plan. An evening fellowship in John's home under the Living Hope elders, to show that only this page moves.*
 
-1. **Covering:** the Living Hope elders, with Bill Fairbank and Ryan Hammond named; they confirm the Lead Companion and each Companion's covering.
+1. **Covering:** the Living Hope elders, with Bill Fairback and Ryan Hammond named; they confirm the Lead Companion and each Companion's covering.
 2. **Venue:** the Tittle home; no institutional premises rules; household rules stated at orientation.
 3. **Clock and cadence:** one evening, 7:00 to 8:30, every other week, with the off week as a practice hold; the adult edition's fifteen sessions with its two holds, or the twenty-two-week family edition over a longer year.
 4. **Door out:** a Living Hope pastor or elder not on the Companion team.
