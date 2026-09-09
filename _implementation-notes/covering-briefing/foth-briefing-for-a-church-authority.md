@@ -2,10 +2,16 @@
 title: "Fellowship of the Heart — A Briefing for a Church Authority"
 subtitle: "The essence of what you would be overseeing, in one sitting, with the door to the rest"
 author: "John G. Tittle"
-date: "Draft v1 — 5 September 2026"
+date: "Draft v2 — 10 September 2026"
 ---
 
-> **DRAFT v1, for John's edits.** Written to be handed to the elders or pastor of a church, or the leadership of a ministry, who are being asked to cover a prototype Fellowship of the Heart group as a trial run. Short on purpose. Every section ends where the deeper material begins, and the last page lists it. Written for the Living Hope elders, Grace Covenant Church, and The Crucible Project; names are not in the body.
+> **DRAFT v2, for John's edits.** Revised 10 September 2026 on Dave Smith's
+> counsel: the page now opens on the ground a church leader already knows
+> — what actually happens to home groups — before presenting the
+> alternative, and the essence names its precondition: members who have seen
+> the condition of their inner lives. The rest of the document stands as v1.
+>
+> **Original head note (v1):** Written to be handed to the elders or pastor of a church, or the leadership of a ministry, who are being asked to cover a prototype Fellowship of the Heart group as a trial run. Short on purpose. Every section ends where the deeper material begins, and the last page lists it. Written for the Living Hope elders, Grace Covenant Church, and The Crucible Project; names are not in the body.
 
 ![](images/home-path.jpg){width=65%}
 
@@ -13,9 +19,41 @@ date: "Draft v1 — 5 September 2026"
 
 One sitting, sixty to seventy-five minutes, run the way a Fellowship of the Heart session runs: a question to the room before any teaching, a short teaching, discussion that gets the most time, and then the questions I would want answered if I were the one being asked to vouch for this. Nothing here needs to be agreed to on the day. A yes, a not-yet, and a no are all answers I will thank you for.
 
-**Open with.** *When one of your people says "I want to hear God and do what He says," what does your church actually give them to do next week?*
+**Open with.** *Think of the home groups you have watched across the years. How many became what you hoped? And what happened to the rest?*
+
+# The situation we both know
+
+Home groups are the church's perennial hope, and every leader who has
+started them knows both endings. Qualified leaders are scarce, and the
+willing are not always ready. Commitment thins by midwinter. Some groups
+that begin warm drift into a social hour with a devotional attached — good
+people, real friendship, and no one changed. And some groups that started as
+exactly that wake up hungry, and realize they want more of God's presence
+than the format was built to carry.
+
+Where growth stalls, it is rarely for lack of knowledge. People grow to a
+point and hit ceilings, and the ceilings have names: shame that will not
+risk the next layer of honesty; historic wounds and old sin nobody wants
+opened in that room; mixed company in which the true thing costs too much
+to say. Underneath all of it is the receiving heart — Mark 4's soils.
+Whether a group grows does not finally depend on its curriculum. It depends
+on whether the ground its members bring can receive and act on the Word,
+and most groups have never once asked that question out loud.
+
+Perhaps every home group, whatever its form, should begin with a plain
+agreement that names what its members actually need from it — which is
+really the older question: what is the soil like?
 
 # The essence
+
+Fellowship of the Heart is for the group at the far end of that story: the
+room where the members have seen the condition of their inner lives — and
+often their outer lives — and are past pretending. The honesty a small
+group can move into is proportional to the need its members have admitted;
+hunger, sometimes near desperation, is the real precondition. Some people
+arrive there through years in formats that never touched the need. Some
+arrive through the Word itself doing its work. For that room, here is what
+this is.
 
 Fellowship of the Heart is a small group of believers walking four connections together, in order, in a safe room, under your covering, until they can hear God and obey Him together and then go and do the same for others.
 
