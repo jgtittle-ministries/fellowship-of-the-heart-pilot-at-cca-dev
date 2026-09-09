@@ -8,9 +8,9 @@ session materials change only after John approves this shape.**
 
 | Time | What | Who leads |
 |---|---|---|
-| 6:00 | Dinner together. The table is part of the container. | The household |
+| 6:00 | Dinner together. The table is part of the container. Leader labs and discussions. | The household |
 | 7:00 | The session begins (90 minutes, blocks below) | The teen teams |
-| 8:30 | Session complete. Fellowship, dessert, goodbyes. | Everyone |
+| 8:30 | Curriculum session complete. Fellowship, leadership discussion and feedback insights, planning for next meeting. | Everyone |
 | 9:00 | Done. | |
 
 Meeting night is Monday or Tuesday of the meeting week, set by the family's
@@ -30,26 +30,29 @@ homework.
 | 7:25-7:45 | Teaching block: the session's content. | Content presenter |
 | 7:45-8:10 | Practice block: the session's exercise, in circle. | Content presenter, container holder watching the room |
 | 8:10-8:22 | Shared circle: what surfaced. Parents first. | Container holder |
-| 8:22-8:28 | Homework commissioning: walk the handout, each person names their check-in partner for the midweek report. | Content presenter |
+| 8:22-8:28 | Homework commissioning: walk the handout, each person names their check-in partner for the midweek report. Both leaders answer their three questions and get individual feedback. | Content presenter |
 | 8:28-8:30 | Closing blessing. | Container holder |
 
 A drop-in lands softly: the welcome block always includes two minutes of
 "where we are on the map," and every session's content stands alone by
-design.
+design so that participants can usefully interact even if intermittently.
 
 ## 3. The two roles and the rotation
 
 - **Container holder**: opens and closes, holds the check-in and shared
-  circles, watches the room during practice. Safety and warmth.
+  circles, watches the room during practice. Safety and warmth, presence, clear and
+  intentional.
 - **Content presenter**: carries the teaching and practice blocks, and
   commissions the homework.
-- With four teens, the roles can be held by pairs or by individuals as the
-  rotation allows; teams step up as ready and willing, and they have been.
+- With at least four teens, the roles can be held by pairs or by individuals
+  as the rotation allows; teens/teams step up as ready and willing, and they
+  have been.
 - An adult (John or a parent) is always the backstop and never far from
-  anything personal; the bright line holds as always.
+  anything personal; the bright line holds as always; teen leads hand off to an adult as needed.
 - **The planning lab**: about thirty minutes by phone with John in the off
   week, walking the leading team through the session's issues, fragilities,
-  and passes.
+  and passes. Let's see if the dinner time can hold this discussion face to
+  face.
 
 ## 4. The two-week homework, with the midweek check-in
 
@@ -59,7 +62,7 @@ Each session's handout now has four parts:
 2. **The midweek check-in**: before the session's one-week mark, report to
    the person you named at commissioning on how you are doing against the
    practice. A text, a call, or a hallway conversation all count. The point
-   is being expected.
+   is being expected to connect and report how it's going.
 3. **The practice continued** for the second week, deepened or repeated as
    the session specifies.
 4. **One sentence of preparation** for the next session (read, notice, or
@@ -96,7 +99,8 @@ continues as curriculum development and leader training with full value.
 
 Eighteen meetings (sessions 5-22) with two holiday skips lands the arc in
 mid-June 2027; all twenty-two from Session 1 runs into August. See the
-decision at section 9.
+decision at section 9. Summer gets hard to schedule so will adapt as
+necessary.
 
 ## 7. What we are testing, and how it gets captured
 
