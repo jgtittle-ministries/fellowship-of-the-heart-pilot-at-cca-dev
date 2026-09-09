@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:27 | Block 2: The mission round | Content presenter; container holder watching the room |
 | 7:27-7:28 | Block 3: Why tonight — the rotation’s charter | Content presenter; container holder watching the room |
 | 7:28-7:35 | Block 4A: PROAPT walked together — fresh passage | Content presenter; container holder watching the room |
@@ -35,7 +35,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 ## The homework handout (Session 14, two weeks)
 
 1. **The practice, week one.** Continue the daily rhythm — the morning question, the evening journal note, PROAPT one short passage. And each family pair finishes at home anything the evening opened: the passage’s Tell said again at the table (Option 1), or one more card pulled during the week (Option 2).
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Continue or deepen the same practice, as the

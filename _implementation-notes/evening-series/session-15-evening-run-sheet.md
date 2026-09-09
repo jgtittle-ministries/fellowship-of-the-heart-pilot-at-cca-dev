@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:29 | Block 2: Week 13 completion | Content presenter; container holder watching the room |
 | 7:29-7:36 | Block 3: The long walk — Gal. 6:9 | Content presenter; container holder watching the room |
 | 7:36-7:39 | Block 4: The Rhythm Card introduced | Content presenter; container holder watching the room |
@@ -29,7 +29,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 ## The homework handout (Session 15, two weeks)
 
 1. **The practice, week one.** For the willing: the parent asks their teen the four questions at home — unhurried, no audience, phone away — and receives the answers without defending. Married parents are encouraged to also ask their spouse, separately. And everyone runs the Rhythm Card as built, for real, across the break, noting in the journal where it held and where it slipped.
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Continue or deepen the same practice, as the

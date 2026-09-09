@@ -60,7 +60,7 @@ anything longer flow into the 8:30 window.*
    morning, five minutes: "Lord, what are you up to today, and what do you
    want me to notice?" Each evening, one journal line: "What did I notice
    today?"
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice. A text, a call, or a hallway conversation all count.
 3. **The practice, week two.** Keep the morning and evening questions, and

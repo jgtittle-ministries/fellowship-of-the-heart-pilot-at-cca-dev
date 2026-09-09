@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:27 | Block A1: Why tonight is that night | Content presenter; container holder watching the room |
 | 7:27-7:50 | The lifted session, per its own run sheet | Content presenter; container holder watching the room |
 | 7:50-7:53 | Block A2: The break practice chosen | Content presenter; container holder watching the room |
@@ -32,7 +32,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 ## The homework handout (Session 17, two weeks)
 
 1. **The practice, week one.** The quarter break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The same move that carried the cohort through Christmas. The Return II (Week 18) will ask what held.
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Continue or deepen the same practice, as the

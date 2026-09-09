@@ -10,12 +10,12 @@ session; hand one to every participant at commissioning.)*
 *One practice, stated in two or three sentences, doable in five to ten
 minutes a day or in one sitting, exactly as the session taught it.*
 
-## 2. The midweek check-in
+## 2. The end-of-week-one check-in
 
 My check-in partner for this cycle is: **______________________**
 *(named aloud at commissioning; a new partner each cycle)*
 
-Before the one-week mark, connect with your partner and report how it's
+At the end of week one, connect with your partner and report how it's
 going against the practice. A text, a call, or a hallway conversation all
 count. You are not grading each other; you are expecting each other.
 

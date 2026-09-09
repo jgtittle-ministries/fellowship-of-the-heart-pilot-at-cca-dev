@@ -26,11 +26,11 @@ homework.
 | Time | Block | Lead |
 |---|---|---|
 | 7:00-7:08 | Welcome and centering. Blessing, container reminder, frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent opens. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent opens. | Container holder |
 | 7:25-7:45 | Teaching block: the session's content. | Content presenter |
 | 7:45-8:10 | Practice block: the session's exercise, in circle. | Content presenter, container holder watching the room |
 | 8:10-8:22 | Shared circle: what surfaced. Parents first. | Container holder |
-| 8:22-8:28 | Homework commissioning: walk the handout, each person names their check-in partner for the midweek report. Both leaders answer their three questions and get individual feedback. | Content presenter |
+| 8:22-8:28 | Homework commissioning: walk the handout, each person names their check-in partner for the week-one report. Both leaders answer their three questions and get individual feedback. | Content presenter |
 | 8:28-8:30 | Closing blessing. | Container holder |
 
 A drop-in lands softly: the welcome block always includes two minutes of
@@ -54,12 +54,12 @@ design so that participants can usefully interact even if intermittently.
   and passes. Let's see if the dinner time can hold this discussion face to
   face.
 
-## 4. The two-week homework, with the midweek check-in
+## 4. The two-week homework, with the end-of-week-one check-in
 
 Each session's handout now has four parts:
 
 1. **The practice** for the first week, as in the school version.
-2. **The midweek check-in**: before the session's one-week mark, report to
+2. **The end-of-week-one check-in**: at the end of week one, report to
    the person you named at commissioning on how you are doing against the
    practice. A text, a call, or a hallway conversation all count. The point
    is being expected to connect and report how it's going.
@@ -127,7 +127,7 @@ pilot runs covered, with the covering named to everyone in the room.
 The school version's Second Runnings (sessions 14 and 19), the Float (17),
 and Return II (18) exist to give practice repetition inside a weekly
 cadence. The biweekly homework, with its two weeks of practice and the
-midweek check-in, already provides that repetition. Folding those four into
+week-one check-in, already provides that repetition. Folding those four into
 the homework stream would bring sessions 5-22 down to fourteen meetings and
 land the arc by late April 2027. Or keep all of them and let the arc breathe
 into June. To be decided from experience, not in advance; nothing needs

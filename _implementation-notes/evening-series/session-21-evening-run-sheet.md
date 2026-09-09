@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:31 | Block 2: Brief blessing rehearsal | Content presenter; container holder watching the room |
 | 7:31-7:37 | Block 3: Reading and prayer | Content presenter; container holder watching the room |
 | 7:37-8:07 | Block 4: Family commissionings | Content presenter; container holder watching the room |
@@ -30,7 +30,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 ## The homework handout (Session 21, two weeks)
 
 1. **The practice, week one.** The Daily / Weekly / Monthly Rhythm Card is now the long-term practice. Sustain through the interlude until Going Deeper begins.
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Continue or deepen the same practice, as the

@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:31 | Block 2: Why tonight — Isaiah 50:10 | Content presenter; container holder watching the room |
 | 7:31-7:46 | Block 3: The Signs Card — taught by a CiF | Content presenter; container holder watching the room |
 | 7:46-7:55 | Block 4: The Path Home Card — taught by a CiF | Content presenter; container holder watching the room |
@@ -30,7 +30,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 ## The homework handout (Session 20, two weeks)
 
 1. **The practice, week one.** Complete the Post-Series Survey (H20.1) — back in the bin at the Week 21 door. And one small errand that is really a teaching: find both mercy cards at home — the Signs Card and the Path Home Card — and show one other family member where they live.
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Continue or deepen the same practice, as the

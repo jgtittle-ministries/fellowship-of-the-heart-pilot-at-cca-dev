@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:34 | Block 2: New every morning — Lam. 3:22–23, Ps. 126 | Content presenter; container holder watching the room |
 | 7:34-7:57 | Block 3: “What held?” | Content presenter; container holder watching the room |
 | 7:57-8:15 | Block 4: The walk home | Content presenter; container holder watching the room |
@@ -28,7 +28,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 ## The homework handout (Session 12, two weeks)
 
 1. **The practice, week one.** Restart (or continue) one daily practice — just one — chosen tonight and written in the journal. Not the whole rhythm. One.
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Continue or deepen the same practice, as the

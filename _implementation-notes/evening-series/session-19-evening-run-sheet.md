@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:31 | Block 2: The frame — why these two cards | Content presenter; container holder watching the room |
 | 7:31-7:32 | Block 3: Bridge and split | Content presenter; container holder watching the room |
 | 7:32-7:52 | Block 4: First teaching rep — both cards | Content presenter; container holder watching the room |
@@ -32,7 +32,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 ## The homework handout (Session 19, two weeks)
 
 1. **The practice, week one.** Both cards go home tonight, one set per participant folder. Each family finds them this week and puts them somewhere findable — a drawer everyone knows, the inside of a cabinet door, the family Bible. The point of these two cards is that they gather dust in a known location, because the person who eventually needs them will not be in a room like this when they do.
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Continue or deepen the same practice, as the

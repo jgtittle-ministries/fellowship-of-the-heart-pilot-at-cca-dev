@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks of practice reported, midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:34 | Block 2: Re-entry, and the room reads itself | Content presenter; container holder watching the room |
 | 7:34-7:40 | Block 3: Romans 10:17 — the chain | Content presenter; container holder watching the room |
 | 7:40-7:49 | Block 4: PROAPT walked together | Content presenter; container holder watching the room |
@@ -31,7 +31,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 ## The homework handout (Session 7, two weeks)
 
 1. **The practice, week one.** PROAPT one short passage per day for the next week. The Personal Heart Journal Week 7–8 pages have a daily PROAPT template.
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Continue or deepen the same practice, as the

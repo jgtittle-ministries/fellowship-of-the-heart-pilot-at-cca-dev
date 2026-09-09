@@ -17,7 +17,7 @@ not, in our actual friendships?
 - **The check-in carries more.** If this is the group's first evening back,
   the check-in acknowledges the gap honestly (what survived the pause is
   data, not failure); on an ordinary cycle it carries two weeks of practice
-  and the midweek check-in reports.
+  and the end-of-week-one check-in reports.
 - **The teaching is the container holder's own charge.** The four
   conditions are the very things the container holder carries (safety and
   warmth, presence, clear and intentional). The content presenter teaches
@@ -33,7 +33,7 @@ not, in our actual friendships?
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks (or the long pause) reported; midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: two weeks (or the long pause) reported; week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:42 | The four conditions, taught: Ecclesiastes 4:9-12 read aloud; walk Safe, Present, Clear, Intentional. | Content presenter |
 | 7:42-8:08 | Friendship mapping: each person works the four conditions through their real friendships, in pairs; then pairs share what they choose. | Content presenter, container holder watching the room |
 | 8:08-8:20 | Shared circle: common patterns surfaced, no names. Parents first. | Container holder |
@@ -47,7 +47,7 @@ not, in our actual friendships?
 1. **The practice, week one.** Pick one friendship in your life. Pick one of
    the four conditions. Practice it in that friendship more intentionally
    than usual. Journal what happens.
-2. **The midweek check-in.** Before the one-week mark, connect with the
+2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
 3. **The practice, week two.** Same friendship, second condition — or the
