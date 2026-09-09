@@ -23,9 +23,11 @@ first taste of what genuine community feels like.
 - **The adult backstop** (John or a parent) sits in the circle as a
   participant and holds anything personal that surfaces; the door out is
   named aloud in the welcome, as always.
-- **Journals at the door.** Newcomers receive their Personal Heart Journal
-  on arrival (no orientation night preceded this). The Pre-Series Survey is
-  not handed out tonight; it is offered family by family in the permission
+- **Bring your own notebook.** The invitation asks everyone to bring a
+  notebook or journal, since we do reflective writing each session; no
+  Personal Heart Journal is handed out. Clipboards with notebook paper are
+  on hand for anyone who needs them. The Pre-Series Survey is not handed
+  out tonight; it is offered family by family in the permission
   conversations afterward, on each yes.
 - **Pre-work: none for newcomers.** They were invited to dinner. Veterans
   carry the one-sentence prep from their handout.
@@ -43,25 +45,28 @@ first taste of what genuine community feels like.
 | 8:00-8:14 | What does it mean to be saved: the thief's case, Romans 10:9-10, and the first-page question written in the journal. | Content presenter, backstop attentive |
 | 8:14-8:20 | Shared circle: one sentence, what did tonight stir. Parents first. | Container holder |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; each person names their check-in partner aloud. | Content presenter |
-| 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. Room's answers move to 8:30. | Both leaders |
+| 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back — and the room's answers as time serves; it has fit before. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship. Then the leadership discussion: the room's feedback to the leaders, the team's five-question materials debrief, and planning the next meeting. | Everyone; John holds the debrief |
 
-*Note on the 8:20-8:28 stretch: commissioning and the leaders' three answers
-share it, four minutes each; the room's responses and individual feedback
-belong to the 8:30 window, where there is time to do them well.*
+*Note on the 8:20-8:28 stretch: commissioning and the Leader Feedback Round
+share it, four minutes each. The leaders' three answers come first; the
+room's responses have fit in the same block before — let them, and let
+anything longer flow into the 8:30 window.*
 
 ## The homework handout (Session 1, two weeks)
 
-1. **The practice, week one.** Each morning, five minutes: read John 10:10b
-   once and ask, where is abundance in my life right now, and where isn't
-   it? One brief journal line each evening.
+1. **The practice, week one.** The two standing daily questions. Each
+   morning, five minutes: "Lord, what are you up to today, and what do you
+   want me to notice?" Each evening, one journal line: "What did I notice
+   today?"
 2. **The midweek check-in.** Before the one-week mark, connect with the
    partner you named at commissioning and report how it's going against the
    practice. A text, a call, or a hallway conversation all count.
-3. **The practice, week two.** Continue the morning question. Watch for one
-   specific moment of abundance, or its absence, worth telling the circle
-   about.
+3. **The practice, week two.** Keep the morning and evening questions, and
+   add the abundance question: read John 10:10b once and ask, where is
+   abundance in my life right now, and where isn't it? Watch for one
+   specific moment worth telling the circle about.
 4. **One sentence of preparation.** Read John 10:10 once more the day before
    we meet, and bring one honest question about the journey.
 

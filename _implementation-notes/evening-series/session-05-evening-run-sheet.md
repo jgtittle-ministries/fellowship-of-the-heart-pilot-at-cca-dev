@@ -18,11 +18,11 @@ not, in our actual friendships?
   the check-in acknowledges the gap honestly (what survived the pause is
   data, not failure); on an ordinary cycle it carries two weeks of practice
   and the midweek check-in reports.
-- **This is the container holder's session.** The teaching is the four
-  conditions: the very charge the container holder carries (safety and
-  warmth, presence, clear and intentional). Whoever holds the container
-  tonight should present that teaching if the rotation allows; the role
-  explains itself.
+- **The teaching is the container holder's own charge.** The four
+  conditions are the very things the container holder carries (safety and
+  warmth, presence, clear and intentional). The content presenter teaches
+  them; the container holder embodies them in real time. The room gets the
+  lesson twice.
 - **Clusters at home scale.** The school version splits into family
   clusters; at this table the split is parent pair and teen pair (or one
   circle if the room is small enough to stay honest).
@@ -33,8 +33,8 @@ not, in our actual friendships?
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: two weeks (or the long pause) reported; midweek check-ins debriefed. One-sentence shares, a parent opens. | Container holder |
-| 7:25-7:42 | The four conditions, taught: Ecclesiastes 4:9-12 read aloud; walk Safe, Present, Clear, Intentional. | Content presenter (or container holder, above) |
+| 7:08-7:25 | Check-in circle: two weeks (or the long pause) reported; midweek check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:25-7:42 | The four conditions, taught: Ecclesiastes 4:9-12 read aloud; walk Safe, Present, Clear, Intentional. | Content presenter |
 | 7:42-8:08 | Friendship mapping: each person works the four conditions through their real friendships, in pairs; then pairs share what they choose. | Content presenter, container holder watching the room |
 | 8:08-8:20 | Shared circle: common patterns surfaced, no names. Parents first. | Container holder |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
@@ -66,7 +66,7 @@ The school version's watch-fors stand. Two more:
 
 - **Friendship material can carry weight** (the friend who left, the
   betrayal, the loneliness). The backstop adult stays attentive through the
-  mapping block; anything heavy hands off per the bright line.
+  mapping block; anything heavy hands off per the leader's guidelines previously discussed.
 - **The pause-gap comparison.** If this follows a long break, resist letting
   the check-in become a referendum on faithfulness. What survived the break
   is the finding; shame is not on the agenda.
