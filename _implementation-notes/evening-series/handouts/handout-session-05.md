@@ -1,42 +1,37 @@
 # Take-Home Sheet — Session 5: Knowing and Being Known
 
-**Two weeks on one sheet: the practices, the boxes, the check-in.** Evening
-series at the Tittle home. Fridge, mirror, or notebook pocket.
+---
 
 ## 1. The practice — week one
 
-Pick one friendship in your life. Pick one of the four conditions. Practice it in that friendship more intentionally than usual. Journal what happens.
+Pick one friendship in your life. Pick one of the four conditions (Safe,
+Present, Clear, Intentional). Practice it in that friendship more
+intentionally than usual. Journal what happens.
 
 **Week one:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
 *(one box per day; if the practice asks for fewer, check the days you did it)*
 
 ## 2. The end-of-week-one check-in
 
-My check-in partner this cycle is: **______________________**
-At the end of week one, connect and report how it's going against the
-practice. A text, a call, or a hallway conversation all count. You are not
-grading each other; you are expecting each other.   **Done:** ☐
+My check-in partner for this cycle is: **______________________**
+*(named aloud at commissioning; a new partner each cycle)*
+
+At the end of week one, connect with your partner and report how it's going
+against the practice. A text, a call, or a hallway conversation all count.
+You are not grading each other; you are expecting each other. **Done:** ☐
 
 ## 3. The practice — week two
 
-Same friendship, second condition — or the same condition, deeper, if the first week opened something. Journal what happens.
+Same friendship, second condition — or the same condition, deeper, if the
+first week opened something. Journal what happens.
 
 **Week two:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
 
 ## 4. One sentence of preparation
 
-Before we meet, finish this sentence in your journal: "The condition my friendships need most from me is ________."   **Done:** ☐
+Before we meet, finish this sentence in your journal: "The condition my
+friendships need most from me is ________." **Done:** ☐
 
 ---
 
 *A missed box is never a failure — it is an invitation to return.*
-
-**The journal's standing closer, every week:** *if I were to teach this
-practice to someone, what would I tell them?*
-
-**Next evening:** ____________ (Mon/Tue of the week of ____________), dinner
-at 6:00, session at 7:00.
-
-**The door out:** if anything from this work needs an adult outside the
-leading team, that person is **Pastor Bobby Gore, (831) 277-9878**, and
-going to them is always the right move.
