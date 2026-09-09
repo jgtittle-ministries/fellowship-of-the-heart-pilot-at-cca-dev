@@ -1,31 +1,35 @@
-# Homework Handout — Session 22: Commissioning the Companions
+# Take-Home Sheet — Session 22: Commissioning the Companions
 
-**Two weeks. Four parts. One page.** Evening series at the Tittle home.
-
----
+**Two weeks on one sheet: the practices, the boxes, the check-in.** Evening
+series at the Tittle home. Fridge, mirror, or notebook pocket.
 
 ## 1. The practice — week one
 
 For the new FC1s: the Leader Lab rhythm begins — bring one vital-signs observation from tonight's room to Lab 1 of the serving cycle. For everyone: the Rhythm Card and the Going Deeper interlude practices.
 
+**Week one:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
+*(one box per day; if the practice asks for fewer, check the days you did it)*
+
 ## 2. The end-of-week-one check-in
 
-My check-in partner for this cycle is: **______________________**
-*(named aloud at commissioning; a new partner each cycle)*
-
-At the end of week one, connect with your partner and report how it's
-going against the practice. A text, a call, or a hallway conversation all
-count. You are not grading each other; you are expecting each other.
+My check-in partner this cycle is: **______________________**
+At the end of week one, connect and report how it's going against the
+practice. A text, a call, or a hallway conversation all count. You are not
+grading each other; you are expecting each other.   **Done:** ☐
 
 ## 3. The practice — week two
 
 Continue or deepen the same practice, as the session specifies; journal what happens.
 
+**Week two:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
+
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials.
+Set at commissioning from the session’s materials.   **Done:** ☐
 
 ---
+
+*A missed box is never a failure — it is an invitation to return.*
 
 **The journal's standing closer, every week:** *if I were to teach this
 practice to someone, what would I tell them?*
