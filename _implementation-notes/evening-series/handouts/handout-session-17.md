@@ -6,8 +6,11 @@
 
 The quarter break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The same move that carried the cohort through Christmas. The Return II (Week 18) will ask what held.
 
-**Week one:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
-*(one box per day; if the practice asks for fewer, check the days you did it)*
+**Week one** *(one box per day; if the practice asks for fewer, check the days you did it)*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 2. The end-of-week-one check-in
 
@@ -23,7 +26,11 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 Continue or deepen the same practice, as the session specifies; journal
 what happens.
 
-**Week two:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
+**Week two**
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 

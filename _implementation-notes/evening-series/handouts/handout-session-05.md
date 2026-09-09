@@ -8,8 +8,11 @@ Pick one friendship in your life. Pick one of the four conditions (Safe,
 Present, Clear, Intentional). Practice it in that friendship more
 intentionally than usual. Journal what happens.
 
-**Week one:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
-*(one box per day; if the practice asks for fewer, check the days you did it)*
+**Week one** *(one box per day; if the practice asks for fewer, check the days you did it)*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 2. The end-of-week-one check-in
 
@@ -25,7 +28,11 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 Same friendship, second condition — or the same condition, deeper, if the
 first week opened something. Journal what happens.
 
-**Week two:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
+**Week two**
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 

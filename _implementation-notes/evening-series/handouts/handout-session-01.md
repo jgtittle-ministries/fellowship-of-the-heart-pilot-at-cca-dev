@@ -8,8 +8,11 @@ The two standing daily questions. Each morning, five minutes: "Lord, what
 are you up to today, and what do you want me to notice?" Each evening, one
 journal line: "What did I notice today?"
 
-**Week one:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
-*(one box per day; if the practice asks for fewer, check the days you did it)*
+**Week one** *(one box per day; if the practice asks for fewer, check the days you did it)*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 2. The end-of-week-one check-in
 
@@ -27,7 +30,11 @@ read John 10:10b once and ask, where is abundance in my life right now, and
 where isn’t it? Watch for one specific moment worth telling the circle
 about.
 
-**Week two:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
+**Week two**
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 

@@ -6,8 +6,11 @@
 
 Continue the rhythm as built — no restart language needed this time; the returning rule covers whatever slipped. And a gentle, unaudited word to the parents: the Four Questions door (commissioned at Week 15, willing-only always) is still open for any parent who has not yet found their moment.
 
-**Week one:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
-*(one box per day; if the practice asks for fewer, check the days you did it)*
+**Week one** *(one box per day; if the practice asks for fewer, check the days you did it)*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 2. The end-of-week-one check-in
 
@@ -23,7 +26,11 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 Continue or deepen the same practice, as the session specifies; journal
 what happens.
 
-**Week two:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
+**Week two**
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 

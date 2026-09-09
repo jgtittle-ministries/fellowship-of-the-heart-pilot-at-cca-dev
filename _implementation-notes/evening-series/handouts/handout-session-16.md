@@ -6,8 +6,11 @@
 
 Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at next Wednesday’s door. And keep the rhythm: the card you built in Week 15 is still the assignment.
 
-**Week one:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
-*(one box per day; if the practice asks for fewer, check the days you did it)*
+**Week one** *(one box per day; if the practice asks for fewer, check the days you did it)*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 2. The end-of-week-one check-in
 
@@ -23,7 +26,11 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 Continue or deepen the same practice, as the session specifies; journal
 what happens.
 
-**Week two:** ☐  ☐  ☐  ☐  ☐  ☐  ☐
+**Week two**
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 
