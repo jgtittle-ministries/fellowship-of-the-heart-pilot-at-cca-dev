@@ -2,19 +2,28 @@
 
 ---
 
-*The standing practice, every day of the whole journey — morning, five
-minutes: "Lord, what are you up to today, and what do you want me to
-notice?" Evening, one journal line: "What did I notice today?"*
+## The standing practice — every day, both weeks
 
-## 1. The practice — week one
+Morning, five minutes: "Lord, what are you up to today, and what do you
+want me to notice?" Evening, one journal line: "What did I notice today?"
 
-Daily PROAPT continues (the journal Week 7–8 pages).
-
-**Week one** *(one box per day; if the practice asks for fewer, check the days you did it)*
+**Week one** *(one box per day)*
 
 | M | Tu | W | Th | F | Sa | Su |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+**Week two**
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
+*A missed box is never a failure — it is an invitation to return.*
+
+## 1. The practice — week one
+
+Daily PROAPT continues (the journal Week 7–8 pages).
 
 ## 2. The end-of-week-one check-in
 
@@ -30,16 +39,7 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 Continue or deepen the same practice, as the session specifies; journal
 what happens.
 
-**Week two**
-
-| M | Tu | W | Th | F | Sa | Su |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
-
 ## 4. One sentence of preparation
 
 Set at commissioning from the session’s materials. **Done:** ☐
 
----
-
-*A missed box is never a failure — it is an invitation to return.*
