@@ -82,20 +82,20 @@ The family carries the invitations: teens, parents, and standalone adults
 alike, plus drop-ins for any single session. If no one else comes, the work
 continues as curriculum development and leader training with full value.
 
-## 6. The calendar ladder (Mon/Tue of each meeting week)
+## 6. The calendar ladder (Tuesdays, every other week)
 
-| # | Week of | Note |
+| # | Date | Note |
 |---|---|---|
-| 1 | Sep 14 | First evening; branch decided by who is in the room |
-| 2 | Sep 28 | |
-| 3 | Oct 12 | |
-| 4 | Oct 26 | |
-| 5 | Nov 9 | |
-| 6 | Nov 23 | Thanksgiving week; family's call to meet or shift |
-| 7 | Dec 7 | |
-| 8 | Dec 21 | Christmas week; family's call, likely skip |
-| 9 | Jan 4 | |
-| 10 | Jan 18 | ...continuing biweekly |
+| 1 | Sep 15 | First evening; branch decided by who is in the room |
+| 2 | Sep 29 | |
+| 3 | Oct 13 | |
+| 4 | Oct 27 | |
+| 5 | Nov 10 | |
+| 6 | Nov 24 | Thanksgiving week; family's call to meet or shift |
+| 7 | Dec 8 | |
+| 8 | Dec 22 | Christmas week; family's call, likely skip |
+| 9 | Jan 5 | |
+| 10 | Jan 19 | ...continuing biweekly |
 
 Eighteen meetings (sessions 5-22) with two holiday skips lands the arc in
 mid-June 2027; all twenty-two from Session 1 runs into August. See the
