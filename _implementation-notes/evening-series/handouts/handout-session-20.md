@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 Complete the Post-Series Survey (H20.1) — back in the bin at the Week 21 door. And one small errand that is really a teaching: find both mercy cards at home — the Signs Card and the Path Home Card — and show one other family member where they live.

@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 The quarter break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The same move that carried the cohort through Christmas. The Return II (Week 18) will ask what held.

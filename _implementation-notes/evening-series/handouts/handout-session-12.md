@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 Restart (or continue) one daily practice — just one — chosen tonight and written in the journal. Not the whole rhythm. One.

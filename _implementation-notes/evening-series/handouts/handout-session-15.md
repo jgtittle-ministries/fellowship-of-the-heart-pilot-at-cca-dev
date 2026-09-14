@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 For the willing: the parent asks their teen the four questions at home — unhurried, no audience, phone away — and receives the answers without defending. Married parents are encouraged to also ask their spouse, separately. And everyone runs the Rhythm Card as built, for real, across the break, noting in the journal where it held and where it slipped.

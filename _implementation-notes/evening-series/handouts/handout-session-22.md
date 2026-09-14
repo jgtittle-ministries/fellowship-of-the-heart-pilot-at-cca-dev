@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 For the new FC1s: the Leader Lab rhythm begins — bring one vital-signs observation from tonight's room to Lab 1 of the serving cycle. For everyone: the Rhythm Card and the Going Deeper interlude practices.

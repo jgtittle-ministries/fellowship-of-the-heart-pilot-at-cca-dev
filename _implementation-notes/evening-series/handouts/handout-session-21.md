@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 The Daily / Weekly / Monthly Rhythm Card is now the long-term practice. Sustain through the interlude until Going Deeper begins.

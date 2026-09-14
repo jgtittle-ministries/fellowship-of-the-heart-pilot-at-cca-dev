@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 Personal Doubts Inventory — one page in the journal listing scriptures I want to believe more than I currently do. No shame. Just data. Over the quarter break, one chosen daily practice carries the rhythm. And the Quarterly Pulse (H11.4) goes home tonight — one page, five minutes, back in the bin at The Return’s door in January.

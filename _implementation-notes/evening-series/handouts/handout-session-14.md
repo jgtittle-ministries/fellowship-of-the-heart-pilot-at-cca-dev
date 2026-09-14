@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 Continue the daily rhythm — the morning question, the evening journal note, PROAPT one short passage. And each family pair finishes at home anything the evening opened: the passage’s Tell said again at the table (Option 1), or one more card pulled during the week (Option 2).

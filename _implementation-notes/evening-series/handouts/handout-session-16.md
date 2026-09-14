@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at next Wednesday’s door. And keep the rhythm: the card you built in Week 15 is still the assignment.

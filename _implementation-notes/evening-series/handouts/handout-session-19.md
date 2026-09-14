@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 Both cards go home tonight, one set per participant folder. Each family finds them this week and puts them somewhere findable — a drawer everyone knows, the inside of a cabinet door, the family Bible. The point of these two cards is that they gather dust in a known location, because the person who eventually needs them will not be in a room like this when they do.

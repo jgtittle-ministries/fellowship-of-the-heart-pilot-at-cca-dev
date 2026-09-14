@@ -32,6 +32,12 @@ this follows an ordinary cycle.
 
 *Printed sheets are handed out in the room; this is the same content.*
 
+**The standing practice, every day of the whole journey.** Morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?" These two
+questions run in the background of every session's homework, from Session 1
+to the Sending.
+
 **1. The practice — week one.** Pick one friendship in your life. Pick one
 of the four conditions (Safe, Present, Clear, Intentional). Practice it in
 that friendship more intentionally than usual. Journal what happens. One

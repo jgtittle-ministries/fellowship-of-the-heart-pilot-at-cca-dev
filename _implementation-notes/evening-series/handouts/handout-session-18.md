@@ -2,6 +2,10 @@
 
 ---
 
+*The standing practice, every day of the whole journey — morning, five
+minutes: "Lord, what are you up to today, and what do you want me to
+notice?" Evening, one journal line: "What did I notice today?"*
+
 ## 1. The practice — week one
 
 Continue the rhythm as built — no restart language needed this time; the returning rule covers whatever slipped. And a gentle, unaudited word to the parents: the Four Questions door (commissioned at Week 15, willing-only always) is still open for any parent who has not yet found their moment.
