@@ -28,7 +28,7 @@ this follows an ordinary cycle.
 | 7:08–7:25 | Check-in circle: two weeks (or the long pause) reported; week-one check-ins debriefed. One-sentence shares; a parent starts the sharing. | Container holder |
 | 7:25–7:42 | The four conditions, taught: Ecclesiastes 4:9–12 read aloud; walk Safe, Present, Clear, Intentional. | Content presenter |
 | 7:42–8:08 | Friendship mapping: each person works the four conditions through their real friendships, in pairs; then pairs share what they choose. | Content presenter, container holder watching the room |
-| 8:08–8:20 | Shared circle: common patterns surfaced, no names. Parents first. | Container holder |
+| 8:08–8:20 | Shared circle: common patterns surfaced, no names. Parents first. At the tail, the teaching's wrap-up: more than the four. | Container holder; content presenter closes |
 | 8:20–8:24 | Homework commissioning: the four-part take-home walked; check-in partners named aloud. | Content presenter |
 | 8:24–8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28–8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
@@ -99,6 +99,13 @@ follows is what the evening form changes.
 - **Practice the handoffs beforehand.** The leading pair walks the session
   together before the evening — at the planning lab, or before dinner — so
   each knows who is where in the flow.
+- **Close the teaching with "more than the four."** Two minutes from the
+  content presenter at the merge's tail: the four conditions are
+  foundational — they are what make a close friendship possible — but a
+  good friend reaches you in more ways than these. They give you energy;
+  you walk away uplifted; they are warm and caring, maybe even funny. And
+  these are a way to choose: *which friendships do you want to deepen* with
+  this process and this intentionality?
 
 **Watch-fors, evening additions.** The school version's watch-fors stand.
 Two more:

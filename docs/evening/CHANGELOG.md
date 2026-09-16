@@ -52,6 +52,12 @@ the ripple pass:
   the *actual* take-home sheet — two slides (the daily rhythm / the four
   parts), replacing the school-form H5.6 card image, so the screen matches
   the sheet in the room's hands.
+- **"More than the four"** — new two-minute wrap-up at the merge's tail
+  (content presenter): the four conditions are foundational — what makes a
+  close friendship possible — but a good friend also gives you energy,
+  leaves you uplifted, is warm and caring, maybe even funny; and these are
+  a way to choose *which* friendships to deepen with this process and
+  intentionality. New slide + page + run sheet.
 - **Check-in wording aligned**: "midweek" → "end of week one" on the
   practice slide, matching sheet and handbook.
 - **Clock fix**: bridge-slide notes' stray "back at 5:11" (school-form
