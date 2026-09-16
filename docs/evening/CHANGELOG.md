@@ -76,6 +76,33 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.1 — September 16, 2026 — the ripple
+
+The debrief's series-wide decisions executed across the other 21 sessions
+(all four artifact types), with Session 5 as the pattern:
+
+- **Grounding slides**: every deck now opens on the Four Connects map,
+  each captioned to its session's place on it per the curriculum index
+  (Self / Others / God / Mission; transitional and whole-map sessions
+  worded accordingly), with grounding speaker notes and interim "Na"
+  corner numbers.
+- **The take-home on screen**: every deck's H-card slide replaced by two
+  slides showing that session's actual take-home sheet (Session 1 splits
+  week-one/check-in and week-two/preparation; all others daily rhythm and
+  four parts), rendered from the printed sheets.
+- **Vocabulary**: "Between-Session (Practice)" → "Homework Practice" in
+  deck titles and notes; "The practice, week one/two" → "The homework
+  practice, …" in all run sheets and take-home sheets (all 21 sheets
+  verified still one page).
+- **Small-room notes** on every Bridge-to-the-Split slide (Sessions 4, 6,
+  11, 13, 19), plus the stray "same rooms" phrasing settled to pairs.
+- **Pair-lead note** in every deck's opening-slide notes; the four
+  standing evening-form items (map opening, visible pair, split only if
+  needed, container holder the busier seat) added to every run sheet.
+- **Leader Notes handouts** built for all 22 sessions.
+- Session 1's page gains the map paragraph, pair-lead bullets, and the
+  homework-practice renames.
+
 ## v1 — September 2026
 
 - Section opened ahead of the first evening (Tuesday, September 15, 2026):
