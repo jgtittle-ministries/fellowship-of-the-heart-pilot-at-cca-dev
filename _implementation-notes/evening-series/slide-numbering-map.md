@@ -32,3 +32,7 @@ renumber by rerunning the renumber script after any future insert.*
 | 22 | 308–321 |
 
 Total: 321 master pages (1 + 320 session pages).
+
+The combined Session 3–4 deck (the current-condition form) numbers its
+pages C1–C16, deliberately outside the master sequence; the master pages
+37–65 belong to the reserve two-session form.

@@ -76,6 +76,29 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.3 — September 16, 2026 — the current-condition walk
+
+The series fitted intentionally to the room it has (the four prototype
+teens, their two parents, and John — a room that knows each other), per
+John's word, with the full form held in reserve:
+
+- **Sessions 3–4 combined**: a new combined artifact set — deck (16
+  slides, C-numbered outside the master sequence), run sheet, leader
+  notes — carrying the form the prototype group already proved: one
+  circle, everyone tells in a single evening (a leader first, then the
+  arranged parent, then around; 5–6 minutes each; the arranged parent
+  blesses first after each teen), the demo compressed to a form-reminder,
+  the comparison guard said out loud, Section 6 preparation unchanged and
+  in full. Homework: the Session 3 sheet (Joint Footprints), unchanged.
+- **The reserve**: the original Session 3 and Session 4 materials stand
+  untouched, each run sheet now opening with a HELD IN RESERVE note —
+  the two-session form with parent/teen separations and room-splits backs
+  the walk up whenever the room grows to strangers.
+- **The principle recorded**: new handbook section, "The current-condition
+  walk" — one circle by default, condensations where completion doesn't
+  need two evenings, the full form in reserve, and safety never
+  condensing. Index notes the condensed path.
+
 ## v2.2 — September 16, 2026 — the master renumbering
 
 At John's word, the corner numbers rebuilt as one continuous sequence

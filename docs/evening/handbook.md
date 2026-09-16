@@ -53,6 +53,21 @@ circle, or drops into quick pair work in place, which does the same work
 faster and doubles as the time-recovery lever (a full split-and-merge
 costs about five minutes of the evening).
 
+## The current-condition walk
+
+The series is walked intentionally at the scale of the room it has —
+right now, the four prototype teens, their two parents, and John: a room
+that already knows each other. Three things follow. **One circle by
+default** — no room-splits, no parent/teen separation. **Condensations
+where completion doesn't need two evenings** — Sessions 3 and 4 run
+combined in a single evening (everyone tells, one round, teens leading;
+proven in the prototype group's own running; see the combined run sheet
+and deck). And **the full form held in reserve** — the two-session
+tellings, the room-splits, and the parent/teen separations all stand
+ready in the v1 materials for a larger room of newer people; the walk
+backs up to them whenever the room grows. Safety never condenses:
+Section 6 preparation applies to the combined forms in full.
+
 ## The two roles and the rotation
 
 - **The container holder** opens and closes the evening, holds the
