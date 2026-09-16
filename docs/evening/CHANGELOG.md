@@ -48,6 +48,10 @@ the ripple pass:
 - **Leader Notes handout** *(new artifact, prototype)*: the deck's speaker
   notes as a printed in-hand script for the leading pair (Session 5 built;
   per-session builds follow if it proves out).
+- **The take-home on screen** *(series)*: the commissioning block now shows
+  the *actual* take-home sheet — two slides (the daily rhythm / the four
+  parts), replacing the school-form H5.6 card image, so the screen matches
+  the sheet in the room's hands.
 - **Check-in wording aligned**: "midweek" → "end of week one" on the
   practice slide, matching sheet and handbook.
 - **Clock fix**: bridge-slide notes' stray "back at 5:11" (school-form
@@ -55,7 +59,9 @@ the ripple pass:
 - Still open from the debrief: how to talk about intentional observation
   and measurement (not reached on 9/15; design before it enters the room).
   Outside point of contact confirmed: Pastor Bobby Gore said yes — honored;
-  already named throughout the Companion materials since August.
+  already named throughout the Companion materials since August. His yes
+  also closes the two open flags: number phone-verified and the after-hours
+  protocol confirmed (launch checklist and host profile updated).
 
 ## v1 — September 2026
 
