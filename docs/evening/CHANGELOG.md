@@ -76,6 +76,23 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.2 — September 16, 2026 — the master renumbering
+
+At John's word, the corner numbers rebuilt as one continuous sequence
+across all 22 decks: page 1 is the shared series title slide, Session 1
+runs 2–21, and each session continues where the last left off, through
+page 321 at the Commissioning's close. The interim letter-suffix pages
+(59a etc.) are retired. The map of record is
+`_implementation-notes/evening-series/slide-numbering-map.md`; after any
+future insert, the renumber script rebuilds the whole sequence.
+
+Also in this pass (John's markup on the printed 59a): the Four Connects
+map itself now carries his flip-chart structure — the four conditions
+(Safe · Present · Clear · Intentional) hang as a sub-bullet under the
+Others box, labeled *foundational, not exhaustive* — and the Session 5
+caption softens "deepens into" to "can be a basis for" loving others,
+carried through the page, run sheet, and grounding notes.
+
 ## v2.1 — September 16, 2026 — the ripple
 
 The debrief's series-wide decisions executed across the other 21 sessions
