@@ -62,6 +62,13 @@ the ripple pass:
   practice slide, matching sheet and handbook.
 - **Clock fix**: bridge-slide notes' stray "back at 5:11" (school-form
   clock) corrected to 8:08.
+- **John's review round (9/16)**: teaching slide retitled *Friendship
+  Mapping with Four Conditions*; cluster language settled to **pairs**
+  throughout the deck (bridge slide + notes) for timing; the small-number
+  line demoted to a sub-bullet under "pick one friendship"; quotes dropped
+  from the choice line on *More Than the Four*; the three inserted slides
+  given interim corner numbers (59a, 66a, 68a) — the full master renumber
+  lands with the series rebuild at the ripple.
 - Still open from the debrief: how to talk about intentional observation
   and measurement (not reached on 9/15; design before it enters the room).
   Outside point of contact confirmed: Pastor Bobby Gore said yes — honored;
