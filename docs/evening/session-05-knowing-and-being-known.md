@@ -8,6 +8,12 @@ this room different from the rest of life, and where do those conditions —
 Safe, Present, Clear, Intentional — show up, or not, in our actual
 friendships?
 
+**Where we are on the map.** Every evening now opens on the Four Connects —
+Self, Others, God, Mission — and tonight stands in the second box. The four
+conditions of friendship are how *connecting with others* deepens into
+*loving others*; the map is rooted in the two great commandments
+(Matt. 22:37–40).
+
 **Bring.** Your notebook or journal, and your take-home from last time if
 this follows an ordinary cycle.
 
@@ -39,18 +45,21 @@ run in the background of every session's homework, from Session 1 to the
 Sending; the printed sheet's two week-grids of day boxes sit directly under
 them and track this practice.
 
-**1. The practice — week one.** Pick one friendship in your life. Pick one
-of the four conditions (Safe, Present, Clear, Intentional). Practice it in
-that friendship more intentionally than usual. Journal what happens.
+**1. The homework practice — week one.** Pick one friendship in your life.
+Pick one of the four conditions (Safe, Present, Clear, Intentional).
+Practice it in that friendship more intentionally than usual. Journal what
+happens. We are proposing deep investment in a *small number* of
+friendships — starting with one; at this depth, two or three may be all a
+life can honestly hold.
 
 **2. The end-of-week-one check-in.** At the end of week one, connect with
 the partner you named at commissioning and report how it's going against
 the practice. A text, a call, or a hallway conversation all count. You are
 not grading each other; you are expecting each other.
 
-**3. The practice — week two.** Same friendship, second condition — or the
-same condition, deeper, if the first week opened something. Journal what
-happens.
+**3. The homework practice — week two.** Same friendship, second
+condition — or the same condition, deeper, if the first week opened
+something. Journal what happens.
 
 **4. One sentence of preparation.** Before we meet, finish this sentence
 in your journal: "The condition my friendships need most from me is
@@ -79,6 +88,17 @@ follows is what the evening form changes.
 - **Clusters at home scale.** The school version splits into family
   clusters; at this table the split is parent pair and teen pair — or one
   circle, if the room is small enough to stay honest.
+- **Split only if the room needs it.** The split-and-merge blocks assume
+  numbers. With six or so around the table, stay one circle — or drop into
+  quick pair work in place, knee to knee, which does the same work faster.
+  Pair work is also the standing time-recovery lever: a full
+  split-and-merge costs about five minutes of the evening.
+- **A pair leads, visibly.** Name it in the welcome: two leaders hold
+  tonight — container and content — and the room will see the evening
+  handed back and forth between them. That is the design, not a hiccup.
+- **Practice the handoffs beforehand.** The leading pair walks the session
+  together before the evening — at the planning lab, or before dinner — so
+  each knows who is where in the flow.
 
 **Watch-fors, evening additions.** The school version's watch-fors stand.
 Two more:
