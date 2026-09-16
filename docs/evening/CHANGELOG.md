@@ -99,6 +99,10 @@ each in the way its material asks, at John's word:
 - **Session 19 moved to the lab**: the mercy-card rehearsal (both reps,
   with feedback) happens at the off-week planning lab; Session 20
   teaches to the room as designed.
+- **Map variants**: the four-conditions sub-bullet under Others belongs to
+  the friendship session alone — Session 5's grounding slide keeps it
+  (four-connects-conditions.png); every other deck, combined decks
+  included, carries the plain map.
 - All six source run sheets (7, 8, 9, 10, 14, 19) open with reserve /
   absorbed / moved-to-lab notes; originals untouched. Handbook section
   updated with the complete condensation list; numbering map records the
