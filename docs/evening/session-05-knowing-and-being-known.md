@@ -10,9 +10,9 @@ friendships?
 
 **Where we are on the map.** Every evening now opens on the Four Connects —
 Self, Others, God, Mission — and tonight stands in the second box. The four
-conditions of friendship are how *connecting with others* deepens into
-*loving others*; the map is rooted in the two great commandments
-(Matt. 22:37–40).
+conditions of friendship are how *connecting with others* can be a basis
+for *loving others* — foundational, not exhaustive; the map is rooted in
+the two great commandments (Matt. 22:37–40).
 
 **Bring.** Your notebook or journal, and your take-home from last time if
 this follows an ordinary cycle.
