@@ -59,14 +59,29 @@ The series is walked intentionally at the scale of the room it has —
 right now, the four prototype teens, their two parents, and John: a room
 that already knows each other. Three things follow. **One circle by
 default** — no room-splits, no parent/teen separation. **Condensations
-where completion doesn't need two evenings** — Sessions 3 and 4 run
-combined in a single evening (everyone tells, one round, teens leading;
-proven in the prototype group's own running; see the combined run sheet
-and deck). And **the full form held in reserve** — the two-session
-tellings, the room-splits, and the parent/teen separations all stand
-ready in the v1 materials for a larger room of newer people; the walk
-backs up to them whenever the room grows. Safety never condenses:
-Section 6 preparation applies to the combined forms in full.
+where completion doesn't need two evenings** — the second runnings fold
+into their firsts, each in the way its material asks:
+
+- **Sessions 3–4 combined**: everyone tells, one round, one evening
+  (proven in the prototype group's own running).
+- **Sessions 7–8 combined**: both PROAPT reps inside one evening — rep
+  one walked together, rep two in the pairs on Session 8's passage
+  (Mark 2:1–12).
+- **Sessions 9–10 combined**: one guided garden run, a senior reading
+  from the start; the week's three returns *are* the second visit,
+  received at the next check-in.
+- **Session 14 absorbed**: its purpose — every willing teen a full
+  leading rep — is the standing pattern of every current evening; any
+  re-run middle can be called at a planning lab.
+- **Session 19 moved to the lab**: the mercy-card rehearsal happens at
+  the off-week planning lab with John; Session 20 teaches the cards to
+  the room as designed.
+
+And **the full form held in reserve** — the two-session runnings, the
+room-splits, and the parent/teen separations all stand ready in the v1
+materials for a larger room of newer people; the walk backs up to them
+whenever the room grows. Safety never condenses: Section 6 preparation
+and the Settle Protocol apply to the combined forms in full.
 
 ## The two roles and the rotation
 

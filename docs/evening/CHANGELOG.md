@@ -76,6 +76,34 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.4 — September 16, 2026 — the condensation completed (7–8, 9–10, 14, 19)
+
+The current-condition pattern applied to the remaining second runnings,
+each in the way its material asks, at John's word:
+
+- **Sessions 7–8 combined** (new deck P1–P18, run sheet, leader notes):
+  both PROAPT reps inside one evening — rep one walked together on
+  Mark 1:14–20, teen-led; rep two as pass two of the family pairs, on
+  Session 8's passage (Mark 2:1–12); the reps framing said aloud. Two
+  long-standing glitches fixed in passing ("PROAPT in family pairs in
+  pairs"; "leadsanion").
+- **Sessions 9–10 combined** (new deck G1–G15, run sheet, leader notes):
+  one guided garden run with a senior reading from the start (H10.1
+  pacing: two words per second, the pauses are the work); the week's
+  three returns named plainly as the second visit — most of us only get
+  all the way in on a return — received at the next check-in. Settle
+  Protocol in full.
+- **Session 14 absorbed**: the every-teen rotation is the standing
+  pattern of every current evening; any re-run middle callable at a
+  planning lab.
+- **Session 19 moved to the lab**: the mercy-card rehearsal (both reps,
+  with feedback) happens at the off-week planning lab; Session 20
+  teaches to the room as designed.
+- All six source run sheets (7, 8, 9, 10, 14, 19) open with reserve /
+  absorbed / moved-to-lab notes; originals untouched. Handbook section
+  updated with the complete condensation list; numbering map records the
+  P/G pages and the reserve ranges.
+
 ## v2.3 — September 16, 2026 — the current-condition walk
 
 The series fitted intentionally to the room it has (the four prototype
