@@ -28,8 +28,9 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:00-8:18 | Block 6B: Family Conversation Cards in pairs | Content presenter; container holder watching the room |
 | 8:18-8:20 | Block 7B: Merge and between-session | Container holder leads the merge; content presenter supporting |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
-| 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
-| 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
+| 8:24-8:26 | Closing the container — teen-led. | Container holder |
+| 8:26-8:29 | Leader Feedback Round interposed (Lead Companion runs), both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
+| 8:29-8:30 | Aaronic blessing — teen-led. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
 ## The homework handout (Session 14, two weeks)

@@ -45,8 +45,9 @@ first taste of what genuine community feels like.
 | 8:00-8:14 | What does it mean to be saved: the thief's case, Romans 10:9-10, and the first-page question written in the journal. | Content presenter, backstop attentive |
 | 8:14-8:20 | Shared circle: one sentence, what did tonight stir. Parents first. | Container holder |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; each person names their check-in partner aloud. | Content presenter |
-| 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back — and the room's answers as time serves; it has fit before. | Both leaders |
-| 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
+| 8:24-8:26 | Closing container begins — Week 1 order: closing before the round. | Container holder |
+| 8:26-8:29 | Leader Feedback Round interposed, both leaders: what went well, what I would do differently, the teach-back — and the room's answers as time serves; it has fit before. | Both leaders |
+| 8:29-8:30 | Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship. Then the leadership discussion: the room's feedback to the leaders, the team's five-question materials debrief, and planning the next meeting. | Everyone; John holds the debrief |
 
 *Note on the 8:20-8:28 stretch: commissioning and the Leader Feedback Round
