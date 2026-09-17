@@ -20,7 +20,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:33-7:39 | Block 4: Companion demo | Content presenter; container holder watching the room |
 | 7:39-7:40 | Block 5: Bridge to the split | Content presenter; container holder watching the room |
 | 7:40-8:16 | Block 6: Confession-and-restoration in pairs | Content presenter; container holder watching the room |
-| 8:16-8:20 | Block 7: Merge and shared blessing | Content presenter; container holder watching the room |
+| 8:16-8:20 | Block 7: Merge and shared blessing | Container holder leads the debrief; content presenter supporting |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
@@ -48,3 +48,9 @@ someone, what would I tell them?*
   leads hand off to an adult as needed.
 - The leads split the middle blocks at the planning lab; the Lead column
   above is the default, not the decision.
+- The merge handoff is design, not default (John, 17 September 2026): the
+  content presenter carries the split, and the container holder leads the
+  merged debrief. The criterion: anything that is important for reading the
+  room belongs to the container holder, and the after-confession practice
+  meets it. The handing back and forth also demonstrates collective action
+  and interdependence without teaching it directly — that tone is intended.
