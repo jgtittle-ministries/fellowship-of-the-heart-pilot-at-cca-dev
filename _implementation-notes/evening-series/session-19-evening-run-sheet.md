@@ -23,7 +23,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:57-7:59 | Rotation | Content presenter; container holder watching the room |
 | 7:59-8:15 | Block 6: Second teaching rep — both cards, tightened | Content presenter; container holder watching the room |
 | 8:15-8:19 | Block 7: Second pair feedback | Content presenter; container holder watching the room |
-| 8:19-8:20 | Block 8: Merge and between-session | Content presenter; container holder watching the room |
+| 8:19-8:20 | Block 8: Merge and between-session | Container holder leads the merge; content presenter supporting |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |

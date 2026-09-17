@@ -21,7 +21,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:42-7:43 | Block 5: Bridge to the pairs and pair structure | Content presenter; container holder watching the room |
 | 7:43-8:11 | Block 6: PROAPT in family pairs in pairs | Content presenter; container holder watching the room |
 | 8:11-8:17 | Block 7: Tell step — sharing in the pair | Content presenter; container holder watching the room |
-| 8:17-8:20 | Block 8: Merge and between-session | Content presenter; container holder watching the room |
+| 8:17-8:20 | Block 8: Merge and between-session | Container holder leads the merge; content presenter supporting |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |

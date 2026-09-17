@@ -19,8 +19,8 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:25-7:39 | Teaching: the seed recalled; Mark 4, the four soils, and Paul’s mixed ground (Romans 7). | Content presenter; container holder watching the room |
 | 7:39-7:40 | Transition to pairs. Move to pairs. | Content presenter; container holder watching the room |
 | 7:40-8:10 | pairs: question zero (private, journal-only), then the Heart Soil diagnostic. | Content presenter; container holder watching the room |
-| 8:10-8:11 | Re-merge. Return to single circle. | Content presenter; container holder watching the room |
-| 8:11-8:20 | Shared debrief and re-reading of Mark 4:20. | Content presenter; container holder watching the room |
+| 8:10-8:11 | Re-merge. Return to single circle. | Container holder leads the merge; content presenter supporting |
+| 8:11-8:20 | Shared debrief and re-reading of Mark 4:20. | Container holder leads the debrief; content presenter supporting |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |

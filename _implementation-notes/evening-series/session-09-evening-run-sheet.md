@@ -19,7 +19,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:25-7:40 | Block 3: Scripture and framing | Content presenter; container holder watching the room |
 | 7:40-7:42 | Block 4: Bridge into the exercise | Content presenter; container holder watching the room |
 | 7:42-8:14 | Block 5: The Garden exercise — whole room, then pairs | Content presenter; container holder watching the room |
-| 8:14-8:20 | Block 6: Merge and one-word landing | Content presenter; container holder watching the room |
+| 8:14-8:20 | Block 6: Merge and one-word landing | Container holder leads the merge; content presenter supporting |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |

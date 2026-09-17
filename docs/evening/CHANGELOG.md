@@ -76,6 +76,19 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.8 — September 17, 2026 — the merge ripple (series-wide)
+
+The Session 6 decision rippled at John’s word: every merge after a split
+practice now hands to the container holder — run sheets, leader notes,
+and deck notes across Sessions 2, 4, 7, 8, 9, 10, 11, 13, 14, and 19
+(forty edits; Session 6 led the way in v2.7). The three combined forms
+(3–4, 7–8, 9–10) already carried the design and needed nothing — the
+condensation had converged on it before the criterion was named. The
+handbook’s two-roles section now states the criterion: anything that is
+important for reading the room belongs to the container holder, and the
+content presenter hands the room over at the merge and takes it back at
+commissioning.
+
 ## v2.7 — September 17, 2026 — the merge belongs to the container holder (S6)
 
 At the merge after the confession-and-restoration split, the container

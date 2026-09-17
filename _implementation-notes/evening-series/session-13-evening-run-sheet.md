@@ -19,7 +19,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:25-7:35 | Block 3: Ephesians 2:10 and the uphill/downhill distinction | Content presenter; container holder watching the room |
 | 7:35-7:36 | Block 4: Bridge to split | Content presenter; container holder watching the room |
 | 7:36-8:18 | Block 5: Gifts and Downhill in pairs | Content presenter; container holder watching the room |
-| 8:18-8:20 | Block 6: Merge and surface | Content presenter; container holder watching the room |
+| 8:18-8:20 | Block 6: Merge and surface | Container holder leads the merge; content presenter supporting |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |

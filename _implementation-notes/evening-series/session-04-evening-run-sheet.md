@@ -19,7 +19,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:25-7:31 | Block 3: Psalm 139 — being known, again | Content presenter; container holder watching the room |
 | 7:31-7:32 | Block 4: Bridge to the split | Content presenter; container holder watching the room |
 | 7:32-8:16 | Block 5: Stories in pairs | Content presenter; container holder watching the room |
-| 8:16-8:20 | Block 6: Merge and one-word landing | Content presenter; container holder watching the room |
+| 8:16-8:20 | Block 6: Merge and one-word landing | Container holder leads the merge; content presenter supporting |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
