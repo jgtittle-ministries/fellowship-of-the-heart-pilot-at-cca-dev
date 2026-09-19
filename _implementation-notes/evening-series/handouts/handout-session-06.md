@@ -25,6 +25,12 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 The Five-Minute Examen each evening — carried through the quarter break that follows tonight. Plus: the Quarterly Pulse ([H6.3](#handout-h6-3)) goes home tonight, the first of the year's three — one page, five minutes, back in the bin at the Week 7 door. And the round’s three questions go home with everyone, on no paper — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
 
+**The Five-Minute Examen — how to do it.** Five minutes with God each evening, before bed:
+
+1. Thank Him for one specific thing from the day.
+2. Notice one place where you saw God moving.
+3. Ask Him about one place where you walked in less honesty than you wanted to today — just notice. No fixing; the Spirit does the work.
+
 ## 2. The end-of-week-one check-in
 
 My check-in partner for this cycle is: **______________________**
