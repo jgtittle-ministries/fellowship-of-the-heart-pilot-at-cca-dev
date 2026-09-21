@@ -42,7 +42,7 @@ for path in sorted(glob.glob(SRC + "/*")):
             count += 1
             break
 
-for path in sorted(glob.glob(SRC + "/handouts/*.docx")):
+for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Homework Handout Template*.docx")):
     base = os.path.basename(path)
     m = re.match(r"FotH Pilot Session (\d+) Homework Handout DRAFT v1\.docx$", base)
     if m:
