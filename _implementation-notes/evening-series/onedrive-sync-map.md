@@ -1,4 +1,8 @@
-# OneDrive Sync Map — of record (2026-09-16 filing migration)
+# OneDrive Sync Map — of record (2026-09-16 filing migration; folder renamed 2026-09-21)
+
+2026-09-21, John's word: the evening folder “Evenings at Home” was renamed
+“Evening, two weeks, pilot” so the version's distinctives are visible in the
+tree; Print for Tuesday shortcuts rebuilt against the new path.
 
 John's OneDrive tree was restructured on 2026-09-16 (his design: the Book as
 integrating center, IJH umbrella, FotH/CPR implementations; Word/PPT only).
@@ -12,11 +16,11 @@ Base: `C:\Users\jgtit\OneDrive\Documents\Intentional Journey of the Heart\`
 
 | Repo file (unchanged) | OneDrive destination |
 |---|---|
-| `FotH Evening Session {S} Slides DRAFT v1.pptx` | `Fellowship of the Heart\Evenings at Home\Slides\Session {S} — Slides.pptx` |
-| `FotH Pilot Session {S} Evening Run Sheet DRAFT v1.docx` | `…\Evenings at Home\Run Sheets\Session {S} — Run Sheet.docx` |
-| `FotH Evening Session {S} Leader Notes DRAFT v1.docx` | `…\Evenings at Home\Leader Notes\Session {S} — Leader Notes.docx` |
-| `handouts\FotH Pilot Session {N} Homework Handout DRAFT v1.docx` | `…\Evenings at Home\Take-Home Sheets\Session {N} — Take-Home.docx` |
-| `slide-numbering-map.md` | `…\Evenings at Home\Slide Numbering Map.docx` (Word rendition — rebuild on change) |
+| `FotH Evening Session {S} Slides DRAFT v1.pptx` | `Fellowship of the Heart\Evening, two weeks, pilot\Slides\Session {S} — Slides.pptx` |
+| `FotH Pilot Session {S} Evening Run Sheet DRAFT v1.docx` | `…\Evening, two weeks, pilot\Run Sheets\Session {S} — Run Sheet.docx` |
+| `FotH Evening Session {S} Leader Notes DRAFT v1.docx` | `…\Evening, two weeks, pilot\Leader Notes\Session {S} — Leader Notes.docx` |
+| `handouts\FotH Pilot Session {N} Homework Handout DRAFT v1.docx` | `…\Evening, two weeks, pilot\Take-Home Sheets\Session {N} — Take-Home.docx` |
+| `slide-numbering-map.md` | `…\Evening, two weeks, pilot\Slide Numbering Map.docx` (Word rendition — rebuild on change) |
 
 `{S}` includes the combined forms (`3-4 Combined`, `7-8 Combined`,
 `9-10 Combined`). Repo filenames did NOT change — only the OneDrive side.
@@ -32,7 +36,7 @@ Base: `C:\Users\jgtit\OneDrive\Documents\Intentional Journey of the Heart\`
 
 - **Superseded copies** go to `Archive and Reference\Superseded {YYYY-MM-DD}\`, never deleted.
 - **No .md in John's tree** (exception: the PLP log). Render Word for anything he needs to read.
-- **Print for Tuesday** (`…\Evenings at Home\Print for Tuesday\`) holds Windows
+- **Print for Tuesday** (`…\Evening, two weeks, pilot\Print for Tuesday\`) holds Windows
   shortcuts to the next evening's four artifacts — refresh after each session's
   debrief (currently pointing at Session 6, for 2026-09-29).
 - `WHERE THINGS LIVE.docx` at the tree root is the John-facing map — keep it

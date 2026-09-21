@@ -16,7 +16,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 SRC = r"_implementation-notes/evening-series"
 EAH = (r"C:\Users\jgtit\OneDrive\Documents\Intentional Journey of the Heart"
-       r"\Fellowship of the Heart\Evenings at Home")
+       r"\Fellowship of the Heart\Evening, two weeks, pilot")
 
 RULES = [
     (r"FotH Evening Session (.+?) Slides DRAFT v1\.pptx$",
@@ -54,4 +54,4 @@ for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Home
     shutil.copy2(path, dst)
     count += 1
 
-print("synced %d artifacts to Evenings at Home" % count)
+print("synced %d artifacts to Evening, two weeks, pilot" % count)
