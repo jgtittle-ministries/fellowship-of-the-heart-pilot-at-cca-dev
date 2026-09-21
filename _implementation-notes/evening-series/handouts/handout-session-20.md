@@ -21,7 +21,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 *A missed box is never a failure — it is an invitation to return.*
 
-## 1. The practice — week one
+## 1. The homework practice — week one
 
 Complete the Post-Series Survey (H20.1) — back in the bin at the Week 21 door. And one small errand that is really a teaching: find both mercy cards at home — the Signs Card and the Path Home Card — and show one other family member where they live.
 
@@ -34,7 +34,7 @@ At the end of week one, connect with your partner and report how it's going
 against the practice. A text, a call, or a hallway conversation all count.
 You are not grading each other; you are expecting each other. **Done:** ☐
 
-## 3. The practice — week two
+## 3. The homework practice — week two
 
 Continue or deepen the same practice, as the session specifies; journal
 what happens.

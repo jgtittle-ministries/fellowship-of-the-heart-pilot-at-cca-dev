@@ -27,11 +27,11 @@ team tunes the minutes and the leads at the planning lab before this session.**
 
 ## The homework handout (Session 10, two weeks)
 
-1. **The practice, week one.** Keep the garden rhythm — two returns this week, 5–10 minutes each. Journal each visit.
+1. **The homework practice, week one.** Keep the garden rhythm — two returns this week, 5–10 minutes each. Journal each visit.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
-3. **The practice, week two.** Continue or deepen the same practice, as the
+3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
 4. **One sentence of preparation.** Set at commissioning from the session's
    materials.

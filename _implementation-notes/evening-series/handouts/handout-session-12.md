@@ -21,7 +21,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 *A missed box is never a failure — it is an invitation to return.*
 
-## 1. The practice — week one
+## 1. The homework practice — week one
 
 Restart (or continue) one daily practice — just one — chosen tonight and written in the journal. Not the whole rhythm. One.
 
@@ -34,7 +34,7 @@ At the end of week one, connect with your partner and report how it's going
 against the practice. A text, a call, or a hallway conversation all count.
 You are not grading each other; you are expecting each other. **Done:** ☐
 
-## 3. The practice — week two
+## 3. The homework practice — week two
 
 Continue or deepen the same practice, as the session specifies; journal
 what happens.

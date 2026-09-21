@@ -26,11 +26,11 @@ team tunes the minutes and the leads at the planning lab before this session.**
 
 ## The homework handout (Session 18, two weeks)
 
-1. **The practice, week one.** Continue the rhythm as built — no restart language needed this time; the returning rule covers whatever slipped. And a gentle, unaudited word to the parents: the Four Questions door (commissioned at Week 15, willing-only always) is still open for any parent who has not yet found their moment.
+1. **The homework practice, week one.** Continue the rhythm as built — no restart language needed this time; the returning rule covers whatever slipped. And a gentle, unaudited word to the parents: the Four Questions door (commissioned at Week 15, willing-only always) is still open for any parent who has not yet found their moment.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
-3. **The practice, week two.** Continue or deepen the same practice, as the
+3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
 4. **One sentence of preparation.** Set at commissioning from the session's
    materials.

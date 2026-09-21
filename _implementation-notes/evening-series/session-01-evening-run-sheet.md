@@ -57,14 +57,14 @@ anything longer flow into the 8:30 window.*
 
 ## The homework handout (Session 1, two weeks)
 
-1. **The practice, week one.** The two standing daily questions. Each
+1. **The homework practice, week one.** The two standing daily questions. Each
    morning, five minutes: "Lord, what are you up to today, and what do you
    want me to notice?" Each evening, one journal line: "What did I notice
    today?"
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice. A text, a call, or a hallway conversation all count.
-3. **The practice, week two.** Keep the morning and evening questions, and
+3. **The homework practice, week two.** Keep the morning and evening questions, and
    add the abundance question: read John 10:10b once and ask, where is
    abundance in my life right now, and where isn't it? Watch for one
    specific moment worth telling the circle about.

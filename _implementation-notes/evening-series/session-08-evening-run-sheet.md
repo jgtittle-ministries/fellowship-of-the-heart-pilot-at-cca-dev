@@ -29,11 +29,11 @@ team tunes the minutes and the leads at the planning lab before this session.**
 
 ## The homework handout (Session 8, two weeks)
 
-1. **The practice, week one.** Daily PROAPT continues (the journal Week 7–8 pages).
+1. **The homework practice, week one.** Daily PROAPT continues (the journal Week 7–8 pages).
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
-3. **The practice, week two.** Continue or deepen the same practice, as the
+3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
 4. **One sentence of preparation.** Set at commissioning from the session's
    materials.

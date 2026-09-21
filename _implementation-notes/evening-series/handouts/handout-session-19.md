@@ -21,7 +21,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 *A missed box is never a failure — it is an invitation to return.*
 
-## 1. The practice — week one
+## 1. The homework practice — week one
 
 Both cards go home tonight, one set per participant folder. Each family finds them this week and puts them somewhere findable — a drawer everyone knows, the inside of a cabinet door, the family Bible. The point of these two cards is that they gather dust in a known location, because the person who eventually needs them will not be in a room like this when they do.
 
@@ -34,7 +34,7 @@ At the end of week one, connect with your partner and report how it's going
 against the practice. A text, a call, or a hallway conversation all count.
 You are not grading each other; you are expecting each other. **Done:** ☐
 
-## 3. The practice — week two
+## 3. The homework practice — week two
 
 Continue or deepen the same practice, as the session specifies; journal
 what happens.

@@ -30,11 +30,11 @@ team tunes the minutes and the leads at the planning lab before this session.**
 
 ## The homework handout (Session 22, two weeks)
 
-1. **The practice, week one.** For the new FC1s: the Leader Lab rhythm begins — bring one vital-signs observation from tonight's room to Lab 1 of the serving cycle. For everyone: the Rhythm Card and the Going Deeper interlude practices.
+1. **The homework practice, week one.** For the new FC1s: the Leader Lab rhythm begins — bring one vital-signs observation from tonight's room to Lab 1 of the serving cycle. For everyone: the Rhythm Card and the Going Deeper interlude practices.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
-3. **The practice, week two.** Continue or deepen the same practice, as the
+3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
 4. **One sentence of preparation.** Set at commissioning from the session's
    materials.

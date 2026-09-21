@@ -21,7 +21,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 *A missed box is never a failure — it is an invitation to return.*
 
-## 1. The practice — week one
+## 1. The homework practice — week one
 
 Personal Doubts Inventory — one page in the journal listing scriptures I want to believe more than I currently do. No shame. Just data. Over the quarter break, one chosen daily practice carries the rhythm. And the Quarterly Pulse (H11.4) goes home tonight — one page, five minutes, back in the bin at The Return’s door in January.
 
@@ -34,7 +34,7 @@ At the end of week one, connect with your partner and report how it's going
 against the practice. A text, a call, or a hallway conversation all count.
 You are not grading each other; you are expecting each other. **Done:** ☐
 
-## 3. The practice — week two
+## 3. The homework practice — week two
 
 Continue or deepen the same practice, as the session specifies; journal
 what happens.

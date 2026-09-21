@@ -27,11 +27,11 @@ team tunes the minutes and the leads at the planning lab before this session.**
 
 ## The homework handout (Session 3, two weeks)
 
-1. **The practice, week one.** The Joint Footprints exercise: each parent and teen pair sits together once this week and walks each other through the footprints question. Twenty minutes total.
+1. **The homework practice, week one.** The Joint Footprints exercise: each parent and teen pair sits together once this week and walks each other through the footprints question. Twenty minutes total.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
-3. **The practice, week two.** Continue or deepen the same practice, as the
+3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
 4. **One sentence of preparation.** Set at commissioning from the session's
    materials.

@@ -2,7 +2,7 @@
 
 ---
 
-## 1. The practice — week one
+## 1. The homework practice — week one
 
 The two standing daily questions. Each morning, five minutes: "Lord, what
 are you up to today, and what do you want me to notice?" Each evening, one
@@ -23,7 +23,7 @@ At the end of week one, connect with your partner and report how it's going
 against the practice. A text, a call, or a hallway conversation all count.
 You are not grading each other; you are expecting each other. **Done:** ☐
 
-## 3. The practice — week two
+## 3. The homework practice — week two
 
 Keep the morning and evening questions, and add the abundance question:
 read John 10:10b once and ask, where is abundance in my life right now, and

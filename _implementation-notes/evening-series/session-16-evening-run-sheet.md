@@ -28,11 +28,11 @@ team tunes the minutes and the leads at the planning lab before this session.**
 
 ## The homework handout (Session 16, two weeks)
 
-1. **The practice, week one.** Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at next Wednesday’s door. And keep the rhythm: the card you built in Week 15 is still the assignment.
+1. **The homework practice, week one.** Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at next Wednesday’s door. And keep the rhythm: the card you built in Week 15 is still the assignment.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
-3. **The practice, week two.** Continue or deepen the same practice, as the
+3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
 4. **One sentence of preparation.** Set at commissioning from the session's
    materials.

@@ -21,7 +21,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 *A missed box is never a failure — it is an invitation to return.*
 
-## 1. The practice — week one
+## 1. The homework practice — week one
 
 Continue the rhythm as built — no restart language needed this time; the returning rule covers whatever slipped. And a gentle, unaudited word to the parents: the Four Questions door (commissioned at Week 15, willing-only always) is still open for any parent who has not yet found their moment.
 
@@ -34,7 +34,7 @@ At the end of week one, connect with your partner and report how it's going
 against the practice. A text, a call, or a hallway conversation all count.
 You are not grading each other; you are expecting each other. **Done:** ☐
 
-## 3. The practice — week two
+## 3. The homework practice — week two
 
 Continue or deepen the same practice, as the session specifies; journal
 what happens.

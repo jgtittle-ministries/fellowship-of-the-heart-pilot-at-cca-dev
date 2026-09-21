@@ -28,11 +28,11 @@ team tunes the minutes and the leads at the planning lab before this session.**
 
 ## The homework handout (Session 15, two weeks)
 
-1. **The practice, week one.** For the willing: the parent asks their teen the four questions at home — unhurried, no audience, phone away — and receives the answers without defending. Married parents are encouraged to also ask their spouse, separately. And everyone runs the Rhythm Card as built, for real, across the break, noting in the journal where it held and where it slipped.
+1. **The homework practice, week one.** For the willing: the parent asks their teen the four questions at home — unhurried, no audience, phone away — and receives the answers without defending. Married parents are encouraged to also ask their spouse, separately. And everyone runs the Rhythm Card as built, for real, across the break, noting in the journal where it held and where it slipped.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
-3. **The practice, week two.** Continue or deepen the same practice, as the
+3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
 4. **One sentence of preparation.** Set at commissioning from the session's
    materials.

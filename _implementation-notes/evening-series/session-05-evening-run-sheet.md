@@ -44,13 +44,13 @@ not, in our actual friendships?
 
 ## The homework handout (Session 5, two weeks)
 
-1. **The practice, week one.** Pick one friendship in your life. Pick one of
+1. **The homework practice, week one.** Pick one friendship in your life. Pick one of
    the four conditions. Practice it in that friendship more intentionally
    than usual. Journal what happens.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
-3. **The practice, week two.** Same friendship, second condition — or the
+3. **The homework practice, week two.** Same friendship, second condition — or the
    same condition, deeper, if the first week opened something. Journal what
    happens.
 4. **One sentence of preparation.** Before we meet, finish this sentence in
