@@ -69,5 +69,9 @@ not to turn the room clinical.
 5. **Council** — does this brief, or its one-page result, go in the Oct 11
    packet?
 
-**Timeline:** words settled before the Week 7 self-read (~10/13); Council
-packet cut by Oct 11 if wanted.
+**Timeline — revised at John's word (2026-09-21):** the room-facing
+conversation is too early for this group now. Target placement: around
+Session 17 (currently the makeup/cover slot), before the
+Companion-in-Formation commissioning process. The Week 7 self-read runs on
+its existing frame ("the round the room already knows, grown one size") and
+needs no new words. Council packet inclusion remains John's call.
