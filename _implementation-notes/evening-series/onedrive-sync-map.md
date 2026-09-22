@@ -27,7 +27,10 @@ Base: `C:\Users\jgtit\OneDrive\Documents\Intentional Journey of the Heart\`
 
 ## Other standing destinations
 
-- Church-authority briefing head → `Fellowship of the Heart\CCA Pilot\Church Authority Briefing.docx`
+- Church-authority briefing head → `Fellowship of the Heart\Church Authority Briefing.docx`
+  (moved to the FotH level 2026-09-22 at John's word — the briefing spans every
+  possible form of the FotH, not the CCA form alone; the Second Edition draft
+  sits beside it)
 - CCA/Dave deliverables → `Fellowship of the Heart\CCA Pilot\` (names kept as shared)
 - Book/article heads (Word) → `The Book - Before the Rain\…` (see WHERE THINGS LIVE.docx at tree root)
 - Council Word renditions → `Council\Toward {YYYY-MM-DD}\` / `Council\The Log and Agenda\`
