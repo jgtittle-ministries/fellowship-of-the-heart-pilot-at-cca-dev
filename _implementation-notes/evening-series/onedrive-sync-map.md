@@ -42,6 +42,9 @@ Base: `C:\Users\jgtit\OneDrive\Documents\Intentional Journey of the Heart\`
 - **No .md in John's tree** (exception: the PLP log). Render Word for anything he needs to read.
 - **Print for Tuesday** (`…\Evening, two weeks, pilot\Print for Tuesday\`) holds Windows
   shortcuts to the next evening's artifacts — the set varies by session — refresh after each session's
-  debrief (currently Session 6, for 2026-09-29: slides, run sheet, leader notes, take-home, The Road So Far, and the 29 September overlay).
+  debrief (currently Session 6, moved to Wednesday 2026-10-07: slides, run sheet, leader notes, take-home, The Road So Far, and the 7 October overlay).
+- **The FotH Evening front page** (`docs/evening/index.md`) is refreshed at the same
+  debrief: *Where we are*, the road table's statuses and dates, and the
+  “last updated” line. Then mirror to prod.
 - `WHERE THINGS LIVE.docx` at the tree root is the John-facing map — keep it
   true whenever destinations change.
