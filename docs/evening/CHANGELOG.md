@@ -90,7 +90,8 @@ written for the reader, with a missed-day line. New artifact (md record
 `handout-session-07-proapt.md` + Word rendition), a sync rule (it lands as
 “Session 7 — PROAPT, What Each Step Is For” beside the take-home), and a
 sync-map row for the companion pages (The Road So Far had none). The
-Session 7 take-home sheet itself is unchanged.
+Session 7 take-home gains one pointer in its first item: the second page
+with this sheet explains each step and why the order matters.
 
 ## v2.16 — October 2, 2026 — PROAPT: the why behind each step (S7–8)
 
