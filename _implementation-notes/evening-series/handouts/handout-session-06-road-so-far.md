@@ -1,6 +1,6 @@
 # Take-Home Sheet — Session 6: The Road So Far
 
-*One quarter, five evenings, one road. A one-page memory of where we have
+*One quarter, four evenings, one road. A one-page memory of where we have
 walked, to help with tonight's questions when they come home with you.*
 
 ## Session 1 — Welcome to the Journey
