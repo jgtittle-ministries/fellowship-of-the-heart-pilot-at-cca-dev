@@ -41,8 +41,19 @@ export const TITLE_OVERRIDES = {
   'shared/keeping-the-flame.md': 'Keeping the Flame',
   'shared/companions-and-coverings.md': 'Companions and Coverings',
   'shared/weekly-run-card.md': 'Weekly Run Card',
-  'getting-started/cca-2026-27-calendar.md': 'The CCA 2026-27 Dates'
+  'getting-started/cca-2026-27-calendar.md': 'The CCA 2026-27 Dates',
+  'cca/index.md': 'The CCA Pilot',
+  'adult/index.md': 'Adult FotH',
+  'adult/start-here.md': 'Start here — the adult year',
+  'adult/leadership-year-handbook.md': 'Leadership Year Handbook',
+  'adult/adult-register-key.md': 'Adult Register Key'
 };
+// The adult sequence (docs/adult/) repeats the three series' irregular files.
+for (const k of Object.keys(TITLE_OVERRIDES)) {
+  if (/^(getting-started|going-deeper|going-out)\//.test(k) && !k.includes('cca-2026')) {
+    TITLE_OVERRIDES['adult/' + k] = TITLE_OVERRIDES[k];
+  }
+}
 
 const SMALL = new Set(['a','an','and','the','of','to','in','on','for','at','by','or','as','is','it']);
 const titleCase = (s) => s.toLowerCase().split(/\s+/).map((w, i) =>

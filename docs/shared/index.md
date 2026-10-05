@@ -1,6 +1,6 @@
 # Shared participant materials
 
-The participant-facing artifacts used across all three Fellowship of the Heart series. Unlike the Companion Lesson Plans (which the team holds during a session), these materials live with the participant — in their journal, on the refrigerator, on the dinner table, in their pocket.
+The participant-facing artifacts used across every expression of Fellowship of the Heart: the Evening, the CCA pilot, and the adult sequence. (For the adult year, read them through the [Adult Register Key](../adult/adult-register-key.md): in places they still speak in the family edition's register.) Unlike the Companion Lesson Plans (which the team holds during a session), these materials live with the participant — in their journal, on the refrigerator, on the dinner table, in their pocket.
 
 ---
 
