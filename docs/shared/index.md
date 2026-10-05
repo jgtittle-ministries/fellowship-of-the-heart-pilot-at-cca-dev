@@ -14,6 +14,8 @@ The participant-facing artifacts used across every expression of Fellowship of t
 
 - [**PROAPT Card**](proapt-card.md) — the six-step hearing-in-scripture practice (Pray, Read, Observe, Apply, Pray again, Tell). Introduced in Getting Started Week 7 and carried daily through the rest of the curriculum.
 
+- [**PROAPT — What Each Step Is For**](proapt-what-each-step-is-for.md) — the companion to the card: why the order protects the hearing (what the passage *says* before what it *means*), each step's reason, and what happens if it is skipped. Learned in the FotH Evening, October 2026.
+
 - [**Reading List**](reading-list.md) — an annotated guide for parents, teens, and the curious. Curated from the IJH Volume 5 References for the Fellowship of the Heart audience.
 
 - [**Signs Card**](signs-card.md) — for the dry season. Four kinds of dry, the one question that sorts them (*which way does the desire point?*), and the first step for each — so no one in this fellowship ever misreads a dry season as a verdict.

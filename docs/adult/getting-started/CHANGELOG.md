@@ -2,6 +2,10 @@
 
 *Fellowship of the Heart — Series 1 of 3*
 
+# October 2026 — From the FotH Evening (the year-wide retrofit)
+
+At John's word, the first season of the teen-led [FotH Evening](../../evening/index.md) is folded into the adult year. The year-wide changes live in the [Leadership Year Handbook](../leadership-year-handbook.md): two leaders with two charges, the container holder and the content presenter, with separation recommended even where an adult room may merge them (§4); the pair practices together beforehand (§4); the map at every opening (§3); fitting the year to the room, with room size deciding where second runnings fold and safety never condensing (§2); a named check-in partner between sessions (§2); the self-read is about the group, never any one person (§5); the first years are a pilot of the curriculum and its leaders, not a measured experiment (§1); the PROAPT order and a where-we-are page (§9). In this series, **Week 7 (PROAPT I)** now teaches Observe in two layers, data first and then interpretation (table, script, and handout), and points to the shared [PROAPT — What Each Step Is For](../../shared/proapt-what-each-step-is-for.md).
+
 # August 2026 — The practice holds (adult edition)
 
 The adult edition gains its 5/5/5 rhythm: two-week practice holds after Week 5 and Week 10, each placed where a practice was just commissioned (the one-friendship-one-condition practice; the garden rhythm), each with a re-entry that opens on what held. The break is the series' most honest instrument: what continues when no meeting is holding you is what has been formed.

@@ -830,6 +830,10 @@ window.SERIES = [
         "title": "PROAPT Card"
       },
       {
+        "path": "docs/shared/proapt-what-each-step-is-for.md",
+        "title": "PROAPT — What Each Step Is For"
+      },
+      {
         "path": "docs/shared/reading-list.md",
         "title": "Reading List"
       },
@@ -2165,6 +2169,14 @@ window.PATH_TO_INFO = {
     "title": "PROAPT Card",
     "indexPath": "docs/shared/index.md",
     "prev": "docs/shared/personal-heart-journal.md",
+    "next": "docs/shared/proapt-what-each-step-is-for.md"
+  },
+  "docs/shared/proapt-what-each-step-is-for.md": {
+    "seriesId": "shared",
+    "seriesName": "Shared materials",
+    "title": "PROAPT — What Each Step Is For",
+    "indexPath": "docs/shared/index.md",
+    "prev": "docs/shared/proapt-card.md",
     "next": "docs/shared/reading-list.md"
   },
   "docs/shared/reading-list.md": {
@@ -2172,7 +2184,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Shared materials",
     "title": "Reading List",
     "indexPath": "docs/shared/index.md",
-    "prev": "docs/shared/proapt-card.md",
+    "prev": "docs/shared/proapt-what-each-step-is-for.md",
     "next": "docs/shared/rhythm-card.md"
   },
   "docs/shared/rhythm-card.md": {

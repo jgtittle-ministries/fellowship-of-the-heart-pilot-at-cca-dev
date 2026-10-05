@@ -30,6 +30,7 @@ export const TITLE_OVERRIDES = {
   'shared/family-conversation-cards.md': 'Family Conversation Cards',
   'shared/personal-heart-journal.md': 'Personal Heart Journal',
   'shared/proapt-card.md': 'PROAPT Card',
+  'shared/proapt-what-each-step-is-for.md': 'PROAPT — What Each Step Is For',
   'shared/reading-list.md': 'Reading List',
   'shared/rhythm-card.md': 'Rhythm Card',
   'shared/interrogating-reality-card.md': 'Interrogating Reality Card',
