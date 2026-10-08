@@ -23,7 +23,11 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-PROAPT one short passage per day for the next week. The Personal Heart Journal Week 7–8 pages have a daily PROAPT template. The second page with this sheet, *PROAPT, What Each Step Is For*, explains each step and why the order matters.
+PROAPT one short passage per day for the next week. The Personal Heart Journal Week 7–8 pages have a daily PROAPT template. The second page with this sheet, *PROAPT, What Each Step Is For*, explains each step and why the order matters. One box per day.
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 2. The end-of-week-one check-in
 
@@ -37,7 +41,11 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 ## 3. The homework practice — week two
 
 Continue or deepen the same practice, as the session specifies; journal
-what happens.
+what happens. One box per day.
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 
