@@ -143,6 +143,22 @@ def build(deck):
     run(para(d, after=4), "FotH Evening · the speaker notes, in hand — so the leading pair reads the room, not the "
         "screen. The big number on each block is the number in the corner of the screen; the colour is whose "
         "block it is. Built from the deck's own notes, so the two always agree.", 9, None, GREY)
+    slides = list(Presentation(deck).slides)
+    nums = [slide_info(x)[0] for x in slides]
+    rest = nums[1:]
+    letter = rest[0][0] if rest and rest[0][:1].isalpha() else ""
+    np_ = para(d, after=4)
+    run(np_, "Reading the numbers. ", 9, True, GREEN)
+    if letter:
+        run(np_, f"Match the big number on each block to the number in the bottom-right corner of the screen. This is "
+            f"a combined evening, so its slides are numbered with a letter: {rest[0]}–{rest[-1]}. The letter keeps "
+            f"this deck outside the series' one continuous numbering; the separate two-evening versions of these "
+            f"sessions, held in reserve, keep the plain series numbers. The first slide, the series title, is "
+            f"“Title” here.", 9, None, GREY)
+    else:
+        run(np_, f"Match the big number on each block to the number in the bottom-right corner of the screen. This "
+            f"session is {rest[0]}–{rest[-1]} in the series' one continuous numbering. The first slide, the series "
+            f"title, is “Title” here.", 9, None, GREY)
     lp = para(d, after=10)
     for key in ("CH", "CP", "BOTH"):
         label, colour, fill, style = ROLES[key]
@@ -151,7 +167,6 @@ def build(deck):
         run(lp, "   ", 9)
     run(lp, "Bar styles differ too, so the roles still read in black and white.", 8, None, "7F7F7F", italic=True)
 
-    slides = list(Presentation(deck).slides)
     untagged = []
     for k, s in enumerate(slides):
         num, title, lines = slide_info(s)
