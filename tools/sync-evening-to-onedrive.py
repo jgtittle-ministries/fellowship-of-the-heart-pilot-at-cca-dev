@@ -28,6 +28,18 @@ RULES = [
 ]
 
 count = 0
+skipped = []
+
+
+def copy(path, dst):
+    """Copy, but skip a destination that is open in Word or PowerPoint (reported at the end)."""
+    global count
+    try:
+        shutil.copy2(path, dst)
+        count += 1
+    except PermissionError:
+        skipped.append(dst)
+
 for path in sorted(glob.glob(SRC + "/*")):
     base = os.path.basename(path)
     for pat, sub, fmt in RULES:
@@ -38,8 +50,7 @@ for path in sorted(glob.glob(SRC + "/*")):
                 key += " Combined"
             dst = os.path.join(EAH, sub, fmt.format(key))
             os.makedirs(os.path.dirname(dst), exist_ok=True)
-            shutil.copy2(path, dst)
-            count += 1
+            copy(path, dst)
             break
 
 for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Homework Handout Template*.docx")):
@@ -60,7 +71,8 @@ for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Home
         dst = os.path.join(EAH, "Take-Home Sheets", "Take-Home Template.docx")
     else:
         continue
-    shutil.copy2(path, dst)
-    count += 1
+    copy(path, dst)
 
 print("synced %d artifacts to Evening, two weeks, pilot" % count)
+for dst in skipped:
+    print("SKIPPED (open in another program; close it and rerun):", dst)
