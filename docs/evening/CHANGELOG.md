@@ -76,6 +76,18 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.27 — October 8, 2026 — day boxes wherever the homework is daily
+
+The day boxes added to Session 7's take-home are helping, so at John's
+word they go wherever the homework practice is itself daily: Session 6
+(the Five-Minute Examen each evening), Session 8 (daily PROAPT continues),
+Session 12 (one daily practice, restarted) and Session 14 (the daily
+rhythm). Each now has a box for every day of week one and week two under
+its homework practice, not only under the standing practice. Every sheet
+is still one page, and each deck's "Four Parts" slide shows the new
+sheet. Session 1 already had them; sessions whose practice is a few times
+a week, not daily, are unchanged.
+
 ## v2.26 — October 8, 2026 — Sessions 7–8: pairs always, a timekeeper, a Pair Card, day boxes
 
 John's review of the combined deck, ahead of October 13:

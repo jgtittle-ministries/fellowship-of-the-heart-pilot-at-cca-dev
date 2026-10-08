@@ -23,13 +23,17 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-The Five-Minute Examen each evening — carried through the two weeks. And the round’s three questions go home with everyone, printed on The Road So Far — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
+The Five-Minute Examen each evening — carried through the two weeks. The three questions about the group are on The Road So Far.
 
-**The Five-Minute Examen — how to do it.** Five minutes with God each evening, before bed:
+**The Five-Minute Examen — how to do it.** Five minutes with God each evening, before bed — one box per day:
 
 1. Thank Him for one specific thing from the day.
 2. Notice one place where you saw God moving.
 3. Ask Him about one place where you walked in less honesty than you wanted to today — just notice. No fixing; the Spirit does the work.
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 2. The end-of-week-one check-in
 
@@ -43,7 +47,11 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 ## 3. The homework practice — week two
 
 Continue or deepen the same practice, as the session specifies; journal
-what happens.
+what happens. One box per day.
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 

@@ -25,6 +25,12 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 Daily PROAPT continues (the journal Week 7–8 pages).
 
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
 ## 2. The end-of-week-one check-in
 
 My check-in partner for this cycle is: **______________________**
@@ -38,6 +44,12 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 Continue or deepen the same practice, as the session specifies; journal
 what happens.
+
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 

@@ -25,6 +25,12 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 Continue the daily rhythm — the morning question, the evening journal note, PROAPT one short passage. And each family pair finishes at home anything the evening opened: the passage’s Tell said again at the table (Option 1), or one more card pulled during the week (Option 2).
 
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+
 ## 2. The end-of-week-one check-in
 
 My check-in partner for this cycle is: **______________________**
@@ -38,6 +44,12 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 Continue or deepen the same practice, as the session specifies; journal
 what happens.
+
+*One box per day.*
+
+| M | Tu | W | Th | F | Sa | Su |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
 ## 4. One sentence of preparation
 
