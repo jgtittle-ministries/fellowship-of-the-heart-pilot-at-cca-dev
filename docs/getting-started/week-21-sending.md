@@ -229,6 +229,8 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from familie
 
 *“The form is short on purpose. The brevity is the discipline. We are not making speeches; we are speaking truth in front of witnesses.”*
 
+*“And when it’s your turn: eyes on the person, not the page or the screen. The worksheet did its work in the writing; now say what is on your heart for them, specific and short.”*
+
 ## Demo (3 min)
 
 *Two Companions (lead and Co-Companion, or two Cluster Companions) demo a real, specific, brief blessing over each other in front of the room. The blessing should be honest, specific, brief — not theatrical.*
@@ -277,9 +279,9 @@ This is the heart of the night. Each family in turn. The Lead Companion calls fa
 
 **2. Brief framing. Lead Companion speaks one sentence about each family member that has been part of the program: ‘We have walked with [name] through Getting Started; we have seen \_\_\_\_\_.’ 30–60 seconds total.**
 
-**3. Teen blessing of parent first. (Going second is harder for teens; let them go first.) The teen reads or speaks their three-sentence blessing over their parent. ≈ 60–90 seconds.**
+**3. Teen blessing of parent first. (Going second is harder for teens; let them go first.) The teen speaks their three-sentence blessing over their parent — eyes on the parent, not the page or the screen; say what is on your heart for them, specific and short. ≈ 60–90 seconds.**
 
-**4. Parent blessing of teen. The parent reads or speaks their three-sentence blessing over their teen. ≈ 60–90 seconds.**
+**4. Parent blessing of teen. The parent speaks their three-sentence blessing over their teen — eyes on the teen, not the page or the screen; say what is on your heart for them, specific and short. ≈ 60–90 seconds.**
 
 **5. Community blessing. Lead Companion: ‘Family of [last name], the community now blesses you.’ The whole room speaks the Aaronic blessing aloud together, slowly. Parents and teens may extend hands; some families hold each other.**
 
@@ -461,7 +463,7 @@ Five handouts for Week 21. H21.1 is distributed to families one week before; the
 
 *Sent to families the Friday before Week 21*
 
-*Each parent and each teen prepares a three-sentence blessing for the other before Wednesday. Use this worksheet. Bring it back Wednesday — you may read from it during the commissioning.*
+*Each parent and each teen prepares a three-sentence blessing for the other before Wednesday. Use this worksheet. Bring it back Wednesday. It is a scaffold, not a script: when the moment comes, eyes on the person, not the page or the screen — say what is on your heart for them, specific and short. (If you freeze, the page is there — see the last note below.)*
 
 ## **Parent: writing your blessing for your teen**
 
@@ -515,7 +517,7 @@ Teen: write your sentences below.
 
 - Three sentences. Brevity is the discipline. The form is short on purpose.
 - Specific. “You are amazing” is not specific. The third version of your specific is usually the right one.
-- You will read this aloud Wednesday in front of the room. That is supposed to be hard. The hardness is part of why it works.
+- You will speak this aloud Wednesday in front of the room. That is supposed to be hard. The hardness is part of why it works.
 - If you cry, that is fine. Take your time. The room can wait.
 - If you freeze and cannot speak — ask the other person to read your worksheet for you, or ask the Lead Companion to. Nothing about the night requires public oratory; it requires honest specificity.
 
