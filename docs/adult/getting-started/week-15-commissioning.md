@@ -86,7 +86,7 @@ All four. Self: the cohort's own formation is real and named — you cannot lead
 
 ## **Personal pre-work**
 
-Each member writes, this week, a specific witnessed blessing for the two members they are assigned — one to three sentences each, drawn from what they actually saw them carry across the year. Not "you did great." What, specifically. The night she re-established the container when the circle got loud. The way he handed the heavy moment across in Week 10 without hesitation and without drama — the rule working in the wild. Write it down; you will speak it in Block 6 — to them, eyes on the person, not the page. The writing is the preparation, not the script.
+Each member writes, this week, a specific witnessed blessing for the two members they are assigned — one to three sentences each, drawn from what they actually saw them carry across the year. Not "you did great." What, specifically. The night she re-established the container when the circle got loud. The way he handed the heavy moment across in Week 10 without hesitation and without drama — the rule working in the wild. Write it down; you will speak it in Block 6.
 
 And each Companion sits with 2 Timothy 2:2 once through, slowly. Tonight you are Timothy in that verse. Know it before you say it.
 
@@ -269,7 +269,7 @@ The blessing block. The Week 14 discipline governs: specific, witnessed, true �
 
 **1. The member stands in the center.** Their household stands behind them.
 
-**2. Two fellow members speak their prepared blessings** — one to three sentences each, drawn from specific moments of the year: the container re-established when the room heated up, the feedback received and visibly acted on, the heavy moment handed across without heroics. What we saw; what we bless; what we see coming. Eyes on the person, not the page or the screen — nothing to read; say what is on your heart for them, specific and short.
+**2. Two fellow members speak their prepared blessings** — one to three sentences each, drawn from specific moments of the year: the container re-established when the room heated up, the feedback received and visibly acted on, the heavy moment handed across without heroics. What we saw; what we bless; what we see coming. Read or spoken, either way: look up at the person as you finish.
 
 **3. A household member may add one sentence.** One. It will be the one they remember.
 

@@ -46,10 +46,11 @@ Tell.
 
 **Blessings spoken to the person.** Wherever participants bless one another in their own words (the
 story blessings of Weeks 3–4, Week 6's blessing of restoration, the closing blessings step of Weeks
-12, 14, 18 and 20, the family commissioning of Week 21 and the Companions' blessings at Week 22), the
-plans now say: eyes on the person, not the screen; nothing to read; say what is on your heart for
-them, specific and short. Starter cards and the Week 21 worksheet stay as scaffolds. The Aaronic
-blessing is unchanged.
+12, 14, 18 and 20), the plans now say: eyes on the person, not the screen; nothing to read; say what
+is on your heart for them, specific and short. Starter cards stay as scaffolds. The prepared
+commissioning blessings (the family commissioning of Week 21, the Companions' blessings at Week 22)
+may still be read, at John's word; the plans add only: look up at the person as you finish. The
+Aaronic blessing is unchanged.
 
 **Day boxes.** Every daily take-home practice already has its row of day boxes on the week's
 Check-Off Card, so no new grids were needed; Week 5's row is renamed to match the new practice.

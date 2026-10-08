@@ -228,8 +228,6 @@ Walk the form aloud. Two Companions demo a real blessing. Brief Q&A from the roo
 
 *“The form is short on purpose. The brevity is the discipline. We are not making speeches; we are speaking truth in front of witnesses.”*
 
-*“And when you speak it: eyes on the person, not the page or the screen. The worksheet got you ready; on the night there is nothing to read. Say what is on your heart for them — specific and short.”*
-
 ## Demo (3 min)
 
 *Two Companions (lead and Co-Companion, or two Cohort Companions) demo a real, specific, brief blessing over each other in front of the room. The blessing should be honest, specific, brief — not theatrical.*
@@ -278,7 +276,7 @@ This is the heart of the night. Each member in turn, with their household. The c
 
 **2. Brief framing. The convening leader speaks one sentence about the member: ‘We have walked with [name] through Getting Started; we have seen \_\_\_\_\_.’ 30–60 seconds.**
 
-**3. The member blesses their household. Each person briefly, or the household together — pre-planned on the worksheet. Three sentences per blessing: what I see in you, what I bless in you, what I commit to you. Eyes on the person, not the worksheet. ≈ 60–90 seconds per person; brevity is the discipline.**
+**3. The member blesses their household. Each person briefly, or the household together — pre-planned on the worksheet. Three sentences per blessing: what I see in you, what I bless in you, what I commit to you. Read or spoken, either way: look up at the person as you finish. ≈ 60–90 seconds per person; brevity is the discipline.**
 
 **4. The household may bless back. Any household member who wishes — a spouse, a child of any age, a parent — speaks a blessing or a sentence over the member. Extemporaneous is fine; one true sentence is enough; nothing is required of guests. ≈ 60–90 seconds.**
 
@@ -442,7 +440,7 @@ Five handouts for Week 14. H14.1 is distributed to members one week before; the 
 
 *Sent to members the Friday before Week 14*
 
-*Each member prepares a three-sentence blessing for each person of their household — or one for the household together — before the night. Use this worksheet. Bring it with you — it is a scaffold for getting ready, not a script: on the night, eyes on the person, not the page; nothing to read; say what is on your heart for them, specific and short. Household members who wish to speak one back may use the same three sentences; nothing is required of guests.*
+*Each member prepares a three-sentence blessing for each person of their household — or one for the household together — before the night. Use this worksheet. Bring it back — you may read from it during the blessing. Read or spoken, either way: look up at the person as you finish. Household members who wish to speak one back may use the same three sentences; nothing is required of guests.*
 
 ## **Writing your blessing — one for each person of your household, or one for the household together**
 
@@ -496,7 +494,7 @@ Write the sentences below, or speak them from the heart on the night.
 
 - Three sentences. Brevity is the discipline. The form is short on purpose.
 - Specific. “You are amazing” is not specific. The third version of your specific is usually the right one.
-- You will speak this aloud Tuesday in front of the room — to the person, eyes on them, not the page. That is supposed to be hard. The hardness is part of why it works.
+- You will read this aloud Tuesday in front of the room. That is supposed to be hard. The hardness is part of why it works.
 - If you cry, that is fine. Take your time. The room can wait.
 - If you freeze and cannot speak — ask the other person to read your worksheet for you, or ask the Lead Companion to. Nothing about the night requires public oratory; it requires honest specificity.
 
