@@ -89,7 +89,9 @@ changes.
 - **The place, the pattern, the pull** get a slide of their own, because
   the whole practice rests on them: the place is required; the pattern
   and the pull are each person's to add or keep. Ask for questions and
-  wait — get it clear in the room, not in the groups.
+  wait — get it clear in the room, not in the groups. Each group takes a printed
+  Breakout Card with the same three words, the form, the order and a
+  sample blessing, for when it is away from the screen.
 - **Parents go first.** The older generation owes the younger the
   demonstration: a teen should never be asked to be braver than their
   parent was willing to be, minutes earlier, in the same circle.

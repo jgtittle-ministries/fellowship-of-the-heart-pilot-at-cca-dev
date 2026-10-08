@@ -76,6 +76,30 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.25 — October 8, 2026 — a gentler Session 5 take-home; the three words on paper; the front page
+
+John's word, the same day:
+
+- **Session 5's take-home, gentler.** A practice that looks at friendships
+  can stir loneliness, a friendship that hurt, or one that faded. The
+  homework now asks for any relationship (a friend, a sibling, a parent, a
+  teammate), and for *offering* a condition rather than testing the other
+  person: how they respond is not a grade on you. A new paragraph, "If this
+  stirs something hard", gives the on-ramp: choose an easier relationship,
+  or set the practice down for a few days, and tell someone you trust.
+  Week two may change relationship, and the preparation sentence now looks
+  for gratitude rather than a gap ("Someone who has made me feel safe
+  is…"). The printed sheet (still one page), its record, the run sheet,
+  the Session 5 page, and the deck's practice slide, notes and on-screen
+  sheet images all match.
+- **The Session 6 Breakout Card.** Slide 87 on paper, one per group: the
+  place, the pattern, the pull, with the form, the order and a sample
+  blessing, so the groups have the three words in hand when they are away
+  from the screen. The leader notes say to print it (in the evening's prep
+  and on slide 87) and to hand one to each group's holder at the bridge.
+- **The front page** is refreshed after the Session 6 debrief: Quarter 1 is
+  walked, and Sessions 7–8 on October 13 come next.
+
 ## v2.24 — October 8, 2026 — Session 6's debrief: groups, the three words, the numbers
 
 Session 6 ran Wednesday, October 7, with two guests in the circle. The

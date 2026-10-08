@@ -23,9 +23,19 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-Pick one friendship in your life. Pick one of the four conditions (Safe,
-Present, Clear, Intentional). Practice it in that friendship more
-intentionally than usual. Journal what happens.
+Pick one relationship where you’d like a little more of one condition — a
+friend, a sibling, a parent, a teammate. It doesn’t have to be your
+closest. Pick one of the four conditions (Safe, Present, Clear,
+Intentional) and practice *offering* it there, a little more than usual.
+You are practicing what you give, not testing them: how they respond is not
+a grade on you. Journal what you notice.
+
+**If this stirs something hard.** *Looking at friendships can bring up
+loneliness, a friendship that has hurt you, or one that has faded. That is
+real, and it is worth noticing — not fixing this week. You can choose an
+easier relationship, or set the practice down for a few days. And tell
+someone you trust: your check-in partner, a parent, or one of the leaders.
+You are not meant to carry the heavy things alone.*
 
 ## 2. The end-of-week-one check-in
 
@@ -38,11 +48,12 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 ## 3. The homework practice — week two
 
-Same friendship, second condition — or the same condition, deeper, if the
-first week opened something. Journal what happens.
+Same relationship — or a different one, if the first was too heavy. A
+second condition, or the same one deeper if the first week opened
+something. Journal what you notice.
 
 ## 4. One sentence of preparation
 
-Before we meet, finish this sentence in your journal: "The condition my
-friendships need most from me is ________." **Done:** ☐
+Before we meet, finish this sentence in your journal: "Someone who has made
+me feel safe is ________, and what they did was ________." **Done:** ☐
 

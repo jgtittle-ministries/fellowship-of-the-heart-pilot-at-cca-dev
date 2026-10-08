@@ -47,7 +47,10 @@ for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Home
     m = re.match(r"FotH Pilot Session (\d+) Homework Handout DRAFT v1\.docx$", base)
     m2 = re.match(r"FotH Pilot Session (\d+) Road So Far Handout DRAFT v1\.docx$", base)
     m3 = re.match(r"FotH Pilot Session (\d+) PROAPT Handout DRAFT v1\.docx$", base)
-    if m:
+    m4 = re.match(r"FotH Pilot Session (\d+) Breakout Card DRAFT v1\.docx$", base)
+    if m4:
+        dst = os.path.join(EAH, "Leader Notes", "Session %s — Breakout Card.docx" % m4.group(1))
+    elif m:
         dst = os.path.join(EAH, "Take-Home Sheets", "Session %s \u2014 Take-Home.docx" % m.group(1))
     elif m2:
         dst = os.path.join(EAH, "Take-Home Sheets", "Session %s \u2014 The Road So Far.docx" % m2.group(1))
