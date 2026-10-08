@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-The Five-Minute Examen each evening — carried through the two weeks. And the round’s three questions go home with everyone, on no paper — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
+The Five-Minute Examen each evening — carried through the two weeks. And the round’s three questions go home with everyone, printed on The Road So Far — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
 
 **The Five-Minute Examen — how to do it.** Five minutes with God each evening, before bed:
 

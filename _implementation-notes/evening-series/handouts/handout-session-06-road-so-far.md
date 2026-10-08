@@ -43,7 +43,13 @@ place you walked in less honesty than you wanted. Just notice. No fixing.
 
 ---
 
+## Three questions, for when we gather again
+
 *Tonight closes our first quarter together — Connect with Self & Others.
-Three questions ride home with you, on no paper; they will be asked out
-loud when we gather again. This page is here so the road is fresh while
-you think on them.*
+Nothing to write and nothing to prepare: we answer these out loud,
+together, about the group — never any one person. This page is here so
+the road is fresh while you think on them.*
+
+1. What’s working well that we ought to keep doing?
+2. What could we do differently that would make things even better?
+3. What would you tell somebody else about what this group is like?
