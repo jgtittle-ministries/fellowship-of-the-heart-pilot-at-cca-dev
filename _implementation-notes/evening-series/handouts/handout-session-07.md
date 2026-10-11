@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-PROAPT one short passage per day for the next week. The Personal Heart Journal Week 7–8 pages have a daily PROAPT template. The second page with this sheet, *PROAPT, What Each Step Is For*, explains each step and why the order matters. One box per day.
+PROAPT one passage a day for the next week, in your own journal, using the second page, *PROAPT, What Each Step Is For*, as your template. **Choose a paragraph:** not too big and not too little, because a paragraph is built around a single central thought. **Then the Tell:** tell someone one sentence of what you heard. Don’t skip that step. One box per day.
 
 | M | Tu | W | Th | F | Sa | Su |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -40,8 +40,8 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 ## 3. The homework practice — week two
 
-Continue or deepen the same practice, as the session specifies; journal
-what happens. One box per day.
+Keep the same practice going: one paragraph a day, chosen the same way, ending
+with the Tell. Journal what happens. One box per day.
 
 | M | Tu | W | Th | F | Sa | Su |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -49,5 +49,5 @@ what happens. One box per day.
 
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials. **Done:** ☐
+Before we meet, finish this sentence in your journal: “The passage that spoke to me most these two weeks was ________, and what I heard was ________.” **Done:** ☐
 

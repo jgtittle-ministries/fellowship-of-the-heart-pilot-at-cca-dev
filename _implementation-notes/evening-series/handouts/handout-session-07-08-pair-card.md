@@ -6,7 +6,9 @@
 
 **Pass one** Mark 1:14–20, deeper — about twelve minutes. **Switch at 8:02.** **Pass two** Mark 2:1–12, the paralytic — to 8:13. **The Tell,** still in the pair, 8:13–8:19. **Back in the circle at 8:19.**
 
-*The timekeeper calls each one; you don’t need to watch the clock.*
+**A fresh passage for pass one?** Instead of Mark 1:14–20 again, choose Luke 5:1–11, John 1:35–42, or Mark 10:46–52.
+
+*The container holder keeps the clock and calls each one; you don’t need to watch it.*
 
 ## The six steps
 
