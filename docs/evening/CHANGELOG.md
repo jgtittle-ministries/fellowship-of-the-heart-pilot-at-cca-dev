@@ -76,6 +76,29 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.31 — October 13, 2026 — Sessions 9–10: the garden in two rounds
+
+John's word (13 October): the step-by-step was missing from the slides and
+the leader notes. The garden now runs in two rounds, each with its own
+writing and sharing.
+
+- **Round one: your heart as a garden.** Settle; the reader reads the
+  garden only (about 5 minutes); write (3 minutes), "What does your garden
+  look like?"; share in pairs (4 minutes). Jesus is not invited yet.
+- **Round two: invite Jesus in.** Go back to the garden; Jesus is at the
+  entrance; invite him in and give him permission to do or say anything he
+  wishes; watch and listen; return (about 8 minutes). Write (4 minutes):
+  what did he do, did he say anything? Share in pairs (6 minutes). The
+  permission line comes from the Four Connects deck: "Invite in Jesus, give
+  Him permission to do His thing."
+- **Slides:** the garden slide is now two slides, Round One and Round Two,
+  with the steps and times; the bridge and the road name the two rounds.
+  The deck has 18 slides (G1–G18); the leader notes were rebuilt.
+- **New: the Reading Card** (Leader Notes): the H9.1 script split at the
+  gate, one round per page, with the write and share prompts after each.
+- **Run sheet:** the garden row is now two rows (7:35–7:48 and 7:48–8:07);
+  still two pages. The garden keeps its 32 minutes.
+
 ## v2.30 — October 13, 2026 — Sessions 9–10: testing what you hear, before the garden
 
 John's word (13 October): the Garden evening now teaches how to test whether
