@@ -76,6 +76,30 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.32 — October 13, 2026 — Sessions 9–10: the garden checked against the Four Connects process
+
+John asked for the garden to be checked against the Four Connects deck's
+Garden of the Heart process (September 2025, slides 10–11). The two rounds
+matched; five pieces were missing or thin, and all five are now in.
+
+- **Relaxation before each round.** Round one opens with breath focus and
+  relaxing from the toes up, so as to be present to the great I AM (about
+  two minutes). Round two begins by going back to that relaxed place.
+- **The writing prompt** now asks what you saw, heard, smelled, or felt,
+  both rounds.
+- **Round two is open, as the Four Connects has it:** invite Jesus in, give
+  him permission to do or say anything he wishes, ask him to do or say
+  whatever he wants, then about five minutes of silence. The guided prompts
+  borrowed from the school script are gone from the evening Reading Card.
+- **The comparison in the merge:** any differences between the garden and
+  the garden with Jesus in it? What did they look like? What might your
+  images tell you about yourself, and about Jesus with you? Each person
+  reads their own images; then the one word.
+- **The close asks the impact question:** step 4 is now "What will you do or
+  say differently?", the one practice committed aloud.
+- Slides, leader notes (rebuilt), the Reading Card and the run sheet all
+  carry it. The garden keeps 7:35–8:07; the run sheet stays on two pages.
+
 ## v2.31 — October 13, 2026 — Sessions 9–10: the garden in two rounds
 
 John's word (13 October): the step-by-step was missing from the slides and

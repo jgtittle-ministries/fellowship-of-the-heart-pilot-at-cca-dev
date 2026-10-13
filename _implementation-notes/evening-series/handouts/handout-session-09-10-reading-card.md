@@ -1,74 +1,72 @@
 # The Garden — Reading Card (two rounds)
 
-*For the reader and the leading pair, Sessions 9–10 combined. Adapted from
-H9.1 and split into two rounds (John's word, 13 October 2026). Read slowly:
-two words per second. (pause) = 30 full seconds; (longer pause) = 60. Do not
-fill the silence.*
+*For the reader and the leading pair, Sessions 9–10 combined. The Four
+Connects Garden of the Heart process, in two rounds (John's word, 13 October
+2026). Read slowly: two words per second. (pause) = 30 full seconds; (longer
+pause) = 60. Do not fill the silence. Pens and journals ready before you
+start, then set aside.*
 
 ---
 
-## Settle (1 minute)
+## Relax (about 2 minutes)
 
-"Close your eyes if you want, or rest them on the floor. Take a slow breath.
-There is no wrong way. If your mind wanders, bring it gently back. If you see
-nothing at all, that is also fine. Let's begin."
+"Find a comfortable way to sit, feet on the floor. Close your eyes if you
+want, or rest them on the floor. Breathe in slowly, and out. (pause) Again: in,
+and out. Just notice your breath. (pause)
 
-## Round one — your heart as a garden (about 5 minutes)
+"Let your feet relax. Your legs. (pause) Your hands, your arms, your
+shoulders. Let your face relax. (pause)
 
-"Picture your heart as a garden. Whatever the picture is, that is your
-picture; do not edit it. It may be a garden you remember; it may be a place
-you have never been. There may be a wall, or a gate, or no boundary at all.
-There may be much that is well-tended, and much that is overgrown. Walk into
-it. (pause)
+"You are here, in this room, and God is here. The great I AM is present. Be
+present to him."
 
-"Take your time. Notice what is growing. Notice the weather, the light, the
-season. Notice the sounds and the smells. Notice what feels alive and what
-feels closed. (longer pause)
+## Round one — your heart as a garden (about 4 minutes)
 
-"Stay there a moment longer. (pause) When you are ready, open your eyes."
+"Now picture your heart as a garden. Whatever comes, that is your picture; do
+not edit it. Let it sit. (longer pause)
 
-**Write (3 minutes):** "What does your garden look like? What is growing?
-What feels alive, and what feels closed?"
+"Make it clearer. Notice the light. The temperature. The time of day. What is
+growing. (longer pause)
+
+"When you have the picture, come back to here, to this room, and open your
+eyes."
+
+**Write (3 minutes):** "What did you see, hear, smell, or feel there?"
 
 **Share in pairs (4 minutes):** by invitation only; the arranged parent
 opens; silence is a complete answer. Receive without interpreting.
 
-## Round two — invite Jesus in (about 8 minutes)
+## Round two — invite Jesus in (about 9 minutes)
 
-"Close your eyes again if you want. Go back to your garden. It is still
-there; you know the way now. (pause)
+"Close your eyes again if you want. Breathe in, and out. Go back to that
+relaxed place. (pause)
 
-"Turn toward the entrance. Jesus is there. He has been waiting. His face is
-gentle. He is not impatient with what he sees; he is not surprised by it.
-When you are ready, invite him in. And give him permission to do or say
-anything he wishes. (pause)
+"Picture your heart again, your garden. (pause)
 
-"He enters. Watch what he does. Where does he walk? What does he stop and look
-at? What does he kneel beside? What does he touch? Do not orchestrate. Watch.
-(longer pause)
+"Now invite Jesus in. Give him permission to do or say anything he wishes.
+Ask him to do or say whatever he wants. Then let it sit. I will be quiet for a
+few minutes."
 
-"Is there a place in your garden you would rather he not see? You do not have
-to take him there. But if he walks toward it, walk with him. He has seen
-worse. He has tended worse. (longer pause)
+*(Silence: about five minutes. Hold it. Watch the clock, not the room's
+patience.)*
 
-"What does he do in that place? Does he clear something away? Does he stand
-beside you in silence? Does he plant something? Does he simply look, with
-love? Notice. (pause)
+"When you are ready, come back to here, and open your eyes."
 
-"Is there a word he has for you? Do not invent words. If he does not speak,
-his presence is enough. If he does, listen. (pause)
-
-"Look once more at your garden with him in it. Notice what has changed, and
-what has not. (pause)
-
-"Thank him for coming. Tell him you will be back. Open your eyes when you are
-ready."
-
-**Write (4 minutes):** "What did he do? Where did he go? Did he say anything?
-'Nothing happened' is honest."
+**Write (4 minutes):** "What did you see, hear, smell, or feel? What did he do
+or say? 'Nothing happened' is honest." Everyone writes before anyone shares.
 
 **Share in pairs (6 minutes):** by invitation only; the arranged parent
 opens. Never "God was telling you ___." Notice, don't conclude: the returns
 are for testing. If something painful surfaces, bless it: "I hear that. May
 Jesus stay with you in that place this week." Anything heavier: the Settle
 Protocol, for the person, not the circle.
+
+## Then, the whole room (the merge)
+
+"Were there any differences between the garden and the garden with Jesus in
+it? What did they look like? What might your images tell you about yourself?
+About Jesus with you and in you?" Each person reads their own images; no one
+interprets anyone else's. Then one word about tonight.
+
+*Adapted from the Four Connects deck (Fellowship of the Heart, September
+2025), "Garden of the Heart".*
