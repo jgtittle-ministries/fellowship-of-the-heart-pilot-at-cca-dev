@@ -23,7 +23,10 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-Return to the garden three times this week, briefly (5–10 minutes each). Journal what you notice each time.
+Return to the garden three times this week, five to ten minutes each; no script
+needed. Journal what you notice, then two lines: **Does it fit Scripture? Who could
+I tell?** Notice, don't conclude. If something heavy surfaces, stop, come back
+another day, and tell a trusted adult. Return 1 ☐ 2 ☐ 3 ☐
 
 ## 2. The end-of-week-one check-in
 
@@ -36,10 +39,11 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 ## 3. The homework practice — week two
 
-Continue or deepen the same practice, as the session specifies; journal
-what happens.
+Keep returning two or three times, with the same two lines. If something keeps
+coming back, test it with someone you trust. Return 1 ☐ 2 ☐ 3 ☐
 
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials. **Done:** ☐
+Before we meet, finish this sentence in your journal: "One thing I'm not sure was God, or one
+question I'd bring to Any Doubts?, is ________." **Done:** ☐
 

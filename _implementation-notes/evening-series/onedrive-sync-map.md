@@ -21,6 +21,7 @@ Base: `C:\Users\jgtit\OneDrive\Documents\Intentional Journey of the Heart\`
 | `FotH Evening Session {S} Leader Notes DRAFT v1.docx` | `…\Evening, two weeks, pilot\Leader Notes\Session {S} — Leader Notes.docx` |
 | `handouts\FotH Pilot Session {N} Homework Handout DRAFT v1.docx` | `…\Evening, two weeks, pilot\Take-Home Sheets\Session {N} — Take-Home.docx` |
 | `handouts\FotH Pilot Session {N} Road So Far Handout DRAFT v1.docx` · `… PROAPT Handout DRAFT v1.docx` | `…\Take-Home Sheets\Session {N} — The Road So Far.docx` · `Session {N} — PROAPT, What Each Step Is For.docx` (companion pages, beside the take-home) |
+| `handouts\FotH Pilot Session {N} How Did You Know Card DRAFT v1.docx` | `…\Take-Home Sheets\Session {N} — How Did You Know.docx` (companion page, beside the take-home; added v2.30) |
 | `slide-numbering-map.md` | `…\Evening, two weeks, pilot\Slide Numbering Map.docx` (Word rendition — rebuild on change) |
 
 `{S}` includes the combined forms (`3-4 Combined`, `7-8 Combined`,
