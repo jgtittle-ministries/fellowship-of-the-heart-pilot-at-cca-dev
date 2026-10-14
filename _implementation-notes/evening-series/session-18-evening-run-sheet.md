@@ -5,7 +5,7 @@ the full scripts, watch-fors, and crisis contingencies. The middle blocks below
 carry the school session's content scaled into the evening frame; the leading
 team tunes the minutes and the leads at the planning lab before this session.**
 
-**Aim (from the school version).** Light re-entry after the spring break, and a rhythm check. Name out loud that the room knows how to do this now — the coming back, the honest reading, the beginning again — and let the cohort carry its own return. Then set the map for the final stretch: the year now begins to hand itself over.
+**Aim (from the school version).** Light re-entry after a break, and a rhythm check. Name out loud that the room knows how to do this now — the coming back, the honest reading, the beginning again — and let the cohort carry its own return. Then set the map for the final stretch: the year now begins to hand itself over.
 
 **Anchor.** 
 

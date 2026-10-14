@@ -5,7 +5,7 @@ the full scripts, watch-fors, and crisis contingencies. The middle blocks below
 carry the school session's content scaled into the evening frame; the leading
 team tunes the minutes and the leads at the planning lab before this session.**
 
-**Aim (from the school version).** Full re-entry after the Christmas break. Every break is a natural test of whether the practices survived without the container holding them — tonight rebuilds the room, reads without shame what held and what slipped, welcomes back anyone who drifted, and re-anchors the cohort in the year’s map. Slips are data, not failure. The door is the whole point.
+**Aim (from the school version).** Full re-entry after a break. Every break is a natural test of whether the practices survived without the container holding them — tonight rebuilds the room, reads without shame what held and what slipped, welcomes back anyone who drifted, and re-anchors the cohort in the year’s map. Slips are data, not failure. The door is the whole point.
 
 **Anchor.** 
 

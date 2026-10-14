@@ -31,7 +31,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 
 ## The homework handout (Evening 13, two weeks)
 
-1. **The homework practice, week one.** The quarter break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The same move that carried the cohort through Christmas. The Return II (Evening 14) will ask what held.
+1. **The homework practice, week one.** A break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The Return II (Evening 14) will ask what held.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.

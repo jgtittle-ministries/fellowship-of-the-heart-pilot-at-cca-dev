@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-The quarter break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The same move that carried the cohort through Christmas. The Return II (Evening 14) will ask what held.
+A break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The Return II (Evening 14) will ask what held.
 
 ## 2. The end-of-week-one check-in
 

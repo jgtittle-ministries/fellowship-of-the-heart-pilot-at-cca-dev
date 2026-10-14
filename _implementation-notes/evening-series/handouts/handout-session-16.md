@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at next Wednesday’s door. And keep the rhythm: the card you built in Evening 11 is still the assignment.
+Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at the next evening’s door. And keep the rhythm: the card you built in Evening 11 is still the assignment.
 
 ## 2. The end-of-week-one check-in
 
