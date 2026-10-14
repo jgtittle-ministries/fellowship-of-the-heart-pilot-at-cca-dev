@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 5: Knowing and Being Known
+# Take-Home Sheet — Evening 4: Knowing and Being Known
 
 ---
 

@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 22: Commissioning the Companions
+# Take-Home Sheet — Evening 17: Commissioning the Companions
 
 ---
 

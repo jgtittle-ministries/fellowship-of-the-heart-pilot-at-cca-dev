@@ -1,11 +1,11 @@
-# Session 21, Evening Form — SENDING AND BLESSING
+# Evening 16 — SENDING AND BLESSING
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-21-sending.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
 carry the school session's content scaled into the evening frame; the leading
 team tunes the minutes and the leads at the planning lab before this session.**
 
-**Aim (from the school version).** Integration of all four Connects (Self, Others, God, Mission) through a family commissioning. Each parent-and-teen dyad stands in the center of the room; each speaks a specific blessing over the other; the whole community speaks the Aaronic blessing over each family. The family commissioning sends the cohort into the interlude with a clear bridge into the Going Deeper series; the series' one remaining gathering, Week 22, commissions the Companions-in-Formation.
+**Aim (from the school version).** Integration of all four Connects (Self, Others, God, Mission) through a family commissioning. Each parent-and-teen dyad stands in the center of the room; each speaks a specific blessing over the other; the whole community speaks the Aaronic blessing over each family. The family commissioning sends the cohort into the interlude with a clear bridge into the Going Deeper series; the series' one remaining gathering, Evening 17, commissions the Companions-in-Formation.
 
 **Anchor.** Numbers 6:24–26 (the Aaronic blessing); Philippians 1:6 (“He who began a good work in you will bring it to completion”).
 
@@ -27,7 +27,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 21, two weeks)
+## The homework handout (Evening 16, two weeks)
 
 1. **The homework practice, week one.** The Daily / Weekly / Monthly Rhythm Card is now the long-term practice. Sustain through the interlude until Going Deeper begins.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
@@ -52,4 +52,4 @@ someone, what would I tell them?*
 
 ## Length flag for John
 
-The school version of this session runs 120 minutes, not 75 (a celebration night). The scaling above compresses it into the standard evening; whether Session 21 instead becomes a special longer evening is John's call, decided closer to the date.
+The school version of this session runs 120 minutes, not 75 (a celebration night). The scaling above compresses it into the standard evening; whether Evening 16 instead becomes a special longer evening is John's call, decided closer to the date.

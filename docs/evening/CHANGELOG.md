@@ -76,6 +76,39 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.34 — October 13, 2026 — the walk renumbered: Evening 1 to 17
+
+John's word (13 October): the evening series is now numbered by evening,
+not by the school series' sessions. Entries before this one use the old
+session numbers.
+
+| Evening | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Was Session | 1 | 2 | 3–4 | 5 | 6 | 7–8 | 9–10 | 11 | 12 | 13 | 15 | 16 | 17 | 18 | 20 | 21 | 22 |
+
+Session 14 is absorbed by the standing rotation, and Session 19's rehearsal
+moved to the planning lab. The four movements are Evenings 1–5, 6–8, 9–13
+and 14–17.
+
+- **Renumbered:** everything people see in the 17 evenings: slide titles
+  and dividers, the speaker-note tags (E7 · …), run sheets, take-home
+  sheets, cards, leader notes (rebuilt), the sign-up sheet, the front page,
+  the handbook, and the published evening pages.
+- **Kept:** repo filenames and web addresses (links already sent still
+  work); the corner page numbers (they match slides to leader notes); the
+  spare two-session forms, still "Session N"; links to the school series'
+  lesson plans, still "Week N".
+- **OneDrive:** files are now named "Evening N — …"; the spares sit in a
+  "Spares — two-session forms" subfolder; the old "Session N — …" copies
+  were moved to Archive and Reference; the Print for Tuesday shortcuts now
+  point at Evening 6.
+- **The front page** says the series was numbered by sessions until
+  October, and that Evening 6 (set for October 13) has been rescheduled,
+  with the new date to come.
+- **Left for John's word:** four lines that point families to "journal
+  Week N pages" (the evening series uses its own journals), and Evening 14's
+  references to "Week 19", whose rehearsal moved to the planning lab.
+
 ## v2.33 — October 13, 2026 — Session 11, Any Doubts?: checked against the Four Connects deck
 
 John asked for Any Doubts? to be checked the same way as the Garden. Its

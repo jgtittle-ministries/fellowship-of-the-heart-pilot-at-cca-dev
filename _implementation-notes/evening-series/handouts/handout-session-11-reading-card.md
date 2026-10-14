@@ -1,6 +1,6 @@
 # The Silent Place — Reading Card
 
-*For the reader and the leading pair, Session 11, after the pairs. From the
+*For the reader and the leading pair, Evening 8, after the pairs. From the
 Four Connects deck (Fellowship of the Heart, September 2025), "Hearing God —
 The How" and "Connect with God" (John's word, 13 October 2026). Read slowly:
 two words per second. (pause) = 30 full seconds; (longer pause) = 60. Do not

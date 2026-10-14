@@ -1,4 +1,4 @@
-# Session 22, Evening Form — COMMISSIONING THE COMPANIONS
+# Evening 17 — COMMISSIONING THE COMPANIONS
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-22-commissioning.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
@@ -28,7 +28,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 22, two weeks)
+## The homework handout (Evening 17, two weeks)
 
 1. **The homework practice, week one.** For the new FC1s: the Leader Lab rhythm begins — bring one vital-signs observation from tonight's room to Lab 1 of the serving cycle. For everyone: the Rhythm Card and the Going Deeper interlude practices.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the

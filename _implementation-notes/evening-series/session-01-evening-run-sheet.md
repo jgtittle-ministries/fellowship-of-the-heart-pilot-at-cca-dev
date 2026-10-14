@@ -1,4 +1,4 @@
-# Session 1, Evening Form — Welcome to the Journey
+# Evening 1 — Welcome to the Journey
 
 **The opening night for a room with newcomers in it. Companion to
 `docs/getting-started/week-01-welcome.md`, which keeps the full scripts,
@@ -45,7 +45,7 @@ first taste of what genuine community feels like.
 | 8:00-8:14 | What does it mean to be saved: the thief's case, Romans 10:9-10, and the first-page question written in the journal. | Content presenter, backstop attentive |
 | 8:14-8:20 | Shared circle: one sentence, what did tonight stir. Parents first. | Container holder |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; each person names their check-in partner aloud. | Content presenter |
-| 8:24-8:26 | Closing container begins — Week 1 order: closing before the round. | Container holder |
+| 8:24-8:26 | Closing container begins — Evening 1 order: closing before the round. | Container holder |
 | 8:26-8:29 | Leader Feedback Round interposed, both leaders: what went well, what I would do differently, the teach-back — and the room's answers as time serves; it has fit before. | Both leaders |
 | 8:29-8:30 | Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship. Then the leadership discussion: the room's feedback to the leaders, the team's five-question materials debrief, and planning the next meeting. | Everyone; John holds the debrief |
@@ -55,7 +55,7 @@ share it, four minutes each. The leaders' three answers come first; the
 room's responses have fit in the same block before — let them, and let
 anything longer flow into the 8:30 window.*
 
-## The homework handout (Session 1, two weeks)
+## The homework handout (Evening 1, two weeks)
 
 1. **The homework practice, week one.** The two standing daily questions. Each
    morning, five minutes: "Lord, what are you up to today, and what do you

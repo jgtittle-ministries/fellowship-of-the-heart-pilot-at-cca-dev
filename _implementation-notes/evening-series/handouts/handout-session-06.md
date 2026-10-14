@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 6: Safe and Brave Together
+# Take-Home Sheet — Evening 5: Safe and Brave Together
 
 ---
 

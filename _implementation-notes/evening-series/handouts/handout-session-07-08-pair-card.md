@@ -1,4 +1,4 @@
-# Sessions 7–8 — PROAPT in Pairs
+# Evening 6 — PROAPT in Pairs
 
 *For the pair, away from the screen. One Reader, one Listener: the Reader leads the six steps, the Listener works alongside without interrupting. Then switch.*
 

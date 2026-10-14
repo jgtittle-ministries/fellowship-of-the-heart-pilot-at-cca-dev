@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 9: The Garden of your Heart
+# Take-Home Sheet — Evening 7: The Garden of your Heart
 
 ---
 

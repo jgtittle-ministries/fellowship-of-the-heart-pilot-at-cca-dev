@@ -1,6 +1,6 @@
 # The Garden — Reading Card (two rounds)
 
-*For the reader and the leading pair, Sessions 9–10 combined. The Four
+*For the reader and the leading pair, Evening 7. The Four
 Connects Garden of the Heart process, in two rounds (John's word, 13 October
 2026). Read slowly: two words per second. (pause) = 30 full seconds; (longer
 pause) = 60. Do not fill the silence. Pens and journals ready before you

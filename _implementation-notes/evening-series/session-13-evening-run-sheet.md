@@ -1,4 +1,4 @@
-# Session 13, Evening Form — WHAT WAS PREPARED FOR YOU
+# Evening 10 — WHAT WAS PREPARED FOR YOU
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-13-mission.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
@@ -25,7 +25,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 13, two weeks)
+## The homework handout (Evening 10, two weeks)
 
 1. **The homework practice, week one.** Take one specific small action this week aligned with what you heard in your downhill mission. One thing. Journal what happens.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the

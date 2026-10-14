@@ -14,6 +14,23 @@ Base: `C:\Users\jgtit\OneDrive\Documents\Intentional Journey of the Heart\`
 
 ## Evening-series artifacts
 
+**2026-10-13, John's word: the walk is numbered Evening 1–17.** The sync
+tool now names every evening-form artifact `Evening {E} — …` in place of the
+`Session {S} — …` names in the table below. The spare two-session forms (the
+separate Sessions 3, 4, 7, 8, 9, 10, 14, 19 decks, run sheets, notes and
+take-homes) go to a `Spares — two-session forms` subfolder of each folder,
+still as `Session {S} — …`. The old `Session {S} — …` copies were moved to
+`Archive and Reference\Superseded 2026-10-13\Evening renumbering\`, and the
+Print for Tuesday shortcuts were rebuilt as `Evening 6 — …`. Repo filenames
+still carry session numbers.
+
+| Walk | E1 | E2 | E3 | E4 | E5 | E6 | E7 | E8 | E9 | E10 | E11 | E12 | E13 | E14 | E15 | E16 | E17 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Repo `{S}` | 1 | 2 | 3-4 Combined | 5 | 6 | 7-8 Combined | 9-10 Combined | 11 | 12 | 13 | 15 | 16 | 17 | 18 | 20 | 21 | 22 |
+
+Take-homes and cards go by their own number: 3 → E3; 7 and 7-8 → E6; 9 and
+9-10 → E7; 11 → E8; the rest as in the table.
+
 | Repo file (unchanged) | OneDrive destination |
 |---|---|
 | `FotH Evening Session {S} Slides DRAFT v1.pptx` | `Fellowship of the Heart\Evening, two weeks, pilot\Slides\Session {S} — Slides.pptx` |

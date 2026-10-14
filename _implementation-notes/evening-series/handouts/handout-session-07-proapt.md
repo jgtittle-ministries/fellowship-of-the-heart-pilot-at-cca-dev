@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 7: PROAPT, What Each Step Is For
+# Take-Home Sheet — Evening 6: PROAPT, What Each Step Is For
 
 *A companion to this week's homework practice: one short passage a day. Keep it beside the daily template in your journal.*
 

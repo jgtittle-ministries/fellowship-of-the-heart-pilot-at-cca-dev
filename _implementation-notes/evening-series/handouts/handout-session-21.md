@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 21: Sending and Blessing
+# Take-Home Sheet — Evening 16: Sending and Blessing
 
 ---
 

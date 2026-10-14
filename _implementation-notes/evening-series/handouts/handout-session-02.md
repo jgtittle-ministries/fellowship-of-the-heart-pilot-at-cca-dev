@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 2: The Soil of your Heart
+# Take-Home Sheet — Evening 2: The Soil of your Heart
 
 ---
 

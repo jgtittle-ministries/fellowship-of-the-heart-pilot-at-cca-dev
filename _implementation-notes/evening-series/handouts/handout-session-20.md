@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 20: The Long Walk
+# Take-Home Sheet — Evening 15: The Long Walk
 
 ---
 
@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-Complete the Post-Series Survey (H20.1) — back in the bin at the Week 21 door. And one small errand that is really a teaching: find both mercy cards at home — the Signs Card and the Path Home Card — and show one other family member where they live.
+Complete the Post-Series Survey (H20.1) — back in the bin at the Evening 16 door. And one small errand that is really a teaching: find both mercy cards at home — the Signs Card and the Path Home Card — and show one other family member where they live.
 
 ## 2. The end-of-week-one check-in
 

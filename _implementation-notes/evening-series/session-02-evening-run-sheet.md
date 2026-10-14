@@ -1,11 +1,11 @@
-# Session 2, Evening Form — THE SOIL OF YOUR HEART
+# Evening 2 — THE SOIL OF YOUR HEART
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-02-soil.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
 carry the school session's content scaled into the evening frame; the leading
 team tunes the minutes and the leads at the planning lab before this session.**
 
-**Aim (from the school version).** Recall the seed (stated plainly at Week 1), then introduce the Heart Soil diagnostic from Mark 4 as a frame for honest self-knowledge — with Paul’s own mixed ground (Romans 7) as the proof that honest hearts hold all four soils. Begin Connecting with Self.
+**Aim (from the school version).** Recall the seed (stated plainly at Evening 1), then introduce the Heart Soil diagnostic from Mark 4 as a frame for honest self-knowledge — with Paul’s own mixed ground (Romans 7) as the proof that honest hearts hold all four soils. Begin Connecting with Self.
 
 **Anchor.** Mark 4:1–20 — the parable of the Sower and Jesus’ own explanation of it; Romans 7:15–25 — Paul’s divided ground.
 
@@ -26,7 +26,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 2, two weeks)
+## The homework handout (Evening 2, two weeks)
 
 1. **The homework practice, week one.** Three times this week, journal: where did each kind of soil show up today? No fixing. Just noticing.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the

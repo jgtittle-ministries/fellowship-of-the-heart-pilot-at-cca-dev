@@ -23,7 +23,7 @@ previous meeting's dinner or by phone in the off week.
 | 7 | Dec 8 | _________________ | _________________ | _________________ |
 
 *The session column fills in as the sequence settles on the first evening
-(newcomers in the room means we start at Session 1; otherwise we pick up at
-Session 5). Signing up is a yes to the planning walk-through too. An adult
+(newcomers in the room means we start at Evening 1; otherwise we pick up at
+Evening 4). Signing up is a yes to the planning walk-through too. An adult
 is always the backstop, and handing off to an adult is always the right
 move.*

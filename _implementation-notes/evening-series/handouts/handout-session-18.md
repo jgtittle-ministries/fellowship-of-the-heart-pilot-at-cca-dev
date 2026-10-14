@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 18: The Return Ii
+# Take-Home Sheet — Evening 14: The Return Ii
 
 ---
 
@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-Continue the rhythm as built — no restart language needed this time; the returning rule covers whatever slipped. And a gentle, unaudited word to the parents: the Four Questions door (commissioned at Week 15, willing-only always) is still open for any parent who has not yet found their moment.
+Continue the rhythm as built — no restart language needed this time; the returning rule covers whatever slipped. And a gentle, unaudited word to the parents: the Four Questions door (commissioned at Evening 11, willing-only always) is still open for any parent who has not yet found their moment.
 
 ## 2. The end-of-week-one check-in
 

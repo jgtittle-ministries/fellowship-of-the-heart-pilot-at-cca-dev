@@ -1,6 +1,6 @@
 # How Did You Know? — Testing What You Hear
 
-*From the Garden evening (Sessions 9–10). Keep it in your journal; we use it
+*From the Garden evening (Evening 7). Keep it in your journal; we use it
 again at Any Doubts?*
 
 ---

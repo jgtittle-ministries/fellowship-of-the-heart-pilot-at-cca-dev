@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 1: Welcome to the Journey
+# Take-Home Sheet — Evening 1: Welcome to the Journey
 
 ---
 

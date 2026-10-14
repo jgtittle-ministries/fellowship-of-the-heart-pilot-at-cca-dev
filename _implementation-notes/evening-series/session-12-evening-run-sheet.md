@@ -1,4 +1,4 @@
-# Session 12, Evening Form — THE RETURN
+# Evening 9 — THE RETURN
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-12-return.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
@@ -26,7 +26,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:29-8:30 | Return: “His mercies did not run out”; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 12, two weeks)
+## The homework handout (Evening 9, two weeks)
 
 1. **The homework practice, week one.** Restart (or continue) one daily practice — just one — chosen tonight and written in the journal. Not the whole rhythm. One.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the

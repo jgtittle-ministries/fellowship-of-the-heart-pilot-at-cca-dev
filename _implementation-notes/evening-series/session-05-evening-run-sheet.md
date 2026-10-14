@@ -1,4 +1,4 @@
-# Session 5, Evening Form — Knowing and Being Known
+# Evening 4 — Knowing and Being Known
 
 **For the night the prototype group picks its thread back up, whenever the
 sequence brings it. Companion to `docs/getting-started/week-05-known.md`,
@@ -42,7 +42,7 @@ not, in our actual friendships?
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 5, two weeks)
+## The homework handout (Evening 4, two weeks)
 
 1. **The homework practice, week one.** Pick one friendship in your life. Pick one of
    the four conditions. Practice it in that friendship more intentionally

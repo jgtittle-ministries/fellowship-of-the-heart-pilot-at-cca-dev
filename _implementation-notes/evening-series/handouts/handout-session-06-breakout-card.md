@@ -1,4 +1,4 @@
-# Session 6 — The Place, the Pattern, the Pull
+# Evening 5 — The Place, the Pattern, the Pull
 
 *For the groups, away from the screen. Each of us names one place where we want to walk in greater honesty before God, and the group speaks a blessing of restoration over it.*
 

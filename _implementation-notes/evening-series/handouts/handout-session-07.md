@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 7: Hearing God in Scripture
+# Take-Home Sheet — Evening 6: Hearing God in Scripture
 
 ---
 

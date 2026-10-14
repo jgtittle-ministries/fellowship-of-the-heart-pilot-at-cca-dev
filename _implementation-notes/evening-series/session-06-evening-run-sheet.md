@@ -1,4 +1,4 @@
-# Session 6, Evening Form — SAFE AND BRAVE TOGETHER
+# Evening 5 — SAFE AND BRAVE TOGETHER
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-06-brave.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
@@ -26,9 +26,9 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 6, two weeks)
+## The homework handout (Evening 5, two weeks)
 
-1. **The homework practice, week one.** The Five-Minute Examen each evening — carried through the two weeks. And the round’s three questions go home with everyone, on no paper — keep, change, and what would you tell somebody — answered together at Week 7 (the room’s self-read, Handbook Section 8).
+1. **The homework practice, week one.** The Five-Minute Examen each evening — carried through the two weeks. And the round’s three questions go home with everyone, on no paper — keep, change, and what would you tell somebody — answered together at Evening 6 (the room’s self-read, Handbook Section 8).
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.

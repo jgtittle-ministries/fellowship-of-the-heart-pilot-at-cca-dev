@@ -1,11 +1,11 @@
-# Session 20, Evening Form — THE LONG WALK
+# Evening 15 — THE LONG WALK
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-20-long-walk.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
 carry the school session's content scaled into the evening frame; the leading
 team tunes the minutes and the leads at the planning lab before this session.**
 
-**Aim (from the school version).** Consolidate the year at the threshold of the sending. Three movements: the Companions-in-Formation teach the Signs Card and the Path Home Card to the whole room — their final rep before the Week 22 commissioning; the room walks back through its own year, journal in hand; and one-sentence testimonies are gathered, with real consent, for the two commissioning evenings. The Post-Series Survey goes home at the close.
+**Aim (from the school version).** Consolidate the year at the threshold of the sending. Three movements: the Companions-in-Formation teach the Signs Card and the Path Home Card to the whole room — their final rep before the Evening 17 commissioning; the room walks back through its own year, journal in hand; and one-sentence testimonies are gathered, with real consent, for the two commissioning evenings. The Post-Series Survey goes home at the close.
 
 **Anchor.** 
 
@@ -27,9 +27,9 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 20, two weeks)
+## The homework handout (Evening 15, two weeks)
 
-1. **The homework practice, week one.** Complete the Post-Series Survey (H20.1) — back in the bin at the Week 21 door. And one small errand that is really a teaching: find both mercy cards at home — the Signs Card and the Path Home Card — and show one other family member where they live.
+1. **The homework practice, week one.** Complete the Post-Series Survey (H20.1) — back in the bin at the Evening 16 door. And one small errand that is really a teaching: find both mercy cards at home — the Signs Card and the Path Home Card — and show one other family member where they live.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.

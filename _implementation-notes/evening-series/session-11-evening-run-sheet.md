@@ -1,4 +1,4 @@
-# Session 11, Evening Form — ANY DOUBTS?
+# Evening 8 — ANY DOUBTS?
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-11-doubts.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
@@ -27,7 +27,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:25-8:30 | Closing container reaffirmed; the next evening announced; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 11, two weeks)
+## The homework handout (Evening 8, two weeks)
 
 1. **The homework practice, week one.** Week one, the Personal Doubts Inventory: list 5–10 scriptures you say you believe, rate your honest trust 1–5, and write the specific doubt for the two or three lowest. No shame. Just data. Week two, two journal questions from the Four Connects deck: is there something I heard and did not obey? what is at risk for me to hear? Anything not sure to be God: the How Did You Know? card, in company. The Quarterly Pulse (H11.4) goes home tonight; bring it back next evening.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the

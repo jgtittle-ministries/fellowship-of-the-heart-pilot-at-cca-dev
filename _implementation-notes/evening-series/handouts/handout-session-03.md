@@ -1,4 +1,4 @@
-# Take-Home Sheet — Session 3: Telling your Story I
+# Take-Home Sheet — Evening 3: Telling your Story I
 
 ---
 

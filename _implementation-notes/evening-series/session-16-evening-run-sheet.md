@@ -1,4 +1,4 @@
-# Session 16, Evening Form — FAMILY CONVERSATION NIGHT
+# Evening 12 — FAMILY CONVERSATION NIGHT
 
 **AUTO-ADAPTED DRAFT from `docs/getting-started/week-16-family-night.md`, which keeps
 the full scripts, watch-fors, and crisis contingencies. The middle blocks below
@@ -26,9 +26,9 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
-## The homework handout (Session 16, two weeks)
+## The homework handout (Evening 12, two weeks)
 
-1. **The homework practice, week one.** Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at next Wednesday’s door. And keep the rhythm: the card you built in Week 15 is still the assignment.
+1. **The homework practice, week one.** Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at next Wednesday’s door. And keep the rhythm: the card you built in Evening 11 is still the assignment.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.
