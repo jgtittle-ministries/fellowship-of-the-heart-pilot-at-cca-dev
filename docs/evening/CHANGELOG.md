@@ -105,9 +105,11 @@ and 14–17.
 - **The front page** says the series was numbered by sessions until
   October, and that Evening 6 (set for October 13) has been rescheduled,
   with the new date to come.
-- **Left for John's word:** four lines that point families to "journal
-  Week N pages" (the evening series uses its own journals), and Evening 14's
-  references to "Week 19", whose rehearsal moved to the planning lab.
+- **Your own journal** (John's word): the lines in Evenings 4 and 6 that
+  pointed to the school journal's "Week 5" and "Week 7" pages now say your
+  own journal, with the PROAPT page of the take-home as the template.
+- **Still to discuss:** Evening 14's references to "Week 19", whose
+  rehearsal moved to the planning lab.
 
 ## v2.33 — October 13, 2026 — Session 11, Any Doubts?: checked against the Four Connects deck
 
