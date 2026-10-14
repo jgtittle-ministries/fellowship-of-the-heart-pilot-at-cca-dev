@@ -49,3 +49,4 @@ someone, what would I tell them?*
   leads hand off to an adult as needed.
 - The leads split the middle blocks at the planning lab; the Lead column
   above is the default, not the decision.
+- **The mercy-card rehearsal is the planning lab's set piece** (John's word, 13 October). Each Companion-in-Formation teaches their card in full, out loud, to John and their named catch, with the freeze-recovery practised once. It replaces the school series' Week 19 rehearsal in pairs.
