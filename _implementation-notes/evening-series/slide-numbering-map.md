@@ -25,10 +25,10 @@ renumber by rerunning the renumber script after any future insert.*
 | 15 | 215–229 |
 | 16 | 230–242 |
 | 17 | 243–255 |
-| 18 | 256–268 |
-| 19 | 269–283 |
-| 20 | 284–297 |
-| 21 | 298–309 |
-| 22 | 310–323 |
+| 18 | 256–269 |
+| 19 | 270–284 |
+| 20 | 285–298 |
+| 21 | 299–310 |
+| 22 | 311–324 |
 
-Total: 323 master pages (1 + 322 session pages).
+Total: 324 master pages (1 + 323 session pages).

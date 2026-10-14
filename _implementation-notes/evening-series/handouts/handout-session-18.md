@@ -36,10 +36,10 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 ## 3. The homework practice — week two
 
-Continue or deepen the same practice, as the session specifies; journal
-what happens.
+Keep the rhythm going. And start a list: who would you invite to the follow-up series?
+Names, not categories. Pray over the list before you ask anyone.
 
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials. **Done:** ☐
+Before we meet, finish this sentence in your journal: “Two people I’d invite to the follow-up series are ________ and ________, because ________.” **Done:** ☐
 

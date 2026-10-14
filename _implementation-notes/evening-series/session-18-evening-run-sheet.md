@@ -18,7 +18,8 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:08-7:25 | Check-in circle: two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:33 | Block 2: Not growing weary — Gal. 6:9, Phil. 1:6 | Content presenter; container holder watching the room |
 | 7:33-8:01 | Block 3: “What held” — the whole room | Content presenter; container holder watching the room |
-| 8:01-8:20 | Block 4: The final stretch — the map | Content presenter; container holder watching the room |
+| 8:01-8:08 | The final stretch — the map, and the sentence: "From here, the evenings stop holding you, and you start holding the practice." | Content presenter; container holder watching the room |
+| 8:08-8:20 | Ready, and Not Yet: write three questions (3); pairs within families, the parent first, then the parent names one place the teen is ready and one place to walk beside them (6); room round, one "ready" each (3) | Content presenter; container holder watching the room |
 | 8:20-8:24 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:24-8:28 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:28-8:30 | Closing container reaffirmed; Aaronic blessing. | Container holder |
