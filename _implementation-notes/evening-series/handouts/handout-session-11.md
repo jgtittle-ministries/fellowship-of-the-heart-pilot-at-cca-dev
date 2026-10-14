@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-Personal Doubts Inventory — one page in the journal listing scriptures I want to believe more than I currently do. No shame. Just data. Over the quarter break, one chosen daily practice carries the rhythm. And the Quarterly Pulse (H11.4) goes home tonight — one page, five minutes, back in the bin at The Return’s door in January.
+Week one, the Personal Doubts Inventory, twenty minutes once: list 5–10 scriptures you say you believe; rate your honest trust in each, 1–5; for the two or three lowest, write the specific doubt, then sit with it. No shame. Just data. Yours alone. The Quarterly Pulse (H11.4) goes home tonight: five minutes, honest; bring it back next evening.
 
 ## 2. The end-of-week-one check-in
 
@@ -36,10 +36,9 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 ## 3. The homework practice — week two
 
-Continue or deepen the same practice, as the session specifies; journal
-what happens.
+Two journal questions, on any nights you choose: Is there something I heard and did not obey? What is at risk for me to hear? Anything you’re not sure was God: test it with the How Did You Know? card, in company.
 
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials. **Done:** ☐
+Before we meet, finish this sentence in your journal: “One thing I heard that I will act on before we meet is ________.” **Done:** ☐
 

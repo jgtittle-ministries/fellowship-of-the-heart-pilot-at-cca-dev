@@ -76,6 +76,43 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.33 — October 13, 2026 — Session 11, Any Doubts?: checked against the Four Connects deck
+
+John asked for Any Doubts? to be checked the same way as the Garden. Its
+four steps (name, exaggerate, sit, re-read) were already on the slides and
+in the notes. Four pieces from the Four Connects deck (September 2025) were
+missing; all four are now in, and the school-year calendar is gone.
+
+- **The silent place,** a new slide and a Reading Card (Leader Notes), after
+  the pairs: settle; remember a time or place where God seemed silent;
+  bring in the time you heard (remembered at the Garden evening); invite
+  Jesus into the silent place with permission to do or say anything he
+  wishes, then about three minutes of silence; write; share, optional.
+  From "Hearing God — The How" (slide 27, saved for this evening in v2.30).
+- **Blocking, and the downside** (from "Connect with God"): the silent
+  place's writing asks: is something blocking, or in the way? what might be
+  the downside of a deeper connection?
+- **The Garden thread received.** The check-in now takes the Garden
+  take-home's preparation sentence ("one thing I'm not sure was God"),
+  said aloud or kept for the pair. The teaching names two kinds of doubt:
+  doubting what God has said (the four steps), and doubting whether I heard
+  him (the How Did You Know? checks, in company).
+- **Two journal questions for week two** (from "Hearing God — What If?"): is
+  there something I heard and did not obey? what is at risk for me to hear?
+  The preparation sentence: "One thing I heard that I will act on before
+  we meet is ___."
+- **The clock:** check-in 7:06–7:14, Mark 9 7:14–7:20, teaching 7:20–7:28,
+  pairs 7:30–7:56 (about twelve minutes a turn), the silent place
+  7:56–8:09, merge 8:09–8:15, homework 8:15–8:21, feedback 8:21–8:25, close
+  8:25–8:30.
+- **The school calendar stripped:** no "midpoint, eleven behind, eleven
+  ahead", no quarter break, no Christmas, no January; the Quarterly Pulse
+  comes back next evening; the close announces the next evening's date as
+  the team sets it.
+- **Renumbered:** Session 11 is pages 159–175 and every later session moved
+  up one (323 pages). Leader notes rebuilt for Sessions 11–22; the slide
+  numbering map and its Word rendition updated.
+
 ## v2.32 — October 13, 2026 — Sessions 9–10: the garden checked against the Four Connects process
 
 John asked for the garden to be checked against the Four Connects deck's
