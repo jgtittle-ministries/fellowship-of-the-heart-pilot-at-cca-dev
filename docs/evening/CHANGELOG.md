@@ -94,6 +94,9 @@ of evil.
   does not.
 - **The Evening Handbook** points to the new example from its backstop
   section, and says the protocols cover guests too.
+- **The quick-reference cards** at the back of the Companion Handbook
+  carry a five-line version, and **the Adult FotH handbook** carries the
+  same example and item 4 change, read through the Adult Register Key.
 
 ## v2.39 — October 14, 2026 — Evenings 1 and 2, two evenings
 

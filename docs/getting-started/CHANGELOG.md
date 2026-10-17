@@ -19,7 +19,9 @@ evil presence, or fear of a place. Thank them and do not explore it in the room;
 afterward in Jesus' name, two adults with any teen; bring the parent in the same day; remember that
 not every bad night is an attack, and refer if it persists; voices urging self-harm go to the crisis
 protocol, and anything more than oppression to the pastoral covering. *What we hold back*, item 4,
-now says plainly that praying the ordinary protection with a frightened person belongs here.
+now says plainly that praying the ordinary protection with a frightened person belongs here. A five-line
+version joins the quick-reference cards at the back of the handbook. The Adult FotH handbook carries the
+same example, item 4 change and card, read through the Adult Register Key.
 
 # 8 October 2026 — Carried over from the Evening: Weeks 5–8
 

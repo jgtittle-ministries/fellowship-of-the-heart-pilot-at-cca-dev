@@ -1526,6 +1526,14 @@ Print on cardstock and laminate. Every Companion carries one in their session ba
 4. Refer out as needed.
 5. Loop in parent within a week unless safety concerns dictate otherwise.
 
+## If someone reports oppression from outside (Handbook §6)
+
+1. Thank them: “Thank you for telling us. We’ll pray about that with you after.” Do not explore it in the room.
+2. Afterward, pray with them in Jesus’ name for protection and peace. Two adults present, never one alone. No rituals.
+3. Bring the parent in the same day.
+4. Not every bad night is an attack. Never tell someone they are oppressed. Refer to pastoral or clinical care if it persists.
+5. Voices urging self-harm, or a plan to hurt anyone: run the crisis protocol. The occult, or anything more: the pastoral covering.
+
 ## If a practice overwhelms someone — the Settle Protocol (Handbook §6)
 
 1. **Stop.** Plain, directive words: “Let’s stop here. You don’t have to go any further.” No open-ended questions.
