@@ -76,13 +76,6 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
-## v2.42 — October 26, 2026 — the daily rhythm underneath
-
-John's word (26 October), after the IJH Council of 25 October took up a common practice that John judged better than what the evenings had.
-
-- **The Evening Handbook** gains *The daily rhythm underneath*, in the two-week take-home: a morning time with God and one word to carry; a small stone in the pocket as the reminder through the day; an evening question, where did the word show up? The session's homework practice sits inside it, and check-in partners can share their words as well as their boxes.
-- The printed take-home sheets are not yet changed.
-
 ## v2.41 — October 19, 2026 — Evening 6 on Monday, October 26
 
 John's word (19 October): the rescheduled Evening 6, *Hearing God in

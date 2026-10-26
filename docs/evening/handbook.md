@@ -172,16 +172,6 @@ each session's page here carries the same content.
 And the standing closer, every cycle: *a missed box is never a failure —
 it is an invitation to return.*
 
-### The daily rhythm underneath
-
-Underneath every take-home sits one daily rhythm, simple enough for anyone in the room:
-
-- **In the morning,** some time with God: read, listen, journal, pray. Take one word from it to carry through the day.
-- **During the day,** a reminder to pay attention. Each person gets a small stone to keep in a pocket. When your hand finds it, remember the word, and the One who gave it.
-- **In the evening,** before you sleep, ask: where did the word show up today? What did it change? Where did I miss it?
-
-The session's homework practice sits inside this rhythm, usually in the morning time. At the end-of-week-one check-in, partners can share their words as well as their boxes. The rhythm comes from the Council of the Intentional Journey of the Heart, which took it up as its own common practice in October 2026.
-
 ## The leadership window (8:30–9:00)
 
 After the closing blessing, the evening turns to the leaders:
