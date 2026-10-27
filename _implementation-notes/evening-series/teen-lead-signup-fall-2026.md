@@ -16,13 +16,13 @@ previous meeting's dinner or by phone in the off week.
 |---|---|---|---|---|
 | 1 | Sep 15 | Evening 4 — Knowing and Being Known (walked) | _________________ | _________________ |
 | 2 | Oct 7 (Wed) | Evening 5 — Safe and Brave Together (walked) | _________________ | _________________ |
-| 3 | Oct 26 (Mon) | Evening 6 — Hearing God in Scripture | _________________ | _________________ |
-| 4 | Date to come | Evening 7 — The Garden of Your Heart | _________________ | _________________ |
+| 3 | Oct 26 (Mon) | Evening 6 — Hearing God in Scripture (walked) | _________________ | _________________ |
+| 4 | Nov 10 (Mon) | Evening 7 — The Garden of Your Heart | _________________ | _________________ |
 | 5 | Date to come | Evening 8 — Any Doubts? | _________________ | _________________ |
 | 6 | Date to come | _________________ | _________________ | _________________ |
 | 7 | Date to come | _________________ | _________________ | _________________ |
 
-*Dates after October 26 are set at the planning lab before each evening,
+*Dates after November 10 are set at the planning lab before each evening,
 with the families; the Thanksgiving and Christmas breaks are being decided.
 Signing up is a yes to the planning walk-through too. An adult
 is always the backstop, and handing off to an adult is always the right
