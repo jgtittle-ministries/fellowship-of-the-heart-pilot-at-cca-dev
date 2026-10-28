@@ -81,7 +81,10 @@ for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Home
     m3 = re.match(r"FotH Pilot Session (\d+) PROAPT Handout DRAFT v1\.docx$", base)
     m4 = re.match(r"FotH Pilot Session ([\d-]+) (Breakout Card|Pair Card|Reading Card) DRAFT v1\.docx$", base)
     m5 = re.match(r"FotH Pilot Session (\d+) How Did You Know Card DRAFT v1\.docx$", base)
-    if m5:
+    m6 = re.match(r"FotH Pilot Session (\d+) Practices So Far Card DRAFT v1\.docx$", base)
+    if m6:
+        dst = place("Take-Home Sheets", m6.group(1), HANDOUT, "{} \u2014 The Practices So Far.docx")
+    elif m5:
         dst = place("Take-Home Sheets", m5.group(1), HANDOUT, "{} \u2014 How Did You Know.docx")
     elif m4:
         dst = place("Leader Notes", m4.group(1), HANDOUT, "{} \u2014 %s.docx" % m4.group(2))
