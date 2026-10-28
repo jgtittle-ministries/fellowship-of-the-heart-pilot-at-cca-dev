@@ -91,6 +91,9 @@ were too brief for people to remember what the practices were.
   carries the same three parts for each practice.
 - **The decks' notes** for the long-gap slide (Evening 7) and the homework
   slide (Evening 8) say the same; leader notes rebuilt.
+- **Evening 5's entry** now says each of us named "one place, pattern or
+  pull" to walk in greater honesty (John's word: a powerful shape to help
+  decide).
 
 ## v2.50 — October 28, 2026 — the Pulse dropped from the evening form
 

@@ -36,7 +36,7 @@ Every practice we have walked since August. For each one: what we did that eveni
 
 ## The Five-Minute Examen · Evening 5 — Safe and Brave Together
 
-**That evening.** Confession and restoration as a community practice (James 5:16; 1 John 1:9). Each of us named one place to walk in greater honesty, the place and not the details, and the circle spoke a blessing over it.
+**That evening.** Confession and restoration as a community practice (James 5:16; 1 John 1:9). Each of us named one place, pattern or pull where we want to walk in greater honesty, not the details, and the circle spoke a blessing over it.
 
 **The homework.** Each evening before bed: thank him for one specific thing; notice one place you saw God moving; ask him about one place you walked in less honesty than you wanted to. Just notice; the Spirit does the work.
 
