@@ -22,14 +22,14 @@ team tunes the minutes and the leads at the planning lab before this session.**
 | 7:30-7:56 | Any Doubts? in pairs within families: one full cycle each way, about 12 minutes a turn, parent first | Content presenter; container holder watching the room |
 | 7:56-8:09 | The silent place (Reading Card): settle; remember where God seemed silent; bring in the time you heard; invite Jesus in, with permission to do or say anything he wishes, about three minutes of silence; write (is something blocking? the downside of a deeper connection?); share, optional | Content presenter reads; container holder watching the room |
 | 8:09-8:15 | Merge and surface: one word about the practices | Container holder leads the merge; content presenter supporting |
-| 8:15-8:21 | Homework commissioning: the four-part handout walked; check-in partners named aloud; the Pulse goes home. | Content presenter |
+| 8:15-8:21 | Homework commissioning: the four-part handout walked; check-in partners named aloud. | Content presenter |
 | 8:21-8:25 | Leader Feedback Round, both leaders: what went well, what I would do differently, the teach-back. | Both leaders |
 | 8:25-8:30 | Closing container reaffirmed; the next evening announced; Aaronic blessing. | Container holder |
 | 8:30-9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning the next meeting. | Everyone; John holds the debrief |
 
 ## The homework handout (Evening 8, two weeks)
 
-1. **The homework practice, week one.** Week one, the Personal Doubts Inventory: list 5–10 scriptures you say you believe, rate your honest trust 1–5, and write the specific doubt for the two or three lowest. No shame. Just data. Week two, two journal questions from the Four Connects deck: is there something I heard and did not obey? what is at risk for me to hear? Anything not sure to be God: the How Did You Know? card, in company. The Quarterly Pulse (H11.4) goes home tonight; bring it back next evening.
+1. **The homework practice, week one.** Week one, the Personal Doubts Inventory: list 5–10 scriptures you say you believe, rate your honest trust 1–5, and write the specific doubt for the two or three lowest. No shame. Just data. Week two, two journal questions from the Four Connects deck: is there something I heard and did not obey? what is at risk for me to hear? Anything not sure to be God: the How Did You Know? card, in company.
 2. **The end-of-week-one check-in.** At the end of week one, connect with the
    partner you named at commissioning and report how it's going against the
    practice.

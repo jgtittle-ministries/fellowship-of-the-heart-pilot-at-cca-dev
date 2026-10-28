@@ -20,8 +20,7 @@ me to notice?" Evening, one journal line: "What did I notice today?"
 
 The Personal Doubts Inventory, twenty minutes once: list 5–10 scriptures you say
 you believe; rate your trust in each, 1–5; for the lowest two or three, write the
-specific doubt and sit with it. No shame; just data. The Quarterly Pulse (H11.4)
-goes home tonight: five minutes, honest; bring it to The Return.
+specific doubt and sit with it. No shame; just data. The list stays with you.
 
 ## 2. The end-of-week-one check-in
 
