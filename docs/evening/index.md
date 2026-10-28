@@ -30,11 +30,13 @@ opened the second movement, *Connect with God*.
 ([lesson plan](../getting-started/week-09-garden.md)), on **Tuesday,
 November 10**.
 
-**Then:** Evening 8, *Any Doubts?*, at the next evening after that; the
-date is to come.
+**Then:** no evening over Thanksgiving. Evening 8, *Any Doubts?*, is
+expected on **Tuesday, December 8** (to be confirmed), the one evening in
+December.
 
-**After that,** about every two weeks. Each date is set at the planning lab
-before it. Holiday breaks around Thanksgiving and Christmas are being decided.
+**After that,** a Christmas break, and Evening 9, *The Return*, in January.
+From there, about every two weeks. Each date is set at the planning lab
+before it.
 
 If you were invited, you are welcome, and you are welcome to bring
 someone. **Bring:** a notebook or journal, and yourself. Dinner is
@@ -104,8 +106,8 @@ Started series.
 | 5 — [Safe and Brave Together](session-06-safe-and-brave-together.md) | Wed Oct 7 | Walked: closed the first movement |
 | 6 — [Hearing God in Scripture](session-07-08-hearing-god-in-scripture.md), PROAPT I & II in one evening | Mon Oct 26 (moved from Tue Oct 13) | Walked: opened the second movement |
 | 7 — The Garden of Your Heart ([lesson plan](../getting-started/week-09-garden.md)) | Tue Nov 10 | **Next** |
-| 8 — [Any Doubts?](../getting-started/week-11-doubts.md) | Date to come | Then |
-| 9 — [The Return](../getting-started/week-12-return.md) | | Ahead |
+| 8 — [Any Doubts?](../getting-started/week-11-doubts.md) | Tue Dec 8 (expected) | Then |
+| 9 — [The Return](../getting-started/week-12-return.md) | January, after the Christmas break | Ahead |
 | 10 — [What Was Prepared for You](../getting-started/week-13-mission.md) | | Ahead |
 | 11 — [The Rhythm and the Four Questions](../getting-started/week-15-rhythm.md) | | Ahead |
 | 12 — [Family Conversation Night](../getting-started/week-16-family-night.md) | | Ahead |

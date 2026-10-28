@@ -76,6 +76,13 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.45 — October 28, 2026 — Evening 8 expected on Tuesday, December 8
+
+John's word (28 October): no evening over Thanksgiving week. Evening 8,
+*Any Doubts?*, is expected on Tuesday, December 8, not yet confirmed, and is
+the one evening in December. A Christmas break follows, and Evening 9,
+*The Return*, opens January. The front page and the road table say so.
+
 ## v2.44 — October 27, 2026 — the merge shares what was heard (Evening 6 debrief)
 
 John's word (27 October): the merge after the pairs now invites each person
