@@ -22,6 +22,7 @@ import io
 import json
 import os
 import re
+import shutil
 import sys
 import zipfile
 
@@ -40,6 +41,26 @@ SERIES = {
     "shared": "Shared materials",
 }
 SKIP = {"index.md", "CHANGELOG.md", "cca-2026-27-calendar.md"}
+# the CCA pilot's measurement instruments (John's word, 2 November 2026: instruments only — not the
+# consent, covenant, crisis, referral, profile or interview pages), copied from the Word source of truth
+CCA = (r"C:\Users\jgtit\OneDrive\Documents\Intentional Journey of the Heart\Fellowship of the Heart"
+       r"\CCA Pilot\FotH Getting Started - ")
+INSTRUMENTS = [
+    ("Measurement Map 2026-27.docx", "instrument-measurement-map.docx",
+     "The Measurement Map", "the year at a glance: what is measured, when, and the guards around it"),
+    ("Pre-Series Survey (on each family's yes).docx", "instrument-pre-series-survey.docx",
+     "The Pre-Series Survey", "the before, on each family's yes"),
+    ("Quarterly Pulse - Quarter 1 (Week 6, H6.3).docx", "instrument-pulse-1.docx",
+     "Quarterly Pulse 1", "Week 6, three questions"),
+    ("Quarterly Pulse - Midpoint (Week 11, H11.4).docx", "instrument-pulse-2-midpoint.docx",
+     "Quarterly Pulse 2, the Midpoint", "Week 11, three questions"),
+    ("Quarterly Pulse - Pulse 3 (Week 16, H16.1).docx", "instrument-pulse-3.docx",
+     "Quarterly Pulse 3", "Week 16, three questions"),
+    ("Post-Series Survey (Week 20, H20.1).docx", "instrument-post-series-survey.docx",
+     "The Post-Series Survey", "the after, Week 20"),
+    ("Practice Check-Off Cards - Weeks 1-22.docx", "instrument-practice-check-off-cards.docx",
+     "The Practice Check-Off Cards", "Weeks 1–22; they go home and are never collected"),
+]
 STAMP = "> **Downloads** · "
 CACHE = "tools/.series-downloads-cache.json"
 
@@ -173,6 +194,13 @@ def main():
             if new != md:
                 io.open(path, "w", encoding="utf-8", newline="\n").write(new)
             pages.append((name, docx_name))
+        if folder == "getting-started":
+            for srcname, web, _, _ in INSTRUMENTS:
+                keep.add(web)
+                s, d = CCA + srcname, os.path.join(dl, web)
+                if os.path.exists(s) and (not os.path.exists(d) or open(s, "rb").read() != open(d, "rb").read()):
+                    shutil.copyfile(s, d)
+                    print("instr ", web)
         if folder != "shared":
             zname = folder.replace("/", "-") + ".zip"
             keep.add(zname)
@@ -217,6 +245,11 @@ def index_section(folder, label, pages):
             s.append("- [The full slide deck, all twenty-two weeks (PowerPoint)](gs-session-slides-v1.5.pptx); "
                      "each week's page also has just that week's slides.")
             s.append("- [The Weekly Companion Debrief Sheets (Word)](gs-weekly-companion-debrief-sheets.docx)")
+            s += ["", "**The measurement instruments.** What the pilot asks of families, and when. Each is "
+                  "used only on a family's yes, under the [Measurement Covenant](../shared/measurement-covenant.md); "
+                  "the full plan is Section 8 of the [Handbook](handbook.md).", ""]
+            for _, web, label_, what in INSTRUMENTS:
+                s.append("- [%s (Word)](downloads/%s) — %s." % (label_, web, what))
     sec = "\n".join(s) + "\n"
     md = re.sub(r"\n## Downloads\n.*?(?=\n## )", "", md, flags=re.S)
     i = md.find("\n## ")

@@ -24,6 +24,16 @@ Everything for Getting Started (CCA pilot), current with these pages. Each lesso
 - [The full slide deck, all twenty-two weeks (PowerPoint)](gs-session-slides-v1.5.pptx); each week's page also has just that week's slides.
 - [The Weekly Companion Debrief Sheets (Word)](gs-weekly-companion-debrief-sheets.docx)
 
+**The measurement instruments.** What the pilot asks of families, and when. Each is used only on a family's yes, under the [Measurement Covenant](../shared/measurement-covenant.md); the full plan is Section 8 of the [Handbook](handbook.md).
+
+- [The Measurement Map (Word)](downloads/instrument-measurement-map.docx) — the year at a glance: what is measured, when, and the guards around it.
+- [The Pre-Series Survey (Word)](downloads/instrument-pre-series-survey.docx) — the before, on each family's yes.
+- [Quarterly Pulse 1 (Word)](downloads/instrument-pulse-1.docx) — Week 6, three questions.
+- [Quarterly Pulse 2, the Midpoint (Word)](downloads/instrument-pulse-2-midpoint.docx) — Week 11, three questions.
+- [Quarterly Pulse 3 (Word)](downloads/instrument-pulse-3.docx) — Week 16, three questions.
+- [The Post-Series Survey (Word)](downloads/instrument-post-series-survey.docx) — the after, Week 20.
+- [The Practice Check-Off Cards (Word)](downloads/instrument-practice-check-off-cards.docx) — Weeks 1–22; they go home and are never collected.
+
 ## The twenty-two weeks
 
 **Quarter 1 — Self and Others**
