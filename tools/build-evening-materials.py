@@ -26,9 +26,10 @@ OUT = DOCS + "/materials"
 PAGES = {1: "session-01-welcome-to-the-journey.md", 2: "session-02-the-soil-of-your-heart.md",
          3: "session-03-04-telling-your-story.md", 4: "session-05-knowing-and-being-known.md",
          5: "session-06-safe-and-brave-together.md", 6: "session-07-08-hearing-god-in-scripture.md",
-         7: "session-09-10-the-garden-of-your-heart.md", 8: "session-11-any-doubts.md"}
-WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7, "11": 8}
-HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8}
+         7: "session-09-10-the-garden-of-your-heart.md", 8: "session-11-any-doubts.md",
+         9: "session-11a-heart-bible-study.md"}
+WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7, "11": 8, "11a": 9}
+HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9}
 
 # kind: (label, what it is for, "room" = goes home with everyone, "leads" = for the two leads)
 KINDS = {
@@ -37,6 +38,7 @@ KINDS = {
     "how-did-you-know-card": ("How Did You Know? card", "the checks for testing what you heard", "room"),
     "road-so-far-handout": ("The Road So Far", "the first movement on one page", "room"),
     "proapt-handout": ("PROAPT — what each step is for", "the scripture practice, step by step", "room"),
+    "heart-bible-study-handout": ("Heart Bible Study — what each step is for", "the group practice, step by step, for the family table", "room"),
     "slides": ("Slides", "the room screen, with the leader's notes under each slide", "leads"),
     "run-sheet": ("Run sheet", "the clock: each block, its time, and who leads it", "leads"),
     "leader-notes": ("Leader notes", "what to say and watch for, slide by slide", "leads"),
@@ -59,7 +61,7 @@ def collect():
             if m and m.group(1) in WALK:
                 found.setdefault(WALK[m.group(1)], []).append((kind, p))
     for p in glob.glob(SRC + "/handouts/*.docx"):
-        m = re.match(r"FotH Pilot Session ([\d-]+) (.+?) DRAFT v1\.docx$", os.path.basename(p))
+        m = re.match(r"FotH Pilot Session ([\da-z-]+) (.+?) DRAFT v1\.docx$", os.path.basename(p))
         if m and m.group(1) in HANDOUT:
             kind = "take-home" if m.group(2) == "Homework Handout" else m.group(2).lower().replace(" ", "-")
             if kind in KINDS:

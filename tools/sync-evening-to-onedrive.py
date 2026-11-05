@@ -41,9 +41,9 @@ RULES = [
 # and 16 (Carrying the Word), all inserted 5 November 2026, have no session
 # files yet.
 WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7,
-        "11": 8, "12": 10, "13": 12, "15": 14, "16": 15, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
+        "11": 8, "11a": 9, "12": 10, "13": 12, "15": 14, "16": 15, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
 # handouts and cards, by the session number in their filename
-HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "12": 10,
+HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9, "12": 10,
            "13": 12, "15": 14, "16": 15, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
 SPARES = "Spares \u2014 two-session forms"
 
@@ -82,13 +82,16 @@ for path in sorted(glob.glob(SRC + "/*")):
 
 for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Homework Handout Template*.docx")):
     base = os.path.basename(path)
-    m = re.match(r"FotH Pilot Session (\d+) Homework Handout DRAFT v1\.docx$", base)
+    m = re.match(r"FotH Pilot Session (\d+a?) Homework Handout DRAFT v1\.docx$", base)
     m2 = re.match(r"FotH Pilot Session (\d+) Road So Far Handout DRAFT v1\.docx$", base)
     m3 = re.match(r"FotH Pilot Session (\d+) PROAPT Handout DRAFT v1\.docx$", base)
-    m4 = re.match(r"FotH Pilot Session ([\d-]+) (Breakout Card|Pair Card|Reading Card) DRAFT v1\.docx$", base)
+    m4 = re.match(r"FotH Pilot Session ([\d-]+a?) (Breakout Card|Pair Card|Reading Card) DRAFT v1\.docx$", base)
+    m7 = re.match(r"FotH Pilot Session (\d+a?) Heart Bible Study Handout DRAFT v1\.docx$", base)
     m5 = re.match(r"FotH Pilot Session (\d+) How Did You Know Card DRAFT v1\.docx$", base)
     m6 = re.match(r"FotH Pilot Session (\d+) Practices So Far Card DRAFT v1\.docx$", base)
-    if m6:
+    if m7:
+        dst = place("Take-Home Sheets", m7.group(1), HANDOUT, "{} — Heart Bible Study, What Each Step Is For.docx")
+    elif m6:
         dst = place("Take-Home Sheets", m6.group(1), HANDOUT, "{} \u2014 The Practices So Far.docx")
     elif m5:
         dst = place("Take-Home Sheets", m5.group(1), HANDOUT, "{} \u2014 How Did You Know.docx")

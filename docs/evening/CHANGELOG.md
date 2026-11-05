@@ -76,6 +76,21 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.57 — November 5, 2026 — Evening 9's materials
+
+The full set for Evening 9, Heart Bible Study, drafted for John's review and
+posted in the page's Materials section:
+
+- **Slides** (17), made from Evening 6's deck. Corner pages are H1–H17,
+  because this evening has no school-series session and sits outside the
+  series' one numbering. The last slide is the Mission and Rhythm divider,
+  moved here from Evening 8.
+- **Run sheet**, **leader notes** (built from the deck), a **reading card**
+  for the content presenter and the three readers, the **take-home sheet**,
+  and **Heart Bible Study, What Each Step Is For** for the family table.
+- **Tools:** the materials and OneDrive sync tools now take the evening's
+  file key "11a"; the leader-notes tool explains the H numbering.
+
 ## v2.56 — November 5, 2026 — Evening 16: Carrying the Word, and the walk at twenty-one
 
 John's word (5 November): an evening for learning Scripture by heart, as

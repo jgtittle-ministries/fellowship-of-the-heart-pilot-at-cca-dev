@@ -149,7 +149,12 @@ def build(deck):
     letter = rest[0][0] if rest and rest[0][:1].isalpha() else ""
     np_ = para(d, after=4)
     run(np_, "Reading the numbers. ", 9, True, GREEN)
-    if letter:
+    if letter and session.endswith("a"):
+        run(np_, f"Match the big number on each block to the number in the bottom-right corner of the screen. This "
+            f"evening belongs to the evening form alone, with no school-series session behind it, so its slides are "
+            f"numbered with a letter: {rest[0]}–{rest[-1]}, outside the series' one continuous numbering. The first "
+            f"slide, the series title, is “Title” here.", 9, None, GREY)
+    elif letter:
         run(np_, f"Match the big number on each block to the number in the bottom-right corner of the screen. This is "
             f"a combined evening, so its slides are numbered with a letter: {rest[0]}–{rest[-1]}. The letter keeps "
             f"this deck outside the series' one continuous numbering; the separate two-evening versions of these "
