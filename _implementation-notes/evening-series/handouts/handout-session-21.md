@@ -1,4 +1,4 @@
-# Take-Home Sheet — Evening 19: Sending and Blessing
+# Take-Home Sheet — Evening 20: Sending and Blessing
 
 ---
 

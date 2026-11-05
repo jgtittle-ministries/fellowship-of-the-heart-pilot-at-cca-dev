@@ -109,6 +109,11 @@ window.SERIES = [
         "edition": "v1"
       },
       {
+        "path": "docs/evening/session-16a-carrying-the-word.md",
+        "title": "Evening 16 — Carrying the Word",
+        "edition": "v1"
+      },
+      {
         "path": "docs/evening/CHANGELOG.md",
         "title": "Change Log",
         "edition": "v1"
@@ -1042,6 +1047,15 @@ window.PATH_TO_INFO = {
     "title": "Evening 13 — Serving Together",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-12a-doing-the-word.md",
+    "next": "docs/evening/session-16a-carrying-the-word.md"
+  },
+  "docs/evening/session-16a-carrying-the-word.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 16 — Carrying the Word",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-13a-serving-together.md",
     "next": "docs/evening/CHANGELOG.md"
   },
   "docs/evening/CHANGELOG.md": {
@@ -1050,7 +1064,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Change Log",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-13a-serving-together.md"
+    "prev": "docs/evening/session-16a-carrying-the-word.md"
   },
   "docs/cca/index.md": {
     "seriesId": "cca",

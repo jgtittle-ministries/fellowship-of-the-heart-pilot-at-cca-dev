@@ -1,4 +1,4 @@
-# Take-Home Sheet — Evening 16: The Float
+# Take-Home Sheet — Evening 17: The Float
 
 ---
 
@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-A break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The Return II (Evening 17) will ask what held.
+A break follows tonight. Everyone carries ONE practice through the break deliberately — chosen tonight, spoken in the close, written in the journal. The Return II (Evening 18) will ask what held.
 
 ## 2. The end-of-week-one check-in
 
@@ -41,5 +41,5 @@ what happens.
 
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials. **Done:** ☐
+Before The Return II: on the last day of the break, say your family's passage together and notice how much of it carried. **Done:** ☐
 

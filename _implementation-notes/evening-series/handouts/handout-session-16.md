@@ -41,5 +41,5 @@ what happens.
 
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials. **Done:** ☐
+Before Evening 16, Carrying the Word: talk as a family about which passage you might learn by heart together. **Done:** ☐
 

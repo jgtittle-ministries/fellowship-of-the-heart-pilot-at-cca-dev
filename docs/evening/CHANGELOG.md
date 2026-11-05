@@ -76,6 +76,49 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.56 — November 5, 2026 — Evening 16: Carrying the Word, and the walk at twenty-one
+
+John's word (5 November): an evening for learning Scripture by heart, as
+families, just before the Float. Nothing in the evenings or the school
+series taught Scripture memory. Deuteronomy 6:6–9 is the design in one
+sentence: the Word on the heart, taught to children at home, in the
+sitting, walking, lying down and rising. Psalm 119:11 and Colossians 3:16
+stand beside it. It serves the goal of helping it stick for the next
+generation: a verse carried by heart is the most portable thing a teen can
+take out of the series.
+
+| Evening | 1–15 | 16 | 17 | 18 | 19 | 20 | 21 |
+|---|---|---|---|---|---|---|---|
+| Was Evening (v2.55) | 1–15 | new | 16 | 17 | 18 | 19 | 20 |
+| School session | as before | none | 17 | 18 | 20 | 21 | 22 |
+
+The four movements are now Evenings 1–5, 6–9, 10–17 and 18–21.
+
+- **New page:** [Evening 16 — Carrying the Word](session-16a-carrying-the-word.md):
+  choosing the passage (from the family's own journey, two to four verses,
+  every age carrying what it can), the teens teaching the room how to
+  memorize, family tables, each family saying its passage to the room, and
+  the take-home (said daily together at a named moment). Guards: no
+  contests, no grading, no shame; parents first; the Word, not a
+  performance. Its slides, run sheet, leader notes and take-home sheet are
+  still to build.
+- **Renumbered:** the old Evenings 16–20, now 17–21, everywhere people see
+  them; leader notes rebuilt; OneDrive resynced, and the old Evening 16
+  files (The Float) archived in a folder that says so.
+- **Evening 15, Family Conversation Night:** its preparation sentence asks
+  each family to talk over which passage it might learn by heart.
+- **Evening 17, The Float:** each family says its passage first, and it is
+  the first practice offered to carry through the break; the preparation
+  sentence asks families to say it together on the last day of the break.
+- **Evening 18, The Return II:** each family says its passage once, as far
+  as it carried, before the room's "what held" sentences. What carried is
+  data, tallied without names: a plain reading of whether the Word
+  survived the break.
+- **Length:** at every two weeks from January, plus the break after the
+  Float, the walk now runs into early summer. The recommendation with
+  this insert: further reinforcement is better placed in take-homes inside
+  existing evenings than in new evenings.
+
 ## v2.55 — November 5, 2026 — Evening 13: Serving Together, and the walk at twenty
 
 John's word (5 November): an evening where the room leaves the table and

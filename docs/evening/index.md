@@ -8,9 +8,10 @@ title: "FotH Evening"
 
 *This page is kept current: it is updated after each evening's debrief.
 Last updated 5 November 2026. Evenings were numbered as Sessions until
-October; the series is now numbered Evening 1 to 20. On 5 November three
+October; the series is now numbered Evening 1 to 21. On 5 November four
 evenings were added, Heart Bible Study as Evening 9, Doing the Word as
-Evening 11 and Serving Together as Evening 13, and the others moved down.*
+Evening 11, Serving Together as Evening 13 and Carrying the Word as
+Evening 16, and the others moved down.*
 
 ---
 
@@ -95,7 +96,7 @@ named partner at the end of week one.
 ## The road
 
 The group walks the [current-condition walk](handbook.md#the-current-condition-walk):
-the full series, fitted to the room it has, in twenty evenings. Some
+the full series, fitted to the room it has, in twenty-one evenings. Some
 second runnings fold into their firsts, and the full two-session forms stand
 in reserve for a larger room. Each evening links to its page where one is
 published, and otherwise to the full Companion lesson plan in the Getting
@@ -122,17 +123,18 @@ cards, always the current versions. Start there.
 | 13 — [Serving Together](session-13a-serving-together.md) | | Ahead: added 5 November |
 | 14 — [The Rhythm and the Four Questions](../getting-started/week-15-rhythm.md) | | Ahead |
 | 15 — [Family Conversation Night](../getting-started/week-16-family-night.md) | | Ahead |
-| 16 — [The Float](../getting-started/week-17-float.md) | | Ahead |
-| 17 — [The Return II](../getting-started/week-18-return-2.md) | | Ahead |
-| 18 — [The Long Walk](../getting-started/week-20-long-walk.md) | | Ahead |
-| 19 — [Sending and Blessing](../getting-started/week-21-sending.md) | | Ahead |
-| 20 — [Commissioning the Companions](../getting-started/week-22-commissioning.md) | | Ahead |
+| 16 — [Carrying the Word](session-16a-carrying-the-word.md) | | Ahead: added 5 November |
+| 17 — [The Float](../getting-started/week-17-float.md) | | Ahead |
+| 18 — [The Return II](../getting-started/week-18-return-2.md) | | Ahead |
+| 19 — [The Long Walk](../getting-started/week-20-long-walk.md) | | Ahead |
+| 20 — [Sending and Blessing](../getting-started/week-21-sending.md) | | Ahead |
+| 21 — [Commissioning the Companions](../getting-started/week-22-commissioning.md) | | Ahead |
 
 The four movements: Evenings 1–5, *Connect with Self and Others*; 6–9,
-*Connect with God*; 10–16, *Mission and Rhythm*; 17–20, *Consolidation and
-Sending*. Evening 9, Heart Bible Study, Evening 11, Doing the Word, and
-Evening 13, Serving Together, belong to the evening form alone: the school
-series has no session for them. The school series' second runnings A and B are not separate
+*Connect with God*; 10–17, *Mission and Rhythm*; 18–21, *Consolidation and
+Sending*. Evenings 9, 11, 13 and 16 (Heart Bible Study, Doing the Word,
+Serving Together and Carrying the Word) belong to the evening form alone:
+the school series has no session for them. The school series' second runnings A and B are not separate
 evenings here: every evening already gives willing teens a full leading rep,
 and the rehearsal moved to the planning lab.
 
