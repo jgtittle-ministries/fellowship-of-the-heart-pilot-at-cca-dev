@@ -2,7 +2,7 @@
 
 ---
 
-**To The Return in January. The standing practice — every day, as you can.**
+**To January: Heart Bible Study, then The Return. The standing practice — every day, as you can.**
 Morning, five minutes: "Lord, what are you up to today, and what do you want
 me to notice?" Evening, one journal line: "What did I notice today?"
 

@@ -94,6 +94,11 @@ window.SERIES = [
         "edition": "v1"
       },
       {
+        "path": "docs/evening/session-11a-heart-bible-study.md",
+        "title": "Evening 9 — Heart Bible Study",
+        "edition": "v1"
+      },
+      {
         "path": "docs/evening/CHANGELOG.md",
         "title": "Change Log",
         "edition": "v1"
@@ -1000,6 +1005,15 @@ window.PATH_TO_INFO = {
     "title": "Evening 8 — Any Doubts?",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-09-10-the-garden-of-your-heart.md",
+    "next": "docs/evening/session-11a-heart-bible-study.md"
+  },
+  "docs/evening/session-11a-heart-bible-study.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 9 — Heart Bible Study",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-11-any-doubts.md",
     "next": "docs/evening/CHANGELOG.md"
   },
   "docs/evening/CHANGELOG.md": {
@@ -1008,7 +1022,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Change Log",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-11-any-doubts.md"
+    "prev": "docs/evening/session-11a-heart-bible-study.md"
   },
   "docs/cca/index.md": {
     "seriesId": "cca",

@@ -76,6 +76,52 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.53 — November 5, 2026 — Evening 9: Heart Bible Study, and the walk at eighteen
+
+John's word (5 November): a Heart Bible Study evening goes in before The
+Return, as the first evening back in January. Heart Bible Study is PROAPT
+in its group form: three slow readings, the images, *same and different*,
+then Observe, Apply, Pray again and Tell. The Getting Started handbook
+already named it among the hearing practices, but no evening taught it.
+Every step is one the room already knows (PROAPT from Evening 6, the short
+*Any Doubts?* close from Evening 8), so the first night back asks for
+nothing new. It is also the Hebrews 5 step, from being taught to teaching
+others: a teen leads the room's hearing.
+
+| Evening | 1–8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Was Evening | 1–8 | new | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| School session | as before | none | 12 | 13 | 15 | 16 | 17 | 18 | 20 | 21 | 22 |
+
+The four movements are now Evenings 1–5, 6–9, 10–14 and 15–18. Heart
+Bible Study closes *Connect with God*, though it meets after the break.
+
+- **New page:** [Evening 9 — Heart Bible Study](session-11a-heart-bible-study.md),
+  on 1 Samuel 3:1–10, with the evening's clock, what each step is for,
+  notes for the two leads and the take-home. Its slides, run sheet, leader
+  notes and take-home sheet are still to build.
+- **Renumbered:** everything people see in the old Evenings 9–17, now
+  10–18: slide titles and dividers, speaker-note tags, run sheets,
+  take-home sheets and leader notes (rebuilt from the decks). The
+  OneDrive files now run Evening 10 to 18; the old Evening 9 files (The
+  Return) went to the archive, in a folder that says so.
+- **Evening 8:** no longer the last evening of *Connect with God*. Its
+  page, closing notes and take-home now say Heart Bible Study opens
+  January and The Return follows. Its last slide, the Mission and Rhythm
+  divider, is now an Evening 9 welcome slide. The movement divider moves
+  to the Heart Bible Study deck when that is built.
+- **Evening 10, The Return:** now the second evening back. Its opening
+  note says Heart Bible Study welcomed the room home two weeks ago, and its
+  map slide adds *hearing together* to what lies behind. Its reading of
+  what held over the break is unchanged.
+- **Kept:** repo filenames and web addresses; corner page numbers; links to
+  the school series' lesson plans, still "Week N". The school series has
+  no Heart Bible Study session.
+- **Still to rework:** a full read of The Return's materials as the second
+  evening back, at its planning lab; the Evening Series Outline in
+  OneDrive; and the curriculum article, which says seventeen evenings, in
+  its next draft.
+
 ## v2.52 — November 2, 2026 — one stop for each evening's materials
 
 John's word (2 November): the teens should find everything for an evening
