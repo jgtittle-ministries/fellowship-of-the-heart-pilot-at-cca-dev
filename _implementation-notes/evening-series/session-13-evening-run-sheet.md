@@ -33,8 +33,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
    practice.
 3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
-4. **One sentence of preparation.** Set at commissioning from the session's
-   materials.
+4. **One sentence of preparation.** Before Evening 13, *Serving Together*: bring the planning team one idea, someone near us the room could serve together.
 
 *The journal's standing closer applies: if I were to teach this practice to
 someone, what would I tell them?*

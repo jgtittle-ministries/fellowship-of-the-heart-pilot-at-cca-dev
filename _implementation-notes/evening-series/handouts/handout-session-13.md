@@ -41,5 +41,5 @@ what happens.
 
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials. **Done:** ☐
+Before Evening 13, *Serving Together*: bring the planning team one idea, someone near us the room could serve together. **Done:** ☐
 

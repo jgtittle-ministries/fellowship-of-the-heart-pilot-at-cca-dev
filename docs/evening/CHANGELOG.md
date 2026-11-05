@@ -76,6 +76,46 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.55 — November 5, 2026 — Evening 13: Serving Together, and the walk at twenty
+
+John's word (5 November): an evening where the room leaves the table and
+serves someone together, right after Mission. *What Was Prepared for You*
+helps each person discern the works prepared for them, but no evening had
+the group do one. Evening 11 is each person's obedience; Evening 13 is the
+room's: the group level of the hunger bet, and a real leadership rep for
+the teens, who plan it at the lab. Anchors: John 13:1–17 ("If you know
+these things, blessed are you if you do them") and Matthew 25:35–40.
+
+| Evening | 1–12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+|---|---|---|---|---|---|---|---|---|---|
+| Was Evening (v2.54) | 1–12 | new | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+| School session | as before | none | 15 | 16 | 17 | 18 | 20 | 21 | 22 |
+
+The four movements are now Evenings 1–5, 6–9, 10–16 and 17–20.
+
+- **New page:** [Evening 13 — Serving Together](session-13a-serving-together.md):
+  choosing what to serve (local, concrete, families together, about an
+  hour, arranged with the people served), the evening's clock (a short
+  meal, John 13, an hour of work, a twenty-minute circle), guards for the
+  leads (serve with people, not at them; no photos for show; no pressure
+  on the people served; safe and covered) and the take-home (one more
+  chance to serve, unplanned). Written for the usual evening; the lab may
+  move it to a Saturday morning. Its slides, run sheet, leader notes and
+  take-home sheet are still to build.
+- **Renumbered:** the old Evenings 13–19, now 14–20, everywhere people see
+  them; leader notes rebuilt; OneDrive resynced, and the old Evening 13
+  files (The Rhythm) archived in a folder that says so.
+- **Evening 12, What Was Prepared for You:** its road-ahead slide and
+  notes now name Serving Together before the Rhythm, and its preparation
+  sentence asks each person to bring the planning team one idea of someone
+  the room could serve.
+- **Evening 11, Doing the Word:** its map paragraph points ahead to
+  Serving Together.
+- **Still to rework:** the Rhythm's check-in hears the serving reports
+  under its usual "two weeks of practice reported"; name them explicitly
+  when its materials are next touched. The Evening Series Outline, and the
+  curriculum article's evening count.
+
 ## v2.54 — November 5, 2026 — Evening 11: Doing the Word, and the walk at nineteen
 
 John's word (5 November): an evening for the obey step goes in between The

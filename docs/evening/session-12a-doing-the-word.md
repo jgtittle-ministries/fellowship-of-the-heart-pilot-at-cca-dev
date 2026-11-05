@@ -19,7 +19,8 @@ opened at The Return. Tonight sits between hearing and being sent: we
 have heard (Evenings 6–9), we have come back (Evening 10), now we do one
 thing, and next time, at *What Was Prepared for You*, we turn outward to
 Mission. Tonight's obedience is small and personal. Mission is the larger
-one, and it starts here.
+one, and at Evening 13, *Serving Together*, the whole room obeys
+together.
 
 **Why this evening.** Jesus put it plainly: the one who hears His words
 and does them builds on rock, and the one who hears and does not builds
