@@ -8,9 +8,9 @@ title: "FotH Evening"
 
 *This page is kept current: it is updated after each evening's debrief.
 Last updated 5 November 2026. Evenings were numbered as Sessions until
-October; the series is now numbered Evening 1 to 18. On 5 November a
-Heart Bible Study evening was added as Evening 9, and the evenings after it
-moved down one.*
+October; the series is now numbered Evening 1 to 19. On 5 November two
+evenings were added, Heart Bible Study as Evening 9 and Doing the Word as
+Evening 11, and the others moved down.*
 
 ---
 
@@ -37,7 +37,8 @@ December.
 
 **After that,** a Christmas break. In January,
 [Evening 9 — Heart Bible Study](session-11a-heart-bible-study.md) welcomes
-everyone home and closes *Connect with God*; then Evening 10, *The Return*.
+everyone home and closes *Connect with God*; then Evening 10, *The Return*, and Evening 11,
+[Doing the Word](session-12a-doing-the-word.md).
 From there, about every two weeks. Each date is set at the planning lab
 before it.
 
@@ -94,7 +95,7 @@ named partner at the end of week one.
 ## The road
 
 The group walks the [current-condition walk](handbook.md#the-current-condition-walk):
-the full series, fitted to the room it has, in eighteen evenings. Some
+the full series, fitted to the room it has, in nineteen evenings. Some
 second runnings fold into their firsts, and the full two-session forms stand
 in reserve for a larger room. Each evening links to its page where one is
 published, and otherwise to the full Companion lesson plan in the Getting
@@ -116,19 +117,21 @@ cards, always the current versions. Start there.
 | 8 — [Any Doubts?](session-11-any-doubts.md) | Tue Dec 8 (expected) | Then |
 | 9 — [Heart Bible Study](session-11a-heart-bible-study.md) | January, the first evening after the Christmas break | Ahead: added 5 November |
 | 10 — [The Return](../getting-started/week-12-return.md) | January | Ahead |
-| 11 — [What Was Prepared for You](../getting-started/week-13-mission.md) | | Ahead |
-| 12 — [The Rhythm and the Four Questions](../getting-started/week-15-rhythm.md) | | Ahead |
-| 13 — [Family Conversation Night](../getting-started/week-16-family-night.md) | | Ahead |
-| 14 — [The Float](../getting-started/week-17-float.md) | | Ahead |
-| 15 — [The Return II](../getting-started/week-18-return-2.md) | | Ahead |
-| 16 — [The Long Walk](../getting-started/week-20-long-walk.md) | | Ahead |
-| 17 — [Sending and Blessing](../getting-started/week-21-sending.md) | | Ahead |
-| 18 — [Commissioning the Companions](../getting-started/week-22-commissioning.md) | | Ahead |
+| 11 — [Doing the Word](session-12a-doing-the-word.md) | | Ahead: added 5 November |
+| 12 — [What Was Prepared for You](../getting-started/week-13-mission.md) | | Ahead |
+| 13 — [The Rhythm and the Four Questions](../getting-started/week-15-rhythm.md) | | Ahead |
+| 14 — [Family Conversation Night](../getting-started/week-16-family-night.md) | | Ahead |
+| 15 — [The Float](../getting-started/week-17-float.md) | | Ahead |
+| 16 — [The Return II](../getting-started/week-18-return-2.md) | | Ahead |
+| 17 — [The Long Walk](../getting-started/week-20-long-walk.md) | | Ahead |
+| 18 — [Sending and Blessing](../getting-started/week-21-sending.md) | | Ahead |
+| 19 — [Commissioning the Companions](../getting-started/week-22-commissioning.md) | | Ahead |
 
 The four movements: Evenings 1–5, *Connect with Self and Others*; 6–9,
-*Connect with God*; 10–14, *Mission and Rhythm*; 15–18, *Consolidation and
-Sending*. Evening 9, Heart Bible Study, belongs to the evening form alone:
-the school series has no session for it. The school series' second runnings A and B are not separate
+*Connect with God*; 10–15, *Mission and Rhythm*; 16–19, *Consolidation and
+Sending*. Evening 9, Heart Bible Study, and Evening 11, Doing the Word,
+belong to the evening form alone: the school series has no session for
+either. The school series' second runnings A and B are not separate
 evenings here: every evening already gives willing teens a full leading rep,
 and the rehearsal moved to the planning lab.
 

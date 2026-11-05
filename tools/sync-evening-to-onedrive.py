@@ -7,8 +7,8 @@ Copies every deck, run sheet, take-home sheet, and leader-notes doc to the
 new homes with the short names. Idempotent; overwrites destinations.
 
 Since 13 October 2026 (John's word) the walk is numbered by evening; since
-5 November 2026 it is Evening 1-18, with Heart Bible Study inserted as
-Evening 9 and the later evenings moved down one. The
+5 November 2026 it is Evening 1-19, with Heart Bible Study inserted as
+Evening 9 and Doing the Word as Evening 11, the others moved down. The
 evening-form artifacts sync as "Evening N — ...", and the spare two-session
 forms (the separate Sessions 3, 4, 7, 8, 9, 10, 14, 19 decks, run sheets and
 take-homes) sync as "Session N — ..." under a "Spares — two-session forms"
@@ -35,13 +35,14 @@ RULES = [
      "Leader Notes", "{} \u2014 Leader Notes.docx"),
 ]
 
-# the walk, Evening 1-18 (deck/run-sheet keys; combined forms carry "Combined").
-# Evening 9, Heart Bible Study (inserted 5 November 2026), has no session files yet.
+# the walk, Evening 1-19 (deck/run-sheet keys; combined forms carry "Combined").
+# Evening 9, Heart Bible Study, and Evening 11, Doing the Word (both inserted
+# 5 November 2026), have no session files yet.
 WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7,
-        "11": 8, "12": 10, "13": 11, "15": 12, "16": 13, "17": 14, "18": 15, "20": 16, "21": 17, "22": 18}
+        "11": 8, "12": 10, "13": 12, "15": 13, "16": 14, "17": 15, "18": 16, "20": 17, "21": 18, "22": 19}
 # handouts and cards, by the session number in their filename
 HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "12": 10,
-           "13": 11, "15": 12, "16": 13, "17": 14, "18": 15, "20": 16, "21": 17, "22": 18}
+           "13": 12, "15": 13, "16": 14, "17": 15, "18": 16, "20": 17, "21": 18, "22": 19}
 SPARES = "Spares \u2014 two-session forms"
 
 

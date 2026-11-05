@@ -53,5 +53,5 @@ what happens.
 
 ## 4. One sentence of preparation
 
-Set at commissioning from the session’s materials. **Done:** ☐
+Before Evening 11, Doing the Word: find your Tell sentences from Evenings 6 to 9 in your journal, and mark each one. **Done:** ☐
 

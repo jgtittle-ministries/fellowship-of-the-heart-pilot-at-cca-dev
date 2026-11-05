@@ -112,6 +112,6 @@ shortens first; the Tell is never skipped.
   on 1 Samuel 3:11–21 or a passage you choose. Three readings, the images,
   same and different, one sentence each.
 - **Before The Return:** two sentences in your journal: *the practice I
-  kept over the break was ___*, and *the one I most want to keep is ___*.
+  kept over the break was ________*, and *the one I most want to keep is ________*.
 
 *Further up and further in.*

@@ -99,6 +99,11 @@ window.SERIES = [
         "edition": "v1"
       },
       {
+        "path": "docs/evening/session-12a-doing-the-word.md",
+        "title": "Evening 11 — Doing the Word",
+        "edition": "v1"
+      },
+      {
         "path": "docs/evening/CHANGELOG.md",
         "title": "Change Log",
         "edition": "v1"
@@ -1014,6 +1019,15 @@ window.PATH_TO_INFO = {
     "title": "Evening 9 — Heart Bible Study",
     "indexPath": "docs/evening/index.md",
     "prev": "docs/evening/session-11-any-doubts.md",
+    "next": "docs/evening/session-12a-doing-the-word.md"
+  },
+  "docs/evening/session-12a-doing-the-word.md": {
+    "seriesId": "evening",
+    "seriesName": "FotH Evening",
+    "edition": "v1",
+    "title": "Evening 11 — Doing the Word",
+    "indexPath": "docs/evening/index.md",
+    "prev": "docs/evening/session-11a-heart-bible-study.md",
     "next": "docs/evening/CHANGELOG.md"
   },
   "docs/evening/CHANGELOG.md": {
@@ -1022,7 +1036,7 @@ window.PATH_TO_INFO = {
     "edition": "v1",
     "title": "Change Log",
     "indexPath": "docs/evening/index.md",
-    "prev": "docs/evening/session-11a-heart-bible-study.md"
+    "prev": "docs/evening/session-12a-doing-the-word.md"
   },
   "docs/cca/index.md": {
     "seriesId": "cca",

@@ -34,8 +34,8 @@ team tunes the minutes and the leads at the planning lab before this session.**
    practice.
 3. **The homework practice, week two.** Continue or deepen the same practice, as the
    session specifies; journal what happens.
-4. **One sentence of preparation.** Set at commissioning from the session's
-   materials.
+4. **One sentence of preparation.** Before Evening 11, *Doing the Word*: find your Tell sentences from
+   Evenings 6 to 9 in your journal, and mark each one.
 
 *The journal's standing closer applies: if I were to teach this practice to
 someone, what would I tell them?*

@@ -76,6 +76,47 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.54 — November 5, 2026 — Evening 11: Doing the Word, and the walk at nineteen
+
+John's word (5 November): an evening for the obey step goes in between The
+Return and Mission. The series is a curriculum for hearing *and obeying*
+God. Four evenings teach hearing (PROAPT, the Garden, Any Doubts?, Heart
+Bible Study); until now obeying had a step (Pray again) and a journal
+question, but no evening. Tonight each person reads back their Tell
+sentences from Evenings 6 to 9, picks one thing heard and not yet done,
+names the smallest next step of obedience (*I heard ________. By ________ I will
+________.*), tests it, and does it in the two weeks. The reports at the next
+check-in are the room's first stories of something heard and obeyed,
+months before Return II gathers testimonies, and a mid-series reading of
+the hunger bet.
+
+| Evening | 1–10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Was Evening (v2.53) | 1–10 | new | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
+| School session | as before | none | 13 | 15 | 16 | 17 | 18 | 20 | 21 | 22 |
+
+The four movements are now Evenings 1–5, 6–9, 10–15 and 16–19.
+
+- **New page:** [Evening 11 — Doing the Word](session-12a-doing-the-word.md),
+  on Luke 6:46–49 and James 1:22–25, with the clock, the sentence, guards
+  for the two leads (test before doing; a step that involves another person
+  is talked over with an adult first; no secrets from parents; no
+  comparing) and the take-home. Its slides, run sheet, leader notes and
+  take-home sheet are still to build.
+- **Renumbered:** the old Evenings 11–18, now 12–19, everywhere people see
+  them; leader notes rebuilt; OneDrive resynced, and the old Evening 11
+  files (Mission) archived in a folder that says so.
+- **Evening 10, The Return:** its map slide and closing now point ahead to
+  Doing the Word, and its take-home's preparation sentence is: find your
+  Tell sentences from Evenings 6 to 9 and mark each one.
+- **Evening 12, What Was Prepared for You:** its check-in, which still
+  carried the Any Doubts? inventory from before the break, now hears the
+  Doing the Word reports: one sentence each, *what I did, and what
+  happened*, received as witness. John notes them, without names, for the
+  testimony gathering at Return II.
+- **Still to rework:** the Evening Series Outline in OneDrive, and the
+  curriculum article's evening count, in its next draft.
+
 ## v2.53 — November 5, 2026 — Evening 9: Heart Bible Study, and the walk at eighteen
 
 John's word (5 November): a Heart Bible Study evening goes in before The
@@ -454,8 +495,8 @@ Evenings 2, 4, 15 and 16.
 - **The invitation list** (John's word): the homework now starts a list of
   who each family would invite to the follow-up series, names and not
   categories, prayed over before anyone is asked. The preparation sentence:
-  "Two people I'd invite to the follow-up series are ___ and ___, because
-  ___." Names stay in journals; the team keeps no list.
+  "Two people I'd invite to the follow-up series are ________ and ________, because
+  ________." Names stay in journals; the team keeps no list.
 - Evening 14 has one more slide, so the master pages from Evening 14 on
   moved up one (324 pages); leader notes rebuilt.
 
@@ -539,7 +580,7 @@ missing; all four are now in, and the school-year calendar is gone.
 - **Two journal questions for week two** (from "Hearing God — What If?"): is
   there something I heard and did not obey? what is at risk for me to hear?
   The preparation sentence: "One thing I heard that I will act on before
-  we meet is ___."
+  we meet is ________."
 - **The clock:** check-in 7:06–7:14, Mark 9 7:14–7:20, teaching 7:20–7:28,
   pairs 7:30–7:56 (about twelve minutes a turn), the silent place
   7:56–8:09, merge 8:09–8:15, homework 8:15–8:21, feedback 8:21–8:25, close
@@ -629,7 +670,7 @@ and "Hearing God — What If?".
 - **The Session 9 take-home** is filled in: three returns with the two test
   lines, week two keeps returning, and the preparation sentence points to
   *Any Doubts?*: "One thing I'm not sure was God, or one question I'd bring
-  to Any Doubts?, is ___."
+  to Any Doubts?, is ________."
 - **Saved for Any Doubts?:** the same deck's "silent place" exercise
   (remember where God seemed silent; bring in the time you heard; invite
   Jesus in) is held for Session 11.
@@ -655,7 +696,7 @@ the handout, and brought his questions and notes.
   Still one page.
 - **One sentence of preparation,** a template line that was never filled
   in, now reads: finish this sentence in your journal, "The passage that
-  spoke to me most these two weeks was ___, and what I heard was ___."
+  spoke to me most these two weeks was ________, and what I heard was ________."
 - **The clock belongs to the container holder** (John's word, 10 October).
   There is no separate timekeeper; the Pair Card, the run sheet, the deck
   notes and the session page now say the container holder keeps the clock
