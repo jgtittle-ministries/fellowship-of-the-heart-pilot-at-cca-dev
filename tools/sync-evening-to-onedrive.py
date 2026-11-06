@@ -38,13 +38,13 @@ RULES = [
 
 # the walk, Evening 1-21 (deck/run-sheet keys; combined forms carry "Combined").
 # Evenings 9 (Heart Bible Study), 11 (Doing the Word), 13 (Serving Together)
-# and 16 (Carrying the Word), all inserted 5 November 2026, have no session
-# files yet.
+# and 16 (Carrying the Word) were inserted 5 November 2026; their files carry
+# the keys 11a, 12a, 13a and 16a.
 WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7,
-        "11": 8, "11a": 9, "12": 10, "12a": 11, "13": 12, "13a": 13, "15": 14, "16": 15, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
+        "11": 8, "11a": 9, "12": 10, "12a": 11, "13": 12, "13a": 13, "15": 14, "16": 15, "16a": 16, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
 # handouts and cards, by the session number in their filename
 HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9, "12": 10,
-           "12a": 11, "13": 12, "13a": 13, "15": 14, "16": 15, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
+           "12a": 11, "13": 12, "13a": 13, "15": 14, "16": 15, "16a": 16, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
 SPARES = "Spares \u2014 two-session forms"
 
 
@@ -88,8 +88,11 @@ for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Home
     m4 = re.match(r"FotH Pilot Session ([\d-]+a?) (Breakout Card|Pair Card|Reading Card|Serving Plan) DRAFT v1\.docx$", base)
     m7 = re.match(r"FotH Pilot Session (\d+a?) Heart Bible Study Handout DRAFT v1\.docx$", base)
     m5 = re.match(r"FotH Pilot Session (\d+) How Did You Know Card DRAFT v1\.docx$", base)
+    m8 = re.match(r"FotH Pilot Session (\d+a?) Carrying Card DRAFT v1\.docx$", base)
     m6 = re.match(r"FotH Pilot Session (\d+) Practices So Far Card DRAFT v1\.docx$", base)
-    if m7:
+    if m8:
+        dst = place("Take-Home Sheets", m8.group(1), HANDOUT, "{} — How to Carry the Word.docx")
+    elif m7:
         dst = place("Take-Home Sheets", m7.group(1), HANDOUT, "{} — Heart Bible Study, What Each Step Is For.docx")
     elif m6:
         dst = place("Take-Home Sheets", m6.group(1), HANDOUT, "{} \u2014 The Practices So Far.docx")

@@ -28,16 +28,17 @@ PAGES = {1: "session-01-welcome-to-the-journey.md", 2: "session-02-the-soil-of-y
          5: "session-06-safe-and-brave-together.md", 6: "session-07-08-hearing-god-in-scripture.md",
          7: "session-09-10-the-garden-of-your-heart.md", 8: "session-11-any-doubts.md",
          9: "session-11a-heart-bible-study.md", 11: "session-12a-doing-the-word.md",
-         13: "session-13a-serving-together.md"}
+         13: "session-13a-serving-together.md", 16: "session-16a-carrying-the-word.md"}
 WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7, "11": 8, "11a": 9,
-        "12a": 11, "13a": 13}
+        "12a": 11, "13a": 13, "16a": 16}
 HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9, "12a": 11,
-           "13a": 13}
+           "13a": 13, "16a": 16}
 
 # kind: (label, what it is for, "room" = goes home with everyone, "leads" = for the two leads)
 KINDS = {
     "take-home": ("Take-home sheet", "handed out at the close; the practice until the next evening", "room"),
     "practices-so-far-card": ("The Practices So Far", "every practice walked so far, to choose from", "room"),
+    "carrying-card": ("How to Carry the Word", "the five ways to learn a passage by heart, and your family's passage", "room"),
     "how-did-you-know-card": ("How Did You Know? card", "the checks for testing what you heard", "room"),
     "road-so-far-handout": ("The Road So Far", "the first movement on one page", "room"),
     "proapt-handout": ("PROAPT — what each step is for", "the scripture practice, step by step", "room"),

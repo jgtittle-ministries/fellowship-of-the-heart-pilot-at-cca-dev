@@ -76,6 +76,24 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.60 — November 6, 2026 — Evening 16's materials
+
+The full set for Evening 16, Carrying the Word, drafted for John's review
+and posted in the page's Materials section:
+
+- **Slides** (14), made from Evening 11's deck, corner pages W1–W14. The
+  teens teach five ways to carry a passage, and the room tries each on
+  Psalm 119:11 before the families turn to their own. The divider picture
+  (two candles, one flame passing to the other) comes from the spare
+  Session 19 deck, which is not in the walk.
+- **Run sheet**, **leader notes** (built from the deck), the **take-home
+  sheet** (the family's passage, the part each carries and the daily moment
+  at the top; said together every day; brought back to The Float), and a
+  one-page **How to Carry the Word** card for every family: the five ways,
+  and lines for the family's passage.
+- **Tools:** the materials and OneDrive sync tools take the file key "16a"
+  and the card, which goes home with everyone (Take-Home Sheets folder).
+
 ## v2.59 — November 6, 2026 — Evening 13's materials
 
 The full set for Evening 13, Serving Together, drafted for John's review and
