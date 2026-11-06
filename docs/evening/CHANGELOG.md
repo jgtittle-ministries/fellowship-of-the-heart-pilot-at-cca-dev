@@ -76,6 +76,23 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.59 — November 6, 2026 — Evening 13's materials
+
+The full set for Evening 13, Serving Together, drafted for John's review and
+posted in the page's Materials section:
+
+- **Slides** (13), made from Evening 11's deck, corner pages S1–S13. Only
+  the opening and the circle use the screen; there is none on site. The
+  opening container is the short form tonight. The divider picture (two
+  hands reaching) comes from the spare Session 14 deck, which is not in the
+  walk.
+- **Run sheet**, **leader notes** (built from the deck), the **take-home
+  sheet** (eyes open for one more chance to serve, unplanned), and a
+  one-page **Serving Plan** for the planning teens: who, what they asked
+  for, the jobs, the rides and the guards, checked.
+- **Tools:** the materials and OneDrive sync tools take the file key "13a"
+  and the Serving Plan.
+
 ## v2.58 — November 6, 2026 — Evening 11's materials, and Evening 9's take-home slides
 
 The full set for Evening 11, Doing the Word, drafted for John's review and
