@@ -67,7 +67,10 @@ for block in md:
     if b.startswith("# "):
         title = b[2:].strip()
         m = re.match(r"(Evening \d+) — (.+)", title)
-        add("title", "%s — %s" % (m.group(1), m.group(2).title()) if m else title)
+        small = {"a", "an", "and", "as", "at", "for", "in", "of", "on", "or", "the", "to", "with"}
+        words = m.group(2).lower().split() if m else []
+        cased = " ".join(w if (i and w in small) else w.capitalize() for i, w in enumerate(words))
+        add("title", "%s — %s" % (m.group(1), cased) if m else title)
     elif b.startswith("## "):
         add("head", b[3:].strip())
     elif b.startswith("|"):

@@ -27,9 +27,10 @@ PAGES = {1: "session-01-welcome-to-the-journey.md", 2: "session-02-the-soil-of-y
          3: "session-03-04-telling-your-story.md", 4: "session-05-knowing-and-being-known.md",
          5: "session-06-safe-and-brave-together.md", 6: "session-07-08-hearing-god-in-scripture.md",
          7: "session-09-10-the-garden-of-your-heart.md", 8: "session-11-any-doubts.md",
-         9: "session-11a-heart-bible-study.md"}
-WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7, "11": 8, "11a": 9}
-HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9}
+         9: "session-11a-heart-bible-study.md", 11: "session-12a-doing-the-word.md"}
+WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7, "11": 8, "11a": 9,
+        "12a": 11}
+HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9, "12a": 11}
 
 # kind: (label, what it is for, "room" = goes home with everyone, "leads" = for the two leads)
 KINDS = {

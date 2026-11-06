@@ -76,6 +76,23 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.58 — November 6, 2026 — Evening 11's materials, and Evening 9's take-home slides
+
+The full set for Evening 11, Doing the Word, drafted for John's review and
+posted in the page's Materials section:
+
+- **Slides** (16), made from Evening 9's deck. Corner pages are D1–D16, for
+  the same reason as Evening 9's H pages.
+- **Run sheet**, **leader notes** (built from the deck), the **take-home
+  sheet** with the evening's sentence at the top, and a one-page **pair
+  card**: the sentence, the two questions, three of the *How Did You Know?*
+  checks, and prayer.
+- **Evening 9's take-home slides** (H13, H14) were too small; each now shows
+  one part of the sheet at full size, as in the earlier decks (John's note,
+  6 November).
+- **Tools:** the materials and OneDrive sync tools take Evening 11's file key
+  "12a"; the run-sheet tool no longer capitalizes small words in titles.
+
 ## v2.57 — November 5, 2026 — Evening 9's materials
 
 The full set for Evening 9, Heart Bible Study, drafted for John's review and
