@@ -1,47 +1,50 @@
 # Evening 13 — SERVING TOGETHER
 
-*The third movement, Mission and Rhythm. An evening-form session with no school-series counterpart (added 5 November 2026). The series has evenings for hearing God together and for each person's obedience; tonight is the room's obedience, the group doing together what it has heard.*
+*The third movement, Mission and Rhythm. An evening-form session with no school-series counterpart (added 5 November 2026; reshaped 7 November). The series has evenings for hearing God together and for each person's obedience; tonight is the room's obedience. The room hears, plans and agrees together; the serving happens in the two weeks; the report comes back at Evening 14.*
 
-**Aim.** The room leaves the table and serves someone together, parents and teens side by side, with the teens having planned it. Then the room comes back to the circle and says where it saw God.
+**Aim.** The room practices three skills a group needs to obey together: hearing God together, planning together and agreeing together. It leaves with one serving plan every voice is in on, and a date in the next two weeks.
 
-**Anchor.** John 13:1–17; Matthew 25:35–40.
+**Anchor.** John 13:12–17; Acts 13:1–3; Acts 15:28.
 
 ## The run sheet (6:00–8:30)
 
 | Time | Block | Lead |
 |---|---|---|
-| 6:00 | A simple, quick dinner; jobs and rides confirmed at the table (the Serving Plan). | Household; the planning teens |
-| 6:25–6:35 | Welcome and centering: blessing, John 13:1–17 read aloud, verse 17 said together. The guards named; the pastoral covering named aloud. | Container holder; content presenter reads |
-| 6:35–6:45 | Travel. | Drivers |
-| 6:45–7:45 | Serving: about an hour of work, together. | The planning teens, with an adult alongside |
-| 7:45–8:00 | Travel back. | Drivers |
-| 8:00–8:20 | The circle, short: one sentence each, what I saw, what I felt, where I saw God. A parent starts; pass is a full answer. | Container holder |
-| 8:20–8:25 | Homework commissioning: the take-home walked; check-in partners named aloud. | Content presenter |
-| 8:25–8:30 | Leader Feedback Round, folded into the circle tonight; Aaronic blessing. | Both leaders; container holder |
-| 8:30–9:00 | Fellowship; the five-question materials debrief; planning The Rhythm. | Everyone; John holds the debrief |
+| 6:00 | Dinner. Ideas can be talked over at the table; nothing is decided yet. | Household |
+| 7:00–7:07 | Welcome and centering: blessing, the map, container reminder. | Container holder |
+| 7:07–7:17 | Check-in circle: two weeks since What Was Prepared for You, briefly; week-one check-ins. Then each person names the idea they brought; it goes on the chart without discussion. A parent starts. | Container holder |
+| 7:17–7:24 | John 13:12–17, Acts 13:1–3 and Acts 15:28: the room's obedience, and how the early church heard, planned and agreed together. | Content presenter |
+| 7:24–7:36 | Hear together: "Lord, whom would you have us serve together, and how?" Three minutes of quiet; then each says what came, and it goes on the chart. Say what you heard, not why it is right. | Content presenter |
+| 7:36–7:58 | Plan together: a first and a second choice, using the four checks; then the Serving Plan: jobs, date, drivers, and who makes the call, by when. | The teens at the chart; content presenter alongside; container holder watching the room |
+| 7:58–8:08 | Agree together: the agreement round until every voice is in; how the plan may change after the call; the prayer of agreement over the plan and the people. | Container holder |
+| 8:08–8:14 | The circle, short: which was hardest tonight, hearing, planning or agreeing? Where did you see God in it? A parent starts; pass is a full answer. | Container holder |
+| 8:14–8:20 | Homework commissioning: the take-home walked, each person's part written in at the top; check-in partners named aloud. | Content presenter |
+| 8:20–8:24 | Leader Feedback Round, both leaders. | Both leaders |
+| 8:24–8:30 | Closing container; Aaronic blessing. | Container holder |
+| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning Evening 14, whose check-in hears the report. | Everyone; John holds the debrief |
 
 ## What this evening asks of the room
 
-**The teens own the plan.** Who calls whom, what each family brings, who drives, and the time on site. The Serving Plan sheet holds it. That is their leadership rep tonight.
+**Listen before you advocate.** In the hearing block nobody argues for an idea. What someone heard is received with "We hear that" and goes on the chart.
 
-**A weeknight or a Saturday.** This sheet is written for the usual evening. If the work needs more time, the planning lab may move it to a Saturday morning; the shape stays the same.
+**The teens hold the marker.** One teen runs the chart, one keeps the Serving Plan. Parents give ideas and concerns like everyone else. That is the teens' leadership rep tonight.
 
-**The circle still matters.** Twenty minutes, even if everyone is tired. The work is not finished until the room has said where it saw God.
+**Agreement, not a vote.** Each person says *I'm in*, *I'm in, with a concern*, or *Not yet*, with what would make it a yes. The plan changes until every voice is in. The room also agrees how the plan may change after the call, and names a second choice.
 
-**The screen stays home.** Only the opening and the circle use the slides. On site there is no screen; the planning teens lead.
+**Bring a flip chart.** The chart holds the ideas, what was heard, the two choices and the plan, in front of everyone.
 
 ## The homework handout
 
-The Evening 13 sheet: week one, daily PROAPT with eyes open for one more chance to serve, unplanned; the end-of-week-one check-in ("Did a chance come? Did you take it?"); week two, two journal lines, what I did and where I saw God in it; and one sentence to bring back to The Rhythm.
+The Evening 13 sheet: our plan at the top (whom we serve, what they asked for, our date, my part); week one, daily PROAPT with "Lord, how should we serve them?", the call made and each part made ready; the end-of-week-one check-in ("Is your part ready? What do you need?"); on our date, we serve together, then two journal lines, what I did and where I saw God; and the report brought back to Evening 14.
 
 ## Watch-fors
 
-**Serving at people, not with them.** The people we serve keep their dignity. We do what they asked for, the way they want it done.
+**The loudest idea winning.** The container holder goes around the whole circle in the agreement round, parents and teens alike. A quiet "not yet" is worth more than a fast yes.
+
+**Serving at people, not with them.** The people we serve keep their dignity. The call asks what they would like; it does not announce what we decided.
 
 **Photos for show.** "Beware of practicing your righteousness before other people in order to be seen by them" (Matthew 6:1). A photo for the family who asked for one is fine; a photo to post about ourselves is not.
 
-**Pressure on the people served.** If they ask why we came, say so simply. Tonight the kindness is the witness.
-
-**Safe and covered.** Parents are present; no one works alone or out of sight; no ladders, roofs or power tools for teens. The evening walks under the same pastoral covering as every evening, named aloud before the room leaves.
+**Safe and covered on the serving day.** Parents are present; no one works alone or out of sight; no ladders, roofs or power tools for teens. The day walks under the same pastoral covering as every evening, named aloud before the room goes.
 
 *Further up and further in.*

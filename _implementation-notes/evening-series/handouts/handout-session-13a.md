@@ -2,6 +2,14 @@
 
 ---
 
+## Our plan — written in tonight
+
+**We will serve:** ______________________________ **Our date:** ______________
+
+**What they asked for** *(filled in after the call)*: ______________________________
+
+**My part:** ______________________________ **I bring:** ______________________
+
 ## The standing practice — every day, both weeks
 
 Morning, five minutes: "Lord, what are you up to today, and what do you
@@ -23,13 +31,13 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-**Daily PROAPT, as always. And keep your eyes open:** look for one more
-chance to serve someone this week, unplanned. A neighbor's bins, a sibling's
-chore, a hand at church, a meal for someone who is struggling. Take it if
-you can. Ask the morning question with this in mind: "Lord, who could I
-serve today?"
+**Daily PROAPT, as always,** with the morning question: "Lord, how should
+we serve them?" **The call is made** by the day we agreed, and the teens
+tell the room what the people asked for. If they ask for something
+different, we do what they ask; if they say no thank you, we go to our
+second choice. **Get your part ready.**
 
-**A chance came:** ☐ **I took it:** ☐
+**I heard what they asked for:** ☐ **My part is ready:** ☐
 
 ## 2. The end-of-week-one check-in
 
@@ -37,7 +45,7 @@ My check-in partner for this cycle is: **______________________**
 *(named aloud at commissioning; a new partner each cycle)*
 
 At the end of week one, connect with your partner and ask each other two
-questions: *Did a chance come? Did you take it?* A text, a call, or a
+questions: *Is your part ready? What do you need?* A text, a call, or a
 hallway conversation all count. You are not grading each other; you are
 expecting each other. **Done:** ☐
 
@@ -45,20 +53,21 @@ expecting each other. **Done:** ☐
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-## 3. The homework practice — week two
+## 3. The homework practice — on our date
 
-**Two lines in your journal.** *What I did*, and *where I saw God in it*:
-tonight's serving, or the chance you took in week one, or one that comes this
-week. If no chance came, or you let one pass, write that too. It is honest
-data, not failure. Daily PROAPT carries on.
+**We serve together.** Pray before we go, for the people we serve, by
+name. Do what they asked, the way they want it done. Before we leave,
+a blessing for them. **We served:** ☐
 
-| M | Tu | W | Th | F | Sa | Su |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+**Afterwards, two lines in your journal:** *what I did*, and *where I saw
+God in it*. If the day did not go as planned, write that too. It is
+honest data, not failure. Daily PROAPT carries on.
 
-## 4. One sentence to bring back
+## 4. Bring it back
 
-At the next evening's check-in, *The Rhythm and the Four Questions*, one
-sentence: "Where I saw God when we served was ________." **Done:** ☐
+At Evening 14, *The Rhythm and the Four Questions*, the teens who planned
+it give the room's report: what we planned, what happened, what changed,
+and where we saw God. Then one sentence from each of us: "Where I saw God
+when we served was ________." **Done:** ☐
 
 *"If you know these things, blessed are you if you do them" (John 13:17).*

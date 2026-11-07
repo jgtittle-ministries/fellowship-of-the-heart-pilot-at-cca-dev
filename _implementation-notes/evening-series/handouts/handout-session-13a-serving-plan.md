@@ -1,41 +1,46 @@
 # Evening 13 — The Serving Plan
 
-*For the planning teens, with John and a parent alongside. Filled in at the planning lab after* What Was Prepared for You*, and finished the week before. Bring it on the evening.*
+*Filled in at the chart during the evening, one teen holding the marker and one keeping this sheet. Keep it until the report at Evening 14.*
 
-## Who we are serving
+## Our two choices
 
-**Who:** ______________________________ **Where:** ______________________________
+**First choice:** ______________________________ **Where:** ______________________
 
-**What they asked for** (in their words, not what we think they need): ______________________________
+**Second choice:** ______________________________ **Where:** ______________________
 
-**Our contact with them:** ______________________ **Arranged by:** ______________________ **Confirmed on:** ________
-
-## Is it a good choice?
-
-☐ Local and concrete: someone we can actually reach this week\
+☐ Local and concrete: someone we can reach in the next two weeks\
 ☐ Something families can do together, with a job for every age\
-☐ About an hour of real work, close enough to drive to and back\
-☐ Arranged ahead with the people being served
+☐ About an hour or two of real work, close enough to drive to and back\
+☐ Arranged with the people being served: what they want, not what we think they need
 
-## The jobs
+## The call
+
+**Who calls:** __________________ *(a teen, with a parent alongside)* **By:** ______________
+
+**What they asked for** (in their words): ______________________________
+
+**Their answer:** ☐ Yes ☐ Yes, but something different ☐ No thank you: our second choice
+
+## The jobs, the date and the rides
 
 **Job** ____________________ **Who** ____________________ **Bring** ________________\
 **Job** ____________________ **Who** ____________________ **Bring** ________________\
 **Job** ____________________ **Who** ____________________ **Bring** ________________\
 **Job** ____________________ **Who** ____________________ **Bring** ________________
 
-## The rides and the clock
+**Our date:** ____________ **Meet at:** ______ **Back by:** ______ **Drivers:** ____________________
 
-**Drivers:** ______________________________ **Leave at** 6:35 **· on site** 6:45–7:45 **· back by** 8:00
+## How we agreed
 
-**If the work needs more time:** the planning lab may move it to a Saturday morning; the shape stays the same. **Our date:** ________
+☐ Every voice in: *I'm in*, or *I'm in, with a concern* ☐ The prayer of agreement (Matthew 18:19)\
+**Concerns we heard, and what we changed:** ______________________________\
+☐ After the call, the teens and a parent may change the plan to fit, within the four checks
 
 ## The guards, checked
 
-☐ Parents are present; no one works alone or out of sight\
-☐ No ladders, roofs or power tools for teens\
-☐ No photos for show (Matthew 6:1). A photo for the family who asked for one is fine\
-☐ We serve with people, not at them: what they asked for, the way they want it done\
-☐ The pastoral covering named aloud before we leave
+☐ Parents present; no one alone or out of sight; no ladders, roofs or power tools for teens\
+☐ With people, not at them ☐ No photos for show (Matthew 6:1) ☐ The covering named aloud
 
-*The teens own the plan: who calls whom, what each family brings, who drives, and the time on site. That is the leadership rep tonight.*
+**The report at Evening 14 is given by:** ______________________________
+
+*"It has seemed good to the Holy Spirit and to us" (Acts 15:28).*

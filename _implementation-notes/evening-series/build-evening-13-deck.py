@@ -1,8 +1,9 @@
 # Evening 13 (Serving Together) deck, from the Evening 11 deck (file key 12a). Corner pages S1, S2, ...
 # usage: python build-evening-13-deck.py <take-home page 1 png> <take-home page 2 png> <scratch dir>
 # The pngs are 150-dpi renders of "FotH Pilot Session 13a Homework Handout DRAFT v1.docx".
-# Only the opening and the circle use the screen; on site there is none. The divider picture (two hands reaching)
-# comes from the spare Session 14 deck, which is not in the walk.
+# Reshaped 7 November 2026 (John's word): the room hears, plans and agrees together in the evening; the serving happens
+# in the two weeks; the report comes back at Evening 14. The divider picture (two hands reaching) comes from the spare
+# Session 14 deck, which is not in the walk.
 import copy, io, re, sys
 from PIL import Image
 from pptx import Presentation
@@ -113,108 +114,146 @@ def swap_divider_picture(s, src_deck, name):
     new.name = nm
 
 
+def stack(img, boxes, name):
+    """Crop several regions of one page and stack them, top to bottom, into one picture."""
+    src = Image.open(img).convert("RGB")
+    parts = [src.crop(b) for b in boxes]
+    w = max(p.width for p in parts)
+    out = Image.new("RGB", (w, sum(p.height for p in parts) + 20 * (len(parts) - 1)), "white")
+    y = 0
+    for p in parts:
+        out.paste(p, (0, y)); y += p.height + 20
+    path = "%s\\%s-stacked.png" % (TMP, name)
+    out.save(path)
+    return path, (0, 0, out.width, out.height)
+
+
 # the Evening 11 deck, 0-based: 0 title, 1 divider, 2 map, 3 road, 4 container, 5 check-in, 6 teaching, 7 read-back,
-# 8 choose, 9 test, 10 pairs, 11 merge, 12 take-home 1, 13 take-home 2, 14 feedback, 15 closing.
-for i in (10, 9, 8):
-    drop(prs, i)
-S = list(prs.slides)   # 0 title, 1 div, 2 map, 3 road, 4 container, 5 check-in, 6 teaching, 7 read-back, 8 merge,
-                       # 9 th1, 10 th2, 11 feedback, 12 closing
+# 8 choose, 9 test, 10 pairs, 11 merge, 12 take-home 1, 13 take-home 2, 14 feedback, 15 closing. All sixteen are used:
+# 7 hear, 8 plan, 9 agree, 10 the serving day (moved after the circle), 11 the circle.
+S = list(prs.slides)
 
 # 1 divider
 set_lines(shape(S[1], "TextBox 3"), [
     "EVENING 13", "Serving Together",
-    "The room obeys together: an hour of serving someone, side by side, with the teens having planned it"])
+    "The room hears, plans and agrees together, serves someone in the two weeks, and reports back at Evening 14"])
 set_lines(shape(S[1], "TextBox 4"), ["Quarter 3: Mission & Rhythm"])
 swap_divider_picture(S[1], PIC, "e13-divider")
-notes(S[1], "E13 · pre-session · DIVIDER\nOn screen through the quick dinner. The planning teens confirm jobs and rides at the table, from the Serving Plan.")
+notes(S[1], "E13 · pre-session · DIVIDER\nOn screen through dinner. Ideas for whom to serve can be talked over at the table; nothing is decided yet. Set up the flip chart where everyone can see it.")
 
 # 2 the map
 set_lines(shape(S[2], "TextBox 4"), [
-    "Evening 13 stands in the fourth box — Connect with Mission: tonight the room does, together, one of the works He prepared (Eph. 2:10). Each connection makes the next one real (Matt. 22:37–40)."])
-notes(S[2], "E13 · 6:25 · LEAD: CONTAINER HOLDER · GROUNDING — every session opens on this map\nBEATS:\n1. One sentence: at Evening 11 each of us took one small step of obedience. Tonight the room takes one together.\n2. At Evening 12 we looked for the works God prepared for us. Tonight we do one of them.\nCUES: Thirty seconds tonight; the clock is short.")
+    "Evening 13 stands in the fourth box — Connect with Mission: tonight the room chooses, together, one of the works He prepared (Eph. 2:10), and does it before we meet again. Each connection makes the next one real (Matt. 22:37–40)."])
+notes(S[2], "E13 · 7:00 · LEAD: CONTAINER HOLDER · GROUNDING — every session opens on this map\nBEATS:\n1. At Evening 11 each of us took one small step of obedience. At Evening 12 we looked for the works God prepared for us.\n2. Tonight the room chooses one to do together. The serving happens in the next two weeks; at Evening 14 we report back.\n3. Name the three skills: hearing together, planning together, agreeing together.")
 
 # 3 tonight's road
 set_lines(shape(S[3], "TextBox 2"), ["Evening 13 — Tonight’s Road"])
 set_lines(shape(S[3], "TextBox 3"), [
-    "1   Welcome, blessing and John 13", "2   The guards, and the plan",
-    "3   Travel — leave at 6:35", "4   Serving — about an hour, together",
-    "5   Travel back — home by 8:00", "6   The circle — where did you see God?",
-    "7   Homework, feedback and the Aaronic blessing"])
-notes(S[3], "E13 · 6:25–6:35 · LEAD: BOTH LEADERS\nBEATS:\n1. Walk the road in one breath: a short opening here, the work there, the circle back here.\n2. Name who leads on site: the planning teens, with an adult alongside each job.\n3. Two named adults hold safety tonight, here and on site.\nCUES: Ten minutes for the whole opening, slides 2 to 8.")
+    "1   Welcome and centering",
+    "2   The check-in circle — and the ideas you brought",
+    "3   The room obeys together — John 13, Acts 13 and 15",
+    "4   Hear together",
+    "5   Plan together",
+    "6   Agree together",
+    "7   The circle, homework, feedback and the Aaronic blessing"])
+notes(S[3], "E13 · 7:00–7:07 · LEAD: BOTH LEADERS\nBEATS:\n1. Walk the road briefly: tonight we do not serve yet. We hear, we plan and we agree, and we leave with a date.\n2. Name the handoffs: the content presenter leads the teaching and the hearing; the teens run the chart in the planning; the container holder leads the check-in, the agreement round and the circle.\n3. Two named adults hold safety tonight.")
 
-# 4 opening container: short form tonight
-set_lines(shape(S[4], "TextBox 2"), ["Opening Container — Short Form Tonight"])
-set_lines(shape(S[4], "TextBox 4"), [
-    "1   Phones silenced and put away",
-    "2   Stand in a circle",
-    "3   Spoken commitment: “I am here. I am paying attention. I am willing to be moved.”",
-    "4   Opening prayer — “Holy Spirit, you are welcome here. Speak. We are listening.”",
-    "5   The full eight steps return at the next evening"])
-notes(S[4], "E13 · 6:25 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Aaronic blessing first.\n2. Short form tonight: stand, the spoken commitment, the opening prayer. The full eight steps return at the next evening.\nCUES: Two minutes; the people we serve are expecting us.")
+# 4 opening container (full eight steps)
+notes(S[4], "E13 · 7:00–7:07 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Aaronic blessing first.\n2. Full eight steps, normal pace. Safe, present, clear, intentional, said aloud.\nCUES: The one-word check-in gets one unhurried breath after each word; no commentary.")
 
-# 6 teaching (John 13) comes before the guards
-set_lines(shape(S[6], "TextBox 2"), ["If You Do Them — John 13"])
-set_lines(shape(S[6], "TextBox 4"), [
-    "•  On His last night, Jesus took a towel and washed His disciples’ feet (John 13:4–5)",
-    "•  “I have given you an example, that you also should do just as I have done to you” (John 13:15)",
-    "•  What we do for the hungry, the stranger and the sick, we do for Him (Matt 25:35–40)",
-    "•  At Evening 11, each of us obeyed. Tonight the room obeys together",
-    "•  Say verse 17 together"])
-set_lines(shape(S[6], "TextBox 6"), [
-    "JOHN 13:17",
-    "“If you know these things, blessed are you if you do them.”"])
-notes(S[6], "E13 · 6:27–6:31 · LEAD: CONTENT PRESENTER\nBEATS:\n1. Read John 13:1–17 aloud from the physical Bible; slowly, but without comment.\n2. Then the whole room says verse 17 together, once.\n3. One sentence from Matthew 25: tonight we serve Him.\nCUES: Four minutes. The reading is the teaching tonight.")
-
-# 5 the guards
-set_lines(shape(S[5], "TextBox 2"), ["Before We Go — the Guards"])
+# 5 check-in, and the ideas brought
 set_lines(shape(S[5], "TextBox 4"), [
-    "•  We serve with people, not at them: what they asked for, the way they want it done",
-    "•  No photos for show (Matt 6:1); a photo for the family who asked for one is fine",
-    "•  If they ask why we came, say so simply. Tonight the kindness is the witness",
-    "•  Parents present; no one works alone or out of sight",
-    "–  No ladders, roofs or power tools for teens",
-    "•  We go under the same pastoral covering as every evening"])
-notes(S[5], "E13 · 6:31–6:33 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Read the guards aloud, plainly. They protect the people we serve, and us.\n2. Name the pastoral covering aloud, by name, before anyone leaves.\nGUARD: The people we serve keep their dignity. We do what they asked for, the way they want it done.")
+    "•  Two weeks since What Was Prepared for You: what did you notice?",
+    "•  The week-one check-ins: did your partner reach you? Did you reach them?",
+    "–  A thin week is an honest answer; pass is a complete answer",
+    "•  Then the idea you brought: someone near us the room could serve",
+    "–  Each goes on the chart; no discussion yet",
+    "•  A parent starts; received with “We hear that”"])
+notes(S[5], "E13 · 7:07–7:17 · LEAD: CONTAINER HOLDER\nBEATS:\n1. One sentence each on the two weeks, the arranged parent first; then the week-one check-ins.\n2. Second round: the idea each person brought. A teen writes each on the chart as it is said.\n3. No discussion, no 'that's a good one.' The ideas wait for the hearing.\nCUES: Ten minutes. Never cold-call a teen. No idea brought is fine; say so and pass.\nGUARD: Ideas name people. Speak of them with honor; nothing said here we would not say in front of them.")
 
-# 7 the plan
-set_lines(shape(S[7], "TextBox 2"), ["Tonight’s Work"])
+# 6 teaching
+set_lines(shape(S[6], "TextBox 2"), ["The Room Obeys Together"])
+set_lines(shape(S[6], "TextBox 4"), [
+    "•  Jesus washed His disciples’ feet: “I have given you an example” (John 13:15)",
+    "•  At Antioch, worshiping and fasting, the Spirit spoke to the whole group, and the group acted together (Acts 13:1–3)",
+    "•  At Jerusalem, they heard each other out, weighed it by Scripture, and agreed (Acts 15)",
+    "•  Tonight, three skills: hear together, plan together, agree together",
+    "•  Say John 13:17 together"])
+set_lines(shape(S[6], "TextBox 6"), [
+    "ACTS 15:28",
+    "“It has seemed good to the Holy Spirit and to us.”"])
+notes(S[6], "E13 · 7:17–7:24 · LEAD: CONTENT PRESENTER\nBEATS:\n1. Read John 13:12–17 aloud from the physical Bible; the room says verse 17 together, once.\n2. Read Acts 13:1–3: they were worshiping when the Spirit spoke, and the whole group acted on it.\n3. Acts 15 in one breath: a hard question, stories heard, Scripture weighed, then 'it has seemed good to the Holy Spirit and to us.' That is tonight's shape: hear, plan, agree.\nCUES: Seven minutes. The readings are the teaching.")
+
+# 7 hear together
+set_lines(shape(S[7], "TextBox 2"), ["Hear Together"])
 set_lines(shape(S[7], "TextBox 4"), [
-    "1   Who we are serving: ________________",
-    "2   Where: ________________",
-    "3   What they asked for: ________________",
-    "4   The jobs and who does them — on the Serving Plan",
-    "5   Drivers and riders — leave at 6:35, on site 6:45",
-    "•  The planning teens lead on site; an adult alongside each job"])
-notes(S[7], "E13 · 6:33–6:35 · LEAD: CONTENT PRESENTER · A PLANNING TEEN WALKS THE PLAN\nBEATS:\n1. Before the evening, the planning teens fill the blanks on this slide from the Serving Plan.\n2. A planning teen walks it aloud: who, where, what they asked for, the jobs, the rides.\n3. Then a short prayer for the people we serve, by name, and we go.\nCUES: Two minutes. If the work moved to a Saturday, this slide still opens the morning.")
+    "1   The question: “Lord, whom would you have us serve together, and how?”",
+    "2   Three minutes of quiet; write down what comes",
+    "3   Each says what came: a name, a need, a picture, a verse, or nothing",
+    "4   It goes on the chart, beside the ideas you brought",
+    "5   Received with “We hear that”",
+    "•  Say what you heard, not why it is right"])
+notes(S[7], "E13 · 7:24–7:36 · LEAD: CONTENT PRESENTER\nBEATS:\n1. Pray the question aloud, then keep three full minutes of quiet. Watch the clock, not the room.\n2. Around the circle, a parent first: what came. A teen adds each to the chart; a star beside an idea already there.\n3. 'Nothing came' is a full answer.\nCUES: Twelve minutes.\nGUARD: Nobody argues for an idea yet, and nobody says 'God told me' to end a discussion. What someone heard is weighed, like everything else (1 John 4:1).")
 
-# 8 the circle
-set_lines(shape(S[8], "TextBox 2"), ["The Circle — Where Did You See God?"])
+# 8 plan together
+set_lines(shape(S[8], "TextBox 2"), ["Plan Together"])
 set_lines(shape(S[8], "TextBox 4"), [
-    "•  One sentence each: what I saw, what I felt, where I saw God",
+    "•  The teens at the chart: one holds the marker, one keeps the Serving Plan",
+    "•  The four checks: local and concrete; a job for every age; an hour or two of real work; arranged with the people served",
+    "•  Narrow to a first choice and a second",
+    "•  Then the plan: the jobs and who, what each family brings, the date, the drivers",
+    "•  Who calls them, and by when: a teen, with a parent alongside"])
+notes(S[8], "E13 · 7:36–7:58 · LEAD: CONTENT PRESENTER · THE TEENS AT THE CHART · CONTAINER HOLDER WATCHING THE ROOM\nBEATS:\n1. Hand the marker to a teen. Parents give ideas and concerns like everyone else; the teens run it.\n2. Read the four checks against the chart; strike what fails, star what passes. Look first at what was heard more than once.\n3. Choose a first and a second. Then fill the Serving Plan: jobs (one for every age), what each family brings, a date in the next two weeks (usually a Saturday morning), drivers, and who makes the call by when.\nCUES: Call the five-minute mark at 7:53. A plan that is mostly done is enough; the teens finish the details by text.\nGUARD: Nothing is promised to anyone tonight. The call asks what they would like.")
+
+# 9 agree together
+set_lines(shape(S[9], "TextBox 2"), ["Agree Together"])
+set_lines(shape(S[9], "TextBox 4"), [
+    "•  Not a vote. Each in turn: “I’m in,” or “I’m in, with a concern,” or “Not yet: here is what would make it a yes”",
+    "•  Concerns are heard; the plan changes until every voice is in",
+    "•  After the call: if they ask for something different, the teens and a parent change the plan to fit; if they say no thank you, the second choice",
+    "•  The prayer of agreement, over the plan and the people, by name (Matt 18:19)"])
+notes(S[9], "E13 · 7:58–8:08 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Go around the whole circle, parents and teens alike. Every voice, not the loudest.\n2. A concern: thank them, ask what would answer it, and change the plan if it should change. A 'not yet': ask what would make it a yes.\n3. When every voice is in, the room agrees how the plan may change after the call. Then a parent and a teen pray over the plan and the people, by name.\nCUES: Ten minutes. If it will not settle, keep the first choice as heard, name the concern on the Serving Plan, and let the teens and John finish it this week.\nGUARD: A quiet 'not yet' is worth more than a fast yes. Nobody is pressed to agree.")
+
+# 11 the circle
+set_lines(shape(S[11], "TextBox 2"), ["The Circle — Which Was Hardest?"])
+set_lines(shape(S[11], "TextBox 4"), [
+    "•  One sentence each: which was hardest tonight, hearing, planning or agreeing?",
+    "•  And where did you see God in it?",
     "•  A parent starts; pass is a full answer",
     "•  Received as witness: “We hear that.” No commentary",
-    "•  Tired is fine. The work is not finished until the room has said where it saw God",
-    "•  “Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me” (Matt 25:40)"])
-notes(S[8], "E13 · 8:00–8:20 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Back in the circle, coats off, sitting. One sentence each, the arranged parent first.\n2. 'We hear that' is the whole response.\n3. Thank the planning teens by name, specifically: what they did, and what it made possible.\nCUES: Twenty minutes, even if everyone is tired.\nGUARD: Talk about the people we served with honor; nothing said about them here that we would not say in front of them.")
+    "•  “If you know these things, blessed are you if you do them” (John 13:17)"])
+notes(S[11], "E13 · 8:08–8:14 · LEAD: CONTAINER HOLDER\nBEATS:\n1. One sentence each, the arranged parent first.\n2. 'We hear that' is the whole response.\n3. Thank the teens at the chart by name, specifically: what they did, and what it made possible.\nCUES: Six minutes. Listen for which skill the room found hardest; it goes to the debrief.")
 
-# 9, 10 take-home: one part of the sheet per slide, full size
-set_lines(shape(S[9], "TextBox 2"), ["The Take-Home Sheet — Week One"])
-place_crop(S[9], IMG1, (100, 745, 1175, 1245), "e13-takehome-week-one")
-notes(S[9], "E13 · 8:20–8:25 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. The sheet on the screen is the sheet in their hands: walk it, don't read it.\n2. Week one: daily PROAPT, as always, and eyes open for one more chance to serve, unplanned. The morning question with it: 'Lord, who could I serve today?'\n3. Check-in partners named aloud: at the end of week one, 'Did a chance come? Did you take it?'")
-set_lines(shape(S[10], "TextBox 2"), ["The Take-Home Sheet — Week Two"])
-place_crop(S[10], IMG2, (100, 120, 1175, 515), "e13-takehome-week-two")
-notes(S[10], "E13 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. Week two: two lines in the journal, what I did and where I saw God in it.\n2. No chance came, or you let one pass? Write that too. Honest data, not failure.\n3. Bring one sentence back to The Rhythm: where I saw God when we served.")
+# 10 the serving day (shown at the commissioning)
+set_lines(shape(S[10], "TextBox 2"), ["On Our Date — the Serving Day"])
+set_lines(shape(S[10], "TextBox 4"), [
+    "1   Meet, pray for the people by name, and drive over together",
+    "2   An hour or two of work; the teens lead, an adult alongside each job",
+    "3   Before we leave: a blessing for the people we served",
+    "•  Parents present; no one alone or out of sight; no ladders, roofs or power tools for teens",
+    "•  We serve with people, not at them; no photos for show (Matt 6:1)",
+    "•  The pastoral covering named aloud before we go"])
+notes(S[10], "E13 · 8:14 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. Walk the day in one breath: gather and pray, the work, a blessing before we leave.\n2. Read the guards aloud, plainly. They protect the people we serve, and us.\n3. If they ask why we came, say so simply. The kindness is the witness.")
 
-# 11 leader feedback round, folded into the circle tonight
-notes(S[11], "E13 · 8:25–8:28 · LEAD: BOTH LEADERS\nBEATS:\n1. Folded into the circle tonight, and short: each leader, one thing that went well and one to do differently.\n2. The planning teens are leaders tonight too: invite one of them to answer the same two.\nCUES: 'Thank you' is the whole response.")
+# 12, 13 take-home: the plan at the top with week one; then on our date and the report
+set_lines(shape(S[12], "TextBox 2"), ["The Take-Home Sheet — Our Plan, and Week One"])
+img, box = stack(IMG1, [(100, 268, 1175, 472), (100, 950, 1175, 1445)], "e13-takehome-plan-week-one")
+place_crop(S[12], img, box, "e13-takehome-plan-week-one")
+notes(S[12], "E13 · 8:14–8:20 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. The sheet on the screen is the sheet in their hands: walk it, don't read it.\n2. At the top: write in our plan now, whom we serve, our date and your part. What they asked for comes after the call.\n3. Week one: daily PROAPT with 'Lord, how should we serve them?' The call is made by the day agreed; the teens tell the room what they asked for. Get your part ready.\n4. Check-in partners named aloud: at the end of week one, 'Is your part ready? What do you need?'")
+set_lines(shape(S[13], "TextBox 2"), ["The Take-Home Sheet — On Our Date, and Bring It Back"])
+place_crop(S[13], IMG2, (100, 118, 1175, 585), "e13-takehome-date-report")
+notes(S[13], "E13 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. On our date: we serve together. Afterwards, two journal lines: what I did, and where I saw God in it.\n2. If the day did not go as planned, write that too. Honest data, not failure.\n3. At Evening 14 the teens who planned it give the room's report: what we planned, what happened, what changed, where we saw God. Then one sentence each.")
 
-# 12 closing
-notes(S[12], "E13 · 8:28–8:30 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Short close: stand; one-word landing; the Aaronic blessing.\n2. Name the road: at the next evening, The Rhythm and the Four Questions, each person builds the rhythm they will carry, and serving can be part of it.\nBLESSINGS: eyes on the person, not the screen; say what is on your heart for them, specific and short.")
+# 14 leader feedback round
+notes(S[14], "E13 · 8:20–8:24 · LEAD: BOTH LEADERS\nBEATS:\n1. Same round every week, leader first: what went well tonight, what I'd do differently.\n2. The teens who ran the chart are leaders tonight too: invite one of them to answer the same two.\n3. Then the room, the same two questions about the leaders.\nCUES: 'Thank you' is the whole response.")
 
-# order: teaching (6) before the guards (5)
+# 15 closing
+notes(S[15], "E13 · 8:24–8:30 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Closing protocol, unhurried: stand; one-word landing; the one thing taken from tonight; the one practice: tonight, your part in the plan.\n2. Name the road: we serve on our date; at Evening 14, The Rhythm and the Four Questions, the room tells what God did, and each person builds the rhythm they will carry.\n3. Aaronic blessing.\nBLESSINGS: eyes on the person, not the screen; say what is on your heart for them, specific and short.")
+
+# order: the circle (11) before the serving day (10)
 sld = prs.slides._sldIdLst
 ids = list(sld)
-sld.remove(ids[6]); sld.insert(5, ids[6])
+sld.remove(ids[11]); sld.insert(10, ids[11])
 
 # corner pages S1, S2, ...
 for i, s in enumerate(prs.slides, 1):
