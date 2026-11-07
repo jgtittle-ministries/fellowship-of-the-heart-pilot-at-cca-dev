@@ -149,7 +149,7 @@ practice chosen from The Practices So Far.\
 *Picks up:* Evening 2's heart soil and Evening 6's hearing. It adds the
 first testing of what we hear: How Did You Know?
 
-**Evening 8 — Any Doubts?** · *Tuesday 8 December, expected*\
+**Evening 8 — Any Doubts?** · *Tuesday 1 or 8 December, expected depending on family situations*\
 First the return: what held over four weeks apart. Then naming honest
 doubts to God, in parent–teen pairs, the parent first ("I believe; help my
 unbelief!", Mark 9:24). Then the silent place: a time God seemed silent,
@@ -160,7 +160,7 @@ Christmas one chosen practice a week.\
 itself. The testing from Evening 7 returns.
 
 **Evening 9 — Heart Bible Study** · *January*\
-Welcome home after Christmas. PROAPT in its group form: the room hears God
+Welcome home after Christmas. This is PROAPT in its group form: the room hears God
 together in one passage (1 Samuel 3), and a teen leads the room's hearing.\
 *Goes home:* daily PROAPT, and in week two one Heart Bible Study at your
 own family table, a teen leading.\
