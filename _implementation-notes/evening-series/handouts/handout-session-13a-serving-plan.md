@@ -34,7 +34,8 @@
 
 ☐ Every voice in: *I'm in*, or *I'm in, with a concern* ☐ The prayer of agreement (Matthew 18:19)\
 **Concerns we heard, and what we changed:** ______________________________\
-☐ After the call, the teens and a parent may change the plan to fit, within the four checks
+☐ After the call, the teens and a parent may change the plan to fit, within the four checks\
+☐ Or: **we passed tonight.** No project this time; the concerns above are what held us apart
 
 ## The guards, checked
 

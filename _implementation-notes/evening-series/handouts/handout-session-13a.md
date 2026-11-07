@@ -4,6 +4,8 @@
 
 ## Our plan — written in tonight
 
+*If the room passed tonight, leave this blank and use* If the room passed *on page two.*
+
 **We will serve:** ______________________________ **Our date:** ______________
 
 **What they asked for** *(filled in after the call)*: ______________________________
@@ -33,9 +35,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 **Daily PROAPT, as always,** with the morning question: "Lord, how should
 we serve them?" **The call is made** by the day we agreed, and the teens
-tell the room what the people asked for. If they ask for something
-different, we do what they ask; if they say no thank you, we go to our
-second choice. **Get your part ready.**
+tell the room what the people asked for. **Get your part ready.**
 
 **I heard what they asked for:** ☐ **My part is ready:** ☐
 
@@ -71,3 +71,22 @@ and where we saw God. Then one sentence from each of us: "Where I saw God
 when we served was ________." **Done:** ☐
 
 *"If you know these things, blessed are you if you do them" (John 13:17).*
+
+## If the room passed tonight
+
+No project this time. That is an honest answer, not a failure. Daily
+PROAPT carries on.
+
+**Each day:** eyes open for one chance to serve someone, unplanned. Take
+it if you can. **A chance came:** ☐ **I took it:** ☐
+
+**End of week one,** with your partner: *Did a chance come? Did you take
+it?* **Done:** ☐
+
+**Week two, two lines in your journal:** *the chance I took or let pass*,
+and *what I think kept us from one mind, and what would have made it a
+yes*.
+
+**At Evening 14:** one sentence of it at the check-in. **Done:** ☐
+
+*"That they may all be one" (John 17:21).*

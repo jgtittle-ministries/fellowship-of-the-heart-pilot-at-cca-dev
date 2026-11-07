@@ -72,6 +72,30 @@ teens and a parent may change the plan to fit, within the four checks;
 if they say no thank you, we go to the second choice. Then the room
 prays over the plan and the people, by name (Matthew 18:19).
 
+**The room may pass.** A person may pass in any circle, and so may the
+room. If every voice is not in by the end of the agreement round, or if
+the room says together that none of these is ours to do now, the room
+passes for tonight. That is a full answer, not a failure. It is what
+happens then that matters:
+
+- **We say it plainly.** The container holder names it: "We have not come
+  to one mind tonight." Nobody is blamed, and nobody is named as the one
+  who held it up.
+- **Nobody decides for the room.** The plan is not finished afterwards by
+  the leaders, by John or by text. If the room wants to try again, it
+  does so together at a later evening.
+- **We write down what held us apart,** on the Serving Plan: the concerns
+  as they were said, without names.
+- **We pray for one mind,** not for a plan: "that they may all be one"
+  (John 17:21).
+- **The two weeks still have a practice.** Each person keeps eyes open
+  for one chance to serve someone, unplanned, and asks: *what kept us from
+  one mind, and what would have made it a yes?*
+
+Whether the room agreed or passed, John records it at the debrief. It is
+one of the clearest signs the series has of whether the group is becoming
+one, alongside which skill the room found hardest.
+
 ## Materials
 
 Everything for this evening, current as of the last update. Download, open, print.
@@ -98,9 +122,9 @@ Everything for this evening, current as of the last update. Download, open, prin
 | 7:17–7:24 | John 13:12–17, Acts 13:1–3 and Acts 15:28: the room's obedience, and how the early church heard, planned and agreed together. | Content presenter |
 | 7:24–7:36 | **Hear together:** "Lord, whom would you have us serve together, and how?" Three minutes of quiet; then each says what came, and it goes on the chart. | Content presenter |
 | 7:36–7:58 | **Plan together:** a first and a second choice, using the four checks; then the Serving Plan: jobs, date, drivers, and who makes the call. | The teens at the chart; content presenter alongside; container holder watching the room |
-| 7:58–8:08 | **Agree together:** the agreement round until every voice is in; how the plan may change; the prayer of agreement over the plan and the people. | Container holder |
+| 7:58–8:08 | **Agree together:** the agreement round until every voice is in; how the plan may change; the prayer of agreement over the plan and the people. If every voice is not in by 8:08, the room passes, and prays for one mind instead. | Container holder |
 | 8:08–8:14 | The circle, short: which was hardest for you tonight, hearing, planning or agreeing? And where did you see God in it? A parent starts; pass is a full answer. | Container holder |
-| 8:14–8:20 | Homework commissioning: the take-home walked, each person's part written in; check-in partners named aloud. | Content presenter |
+| 8:14–8:20 | Homework commissioning: the take-home walked, each person's part written in (or, if the room passed, the other practice); check-in partners named aloud. | Content presenter |
 | 8:20–8:24 | Leader Feedback Round, both leaders. | Both leaders |
 | 8:24–8:30 | Closing container; Aaronic blessing. | Container holder |
 | 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning Evening 14, whose check-in hears the report. | Everyone; John holds the debrief |
@@ -125,6 +149,10 @@ changed from the plan and why, and where we saw God.** Then each person
 adds one sentence. The report is the end of the work: hearing, planning,
 agreeing, doing, and telling what God did.
 
+If the room passed, the report is shorter and just as honest: each
+person says, in a sentence, the chance to serve they took or let pass,
+and what they think kept us from one mind.
+
 ## For the two leads
 
 - **Listen before you advocate.** In the hearing block, nobody argues for
@@ -133,6 +161,10 @@ agreeing, doing, and telling what God did.
 - **Every voice, not the loudest.** In the agreement round, the container
   holder goes around the whole circle, parents and teens alike. A quiet
   "not yet" is worth more than a fast yes; ask what would make it a yes.
+- **Do not push the room past its pass.** At 8:06 the container holder
+  says, "Two minutes. If we are not one by then, we pass, and that is a
+  full answer." Then keep to it. No leader saves the plan by talking
+  longer.
 - **The teens hold the marker.** Parents give their ideas and concerns
   like everyone else, but the teens run the chart and the plan. That is
   their leadership rep tonight.
@@ -161,5 +193,10 @@ agreeing, doing, and telling what God did.
   journal: *what I did*, and *where I saw God in it*.
 - **Bring it back:** the report at Evening 14's check-in, and your one
   sentence.
+- **If the room passed:** no project this time. Each day, eyes open for
+  one chance to serve someone, unplanned; take it if you can. The
+  check-in asks *Did a chance come? Did you take it?* In week two, two
+  journal lines: *the chance I took or let pass*, and *what I think kept
+  us from one mind*.
 
 *Further up and further in.*

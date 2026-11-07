@@ -81,8 +81,9 @@ AREA_T, AREA_H, AREA_W = 1463040, 4892040, 10332720
 
 
 def place_crop(s, img, box, name):
-    old = next(sh for sh in s.shapes if sh.shape_type == 13 and sh.name == "Picture 3")
-    old._element.getparent().remove(old._element)
+    old = next((sh for sh in s.shapes if sh.shape_type == 13 and sh.name == "Picture 3"), None)
+    if old is not None:
+        old._element.getparent().remove(old._element)
     path = "%s\\%s.png" % (TMP, name)
     Image.open(img).convert("RGB").crop(box).save(path)
     im = Image.open(path)
@@ -112,6 +113,27 @@ def swap_divider_picture(s, src_deck, name):
     old._element.addprevious(new._element)
     old._element.getparent().remove(old._element)
     new.name = nm
+
+
+def dup_text_slide(src):
+    """A new slide on the same layout with copies of the source slide's shapes, pictures left out."""
+    new = prs.slides.add_slide(src.slide_layout)
+    for ph in list(new.placeholders):
+        ph._element.getparent().remove(ph._element)
+    bg = src._element.cSld.find("{http://schemas.openxmlformats.org/presentationml/2006/main}bg")
+    if bg is not None:
+        new._element.cSld.insert(0, copy.deepcopy(bg))
+    for sh in src.shapes:
+        if sh.shape_type != 13:
+            new.shapes._spTree.append(copy.deepcopy(sh._element))
+    ns = new.notes_slide
+    if ns.notes_placeholder is None:   # this deck's notes master gives a new notes page no body; copy the source's
+        tree = ns.shapes._spTree
+        for sp in list(tree)[2:]:
+            tree.remove(sp)
+        for sh in src.notes_slide.shapes:
+            tree.append(copy.deepcopy(sh._element))
+    return new
 
 
 def stack(img, boxes, name):
@@ -210,9 +232,10 @@ set_lines(shape(S[9], "TextBox 2"), ["Agree Together"])
 set_lines(shape(S[9], "TextBox 4"), [
     "•  Not a vote. Each in turn: “I’m in,” or “I’m in, with a concern,” or “Not yet: here is what would make it a yes”",
     "•  Concerns are heard; the plan changes until every voice is in",
-    "•  After the call: if they ask for something different, the teens and a parent change the plan to fit; if they say no thank you, the second choice",
-    "•  The prayer of agreement, over the plan and the people, by name (Matt 18:19)"])
-notes(S[9], "E13 · 7:58–8:08 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Go around the whole circle, parents and teens alike. Every voice, not the loudest.\n2. A concern: thank them, ask what would answer it, and change the plan if it should change. A 'not yet': ask what would make it a yes.\n3. When every voice is in, the room agrees how the plan may change after the call. Then a parent and a teen pray over the plan and the people, by name.\nCUES: Ten minutes. If it will not settle, keep the first choice as heard, name the concern on the Serving Plan, and let the teens and John finish it this week.\nGUARD: A quiet 'not yet' is worth more than a fast yes. Nobody is pressed to agree.")
+    "•  After the call: something different, the teens and a parent adjust it; no thank you, the second choice",
+    "•  The prayer of agreement, over the plan and the people, by name (Matt 18:19)",
+    "•  Not one by 8:08? The room passes. That is a full answer; we pray for one mind (John 17:21)"])
+notes(S[9], "E13 · 7:58–8:08 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Go around the whole circle, parents and teens alike. Every voice, not the loudest.\n2. A concern: thank them, ask what would answer it, and change the plan if it should change. A 'not yet': ask what would make it a yes.\n3. When every voice is in, the room agrees how the plan may change after the call. Then a parent and a teen pray over the plan and the people, by name.\nCUES: Ten minutes. At 8:06 say: 'Two minutes. If we are not one by then, we pass, and that is a full answer.' Then keep to it.\nIF THE ROOM PASSES: name it plainly: 'We have not come to one mind tonight.' No blame, no names. The keeper writes the concerns on the Serving Plan as they were said. Pray for one mind, not for a plan (John 17:21). Nobody finishes the plan afterwards, not the leaders, not John, not by text; if the room wants to try again, it does so together at a later evening.\nGUARD: A quiet 'not yet' is worth more than a fast yes. Nobody is pressed to agree, and no leader saves the plan by talking longer.")
 
 # 11 the circle
 set_lines(shape(S[11], "TextBox 2"), ["The Circle — Which Was Hardest?"])
@@ -222,7 +245,7 @@ set_lines(shape(S[11], "TextBox 4"), [
     "•  A parent starts; pass is a full answer",
     "•  Received as witness: “We hear that.” No commentary",
     "•  “If you know these things, blessed are you if you do them” (John 13:17)"])
-notes(S[11], "E13 · 8:08–8:14 · LEAD: CONTAINER HOLDER\nBEATS:\n1. One sentence each, the arranged parent first.\n2. 'We hear that' is the whole response.\n3. Thank the teens at the chart by name, specifically: what they did, and what it made possible.\nCUES: Six minutes. Listen for which skill the room found hardest; it goes to the debrief.")
+notes(S[11], "E13 · 8:08–8:14 · LEAD: CONTAINER HOLDER\nBEATS:\n1. One sentence each, the arranged parent first.\n2. 'We hear that' is the whole response.\n3. Thank the teens at the chart by name, specifically: what they did, and what it made possible.\nCUES: Six minutes. Listen for which skill the room found hardest; it goes to the debrief, with whether the room agreed or passed.\nIF THE ROOM PASSED: the same question, received the same way. Do not reopen the plan here.")
 
 # 10 the serving day (shown at the commissioning)
 set_lines(shape(S[10], "TextBox 2"), ["On Our Date — the Serving Day"])
@@ -237,23 +260,30 @@ notes(S[10], "E13 · 8:14 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1
 
 # 12, 13 take-home: the plan at the top with week one; then on our date and the report
 set_lines(shape(S[12], "TextBox 2"), ["The Take-Home Sheet — Our Plan, and Week One"])
-img, box = stack(IMG1, [(100, 268, 1175, 472), (100, 950, 1175, 1445)], "e13-takehome-plan-week-one")
+img, box = stack(IMG1, [(100, 268, 1175, 522), (100, 1000, 1175, 1465)], "e13-takehome-plan-week-one")
 place_crop(S[12], img, box, "e13-takehome-plan-week-one")
-notes(S[12], "E13 · 8:14–8:20 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. The sheet on the screen is the sheet in their hands: walk it, don't read it.\n2. At the top: write in our plan now, whom we serve, our date and your part. What they asked for comes after the call.\n3. Week one: daily PROAPT with 'Lord, how should we serve them?' The call is made by the day agreed; the teens tell the room what they asked for. Get your part ready.\n4. Check-in partners named aloud: at the end of week one, 'Is your part ready? What do you need?'")
+notes(S[12], "E13 · 8:14–8:20 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. The sheet on the screen is the sheet in their hands: walk it, don't read it.\n2. At the top: write in our plan now, whom we serve, our date and your part. What they asked for comes after the call.\n3. Week one: daily PROAPT with 'Lord, how should we serve them?' The call is made by the day agreed; the teens tell the room what they asked for. Get your part ready.\n4. Check-in partners named aloud: at the end of week one, 'Is your part ready? What do you need?'\nIF THE ROOM PASSED: skip the plan; walk the last section on page two instead, eyes open for one chance to serve, unplanned.")
+PASS = dup_text_slide(S[13])   # made before S[13] changes; moved after it at the end
 set_lines(shape(S[13], "TextBox 2"), ["The Take-Home Sheet — On Our Date, and Bring It Back"])
-place_crop(S[13], IMG2, (100, 118, 1175, 585), "e13-takehome-date-report")
-notes(S[13], "E13 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. On our date: we serve together. Afterwards, two journal lines: what I did, and where I saw God in it.\n2. If the day did not go as planned, write that too. Honest data, not failure.\n3. At Evening 14 the teens who planned it give the room's report: what we planned, what happened, what changed, where we saw God. Then one sentence each.")
+place_crop(S[13], IMG2, (100, 118, 1175, 555), "e13-takehome-date-report")
+notes(S[13], "E13 · COMMISSIONING · LEAD: CONTENT PRESENTER\nBEATS:\n1. On our date: we serve together. Afterwards, two journal lines: what I did, and where I saw God in it.\n2. If the day did not go as planned, write that too. Honest data, not failure.\n3. At Evening 14 the teens who planned it give the room's report: what we planned, what happened, what changed, where we saw God. Then one sentence each.\nIF THE ROOM PASSED: skip this slide; the next one is the practice.")
+set_lines(shape(PASS, "TextBox 2"), ["The Take-Home Sheet — If the Room Passed"])
+set_lines(shape(PASS, "TextBox 4"), ["Not a failure: an honest answer, and one more thing we learn about becoming one."])
+place_crop(PASS, IMG2, (100, 555, 1175, 975), "e13-takehome-if-passed")
+notes(PASS, "E13 · COMMISSIONING · LEAD: CONTENT PRESENTER · ONLY IF THE ROOM PASSED (otherwise skip)\nBEATS:\n1. No project this time. Say it without apology: the room gave an honest answer.\n2. Each day: eyes open for one chance to serve someone, unplanned; take it if you can.\n3. Check-in partners named aloud: at the end of week one, 'Did a chance come? Did you take it?'\n4. Week two: two journal lines, the chance I took or let pass, and what I think kept us from one mind and what would have made it a yes. At Evening 14 each says a sentence of it.\nGUARD: Nobody is named as the one who held it up, tonight or at Evening 14.")
 
 # 14 leader feedback round
 notes(S[14], "E13 · 8:20–8:24 · LEAD: BOTH LEADERS\nBEATS:\n1. Same round every week, leader first: what went well tonight, what I'd do differently.\n2. The teens who ran the chart are leaders tonight too: invite one of them to answer the same two.\n3. Then the room, the same two questions about the leaders.\nCUES: 'Thank you' is the whole response.")
 
 # 15 closing
-notes(S[15], "E13 · 8:24–8:30 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Closing protocol, unhurried: stand; one-word landing; the one thing taken from tonight; the one practice: tonight, your part in the plan.\n2. Name the road: we serve on our date; at Evening 14, The Rhythm and the Four Questions, the room tells what God did, and each person builds the rhythm they will carry.\n3. Aaronic blessing.\nBLESSINGS: eyes on the person, not the screen; say what is on your heart for them, specific and short.")
+notes(S[15], "E13 · 8:24–8:30 · LEAD: CONTAINER HOLDER\nBEATS:\n1. Closing protocol, unhurried: stand; one-word landing; the one thing taken from tonight; the one practice: tonight, your part in the plan.\n2. Name the road: we serve on our date (or, if the room passed, each keeps eyes open for one chance to serve); at Evening 14, The Rhythm and the Four Questions, the room tells what God did, and each person builds the rhythm they will carry.\n3. Aaronic blessing.\nBLESSINGS: eyes on the person, not the screen; say what is on your heart for them, specific and short.")
 
 # order: the circle (11) before the serving day (10)
 sld = prs.slides._sldIdLst
 ids = list(sld)
 sld.remove(ids[11]); sld.insert(10, ids[11])
+ids = list(sld)
+sld.remove(ids[16]); sld.insert(14, ids[16])   # the if-passed take-home slide, after the date-and-report slide
 
 # corner pages S1, S2, ...
 for i, s in enumerate(prs.slides, 1):

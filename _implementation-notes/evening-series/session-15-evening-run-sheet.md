@@ -15,7 +15,7 @@ team tunes the minutes and the leads at the planning lab before this session.**
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00-7:08 | Welcome and centering; blessing; container reminder; frame the evening. | Container holder |
-| 7:08-7:25 | Check-in circle: first the room's serving report from Evening 13, given by the teens who planned it, about five minutes (what we planned, what happened, what changed, where we saw God). Then two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
+| 7:08-7:25 | Check-in circle: first the room's serving report from Evening 13, given by the teens who planned it, about five minutes (what we planned, what happened, what changed, where we saw God); if the room passed, a sentence from each instead: the chance to serve I took or let pass, and what kept us from one mind. Then two weeks of practice reported, week-one check-ins debriefed. One-sentence shares, a parent starts the sharing. | Container holder |
 | 7:25-7:29 | Block 2: Evening 12 completion | Content presenter; container holder watching the room |
 | 7:29-7:36 | Block 3: The long walk — Gal. 6:9 | Content presenter; container holder watching the room |
 | 7:36-7:39 | Block 4: The Rhythm Card introduced | Content presenter; container holder watching the room |
