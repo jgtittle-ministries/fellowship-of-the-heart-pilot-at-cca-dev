@@ -76,6 +76,14 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.67 — November 11, 2026 — The leading question at Evening 8's dinner
+
+John's word, 11 November. At the 1 December dinner John asks Evening 7's
+two leads the fixed leading question, asked the same way to each: "What
+did leading this teach you that hearing it did not?" Evening 8's page and
+run sheet say so. John keeps a one-page notes sheet in hand at dinner and
+the debrief (kept with his own papers, not published).
+
 ## v2.66 — November 11, 2026 — The feedback round: add, don't repeat
 
 From the Evening 7 debrief (John's word, 11 November). The Leader Feedback
