@@ -262,6 +262,13 @@ explaining enough of what is going on for them to take part, is part of
 what the teen leads are learning. It is rehearsed at every planning lab
 (the cold start, above).
 
+**A guest's partner is a bridge.** At commissioning, invite a guest to
+choose a check-in partner who knows them and has walked the practices. That
+partner explains any practice the guest missed and expects to hear from
+them in the week, which is also the likeliest reason a guest comes back.
+It is teaching others in its smallest form. Anything of weight still goes
+to an adult.
+
 ## How the group is watched over
 
 The [three vital signs](../shared/three-vital-signs.md) are watched as

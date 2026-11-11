@@ -76,6 +76,15 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.65 — November 11, 2026 — A guest's partner is a bridge
+
+From Evening 7's commissioning (John's word, 11 November). Two guests
+chose check-in partners among teens who knew them and had walked the
+practices, so a partner could explain what the guests had missed and the
+guests had a reason to come back. The handbook's guests section now invites
+it: a guest chooses a partner who knows them and has walked the practices;
+anything of weight still goes to an adult.
+
 ## v2.64 — November 11, 2026 — The family check-in, invited
 
 From the Evening 7 dinner (John's word, 11 November). One family does the
