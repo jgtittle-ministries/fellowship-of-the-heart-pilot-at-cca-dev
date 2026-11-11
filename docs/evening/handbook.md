@@ -195,7 +195,11 @@ Each session ends with a one-page take-home in four parts:
 2. **The end-of-week-one check-in** — at the end of week one, connect with
    the partner you named aloud at commissioning and report how it's going.
    A text, a call, or a hallway conversation all count. You are not
-   grading each other; you are *expecting* each other.
+   grading each other; you are *expecting* each other. If your family
+   wants to do the week-one check-in together at the table as well, that
+   is welcome: one family found the parents hearing each check-in was a
+   gift. Keep your named partner too; the partners cross families on
+   purpose, and listening is not checking.
 3. **The homework practice, week two** — the practice continued, deepened
    or repeated as the session specifies.
 4. **One sentence of preparation** — read, notice, or bring something for

@@ -76,6 +76,15 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.64 — November 11, 2026 — The family check-in, invited
+
+From the Evening 7 dinner (John's word, 11 November). One family does the
+end-of-week-one check-in largely together, with the parents hearing each
+check-in, while keeping their named partners. The handbook's take-home
+section now invites it as an option, not a requirement: the named partner
+stays the standard, because partners cross families on purpose, and
+listening is not checking.
+
 ## v2.63 — November 11, 2026 — Keeping the evening to time; Evening 8 on December 1
 
 From the Evening 7 debrief (John's word, 11 November). The evenings were
