@@ -76,6 +76,38 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.63 — November 11, 2026 — Keeping the evening to time; Evening 8 on December 1
+
+From the Evening 7 debrief (John's word, 11 November). The evenings were
+running long, with too much material for a growing room. Pair work takes
+the same time however many come; whole-room rounds grow with every person.
+So the practice keeps its time and the rest shortens.
+
+- **Handbook:** a new section, *Keeping the evening to time*. The homework
+  is talked over at dinner (John asks what's working and what's not), and
+  the circle's check-in is one word each. Whole-room rounds become one word,
+  two or three voices, or pairs. One teaching block. The take-home goes out
+  on paper. An adult keeps a visible clock. The standard shape now ends at
+  8:16 with a buffer for depth.
+- **The Leader Feedback Round stays whole** and moves into the standard
+  shape: the leaders' own answers, then the room's, every parent answering.
+  It is affirmation as much as feedback, and the parents' word matters
+  most to the teens. The slide notes no longer say it may be dropped.
+- **The planning lab opens with one question: have you reviewed the
+  slides?** John walks the slides with the leading pair from a printed
+  copy, and the content presenter says each teaching transition aloud once.
+- **Evening 8, *Any Doubts?*, is on Tuesday, December 1**, three weeks after
+  Evening 7. Re-timed: the return questions are asked at dinner (now with
+  "did anyone remind you?"), the circle names the return in one word each,
+  both practices keep their full time, the feedback round runs ten minutes,
+  and the evening closes at 8:16. The quiet tally is taken from the dinner
+  answers. Page, run sheet, slides and leader notes updated. The C5 return
+  question is unchanged in wording; only where it is asked has moved.
+- **Dates:** the landing page, The Whole Road (page and Word download) and
+  the Evening 7 page now say December 1. The Evening 7 take-home that went
+  home said December 8 and weeks three and four; its page keeps that plan
+  with a dated note.
+
 ## v2.62 — November 7, 2026 — The Whole Road
 
 A new page, [The Whole Road](the-whole-road.md): all twenty-one evenings
