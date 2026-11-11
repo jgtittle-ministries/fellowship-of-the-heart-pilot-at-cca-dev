@@ -61,7 +61,7 @@ Everything for this evening, current as of the last update. Download, open, prin
 | 7:39–7:52 | The silent place: settle; remember a time or place where God seemed silent; bring in the time you heard (remembered at the Garden evening); invite Jesus in, with permission to do or say anything he wishes, then about three minutes of silence; write (is something blocking? what might be the downside of a deeper connection?); share, optional. | Content presenter reads; container holder watching the room |
 | 7:52–7:56 | Merge: one word about the practices, not the doubt. Received without comment. | Container holder |
 | 7:56–8:02 | Take-home and the Christmas send-off, handed out on paper and walked: the doubts inventory in week one, the check-in, two journal questions in week two; then each week of the break a practice of your own choosing from the list, now with *Any Doubts?* on it; the returning rule; who to reach. | Content presenter |
-| 8:02–8:12 | Leader Feedback Round, in full: the leaders' own answers, then the room's, every parent answering. | Both leaders |
+| 8:02–8:12 | Leader Feedback Round, in full: the leaders' own answers, then the room's, every parent answering, each adding only what hasn't been said. | Both leaders |
 | 8:12–8:16 | Closing container; the Christmas break named; blessings; the Aaronic blessing. | Container holder |
 | 8:16–8:30 | Buffer, for a practice that runs deep. | |
 | 8:30–9:00 | Fellowship; the five-question materials debrief, with the quiet tally of the practices chosen (from the dinner answers); planning January. | Everyone; John holds the debrief |

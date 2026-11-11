@@ -76,6 +76,18 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.66 — November 11, 2026 — The feedback round: add, don't repeat
+
+From the Evening 7 debrief (John's word, 11 November). The Leader Feedback
+Round ran about fifteen minutes, much of it repeating what others had
+already said. The room's direction now reads, in every deck and in the
+handbook: every parent answers, each adding only what hasn't been said;
+agreeing is a nod, or "same." The leader notes in sixteen decks still said
+"two or three voices is plenty" or that the round "may be dropped"; both
+now follow v2.63 (the round stays whole, never squeezed). The two rite
+evenings keep their note that the ceremony may take the round's place.
+Leader notes rebuilt for every evening; materials republished.
+
 ## v2.65 — November 11, 2026 — A guest's partner is a bridge
 
 From Evening 7's commissioning (John's word, 11 November). Two guests

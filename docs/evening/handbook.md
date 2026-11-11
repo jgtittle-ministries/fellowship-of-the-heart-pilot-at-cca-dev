@@ -39,7 +39,7 @@ The 90-minute session keeps a steady shape:
 | 7:25–7:50 | Practice block: the session's exercise, in circle or pairs. Its time is protected. | Content presenter, container holder watching the room |
 | 7:50–7:57 | Shared circle: what surfaced, two or three voices or one word each. Parents first. | Container holder |
 | 7:57–8:02 | Homework commissioning: the take-home handed out on paper and walked, check-in partners named aloud. | Content presenter |
-| 8:02–8:12 | Leader Feedback Round: the leaders' own answers, then the room's, every parent answering. | Both leaders |
+| 8:02–8:12 | Leader Feedback Round: the leaders' own answers, then the room's, every parent answering, each adding only what hasn't been said. | Both leaders |
 | 8:12–8:16 | Closing blessing. | Container holder |
 | 8:16–8:30 | Buffer: for a practice that runs deep or a room that needs it. | |
 
@@ -70,7 +70,10 @@ shortens the rest.
   every parent answers. It is feedback and affirmation at once, for leaders
   who are still finding their way, and the parents' word is a big deal to
   the teens. When a teen leads, the room's answers are kind and brief, but
-  every voice is welcome. It is never the block that gets squeezed.
+  every voice is welcome. It is never the block that gets squeezed. **Each
+  person adds only what hasn't already been said**; agreeing with what
+  someone said is a nod, or "same." At Evening 7 the round ran about
+  fifteen minutes, much of it repeating what others had said.
 - **An adult keeps a visible clock**, with each block's end time, and gives
   the container holder a two-minute signal.
 - **The buffer is for depth, not for more material.** A messy evening
