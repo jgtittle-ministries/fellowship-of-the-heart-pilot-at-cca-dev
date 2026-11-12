@@ -166,6 +166,35 @@ follows [If someone reports oppression from outside](../getting-started/handbook
 pray with them in Jesus' name afterward, bring the parent in, and never
 make it a moment in the circle.
 
+## When something said isn't right
+
+The circle receives what is told, with *"We hear that,"* and no fixing,
+advice or comment. Receiving is not agreeing. Sooner or later someone, a
+teen or a guest, will say in the circle something a parent knows is not
+right. The rule moves correction; it does not remove it.
+
+- **Not in the circle.** The circle never debates or corrects what a person
+  says they heard. Correction in front of the room teaches everyone that
+  honesty is unsafe.
+- **Testing is the practice.** Anything heard that is to be acted on is
+  first tested in company: Scripture first, then others, then time (the
+  *How Did You Know?* checks, and the whole *Any Doubts?* evening). A
+  leader may point the room to the checks in general, never at one
+  person's sentence.
+- **Afterward, privately, gently.** Anything said that conflicts with
+  Scripture, or that could do harm, is taken up after the evening, in
+  private and gently (Matt 18:15; Gal 6:1): by the teen's parent, or by the
+  backstop adult when no parent is there, as with a guest. Anything that
+  could do harm, or a step that involves another person, goes to the
+  backstop adult that same evening.
+- **Parents keep their authority.** What a family teaches at home is the
+  family's. The group never overrides a parent, and no one in the group
+  asks a teen to keep anything from a parent.
+- **Weighing together comes later.** Later in the series the room learns to
+  weigh what it hears together (Evening 13: hearing, planning, agreeing).
+  Receiving first is the rule for this stage of the road, not the whole of
+  it.
+
 ## The planning lab
 
 In the off week, the leading team walks the coming session with John —
@@ -259,6 +288,12 @@ person who invited the guest asks two questions.
 Whatever the answers are, they come back to the leadership window as the
 inviter tells them, without names in any record, and they feed the
 five-question materials debrief: did that evening carry a newcomer?
+
+**A guest who comes back is the strongest answer.** Even one evening gives
+outside eyes on whether the work holds anything of value; a return says
+more, because nothing brings a guest back but the evenings themselves. So
+at each leadership window John notes, with no names, how many guests came,
+what the inviters heard, and how many guests have come back.
 
 **Guests train the leaders.** Starting someone in the middle, and
 explaining enough of what is going on for them to take part, is part of

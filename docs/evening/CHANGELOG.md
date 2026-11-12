@@ -76,6 +76,26 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.68 — November 12, 2026 — When something said isn't right; guests who come back
+
+John's word, 12 November, carried over from the curriculum article (v17).
+
+- **When something said isn't right** (new handbook section, after the
+  bright line). The circle receives without fixing, and receiving is not
+  agreeing. Parents are charged to teach their children, so the rule moves
+  correction rather than removing it: never in the circle; testing is the
+  practice (the *How Did You Know?* checks, *Any Doubts?*); anything that
+  conflicts with Scripture or could do harm is taken up afterward,
+  privately and gently, by the teen's parent, or by the backstop adult when
+  no parent is there; parents keep their authority, and no one asks a teen
+  to keep anything from a parent. Weighing together comes later in the
+  series (Evening 13).
+- **A guest who comes back** (handbook, guests section). Guests are outside
+  eyes: even one evening says whether the work holds anything of value,
+  and a return says more. At each leadership window John notes, with no
+  names, how many guests came, what the inviters heard, and how many have
+  come back.
+
 ## v2.67 — November 11, 2026 — The leading question at Evening 8's dinner
 
 John's word, 11 November. At the 1 December dinner John asks Evening 7's
