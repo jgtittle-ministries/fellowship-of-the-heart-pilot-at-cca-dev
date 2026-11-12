@@ -23,7 +23,7 @@ want me to notice?" Evening, one journal line: "What did I notice today?"
 
 ## 1. The homework practice — week one
 
-Complete the Quarterly Pulse (H16.1) — one page, three questions, five minutes at home — and bring it back to the return bin at the next evening’s door. And keep the rhythm: the card you built in Evening 14 is still the assignment.
+At one family meal this week, use one card from the set of tonight’s cards your family took home. Parents answer first. And keep the rhythm: the card you built in Evening 14 is still the assignment.
 
 ## 2. The end-of-week-one check-in
 
@@ -36,8 +36,7 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 ## 3. The homework practice — week two
 
-Continue or deepen the same practice, as the session specifies; journal
-what happens.
+Another meal, another card from the set; journal what the conversation opened.
 
 ## 4. One sentence of preparation
 

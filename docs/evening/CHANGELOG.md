@@ -76,6 +76,32 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.70 — November 12, 2026 — Evening 15's cards go home; the last Pulse lines out
+
+John's word (12 November). The Pulse was dropped in October (v2.50), but
+Evening 15 still sent "Pulse 3" home, and Evening 17 still had a slide for
+collecting it. Week one's homework now carries the evening's own practice home.
+
+- **Evening 15, Family Conversation Night.** Each family takes a set of
+  tonight's dessert cards home (the same two or three prompts). Week one:
+  at one family meal, one card, with parents answering first; "the card you
+  built in Evening 14 is still the assignment" stands. Week two: another
+  meal, another card, and a journal line on what the conversation opened.
+  The 8:17–8:20 block is now "The cards go home"; its slide, its notes, the
+  road slide, the closing notes, the aim line and the take-home were all
+  changed. The run sheet asks for one set of cards per family as well as
+  one stack per table. The take-home's two slide images were re-rendered;
+  they still showed the school wording ("Session 16", "next Wednesday's
+  door").
+- **Evening 17, The Float.** The "Quarterly Pulse — Back in the Bin" slide
+  is gone, along with its road line and the "Pulse bin sits at the door" line
+  in the road notes. The corner numbers from there through Evening 21 moved
+  down by one (Evening 17 is now 243–254 and the last page is 323), and
+  `slide-numbering-map.md` was updated.
+- Leader notes rebuilt for Evenings 15 and 17 through 21; all of it synced
+  to OneDrive. The school version (`docs/getting-started/week-16-family-night.md`)
+  keeps its Pulse.
+
 ## v2.69 — November 12, 2026 — A guest who comes back is one sign
 
 John's word, 12 November, from the review of the curriculum article. The
