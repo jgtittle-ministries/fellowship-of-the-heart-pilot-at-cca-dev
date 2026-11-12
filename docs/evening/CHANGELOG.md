@@ -76,6 +76,15 @@ the ripple pass:
   also closes the two open flags: number phone-verified and the after-hours
   protocol confirmed (launch checklist and host profile updated).
 
+## v2.69 — November 12, 2026 — A guest who comes back is one sign
+
+John's word, 12 November, from the review of the curriculum article. The
+handbook said a returning guest was the strongest answer, "because nothing
+brings a guest back but the evenings themselves." That claimed too much:
+friendship and a good table bring people back too. The guests section now
+reads a return as one sign among others, never held against an evening.
+The count at the leadership window is unchanged.
+
 ## v2.68 — November 12, 2026 — When something said isn't right; guests who come back
 
 John's word, 12 November, carried over from the curriculum article (v17).

@@ -289,9 +289,10 @@ Whatever the answers are, they come back to the leadership window as the
 inviter tells them, without names in any record, and they feed the
 five-question materials debrief: did that evening carry a newcomer?
 
-**A guest who comes back is the strongest answer.** Even one evening gives
-outside eyes on whether the work holds anything of value; a return says
-more, because nothing brings a guest back but the evenings themselves. So
+**A guest who comes back is one sign.** Even one evening gives outside eyes
+on whether the work holds anything of value, and a return says more. It is
+one sign among others, since friendship and a good table bring people back
+too, and a guest who doesn't return is never held against an evening. So
 at each leadership window John notes, with no names, how many guests came,
 what the inviters heard, and how many guests have come back.
 
