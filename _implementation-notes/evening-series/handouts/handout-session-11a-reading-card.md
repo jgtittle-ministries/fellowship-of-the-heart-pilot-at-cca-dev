@@ -4,11 +4,14 @@
 
 ---
 
-## Pray (7:25, about 3 minutes)
+## Pray: thanks, then bow (7:25, about 5 minutes)
 
-"Holy Spirit, you are welcome here. Speak. We are listening." Then, in your own words, one or two sentences: we come to hear you, together.
+1. **Thanks.** Read Psalm 95:1–2 aloud. "One or two words each: one thing you thank God for from the break." A parent starts; pass is a full answer.
+2. **Bow.** Read Psalm 95:6–7. "Bow your head, or kneel if you want to. No one has to." (pause)
+3. **Invite.** "Holy Spirit, you are welcome here. Speak. We are listening." Then, in your own words, one or two sentences: we come to hear you, together.
+4. **Today.** Read Psalm 95:7–8, "Today, if you hear his voice…", and go straight into the readings.
 
-## Three readings (7:28, about 10 minutes)
+## Three readings (7:30, about 10 minutes)
 
 "Close your eyes if you want. Don't try to work anything out yet. Just let it come to you." (pause)
 
@@ -18,13 +21,13 @@
 
 "Open your eyes when you're ready."
 
-## Images (7:38, about 10 minutes)
+## Images (7:40, about 10 minutes)
 
 "What pictures, words or feelings came as you listened? One at a time, a sentence or two." A parent starts. Receive each with "We hear that." Nothing more.
 
 *Not a picture person? "A sound, a gesture, a shape, or one word that stayed with you. Any door is a good door."*
 
-## Same and different (7:48, about 7 minutes)
+## Same and different (7:50, about 5 minutes)
 
 "What did someone else say that you heard too?" Then: "What did you hear that no one else said?" Listen for the thing none of us heard alone, and name it if you see it.
 

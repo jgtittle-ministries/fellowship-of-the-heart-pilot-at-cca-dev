@@ -8,7 +8,7 @@
 
 | Step | What the room does | Why it matters | Skip it, and… |
 |---|---|---|---|
-| **Pray** | Ask the Spirit to speak, briefly. | We come expecting to *hear*, together. | It becomes a discussion group. |
+| **Pray** | Give thanks, bow, ask the Spirit to speak. | Worship before hearing (Ps 95:6–7). | It becomes a discussion group. |
 | **Read, three times** | Three readers, slowly; everyone else with eyes closed; a short silence between readings. | Each reading lands somewhere new. Let the passage come to you before you go to it. | You hear only what you noticed the first time. |
 | **Images** | Each says what pictures, words or feelings came as they listened. | The Spirit often speaks in pictures first. Not everyone thinks in pictures: a sound, a gesture or a shape is another door. | The quiet ones never get a way in. |
 | **Same and different** | What did someone else hear that you heard too? What did only you hear? | Where the group hears together, and where one person carries a word for the others. | Everyone hears alone, side by side. |
