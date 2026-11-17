@@ -14,7 +14,7 @@
 | 7:00–7:08 | Welcome home and centering: blessing, the map (the last evening of Connect with God), container reminder. | Container holder |
 | 7:08–7:18 | The welcome-back round: one sentence each, "one thing from the break I want this room to know." A parent starts; pass is a full answer. No reading of practices: that is The Return's work. | Container holder |
 | 7:18–7:25 | From my hearing to our hearing: Nehemiah 8:8 and Acts 13:2; the same-and-different question. | Content presenter |
-| 7:25–7:30 | Pray: thanks, then bow (Psalm 95). Psalm 95:1–2 and a one-word thanks round from the break; Psalm 95:6–7 and heads bowed, kneeling if anyone wants to; the Spirit invited; then "Today, if you hear his voice" (Ps 95:7–8) opens the readings (Reading Card). | Content presenter |
+| 7:25–7:30 | Pray: thanks, then bow (Psalm 95). Psalm 95:1–2 and a one-word thanks round from the break, which answers December's question (what God continued while we were apart); Psalm 95:6–7 and heads bowed, kneeling if anyone wants to; the Spirit invited; then "Today, if you hear his voice" (Ps 95:7–8) opens the readings (Reading Card). | Content presenter |
 | 7:30–7:40 | Three readings of 1 Samuel 3:1–10: a teen, a parent, a teen; eyes closed except the reader's. | Content presenter; three readers |
 | 7:40–7:50 | Images: what came as you listened; the other door for those who don't think in pictures. | Content presenter; container holder watching the room |
 | 7:50–7:55 | Same and different. | Content presenter |

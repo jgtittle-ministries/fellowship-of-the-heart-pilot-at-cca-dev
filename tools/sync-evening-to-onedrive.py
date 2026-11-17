@@ -113,6 +113,14 @@ for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Home
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     copy(path, dst)
 
+# the facilitation evening for the leads (17 November 2026): not a numbered evening
+for src, sub, name in [
+        (SRC + "/FotH Evening Leading the Room Run Sheet DRAFT v1.docx", "Run Sheets", "Leading the Room — Run Sheet.docx"),
+        (SRC + "/handouts/FotH Evening Leading the Room Facilitator Card DRAFT v1.docx", "Take-Home Sheets",
+         "Leading the Room — Facilitator's Card.docx")]:
+    if os.path.exists(src):
+        copy(src, os.path.join(EAH, sub, name))
+
 print("synced %d artifacts to Evening, two weeks, pilot" % count)
 for dst in skipped:
     print("SKIPPED (open in another program; close it and rerun):", dst)

@@ -6,7 +6,7 @@
 
 ## Pray: thanks, then bow (7:25, about 5 minutes)
 
-1. **Thanks.** Read Psalm 95:1–2 aloud. "One or two words each: one thing you thank God for from the break." A parent starts; pass is a full answer.
+1. **Thanks.** Read Psalm 95:1–2 aloud. "In December we carried a question into the break: what has God begun in me that I can trust him to continue? One or two words each: one thing you thank God for from the break. It may be the answer." A parent starts; pass is a full answer.
 2. **Bow.** Read Psalm 95:6–7. "Bow your head, or kneel if you want to. No one has to." (pause)
 3. **Invite.** "Holy Spirit, you are welcome here. Speak. We are listening." Then, in your own words, one or two sentences: we come to hear you, together.
 4. **Today.** Read Psalm 95:7–8, "Today, if you hear his voice…", and go straight into the readings.
