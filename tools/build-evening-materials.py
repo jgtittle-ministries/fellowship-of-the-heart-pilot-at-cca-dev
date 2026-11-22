@@ -50,6 +50,7 @@ KINDS = {
     "leader-notes": ("Leader notes", "what to say and watch for, slide by slide", "leads"),
     "reading-card": ("Reading card", "the senior reader's script, with the pauses", "leads"),
     "pair-card": ("Pair card", "the steps the pairs follow", "leads"),
+    "guide-card": ("Guide card", "for the parents who guide John through Any Doubts? in the third walk-through", "leads"),
     "serving-plan": ("Serving plan", "filled in at the chart tonight: the choices, the jobs, the date, the call and the guards", "leads"),
     "breakout-card": ("Breakout card", "the small-group steps", "leads"),
 }
