@@ -27,12 +27,14 @@ PAGES = {1: "session-01-welcome-to-the-journey.md", 2: "session-02-the-soil-of-y
          3: "session-03-04-telling-your-story.md", 4: "session-05-knowing-and-being-known.md",
          5: "session-06-safe-and-brave-together.md", 6: "session-07-08-hearing-god-in-scripture.md",
          7: "session-09-10-the-garden-of-your-heart.md", 8: "session-11-any-doubts.md",
-         9: "session-11a-heart-bible-study.md", 11: "session-12a-doing-the-word.md",
-         13: "session-13a-serving-together.md", 16: "session-16a-carrying-the-word.md"}
+         9: "session-11a-heart-bible-study.md", 13: "session-12a-doing-the-word.md",
+         15: "session-13a-serving-together.md", 18: "session-16a-carrying-the-word.md"}
+# 22 November 2026: the series runs to 23 evenings (Spiritual Styles 10, Leading the Room 11, Any Doubts? led by the teens 12);
+# Doing the Word, Serving Together and Carrying the Word moved from 11, 13 and 16 to 13, 15 and 18.
 WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7, "11": 8, "11a": 9,
-        "12a": 11, "13a": 13, "16a": 16}
-HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9, "12a": 11,
-           "13a": 13, "16a": 16}
+        "12a": 13, "13a": 15, "16a": 18}
+HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9, "12a": 13,
+           "13a": 15, "16a": 18}
 
 # kind: (label, what it is for, "room" = goes home with everyone, "leads" = for the two leads)
 KINDS = {

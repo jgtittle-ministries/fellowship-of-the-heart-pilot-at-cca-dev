@@ -1,4 +1,4 @@
-# Evening 11 — DOING THE WORD
+# Evening 13 — DOING THE WORD
 
 *The second evening of the third movement, Mission and Rhythm, between hearing and being sent. An evening-form session with no school-series counterpart (added 5 November 2026). Until now obeying has had a step, Pray again, but no evening of its own. Tonight gives it one.*
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | 6:00 | Dinner; leading team's walk-through at the table's edge if needed. | Household |
 | 7:00–7:08 | Welcome and centering: blessing, the map (between hearing and being sent), container reminder. | Container holder |
-| 7:08–7:22 | Check-in circle: two weeks of practice since The Return, reported; week-one check-ins debriefed. A thin week is an honest answer. A parent starts. | Container holder |
+| 7:08–7:22 | Check-in circle: two weeks of practice since Evening 12, reported; week-one check-ins debriefed. A thin week is an honest answer. A parent starts. | Container holder |
 | 7:22–7:32 | Luke 6:46–49 and James 1:22–25: the rock and the sand, the mirror. Hearing that is not done does not hold. | Content presenter |
 | 7:32–7:40 | The read-back: quiet, each person alone with their journal, reading their Tell sentences from Evenings 6 to 9. | Content presenter |
 | 7:40–7:48 | Choose one, and make it small: "I heard ___. By ___ I will ___." Then the test, with the How Did You Know? checks. | Content presenter |
@@ -31,11 +31,11 @@
 
 **Parents first.** A parent says their sentence first in each pair and in the merge. Teens learn obedience by watching it.
 
-**The read-back needs the journals.** The Return's take-home asked everyone to find and mark their Tell sentences from Evenings 6 to 9. Have spare paper for anyone who forgot; they can write what they remember hearing.
+**The read-back needs the journals.** Evening 12's take-home asked everyone to find and mark their Tell sentences from Evenings 6 to 9. Have spare paper for anyone who forgot; they can write what they remember hearing.
 
 ## The homework handout
 
-The Evening 11 sheet (the Pair Card stays with each pair for the evening): the sentence written at the top; week one, do it on the day named, daily PROAPT underneath; the end-of-week-one check-in ("Did you do it yet? What's in the way?"); week two, two journal lines, what I did and what happened; and one sentence to bring back to the next evening's check-in.
+The Evening 13 sheet (the Pair Card stays with each pair for the evening): the sentence written at the top; week one, do it on the day named, daily PROAPT underneath; the end-of-week-one check-in ("Did you do it yet? What's in the way?"); week two, two journal lines, what I did and what happened; and one sentence to bring back to the next evening's check-in.
 
 ## Watch-fors
 

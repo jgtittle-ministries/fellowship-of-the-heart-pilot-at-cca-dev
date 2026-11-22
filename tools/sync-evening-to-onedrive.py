@@ -36,15 +36,17 @@ RULES = [
      "Leader Notes", "{} \u2014 Leader Notes.docx"),
 ]
 
-# the walk, Evening 1-21 (deck/run-sheet keys; combined forms carry "Combined").
+# the walk, Evening 1-23 since 22 November 2026 (deck/run-sheet keys; combined forms carry "Combined").
+# Spiritual Styles (10) takes The Return's place, so school session 12 is now a spare; Leading the Room is 11
+# (below) and Any Doubts? led by the teens is 12 (no materials yet); everything from Doing the Word on moved down two.
 # Evenings 9 (Heart Bible Study), 11 (Doing the Word), 13 (Serving Together)
 # and 16 (Carrying the Word) were inserted 5 November 2026; their files carry
 # the keys 11a, 12a, 13a and 16a.
 WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9-10 Combined": 7,
-        "11": 8, "11a": 9, "12": 10, "12a": 11, "13": 12, "13a": 13, "15": 14, "16": 15, "16a": 16, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
+        "11": 8, "11a": 9, "12a": 13, "13": 14, "13a": 15, "15": 16, "16": 17, "16a": 18, "17": 19, "18": 20, "20": 21, "21": 22, "22": 23}
 # handouts and cards, by the session number in their filename
-HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9, "12": 10,
-           "12a": 11, "13": 12, "13a": 13, "15": 14, "16": 15, "16a": 16, "17": 17, "18": 18, "20": 19, "21": 20, "22": 21}
+HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9,
+           "12a": 13, "13": 14, "13a": 15, "15": 16, "16": 17, "16a": 18, "17": 19, "18": 20, "20": 21, "21": 22, "22": 23}
 SPARES = "Spares \u2014 two-session forms"
 
 
@@ -113,11 +115,11 @@ for path in sorted(glob.glob(SRC + "/handouts/*.docx") + glob.glob(SRC + "/*Home
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     copy(path, dst)
 
-# the facilitation evening for the leads (17 November 2026): not a numbered evening
+# Evening 11, Leading the Room, the facilitation evening (written 17 November 2026; numbered 22 November 2026)
 for src, sub, name in [
-        (SRC + "/FotH Evening Leading the Room Run Sheet DRAFT v1.docx", "Run Sheets", "Leading the Room — Run Sheet.docx"),
+        (SRC + "/FotH Evening Leading the Room Run Sheet DRAFT v1.docx", "Run Sheets", "Evening 11 — Run Sheet.docx"),
         (SRC + "/handouts/FotH Evening Leading the Room Facilitator Card DRAFT v1.docx", "Take-Home Sheets",
-         "Leading the Room — Facilitator's Card.docx")]:
+         "Evening 11 — Facilitator's Card.docx")]:
     if os.path.exists(src):
         copy(src, os.path.join(EAH, sub, name))
 

@@ -1,4 +1,4 @@
-# Evening 16 — How to Carry the Word
+# Evening 18 — How to Carry the Word
 
 *For every family, at the table tonight and on the fridge after. Choose a passage, learn it together, say it every day. A parent goes first.*
 

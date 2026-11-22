@@ -1,6 +1,6 @@
-# Evening 13 — SERVING TOGETHER
+# Evening 15 — SERVING TOGETHER
 
-*The third movement, Mission and Rhythm. An evening-form session with no school-series counterpart (added 5 November 2026; reshaped 7 November). The series has evenings for hearing God together and for each person's obedience; tonight is the room's obedience. The room hears, plans and agrees together; the serving happens in the two weeks; the report comes back at Evening 14.*
+*The third movement, Mission and Rhythm. An evening-form session with no school-series counterpart (added 5 November 2026; reshaped 7 November). The series has evenings for hearing God together and for each person's obedience; tonight is the room's obedience. The room hears, plans and agrees together; the serving happens in the two weeks; the report comes back at Evening 16.*
 
 **Aim.** The room practices three skills a group needs to obey together: hearing God together, planning together and agreeing together. It leaves with one serving plan every voice is in on, and a date in the next two weeks.
 
@@ -21,7 +21,7 @@
 | 8:14–8:20 | Homework commissioning: the take-home walked, each person's part written in at the top (or, if the room passed, the other practice); check-in partners named aloud. | Content presenter |
 | 8:20–8:24 | Leader Feedback Round, both leaders. | Both leaders |
 | 8:24–8:30 | Closing container; Aaronic blessing. | Container holder |
-| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning Evening 14, whose check-in hears the report. | Everyone; John holds the debrief |
+| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning Evening 16, whose check-in hears the report. | Everyone; John holds the debrief |
 
 ## What this evening asks of the room
 
@@ -37,7 +37,7 @@
 
 ## The homework handout
 
-The Evening 13 sheet: our plan at the top (whom we serve, what they asked for, our date, my part); week one, daily PROAPT with "Lord, how should we serve them?", the call made and each part made ready; the end-of-week-one check-in ("Is your part ready? What do you need?"); on our date, we serve together, then two journal lines, what I did and where I saw God; and the report brought back to Evening 14. If the room passed, the sheet's other practice: eyes open each day for one chance to serve, unplanned; the check-in "Did a chance come? Did you take it?"; two journal lines, the chance I took or let pass and what I think kept us from one mind.
+The Evening 15 sheet: our plan at the top (whom we serve, what they asked for, our date, my part); week one, daily PROAPT with "Lord, how should we serve them?", the call made and each part made ready; the end-of-week-one check-in ("Is your part ready? What do you need?"); on our date, we serve together, then two journal lines, what I did and where I saw God; and the report brought back to Evening 16. If the room passed, the sheet's other practice: eyes open each day for one chance to serve, unplanned; the check-in "Did a chance come? Did you take it?"; two journal lines, the chance I took or let pass and what I think kept us from one mind.
 
 ## Watch-fors
 

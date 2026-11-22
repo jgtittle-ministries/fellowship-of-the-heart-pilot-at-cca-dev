@@ -12,7 +12,7 @@
 |---|---|---|
 | 6:00 | Dinner; the first table together since the break. Leading team's walk-through at the table's edge if needed. | Household |
 | 7:00–7:08 | Welcome home and centering: blessing, the map (the last evening of Connect with God), container reminder. | Container holder |
-| 7:08–7:18 | The welcome-back round: one sentence each, "one thing from the break I want this room to know." A parent starts; pass is a full answer. No reading of practices: that is The Return's work. | Container holder |
+| 7:08–7:18 | The welcome-back round: one sentence each, "one thing from the break I want this room to know." A parent starts; pass is a full answer. No reading of practices: that is Spiritual Styles' work. | Container holder |
 | 7:18–7:25 | From my hearing to our hearing: Nehemiah 8:8 and Acts 13:2; the same-and-different question. | Content presenter |
 | 7:25–7:30 | Pray: thanks, then bow (Psalm 95). Psalm 95:1–2 and a one-word thanks round from the break, which answers December's question (what God continued while we were apart); Psalm 95:6–7 and heads bowed, kneeling if anyone wants to; the Spirit invited; then "Today, if you hear his voice" (Ps 95:7–8) opens the readings (Reading Card). | Content presenter |
 | 7:30–7:40 | Three readings of 1 Samuel 3:1–10: a teen, a parent, a teen; eyes closed except the reader's. | Content presenter; three readers |
@@ -24,13 +24,13 @@
 | 8:14–8:20 | Homework commissioning: the take-home walked; check-in partners named aloud (Heb 3:13: encourage one another daily, as long as it is called "today"). | Content presenter |
 | 8:20–8:24 | Leader Feedback Round, both leaders; the room's answers kind and brief. | Both leaders |
 | 8:24–8:30 | Closing container; a brief word of what the Lord did in the room's hearing tonight; Aaronic blessing. | Container holder |
-| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning The Return. | Everyone; John holds the debrief |
+| 8:30–9:00 | Fellowship; the room's feedback to the leaders; the five-question materials debrief; planning Spiritual Styles. | Everyone; John holds the debrief |
 
 ## What this evening asks of the room
 
 **Nothing new on the first night back.** Every step is one the room already knows: PROAPT from Evening 6, the short form of Any Doubts? from Evening 8, the Tell from every evening. Tonight puts them together.
 
-**The welcome is short on purpose.** One sentence each. The full reading of what held over the break is The Return's work, two weeks from now.
+**The welcome is short on purpose.** One sentence each. The full reading of what held over the break is Spiritual Styles' work, two weeks from now.
 
 **The clock is tight.** The protocol gives a passage sixty to ninety minutes; tonight it has about fifty. If the room runs long, the same-and-different round shortens first. The Tell is never skipped.
 
@@ -40,7 +40,7 @@
 
 ## The homework handout
 
-The Evening 9 sheet, with its companion page "Heart Bible Study, What Each Step Is For": week one, daily PROAPT with tonight's Tell sentence in view; the end-of-week-one check-in; week two, one Heart Bible Study at the family table, a teen leading, on 1 Samuel 3:11–21 or a passage of the family's choosing; and two sentences of preparation for The Return.
+The Evening 9 sheet, with its companion page "Heart Bible Study, What Each Step Is For": week one, daily PROAPT with tonight's Tell sentence in view; the end-of-week-one check-in; week two, one Heart Bible Study at the family table, a teen leading, on 1 Samuel 3:11–21 or a passage of the family's choosing; and two sentences of preparation for Spiritual Styles.
 
 ## Watch-fors
 

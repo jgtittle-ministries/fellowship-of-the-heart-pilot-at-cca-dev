@@ -1,4 +1,4 @@
-# Evening 16 — CARRYING THE WORD
+# Evening 18 — CARRYING THE WORD
 
 *The end of the third movement, Mission and Rhythm. An evening-form session with no school-series counterpart (added 5 November 2026). The rhythm has been built; tonight each family takes the most portable thing there is to carry, a passage learned by heart, together.*
 
@@ -32,7 +32,7 @@
 
 ## The homework handout
 
-The Evening 16 sheet: the family's passage, the part each carries and the daily moment at the top; week one, the passage said together every day; the end-of-week-one check-in, partners saying their part to each other; week two, one journal line, where this passage met me this week; and the passage brought back to The Float.
+The Evening 18 sheet: the family's passage, the part each carries and the daily moment at the top; week one, the passage said together every day; the end-of-week-one check-in, partners saying their part to each other; week two, one journal line, where this passage met me this week; and the passage brought back to The Float.
 
 ## Watch-fors
 

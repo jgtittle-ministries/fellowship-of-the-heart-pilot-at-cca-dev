@@ -1,4 +1,4 @@
-# Take-Home Sheet — Evening 13: Serving Together
+# Take-Home Sheet — Evening 15: Serving Together
 
 ---
 
@@ -65,7 +65,7 @@ honest data, not failure. Daily PROAPT carries on.
 
 ## 4. Bring it back
 
-At Evening 14, *The Rhythm and the Four Questions*, the teens who planned
+At Evening 16, *The Rhythm and the Four Questions*, the teens who planned
 it give the room's report: what we planned, what happened, what changed,
 and where we saw God. Then one sentence from each of us: "Where I saw God
 when we served was ________." **Done:** ☐
@@ -87,6 +87,6 @@ it?* **Done:** ☐
 and *what I think kept us from one mind, and what would have made it a
 yes*.
 
-**At Evening 14:** one sentence of it at the check-in. **Done:** ☐
+**At Evening 16:** one sentence of it at the check-in. **Done:** ☐
 
 *"That they may all be one" (John 17:21).*

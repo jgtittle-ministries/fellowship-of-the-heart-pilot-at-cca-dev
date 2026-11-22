@@ -1,6 +1,6 @@
-# Evening 13 — The Serving Plan
+# Evening 15 — The Serving Plan
 
-*Filled in at the chart during the evening, one teen holding the marker and one keeping this sheet. Keep it until the report at Evening 14.*
+*Filled in at the chart during the evening, one teen holding the marker and one keeping this sheet. Keep it until the report at Evening 16.*
 
 ## Our two choices
 
@@ -42,6 +42,6 @@
 ☐ Parents present; no one alone or out of sight; no ladders, roofs or power tools for teens\
 ☐ With people, not at them ☐ No photos for show (Matthew 6:1) ☐ The covering named aloud
 
-**The report at Evening 14 is given by:** ______________________________
+**The report at Evening 16 is given by:** ______________________________
 
 *"It has seemed good to the Holy Spirit and to us" (Acts 15:28).*

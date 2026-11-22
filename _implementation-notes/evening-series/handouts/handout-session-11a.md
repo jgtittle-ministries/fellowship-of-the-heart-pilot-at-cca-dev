@@ -52,4 +52,4 @@ You are not grading each other; you are expecting each other. **Done:** ☐
 
 ## 4. Two sentences of preparation
 
-Before The Return, in your journal: "The practice I kept over the break was ________." And: "The one I most want to keep is ________." **Done:** ☐
+Before Spiritual Styles, in your journal: "The practice I kept over the break was ________." And: "The one I most want to keep is ________." **Done:** ☐
