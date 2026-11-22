@@ -2,7 +2,7 @@
 
 ---
 
-**To January: Heart Bible Study, then The Return. The standing practice — every day, as you can.**
+**To January: Heart Bible Study, then Spiritual Styles. The standing practice — every day, as you can.**
 Morning, five minutes: "Lord, what are you up to today, and what do you want
 me to notice?" Evening, one journal line: "What did I notice today?"
 
@@ -48,5 +48,5 @@ streaks.
 
 ## 5. Two sentences of preparation
 
-Before The Return, in your journal: "One thing I heard that I will act on is
+Before Spiritual Styles, in your journal: "One thing I heard that I will act on is
 ____." And: "The practice I most wanted to keep was ____, because ____." **Done:** ☐

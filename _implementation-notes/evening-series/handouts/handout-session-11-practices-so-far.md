@@ -60,10 +60,10 @@ Every practice we have walked since August. For each one: what we did that eveni
 
 ## Any Doubts? · Evening 8 — Any Doubts?
 
-**That evening.** “I believe; help my unbelief!” (Mark 9:24). In pairs, parent first: name the doubt under a scripture you say you believe, make it bigger, sit with it, and have the scripture re-read. Then the silent place.
+**That evening.** “I believe; help my unbelief!” (Mark 9:24). Parents first: John walked each parent through it, and then the parents led John. Name the doubt under a scripture you say you believe, make it bigger, sit with it, and have the scripture re-read.
 
 **The homework.** With a partner, whenever a flicker comes: Name, Exaggerate, Sit, Re-read. And the doubts inventory: the scriptures you want to believe more than you do now.
 
 **In your journal:** look back at your doubts inventory.
 
-*The morning question and the evening line keep running underneath all of these. At The Return in January we will ask which ones you chose, and which one you would keep. A missed day is never a failure — it is an invitation to return.*
+*The morning question and the evening line keep running underneath all of these. At Spiritual Styles in January we will ask which ones you chose, and which one you would keep. A missed day is never a failure — it is an invitation to return.*
