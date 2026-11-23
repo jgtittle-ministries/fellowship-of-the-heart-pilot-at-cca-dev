@@ -36,7 +36,8 @@ WALK = {"1": 1, "2": 2, "3-4 Combined": 3, "5": 4, "6": 5, "7-8 Combined": 6, "9
 HANDOUT = {"1": 1, "2": 2, "3": 3, "5": 4, "6": 5, "7": 6, "7-8": 6, "9": 7, "9-10": 7, "11": 8, "11a": 9, "12a": 13,
            "13a": 15, "16a": 18}
 
-# kind: (label, what it is for, "room" = goes home with everyone, "leads" = for the two leads)
+# kind: (label, what it is for, "room" = goes home with everyone, "parents" = sent to the parents ahead,
+#        "leads" = for the two leads)
 KINDS = {
     "take-home": ("Take-home sheet", "handed out at the close; the practice until the next evening", "room"),
     "practices-so-far-card": ("The Practices So Far", "every practice walked so far, to choose from", "room"),
@@ -45,6 +46,7 @@ KINDS = {
     "road-so-far-handout": ("The Road So Far", "the first movement on one page", "room"),
     "proapt-handout": ("PROAPT — what each step is for", "the scripture practice, step by step", "room"),
     "heart-bible-study-handout": ("Heart Bible Study — what each step is for", "the group practice, step by step, for the family table", "room"),
+    "verse-note": ("Choosing your verse", "the verse each parent brings to the walk-through, and how to choose it", "parents"),
     "slides": ("Slides", "the room screen, with the leader's notes under each slide", "leads"),
     "run-sheet": ("Run sheet", "the clock: each block, its time, and who leads it", "leads"),
     "leader-notes": ("Leader notes", "what to say and watch for, slide by slide", "leads"),
@@ -89,9 +91,11 @@ def section(n, items):
         return out
     s = ["## Materials", "",
          "Everything for this evening, current as of the last update. Download, open, print.", ""]
-    room, leads = lines("room"), lines("leads")
+    room, parents, leads = lines("room"), lines("parents"), lines("leads")
     if room:
         s += ["**For everyone**", ""] + room + [""]
+    if parents:
+        s += ["**For the parents, ahead of the evening**", ""] + parents + [""]
     s += ["**For the two leads**", ""] + leads + [""]
     return "\n".join(s) + "\n"
 
